@@ -1,0 +1,18 @@
+Seyhan Belediyesi:
+- Başkanlık Özel Kalem: ozelkalem@seyhan.bel.tr
+- Halk Masası: halkmasasi@seyhan.bel.tr
+
+Adana Büyükşehir Belediyesi:
+- Başkanlık Özel Kalem: ozelkalem@adana.bel.tr
+- Genel Bilgi: info@adana.bel.tr
+
+Çukurova Belediyesi:
+- Genel Bilgi: bilgi@cukurova.bel.tr
+
+Yüreğir Belediyesi:
+- Genel Bilgi: bilgi@yuregir.bel.tr
+
+Sarıçam Belediyesi:
+- Başkanlık Özel Kalem: ozelkalem@saricam.bel.tr
+- Genel Bilgi: info@saricam.bel.tr
+- İmar ve Şehircilik: imar@saricam.bel.tr

@@ -1,0 +1,56 @@
+# PROJE 24: GASTRONOMİ İNKÜBATÖRÜ VE ORTAK MUTFAK
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Lezzet Laboratuvarı: Profesyonel Gıda Kuluçkası
+*   **Uygulayıcı Birim:** Zabıta Müdürlüğü & İşletme İştirakler
+*   **Proje Kategorisi:** Yerel Ekonomi / Gıda
+*   **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.11.2025 (6 Ay)
+*   **Standart:** HACCP ve ISO 22000 Gıda Güvenliği Standartlarına Uygun
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Evde üretim yapan kadınların, ürünlerini yasal ve hijyenik olarak piyasaya sürebilmeleri için; "İşletme Kayıt Belgesi" alınmış, tam donanımlı profesyonel bir "Paylaşımlı Mutfak" (Shared Kitchen / Cloud Kitchen) kurulmasıdır. Girişimciler, mutfağı saatlik veya günlük kiralayarak üretim yapar, belediye ise paketleme ve markalama desteği verir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Ev mutfağında üretilen ürünler (Reçel, mantı vb.) marketlere satılamaz (Gıda Sicili sorunu). Ayrıca endüstriyel fırın/mikser almak bireysel girişimci için çok pahalıdır.
+*   **Yasal Zorunluluk:** Gıda Yönetmeliği'ne göre ticari satış için ayrı bir üretim alanı şarttır.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Mutfak Donanımı:**
+    *   **Pişirme:** Konveksiyonel Fırınlar (Unox/Rational), Sanayi Tipi Ocaklar.
+    *   **Hazırlık:** Planet Mikserler (40-60 Litre), Paslanmaz Çelik Tezgahlar.
+    *   **Depolama:** Soğuk Hava Deposu (+4 ve -18 Derece), Kuru Gıda Deposu.
+    *   **Paketleme:** Vakum Makinesi, Etiketleme Cihazı.
+*   **Operasyon:** Online randevu sistemi ile çalışır (Örn: "Salı 08:00-12:00 Tezgah 3 Rezervasyonu").
+*   **Maliyet:** Ortalama bir endüstriyel mutfak kurulumu 2025 fiyatlarıyla 1.500.000 - 2.000.000 TL bandındadır.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (Union Kitchen - DC):** Hem mutfak, hem dağıtım ağı, hem market sunan entegre model.
+*   **Dünya Örneği (La Cocina - San Francisco):** Göçmen kadınlara odaklanan kâr amacı gütmeyen mutfak.
+*   **Türkiye Örneği (İBB Mutfak Sanatları):** Eğitim odaklı mutfaklar.
+*   **Seyhan Farkı:** Burası bir kurs değil, ticari bir üretim tesisidir. Çıkan ürün satılır.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   İnşaat/Mekanik (Havalandırma, Yağ Tutucu): 1.000.000 TL
+    *   Endüstriyel Mutfak Ekipmanları: 1.500.000 TL
+    *   **Toplam:** 2.500.000 TL
+*   **İşletme Gideri (OPEX):** Mutfak şefi (denetmen), temizlik personeli, elektrik/su/gaz.
+*   **Gelir Modeli:** Saatlik kiralama ücreti (Örn: 100 TL/Saat) + Depolama ücreti.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Mekan seçimi (Havalandırma bacası uygun, giriş kat bir yer - Eski yemekhane olabilir).
+*   **Ay 2:** Projelendirme ve Mutfak İhalesi.
+*   **Ay 3:** Tarım İl Müdürlüğü'nden "İşletme Kayıt Belgesi" alınması süreci.
+*   **Ay 4:** Girişimci çağrısı ve hijyen eğitimi.
+*   **Ay 5:** Deneme üretimi ve ilk parti paketleme.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Hijyen ihlali ve gıda zehirlenmesi. -> **Önlem:** Mutfakta sürekli bir Gıda Mühendisi/Teknikeri bulunur. Her parti üretimden "Şahit Numune" alınır ve saklanır.
+*   **Risk:** Ekipmanların bozulması. -> **Önlem:** Depozito sistemi uygulanır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Mutfaktan çıkan markalı ürün sayısı (SKU).
+    2.  Düzenli kullanıcı sayısı.
+*   **Sosyal Etki:** Kayıt dışı gıda üretiminin kayıt altına alınması. Kadınların kendi markalarını yaratması ("Seyhan Kadın Kooperatifi" etiketiyle).
+

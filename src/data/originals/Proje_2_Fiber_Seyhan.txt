@@ -1,0 +1,53 @@
+# PROJE 2: FIBER-SEYHAN (Belediye Özel Fiber Optik İletişim Ağı)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Fiber-Seyhan: Akıllı Şehir Altyapı Omurgası (Backbone)
+*   **Uygulayıcı Birim:** Bilgi İşlem Müdürlüğü ve Fen İşleri Müdürlüğü
+*   **Proje Kategorisi:** Altyapı ve Teknolojik Bağımsızlık
+*   **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.06.2027 (24 Ay - Etaplı)
+*   **Lokasyon Analizi:** Belediye Ana Binası, SEYTİM, Kültür Merkezleri ve ana parkları bağlayan 20 km'lik hat.
+*   **Hedef Kitle:** Tüm belediye birimleri ve parklarda ücretsiz internet kullanan vatandaşlar.
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Belediyenin tüm hizmet binalarını, parklarını ve güvenlik noktalarını birbirine bağlayan, ticari operatörlerden bağımsız, belediyeye ait (Private Network) yüksek hızlı bir fiber optik ağ kurulmasıdır. Bu proje ile belediyenin yıllık milyonlarca liralık kiralık hat (Metro Ethernet/VPN) gideri sıfırlanacak, veri güvenliği (Siber Egemenlik) sağlanacak ve geleceğin "Akıllı Şehir" sensörleri için sınırsız bant genişliği elde edilecektir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Belediyenin farklı binaları arasındaki iletişim, ticari operatörlerin altyapısı üzerinden sağlanmaktadır. Bu durum hem yüksek aylık fatura maliyeti yaratmakta hem de operatör kaynaklı kesintilerde belediyeyi çaresiz bırakmaktadır.
+*   **Gelecek Vizyonu:** Kamera sayıları arttıkça (4K video), mevcut kiralık hatların hızı yetersiz kalacaktır. Kendi yolunu (fiberini) yapmayan, başkasının yolunda paralı gitmeye mahkumdur.
+*   **Yasal Dayanak:** Belediyelerin kendi iç iletişimleri için altyapı kurması yasaldır ve BTK mevzuatına uygun şekilde planlanacaktır.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Kazı Teknolojisi:** Geleneksel derin kazı yerine, maliyeti %50 düşüren ve trafiği aksatmayan **"Micro-Trenching"** (Mikro Tranşe - 15-20cm derinlik, 3cm genişlik) yöntemi kullanılacaktır.
+*   **Kablo Tipi:** 96 core veya 144 core Single Mode Fiber (Gelecekte kapasite sorunu yaşanmaması için yüksek core sayısı).
+*   **Ağ Topolojisi:** "Halka" (Ring) mimarisi. Kablo bir yerde kopsa bile veri diğer taraftan dolaşarak kesintisiz iletişim sağlar.
+*   **Aktif Cihazlar:** Merkezde yüksek kapasiteli Core Switch'ler, uç noktalarda endüstriyel tip Switch'ler.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (Chattanooga, ABD):** Şehir kendi fiber ağını kurarak "Gig City" unvanını almış, bu altyapı sayesinde şehre teknoloji şirketleri akın etmiştir.
+*   **Dünya Örneği (Stockholm - Stokab):** Belediye şirketi Stokab, şehre döşediği fiberleri operatörlere "Dark Fiber" olarak kiralayarak belediyeye büyük gelir sağlamaktadır.
+*   **Seyhan Uyarlaması:** "Dig Once" (Bir Kere Kaz) politikası uygulanacak; herhangi bir asfalt çalışmasında mutlaka boş fiber borusu (koruge boru) da atılacaktır.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   İnşaat ve İşçilik (Micro-Trenching 20km): 5.000.000 TL
+    *   Malzeme (Kablo, Kabinet, Ek Kutuları): 1.500.000 TL
+    *   Aktif Cihazlar (Switch, SFP): 1.500.000 TL
+    *   **Toplam:** 8.000.000 TL
+*   **Yatırım Geri Dönüşü (ROI):** Mevcut durumda operatörlere ödenen yıllık yaklaşık 2.000.000 TL'lik hat kirası tasarruf edileceği için, proje kendini **4 yılda** amorti eder. Ömrü ise en az 25 yıldır.
+*   **Ek Gelir:** Oluşturulan boş kapasite (Dark Fiber) GSM operatörlerine veya kurumlara kiralanarak belediyeye gelir yaratılabilir.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Faz 1 (Planlama):** Belediye binalarının GIS (Coğrafi Bilgi Sistemi) üzerinde rotalanması ve geçiş haklarının (AYKOME) alınması.
+*   **Faz 2 (Pilot Hat):** Belediye Ana Binası ile en yakın Kültür Merkezi (veya Ek Bina) arasına mikro-tranşe ile ilk hattın çekilmesi.
+*   **Faz 3 (Omurga):** Ana ring hattının tamamlanması.
+*   **Faz 4 (Uçlar):** Parklardaki kameraların ve Wi-Fi noktalarının bu hatta aktarılması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Kablo kopması (Kepçe vurması vb.). -> **Önlem:** Ring mimarisi ve 7/24 arıza müdahale ekibi (Fiber Füzyon cihazlı).
+*   **Risk:** Yasal engeller. -> **Önlem:** Sadece "kendi ihtiyacımız" vurgusu yapılarak ticari operatör lisansı gerektirmeyen modelde kalınması.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Belediye veri iletişim hızının 100 Mbps'den 10 Gbps'ye çıkması (100 kat artış).
+    2.  İletişim giderlerinde %90 tasarruf.
+*   **Sosyal Etki:** Parklarda vatandaşa gerçek yüksek hızlı ve kotasız ücretsiz internet sunulabilmesi.

@@ -1,0 +1,60 @@
+# PROJE 1: SEYHAN AI-TRAFFIC (Yapay Zeka Destekli Adaptif Trafik Yönetimi)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan AI-Traffic: Görüntü İşleme Tabanlı Dinamik Sinyalizasyon Sistemi
+*   **Uygulayıcı Birim:** Ulaşım Hizmetleri Müdürlüğü & Bilgi İşlem Müdürlüğü
+*   **Proje Kategorisi:** Akıllı Şehir ve Dijital Dönüşüm
+*   **Tahmini Başlangıç/Bitiş:** 01.03.2025 - 01.03.2026 (12 Ay)
+*   **Lokasyon Analizi:** Seyhan İlçe Merkezi'ndeki en kritik 5 Kavşak (Örn: Turhan Cemal Beriker Bulvarı kesişimleri).
+*   **Hedef Kitle:** Günde ortalama 150.000 araç sürücüsü ve yayalar.
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Seyhan'ın artan nüfusu ve araç sahipliği, mevcut "sabit süreli" (statik) trafik ışıklarını verimsiz hale getirmiştir. "Seyhan AI-Traffic" projesi, kavşaklara yerleştirilecek yapay zeka destekli kameralar ve "Edge AI" (Uçta İşleme) cihazları ile trafik yoğunluğunu anlık olarak analiz eden ve yeşil ışık sürelerini buna göre otomatize eden bir sistemdir.
+
+Sistem, bir yönde araç yoksa o yöne gereksiz yere yeşil yakmayacak, yoğunluğun olduğu yöne öncelik verecektir. Bu sayede bekleme sürelerinde %30 azalma, yakıt tüketiminde %15 tasarruf ve karbon emisyonlarında ciddi düşüş hedeflenmektedir. Proje, sadece bir donanım alımı değil, şehri "akıllı bir organizma" gibi yönetme vizyonunun ilk adımıdır.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Mevcut sistemde ışıklar günün saatine göre (sabah/akşam) 3-4 farklı programda çalışır ancak anlık yoğunluğu (örneğin bir kaza veya maç çıkışı) bilemez. Bu durum, boş yolda kırmızı ışıkta bekleyen sürücüler yaratarak hem zaman kaybına hem de hava kirliliğine yol açmaktadır.
+*   **Veriye Dayalı İhtiyaç:** Seyhan'da pik saatlerde ortalama kavşak bekleme süresi 120 saniyenin üzerindedir. Araştırmalara göre dur-kalk trafiği, akıcı trafiğe göre 3 kat daha fazla emisyon üretmektedir.
+*   **Eylemsizlik Riski:** Müdahale edilmezse, artan araç sayısı ile 2026'da trafik kilitlenme noktasına (gridlock) gelecektir.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Sistem Mimarisi:**
+    1.  **Görüş Ünitesi:** Her kavşak koluna yerleştirilecek yüksek çözünürlüklü IP Kameralar (Plaka okuma özelliği olmayan, KVKK uyumlu, sadece araç sayan).
+    2.  **İşleme Ünitesi (Edge Node):** Kavşak kontrol cihazına entegre edilecek NVIDIA Jetson veya benzeri endüstriyel AI işlemciler. Görüntüyü merkeze göndermeden yerinde işleyerek gecikmeyi (latency) sıfırlar.
+    3.  **Merkezi Yazılım (Dashboard):** Ulaşım Müdürlüğü'ndeki ekranlarda tüm kavşakların canlı durumu ve "Yeşil Dalga" senaryolarının yönetimi.
+*   **Donanım İhtiyacı:** 5 Kavşak x 4 Kamera = 20 Adet Trafik Analiz Kamerası, 5 Adet Akıllı Kavşak Kontrol Kartı.
+*   **Yazılım Yetenekleri:** Araç sınıflandırma (Kamyon, Otomobil, Motosiklet), Yaya yoğunluğu algılama, Ambulans/İtfaiye algılama (V2X hazırlığı).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (Pittsburgh, ABD):** "Surtrac" sistemi ile bekleme süreleri %40, emisyonlar %20 azaltıldı.
+*   **Türkiye Örneği (İstanbul - ATAK):** İSBAK tarafından geliştirilen sistem, sensör verileriyle ışık sürelerini optimize ederek trafiği %15 rahatlattı.
+*   **Seyhan Uyarlaması:** İstanbul gibi tüm şehre yaymak yerine, önce en tıkalı 5 "darboğaz" (bottleneck) noktası seçilecek ve maliyet/fayda analizi (Micro-Surgery) yapılacaktır.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   Donanım (Kamera + Edge AI Üniteleri): 1.500.000 TL
+    *   Yazılım Lisans ve Entegrasyon: 750.000 TL
+    *   Montaj ve Altyapı: 250.000 TL
+    *   **Toplam:** 2.500.000 TL
+*   **İşletme Gideri (OPEX):** Yıllık bakım ve lisans yenileme bedeli yaklaşık 200.000 TL.
+*   **Fon Kaynakları:** Belediyenin Ulaşım bütçesi ve Çukurova Kalkınma Ajansı (ÇKA) "Akıllı Kentler" mali destek programı.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1-2 (Analiz):** Drone ile havadan trafik sayımı yapılması ve en sorunlu 5 kavşağın matematiksel simülasyonu.
+*   **Ay 3-4 (İhale):** Teknik şartnamenin (Kamera çözünürlüğü, tepki süresi vb.) hazırlanması ve ihale.
+*   **Ay 5-8 (Kurulum):** Saha montajları ve mevcut sinyalizasyon direklerine entegrasyon.
+*   **Ay 9-11 (Öğrenme Modu):** Sistemin ışıklara müdahale etmeden sadece veri toplayıp kendini eğitmesi (Machine Learning Training).
+*   **Ay 12 (Lansman):** Sistemin "Otomatik" moda alınması ve sonuçların kamuoyuyla paylaşılması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Elektrik veya internet kesintisi. -> **Önlem:** Sistem kesinti anında otomatik olarak güvenli "Sabit Süre" moduna (Safe Mode) döner.
+*   **Risk:** Kameranın kirlenmesi/bozulması. -> **Önlem:** Görüntü kaybı olduğunda sistem operatöre alarm gönderir, o kol için varsayılan süreyi işletir.
+*   **Risk:** KVKK İhlali algısı. -> **Önlem:** Görüntüler kaydedilmez, sadece sayısal veriye (0 ve 1) dönüştürülür. Bu durum kamuoyuna net anlatılır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Kavşak bekleme süresinde min. %25 azalma.
+    2.  Dur-kalk sayısında %20 azalma.
+*   **Sosyal Etki:** Trafik stresinin azalması, sürücü psikolojisine olumlu etki.
+*   **Çevresel Etki:** Egzoz emisyonlarında düşüş, daha temiz bir Seyhan havası.

@@ -1,0 +1,54 @@
+# PROJE 19: YAŞLILAR İÇİN 'TORUN' PROJESİ (Kuşaklararası Köprü)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Manevi Torun Programı: Nesiller Buluşuyor
+*   **Uygulayıcı Birim:** Sosyal Yardım İşleri & Gençlik Hizmetleri
+*   **Proje Kategorisi:** Yaşlı Bakımı ve Gençlik
+*   **Tahmini Başlangıç/Bitiş:** 01.10.2025 - 01.06.2026 (Akademik Yıl)
+*   **Paydaş:** Çukurova Üniversitesi & Alparslan Türkeş BTÜ
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Yalnız yaşayan 65 yaş üstü vatandaşlarla; ailesinden uzakta Adana'da okuyan üniversite öğrencilerinin, güvenlik soruşturmasından geçirilerek "eşleştirildiği" bir sosyal uyum modelidir. Gençler yaşlılara dijital dünyayı (WhatsApp, E-Devlet) öğretir ve market alışverişine yardım eder; yaşlılar ise gençlere tecrübe aktarımı yapar ve aile sıcaklığı sunar. Kredi Yurtlar Kurumu (KYK) yurtlarında kalan öğrenciler önceliklidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Yaşlılarda "Sosyal İzolasyon" ve yalnızlık, demans riskini artırmaktadır. Gençlerde ise "Kuşak Çatışması" ve aidiyet eksikliği vardır.
+*   **Hukuki Zemin:** "Topluma Hizmet Uygulamaları" dersi kapsamında üniversitelerle protokol yapılarak, öğrencilerin bu faaliyeti staj/ders notu yerine sayılabilir.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Eşleştirme Algoritması:** Psikolojik Danışmanlar gözetiminde; hobiler (Satranç sevenler, örgü örenler), yaşanılan lokasyon ve kişilik özellikleri analiz edilerek en uygun "Dede/Nine - Torun" eşleşmesi yapılır.
+*   **Güvenlik Protokolü:**
+    *   Yaşlının evi önceden sosyal hizmet uzmanı tarafından ziyaret edilir (Uygunluk denetimi).
+    *   Öğrencinin adli sicil kaydı istenir.
+    *   İlk 3 görüşme, belediyenin sosyal tesisinde (kontrollü ortamda) yapılır, güven oluşunca ev ziyaretine geçilir.
+*   **Sigorta:** Gönüllü ögrenciler, faaliyet saatleri süresince "Gönüllü Ferdi Kaza Sigortası" ile sigortalanır (Maliyeti düşüktür).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (DOROT - New York):** "Friendly Visiting" programı ile 40 yıldır uygulanan model.
+*   **Dünya Örneği (Humanitas - Hollanda):** Öğrencilerin huzurevinde "bedava" kalması karşılığında yaşlılarla ayda 30 saat vakit geçirdiği model.
+*   **Seyhan Uyarlaması:** "Dijital Torun" modülü. Gençler yaşlılara akıllı telefon kullanmayı öğreterek onları dijital hayata bağlayacak.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   Organizasyon ve Eğitim Giderleri: 100.000 TL
+    *   Teşvik Paketi (Öğrencilere Ulaşım Kartı / Yemek Çeki): 300.000 TL
+    *   Sigorta Giderleri: 50.000 TL
+    *   **Toplam:** 450.000 TL
+*   **ROI:** Yaşlıların ev kazalarının (düşme vb.) azalması ve psikolojik iyilik halinin artmasıyla, belediyenin Evde Bakım hizmetleri yükü hafifler.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Üniversitelerle protokol ve "Seçmeli Ders" statüsü için YÖK yazışmaları.
+*   **Ay 2:** Gönüllü çağrısı ve mülakatlar.
+*   **Ay 3:** Yaşlı havuzunun belirlenmesi (Yalnız yaşayanlar öncelikli).
+*   **Ay 4:** Oryantasyon Eğitimi: Gönüllülere "Yaşlı İletişimi", "İlk Yardım" ve "Etik Sınırlar" eğitimi.
+*   **Ay 5:** Sahaya iniş ve ilk eşleşme.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Suistimal (Hırsızlık, borç para isteme). -> **Önlem:** "Sıfır Tolerans" politikası ve Taahhütname imzalatılması. Tarafların birbirine para vermesi yasaklanır.
+*   **Risk:** Duygusal Travma (Yaşlının vefatı). -> **Önlem:** Belediyenin psikologları tarafından gence yas danışmanlığı (Süpervizyon) verilir.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Eşleşen çift sayısı (Hedef: 100 Çift).
+    2.  Program devamlılığı (Yarıda bırakan oranı %10'un altında olmalı).
+*   **Sosyal Etki:** Kuşaklararası belleğin aktarılması (Sözlü Tarih). Adana'nın yerel kültürünün gençlere öğretilmesi.
+

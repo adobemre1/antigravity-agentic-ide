@@ -1,0 +1,52 @@
+# PROJE 75: IOT YANGIN ERKEN UYARI SİSTEMİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Ateş Gözü: Akıllı Yangın Algılama Ağı
+*   **Uygulayıcı Birim:** Bilgi İşlem & Zabıta (İtfaiye Koordinasyon)
+*   **Proje Kategorisi:** Nesnelerin İnterneti (IoT) / Akıllı Şehir
+*   **Tahmini Başlangıç/Bitiş:** 01.09.2025 - 01.01.2026
+*   **Konum:** Tarihi Çarşılar (Büyüksaat, Kazancılar) ve Kent Ormanları
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Yangın riskinin yüksek olduğu tarihi ahşap yapıların yoğun bulunduğu çarşı bölgesine ve orman girişlerine; kablosuz (LoRaWAN) ısı ve duman sensörleri yerleştirilerek, yangın daha "kıvılcım" aşamasındayken itfaiyeye ve esnafa sessiz alarm gönderen ileri teknoloji projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Tarihi çarşılar gece kapandığında kimse kalmıyor. Elektrik kontağından çıkan yangın, dumanlar çatıyı sarana kadar fark edilmiyor. O aşamadan sonra müdahale çok geç oluyor.
+*   **Çözüm:** İnsan gözüne ihtiyaç duymayan, 7/24 koklayan "Elektronik Burunlar".
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Teknoloji:** LoRaWAN (Long Range Wide Area Network). Düşük güç tüketimiyle kilometrelerce uzağa veri atabilir. Wi-Fi gibi kısa mesafeli değildir.
+*   **Sensörler:** Pilli (5 Yıl pil ömrü), kablosuz, yapıştır-çalıştır. Isı artışını ve duman partiküllerini algılar. (Fiyat: ~500-1000 TL).
+*   **Gateway:** Verileri toplayıp internete aktaran antenler. (Fiyat: ~10.000 TL).
+*   **Yazılım:** Kritik eşik (Örn: 60 derece sıcaklık) aşılınca otomatik olarak itfaiye amirinin telefonuna ve AKOM ekranına kırmızı uyarı düşer.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Notre Dame Katedrali:** Yangın sonrası IoT sensörlerle donatıldı.
+*   **Dryad Networks (Almanya):** Ormanlar için ağaçlara takılan yangın sensörleri.
+*   **Kapalıçarşı (İstanbul):** Benzer bir erken uyarı sistemi kullanılmaktadır.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   500 Adet Sensör x 1.000 TL: 500.000 TL.
+    *   10 Adet Gateway ve Kurulum: 250.000 TL.
+    *   Yazılım Dashboard: 250.000 TL.
+    *   **Toplam:** 1 Milyon TL.
+*   **Yatırımın Geri Dönüşü:** Çarşıdaki tek bir dükkanın mallarının kurtarılması bile sistemin maliyetini çıkarır.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Kapsama alanı testi (LoRaWAN sinyal gücü ölçümü).
+*   **Ay 2:** Sensör ve Gateway temini.
+*   **Ay 3:** Montaj (Tarihi dokuya zarar vermeden, vidasız montaj).
+*   **Ay 4:** Sistem aktivasyonu ve esnafa bilgilendirme ("Bu kamera değil, duman dedektörüdür").
+*   **Ay 5:** Test (Yapay duman ile reaksiyon süresi ölçümü).
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Yanlış Alarm (False Positive). (Esnaf mangal yakarsa?). -> **Önlem:** Yapay zeka algoritmaları ani ısı artışı ile yemek dumanını ayırt edecek şekilde kalibre edilir. Alarm gelince önce Zabıta/Bekçi ile teyit edilir.
+*   **Risk:** Sensörlerin çalınması. -> **Önlem:** Yükseğe monte edilir. İvmeölçer vardır, yerinden oynatılınca "Sabotaj Alarmı" verir.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Erken tespit edilen vaka sayısı.
+    2.  Sistemin aktiflik oranı (%99).
+*   **Sosyal Etki:** Tarihi mirasın korunması. Esnafın uykusunun kaçmaması.
+

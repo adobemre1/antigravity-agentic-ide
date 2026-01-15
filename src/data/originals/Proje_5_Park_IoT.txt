@@ -1,0 +1,52 @@
+# PROJE 5: PARK-IOT (Akıllı Park Sulama ve Bitki İzleme Ağı)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Park-IoT: LoRaWAN Tabanlı Veriye Dayalı Peyzaj Yönetimi
+*   **Uygulayıcı Birim:** Park ve Bahçeler Müdürlüğü
+*   **Proje Kategorisi:** Çevre ve Su Yönetimi
+*   **Tahmini Başlangıç/Bitiş:** 01.03.2025 - 01.09.2025 (Pilot: 6 Ay)
+*   **Uygulama Alanı:** Seyhan Merkez Park ve 10 pilot semt parkı.
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Belediye parklarındaki sulama işlemleri genellikle zaman ayarlı sayaçlarla veya personelin insiyatifiyle (manuel) yapılmaktadır. Bu durum, yağmur yağsa bile sulama yapılmasına veya toprağın ihtiyacından fazla su harcanmasına neden olur. "Park-IoT" projesi; toprağa yerleştirilen kablosuz nem sensörleri ve LoRaWAN (Uzun Menzilli Düşük Güç Tüketimi) iletişim teknolojisi ile toprağın **gerçek ihtiyacına göre** otomatik sulama yapılmasını sağlar. Hedef %30 su tasarrufu ve daha sağlıklı bitkilerdir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Küresel ısınma ile su kaynakları azalmaktadır. Vahşi sulama veya gereksiz otomatik sulama, hem su israfıdır hem de bitkilerde kök çürümesine yol açarak peyzaj yenileme maliyetini artırır.
+*   **Teknolojik Fırsat:** Eskiden her parka kablo çekmek gerekirken, şimdi tek bir LoRaWAN anteni ile 5 km çapındaki tüm parkların verisi kablosuz toplanabilmektedir.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **İletişim Altyapısı (LoRaWAN):** Şehir içinde 2-5 km menzile sahip, pille 5 yıl çalışan sensörleri destekleyen ağ protokolü. Merkez Park'a 1 adet Gateway (Ağ Geçidi) kurulması yeterlidir.
+*   **Uç Birimler (Sensörler):** Endüstriyel tip Toprak Nemi (Soil Moisture), Elektriksel İletkenlik (EC - Tuzluluk) ve Toprak Sıcaklığı sensörleri.
+*   **Eyleyiciler (Actuators):** Mevcut sulama vanalarına takılacak LoRa uyumlu akıllı valf kontrolcüleri.
+*   **Senaryo:** "Eğer toprak nemi %20'nin altındaysa VE yağmur sensörü 'yağış yok' diyorsa VE saat 02:00-05:00 arasındaysa -> 15 dakika sula."
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (Calgary, Kanada):** Şehir genelinde LoRaWAN ağı kurarak park sulama, su sayacı okuma ve gürültü takibi tek ağda birleştirildi. İşletme maliyetleri ciddi oranda düştü.
+*   **Dünya Örneği (Avustralya):** Kuraklıkla mücadele için "Akıllı Parklar" projesi ile su tüketimi %40 azaltıldı.
+*   **Seyhan Uyarlaması:** Adana'nın sıcak iklimine uygun, yüksek sıcaklığa dayanıklı sensörler seçilecektir.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   LoRaWAN Gateway (Dış Ortam): 30.000 TL
+    *   Sensörler (50 adet x 2.000 TL): 100.000 TL
+    *   Akıllı Vana Kontrolcüleri (50 adet x 3.000 TL): 150.000 TL
+    *   Yazılım ve Dashboard: 120.000 TL
+    *   **Toplam:** 400.000 TL
+*   **Yatırım Geri Dönüşü (ROI):** Su faturasından ve tanker yakıtından sağlanacak tasarruf ile sistemin **1-1.5 sulama sezonunda** kendini amorti etmesi öngörülmektedir.
+*   **Ekonomik Ömür:** Sensör pilleri 5 yıl, cihazlar 10 yıl.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Merkez Park ve çevresindeki parkların sinyal testi (Coverage Mapping). Gateway kurulumu.
+*   **Ay 2:** Sensörlerin ve akıllı vanaların montajı.
+*   **Ay 3:** Yazılım üzerindeki kuralların (Rule Engine) tanımlanması ve test.
+*   **Ay 4:** Sistemin tam otonom moda alınması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Sensörlerin çalınması. -> **Önlem:** Sensörlerin toprak altına tamamen gömülmesi (Stealth kurulum) ve vandalizme karşı korumalı kutular.
+*   **Risk:** Sinyal kesintisi. -> **Önlem:** Vana kontrolcülerinin içinde "zaman ayarlı yedek plan" (Failsafe) olması. Ağ kopsa bile temel sulamanın devam etmesi.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Pilot parklarda su tüketiminde %30 azalma.
+    2.  Bitki ölümlerinde (kuruma/çürüme) %20 azalma.
+*   **Sosyal Etki:** Belediyenin "Çevreci ve Teknolojik" imajının güçlenmesi. Kuraklık dönemlerinde vatandaşa "Biz suyu damla damla yönetiyoruz" mesajının verilmesi.

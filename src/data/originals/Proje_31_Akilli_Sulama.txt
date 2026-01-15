@@ -1,0 +1,54 @@
+# PROJE 31: AKILLI SULAMA SİSTEMLERİ (IoT & NEM SENSÖRÜ)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Yeşil-Net: Veriye Dayalı Peyzaj Yönetimi
+*   **Uygulayıcı Birim:** Park ve Bahçeler Müdürlüğü & Bilgi İşlem
+*   **Proje Kategorisi:** Çevre ve Su Yönetimi
+*   **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.09.2025 (Pilot Faz)
+*   **Teknoloji:** LoRaWAN Sensör Ağı (Milesight/Ursalink vb.)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Belediye parklarında kullanılan geleneksel "Zaman Ayarlı" sulama sisteminin; toprağın nemini, tuzluluğunu ve sıcaklığını anlık ölçen IoT sensörlerle "İhtiyaç Odaklı" sisteme dönüştürülmesidir. Yağmur yağdığında sulamayı otomatik kesen ve toprağın ihtiyacı kadar su veren bu sistemle %40-50 su ve elektrik tasarrufu hedeflenir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Parklar genellikle gece 03:00'te otomatik açılan zamanlayıcılarla sulanır. Ancak o gece yağmur yağmışsa bile sistem çalışır ve su israf olur. Ayrıca aşırı sulama bitki köklerini çürütür (Mantar hastalığı).
+*   **Fırsat:** Türkiye su stresi çeken bir ülkedir. Adana'nın kavurucu sıcağında su en değerli kaynaktır.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Donanım:**
+    *   **Sensörler:** Milesight EM500 serisi veya muadili (Toprak Nemi, EC, Sıcaklık). Pille çalışır (5-10 yıl ömür). Kablosuzdur.
+    *   **Gateway:** LoRaWAN Ağ Geçidi (Parkın ortasına 1 adet yeterlidir, 2 km menzil).
+    *   **Selenoid Vanalar:** Mevcut vanalara takılan akıllı kontrol üniteleri.
+*   **Yazılım:** Merkezi Yönetim Paneli (Dashboard). Hangi parkın toprağı ne kadar nemli haritada görülür.
+*   **Maliyet:** Pilot bölge (Örn: Merkez Park'ın 10 dönümü) için sensör ve altyapı maliyeti ~400.000 TL civarındadır.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **İzmir Büyükşehir Belediyesi:** Parklarda %50 su tasarrufu sağlayan benzer proje.
+*   **Kadıköy Belediyesi:** Kalamış Parkı'nda nem sensörlü sulama.
+*   **Cairns (Avustralya):** Tropikal iklimde %30 su tasarrufu.
+*   **Seyhan Uyarlaması:** Adana'nın "Sarı Sıcak" iklimine özel kalibrasyon (Toprak çok hızlı kurur).
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   Donanım (Sensör + Gateway + Kontrolcü): 600.000 TL (20 Pilot Nokta için).
+    *   Yazılım Lisanslama: 150.000 TL
+    *   **Toplam:** 750.000 TL
+*   **ROI (Yatırım Geri Dönüşü):** Su faturasından ve (kuyu suyu kullanılıyorsa) dalgıç pompa elektrik giderinden sağlanan tasarrufla sistem kendini 18-24 ayda amorti eder.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Merkez Park'ta toprak analizi ve "Zone" (Bölge) belirleme.
+*   **Ay 2:** Donanım ihaleye çıkılması ve temini.
+*   **Ay 3:** Sensörlerin yeraltına gömülmesi (Vandalizme karşı gizli montaj).
+*   **Ay 4:** Sisteme "Yağmur Sensörü" entegrasyonu ve kalibrasyon.
+*   **Ay 5:** Personel eğitimi ("Artık vanayı elle açmayacaksınız" eğitimi).
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Sensörlerin çalınması. -> **Önlem:** Sensörler topragın 15 cm altına gömülür, dışarıdan görünmez.
+*   **Risk:** Bağlantı kopması. -> **Önlem:** Sistem bağlantı kopsa bile son ayarları koruyacak "Fail-Safe" modunda çalışır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Tasarruf edilen su miktarı (m³).
+    2.  Bitki ölüm oranındaki azalma (Aşırı sulama kaynaklı hastalıkların bitmesi).
+*   **Sosyal Etki:** Belediyenin "Akıllı Şehir" vizyonunun somut göstergesi.
+

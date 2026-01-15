@@ -1,0 +1,55 @@
+# PROJE 57: ADANA LEZZET ROTASI MOBİL UYGULAMASI
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Gastro-Seyhan: Lezzetin Dijital Haritası
+*   **Uygulayıcı Birim:** Bilgi İşlem & Basın Yayın
+*   **Proje Kategorisi:** Gastronomi Turizmi / Yazılım
+*   **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.09.2025
+*   **Platform:** iOS ve Android (React Native/Flutter)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Gastronomi şehri Adana'ya gelen turistler için; tescilli kebapçılar, şalgamcılar, sokak lezzetleri ve tatlıcıları harita üzerinde gösteren, "Sabah Ciğeri", "Öğle Kebabı" gibi rotalar sunan, kullanıcı yorumlu ve "Lezzet Rozeti" oyunlaştırmalı (Gamification) mobil rehber uygulamasıdır.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Turistler "Nerede ne yenir?" sorusuna sosyal medyadaki (bazen yanıltıcı) fenomen tavsiyeleriyle cevap arıyor. Güvenilir, hijyenik ve geleneksel lezzetleri gösteren resmi bir rehber yok.
+*   **Çözüm:** Belediyenin "Lezzet Onayı" verdiği mekanları dijitalleştirmek.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Yazılım:**
+    *   Cross-Platform (Flutter) mobil uygulama. (Maliyet avantajı için).
+    *   GPS tabanlı "En yakın lezzet noktası" özelliği.
+    *   Filtreleme: "Salaş Mekan", "Aileye Uygun", "Gece Çorbacısı".
+*   **İçerik:** 100 Nokta için profesyonel yemek fotoğrafçılığı ve İngilizce/Türkçe tanıtım metinleri.
+*   **Gamification:** Uygulama ile 5 farklı mekanda check-in yapana "Adana Gurmesi" dijital sertifikası ve belediyeden hediye paketi.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Michelin Guide App:** Dünyanın standardı.
+*   **Zomato/Yelp:** Kullanıcı yorumu odaklı.
+*   **Gaziantep (GastroAntep):** Yerel gastronomi başarısı.
+*   **Seyhan Farkı:** Sokak lezzetlerine (Şırdan, Bici Bici) özel kategori açması ve hijyen denetimi entegrasyonu (Beyaz Bayrak).
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Yazılım Geliştirme (Outsource): 250.000 - 300.000 TL (Orta ölçekli app).
+    *   İçerik Üretimi (Fotoğraf/Video): 100.000 TL.
+    *   Tanıtım (Dijital Reklam): 100.000 TL.
+    *   **Toplam:** ~500.000 TL.
+*   **Gelir:** Uygulama içi reklam alınmaz (Tarafsızlık için), ancak "Öne Çıkarılan Lezzetler" bölümü için mekanlardan cüzi abonelik alınabilir (Etik kurul denetiminde).
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Lezzet Envanteri ve kriterlerin (Tarihçe, Hijyen, Lezzet) belirlenmesi.
+*   **Ay 2:** Yazılım ihalesi.
+*   **Ay 3:** Fotoğraf çekimleri ve veri girişi.
+*   **Ay 4:** Beta testleri ve esnafa tanıtım.
+*   **Ay 5:** Büyük lansman (Lezzet Festivali'nde).
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Mekanların "Beni neden listeye almadınız?" tepkisi. -> **Önlem:** Şeffaf kriter listesi yayınlanır. Başvuru modülü açılır, kriteri sağlayan herkes eklenir.
+*   **Risk:** Uygulamanın indirilmemesi. -> **Önlem:** Havalimanı ve otellerde QR kodlu panolarla agresif tanıtım.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  İndirilme sayısı (Hedef: 50.000/Yıl).
+    2.  Uygulama üzerinden rota oluşturma sayısı.
+*   **Sosyal Etki:** Adana mutfak kültürünün standartlaşması ve kayıt altına alınması.
+

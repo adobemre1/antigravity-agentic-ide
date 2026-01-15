@@ -1,0 +1,56 @@
+# PROJE 13: KADIN EMEĞİ PAZAR YERİ VE MİKRO-İHRACAT (Dijital Hanımağa)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Kadın Kooperatifi 2.0: Yerelden Globale E-Ticaret
+*   **Uygulayıcı Birim:** Kadın ve Aile Hizmetleri & Dış İlişkiler Müdürlüğü
+*   **Proje Kategorisi:** Kadın İstihdamı ve Ekonomik Kalkınma
+*   **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.02.2026 (8 Ay)
+*   **Hedef Pazar:** Tüm Türkiye (Trendyol/Hepsiburada) ve Avrupa/Körfez Ülkeleri (Etsy/Amazon).
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Seyhanlı kadınların el emeği ürünlerinin (Salça, reçel, el işi, kilim); sadece geleneksel kermeslerde değil, profesyonel e-ticaret altyapısı ve "Mikro-İhracat" devlet teşvikleriyle dünyaya satılmasını sağlayan entegre bir kalkınma projesidir. Belediye; paketleme, markalaşma, fotoğraf çekimi ve gümrükleme (ETGB) süreçlerini üstlenerek kadın üreticiyi "İhracatçı" yapar.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Kadın kooperatifleri harika ürünler üretmekte ancak "Pazarlama" ve "Lojistik" bilgisi eksikliği nedeniyle satamamakta, ürünler depoda bozulmaktadır.
+*   **Fırsat (2025 Teşviği):** Yeni gümrük tebliği ile mikro ihracat limiti 30.000 Euro ve 600 Kg'a çıkarılmıştır. Gümrük müşavirine gerek kalmadan, sadece kargo firması (ETGB) aracılığıyla vergisiz ve bürokrasisiz ihracat mümkündür.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Lojistik Merkezi (Fulfillment Center):** Belediye deposunda ayrılan bir alan, e-ticaret operasyon merkezine dönüştürülür.
+    *   *İşlem:* Kadın üretici ürününü (Örn: 50 kavanoz reçel) buraya getirir.
+    *   *Standartlaşma:* Gıda mühendisi ürünü test eder. "Seyhan Gurme" etiketiyle standart cam kavanoza konur, vakumlanır.
+    *   *Barkodlama:* Ürünler barkodlanıp rafa konur.
+*   **Dijital Altyapı:**
+    *   **Entegratör Yazılım:** Tek panelden Trendyol, Hepsiburada, Etsy ve Amazon mağazalarını yöneten (stok/fiyat eşitleme) yazılım (Örn: Ticimax, İkas vb.).
+    *   **Ürün Hikayesi:** Her ürünün yanına konan QR kod, o ürünü yapan kadının (Ayşe Teyze) hikayesini anlatan kısa videoya gider. Duygusal bağ (Storytelling) satışı artırır.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (SEWA - Hindistan):** 2 milyon kadını örgütleyip el işlerini dünyaya satan dev kooperatif.
+*   **Türkiye Örneği (Hepsiburada - Girişimci Kadınlara Teknoloji Gücü):** Komisyon indirimi ve reklam desteği.
+*   **Seyhan Uyarlaması:** Kargo maliyetlerini düşürmek için Navlungo/ShipEntegra gibi "Kargo toplayıcı" (Aggregator) firmalarla belediye ölçeğinde anlaşma yapılacak (%40 indirim).
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   E-Ticaret Depo Kurulumu (Raf, Paketleme Masası, Barkod Yazıcı): 200.000 TL
+    *   Profesyonel Fotoğraf Stüdyosu Ekipmanı (Lightbox, Kamera): 100.000 TL
+    *   Yazılım Lisansı ve Pazaryeri Giriş Ücretleri: 100.000 TL
+    *   **Toplam:** 400.000 TL
+*   **İşletme Gideri (OPEX):** 2 E-Ticaret Uzmanı personeli, kargo ve ambalaj malzemesi.
+*   **Sürdürülebilirlik:** Satılan her üründen alınan cüzi hizmet bedeli (%5-10) sistemin kendi kendini döndürmesini sağlar (Belediye kâr amacı gütmez, başa baş noktası hedefler).
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Mevcut kooperatiflerin ve bağımsız üreticilerin envanterinin çıkarılması.
+*   **Ay 2:** Ürün seçimi (Hangi ürün kargoya dayanır? Salça evet, yaş pasta hayır).
+*   **Ay 3:** Marka tescili ("Seyhan'ın Eli", "Güneyden" vb.) ve ambalaj tasarımı.
+*   **Ay 4:** Mağazaların açılması ve ürün yüklenmesi.
+*   **Ay 5-6:** İlk ihracat denemesi (Almanya'daki Türk marketlerine numune gönderimi).
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Kargo kırılması/Hasar. -> **Önlem:** "Airbed" (Havalı yatak) ambalajlama sistemi kullanılacak.
+*   **Risk:** Ürün iadesi. -> **Önlem:** İadeler yurt dışında pahalı olduğu için, iade edilen ürün orada imha edilir veya yerel hayır kurumuna bağışlanır. Satış fiyatına bu risk payı (%3) eklenir.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  İhracat yapan kadın sayısı (Hedef: 100 Kadın).
+    2.  Yıllık e-ticaret cirosu (Hedef: 5.000.000 TL).
+*   **Sosyal Etki:** Kadının ekonomik özgürlüğünü kazanması, aile içi şiddetin azalması (Ekonomik bağımsızlık korelasyonu).
+

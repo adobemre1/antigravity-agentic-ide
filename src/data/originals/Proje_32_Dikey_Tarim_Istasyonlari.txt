@@ -1,0 +1,53 @@
+# PROJE 32: DİKEY TARIM İSTASYONLARI (Konteyner Çiftlik)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Şehir Çiftliği (Urban Farm)
+*   **Uygulayıcı Birim:** Kırsal Hizmetler & Park Bahçeler
+*   **Proje Kategorisi:** Kentsel Tarım / Agrotech
+*   **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.12.2025 (6 Ay)
+*   **Teknoloji:** Hidroponik (Topraksız) Tarım + LED Grow Light
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Şehir merkezinde (Meydan veya Okul bahçesi) konumlandırılan, içi "Bitki Fabrikası"na (Plant Factory) dönüştürülmüş bir yük konteynerinde; pestisitsiz, %95 su tasarruflu ve yılın 365 günü marul, fesleğen, mikro filiz üretimi yapılan bir "Demonstrasyon ve Üretim İstasyonu"dur. Amaç, halka geleceğin tarımını göstermektir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Tarım arazileri betonlaşmaktadır. Gıda şehre uzak yerlerden gelmekte (Food Miles), lojistikte karbon salınmakta ve tazelik kaybolmaktadır.
+*   **Gelecek Vizyonu:** 2050'de dünya nüfusunu beslemek için şehir içi dikey tarım şarttır. Adana bir tarım kenti olarak buna öncülük etmelidir.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Yapı:** 40'lık High-Cube Konteyner (Isı yalıtımlı).
+*   **Üretim Kapasitesi:** 1 Konteyner = 2.000 - 3.000 Kök Marul / Ay (Geleneksel tarımın 1 dönümüne eşdeğer).
+*   **Sistem:** Dikey raflarda akan su kültürü (NFT) veya durgun su kültürü. Otomatik pH ve EC dozajlama.
+*   **Aydınlatma:** Full Spektrum LED (Güneş ışığını taklit eder). Enerji maliyeti en büyük kalemdir, bu yüzden çatısında GES olmalıdır.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Freight Farms (ABD):** "Greenery" modeli ile dikey tarımın öncüsü.
+*   **Agricool (Paris):** Çilek üreten konteynerler.
+*   **Türkiye:** Vahaa, Plant Factory gibi yerli girişimler.
+*   **Seyhan Modeli:** İthal (5 Milyon TL'lik) sistem yerine, yerli mühendislikle geliştirilen "Milli Konteyner Çiftliği" (Maliyet ~1.2 Milyon TL).
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   Konteyner ve Yalıtım: 300.000 TL
+    *   Otomasyon, LED ve Havalandırma (HVAC): 900.000 TL
+    *   **Toplam:** 1.200.000 TL (Yerli üretim ile).
+*   **İşletme Gideri (OPEX):** Aylık elektrik faturası yüksektir (GES ile dengelenmeli).
+*   **Gelir:** Üretilen süper taze otlar (Fesleğen, Roka) lüks restoranlara satılarak gelir modeli oluşturulur.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Konsept tasarım ve yerli tedarikçi (Teknokent firmaları) araştırması.
+*   **Ay 2:** Konteynerin temini ve iç donanım montajı.
+*   **Ay 3:** Otomasyon testleri (İklimlendirme başarısı).
+*   **Ay 4:** İlk tohum ekimi (Çimlenme).
+*   **Ay 5:** İlk hasat şenliği ve öğrencilerin ziyareti.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Elektrik kesintisi. -> **Önlem:** Bitkiler ışıksızlığa 1-2 gün dayanır ama havalandırma durursa küf olur. Jeneratör şarttır.
+*   **Risk:** Yüksek maliyet eleştirisi. -> **Önlem:** Bu bir "Ticari İşletme" değil, "Eğitim ve Ar-Ge Merkezi" olarak konumlandırılır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Birim alandan alınan ürün miktarı (Verim).
+    2.  Ziyaret eden öğrenci sayısı.
+*   **Sosyal Etki:** Şehir çocuklarının "Marulun fabrikada değil, suda büyüdüğünü" görmesi.
+

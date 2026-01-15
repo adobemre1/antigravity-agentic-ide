@@ -1,0 +1,54 @@
+# PROJE 27: SEYHAN SANAL İSTİHDAM FUARI (Metaverse İK)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Kariyer Verse: 365 Gün Açık İstihdam Fuarı
+*   **Uygulayıcı Birim:** İnsan Kaynakları & Bilgi İşlem
+*   **Proje Kategorisi:** İstihdam Teknolojileri
+*   **Tahmini Başlangıç/Bitiş:** 01.11.2025 (Sürekli Platform)
+*   **Teknoloji:** WebGL / Unity Tabanlı Sanal Fuar Altyapısı
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Bulut tabanlı, 3 boyutlu bir sanal fuar alanında; iş arayanların avatarlarıyla firmaların standlarını gezebildiği, CV bırakıp anında görüntülü mülakat (Video Chat) yapabildiği, yılın her günü açık bir istihdam platformudur. Fiziksel fuarların (Lütfi Kırdar vb.) yüksek maliyetini ortadan kaldırır ve erişimi (engelli vatandaşlar için) kolaylaştırır.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Fiziksel fuarlar yılda 1-2 kez yapılır, pahalıdır ve herkes katılamaz. Klasik kariyer siteleri (Kariyer.net) ise sadece ilan panosudur, etkileşim zayıftır.
+*   **Çözüm:** Gamification (Oyunlaştırma) öğeleri içeren Metaverse fuarı, Z kuşağının ilgisini çeker ve firmalarla adayı "canlı" buluşturur.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Platform Özellikleri:**
+    *   **3D Sergi Alanı:** Adana Sanayi Odası firmalarının markalı standları.
+    *   **Canlı Oditoryum:** CEO konuşmaları ve webinarlar için sanal salon.
+    *   **Akıllı Eşleşme:** Adayın yetenekleri (Skill) ile firmanın ilanı uyuşunca "Bildirim/Match" gönderen AI algoritması.
+    *   **Erişilebilirlik:** VR gözlük gerektirmez, standart web tarayıcıdan (Chrome/Edge) çalışır.
+*   **Maliyet Analizi:** Fiziksel fuar maliyeti ~2 Milyon TL iken, Sanal Fuar altyapısı (vFairs vb. veya yerli yazılım) ~300.000 - 500.000 TL aralığındadır.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (vFairs):** Küresel sanal fuar lideri.
+*   **Dünya Örneği (Hyundai Metaverse Hiring):** Şirketin işe alım sürecini tamamen sanal dünyaya taşıması.
+*   **Türkiye Örneği (Cumhurbaşkanlığı İK Ofisi - Yetenek Kapısı):** Sanal fuar uygulamaları.
+*   **Seyhan Farkı:** Yerel ölçekte, Adana OSB firmalarına özel butik ve sürekli açık bir yapı.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   Yazılım Lisanslama / Geliştirme: 500.000 TL
+    *   Sunucu ve Bakım (Yıllık): 100.000 TL
+    *   **Toplam:** 600.000 TL
+*   **Gelir Modeli:** Firmalardan "Sanal Stand Kiralama Bedeli" alınarak sistem kendi masrafını çıkarır. İş arayanlara tamamen ücretsizdir.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Yazılım firması seçimi (Hazır platform kiralamak daha hızlıdır).
+*   **Ay 2:** Firma stand tasarımlarının toplanması ve sisteme yüklenmesi.
+*   **Ay 3:** CV Veritabanı entegrasyonu (KVKK onaylı).
+*   **Ay 4:** "Büyük Açılış Haftası" (Sanal kurdele kesimi).
+*   **Ay 5:** Sürekli operasyon ve aylık "Kariyer Günleri" temaları (Örn: Mühendislik Haftası, Sağlık Haftası).
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Mavi yaka (İşçi) kadrolarının platformu kullanmakta zorlanması. -> **Önlem:** Basitleştirilmiş arayüz (Lite Mod) ve fiziksel destek masaları (Belediyeye gelene yardım edilir).
+*   **Risk:** Sunucu çökmesi. -> **Önlem:** Bulut tabanlı (AWS/Azure) ölçeklenebilir altyapı.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Platformu ziyaret eden tekil aday sayısı.
+    2.  Yapılan mülakat sayısı ve işe yerleşme oranı.
+*   **Sosyal Etki:** Dijital uçurumun kapanması. Fiziksel engelli vatandaşların evinden iş görüşmesine katılabilmesi (Büyük kolaylık).
+

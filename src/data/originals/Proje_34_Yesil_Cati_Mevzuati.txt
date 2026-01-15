@@ -1,0 +1,50 @@
+# PROJE 34: YEŞİL ÇATI MEVZUATI VE TEŞVİKLERİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Yeşil Teras: İklim Dostu Çatılar
+*   **Uygulayıcı Birim:** İmar ve Şehircilik Müdürlüğü
+*   **Proje Kategorisi:** Kentsel Dönüşüm / İklim
+*   **Tahmini Başlangıç/Bitiş:** 01.05.2025 - Sürekli
+*   **Yasal Dayanak:** Planlı Alanlar İmar Yönetmeliği (Çevre Şehircilik Bakanlığı)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Adana'nın "Isı Adası Etkisi"ni kırmak için; 2.000 m² üzeri parsel büyüklüğüne sahip yeni yapılarda ve AVM'lerde "Yeşil Çatı" (Bitkilendirilmiş Teras) uygulamasının zorunlu hale getirilmesi veya teşvik edilmesi; mevcut binalarda ise gönüllü dönüşüm yapanlara Emlak Vergisi indirimi veya Su Faturası indirimi sağlanması projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Beton çatılar gündüz ısıyı emer, gece şehre yayar. Bu da Adana gecelerinin çekilmez olmasına neden olur. Ayrıca ani yağışlarda beton çatılar suyu tutamadığı için sel (su baskını) oluşur.
+*   **Çözüm:** Yeşil çatılar suyu emer (%50 tutma kapasitesi) ve binayı izole eder (Enerji tasarrufu).
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Uygulama Tipleri:**
+    *   **Ekstensif (Seyrek) Yeşil Çatı:** Düşük bakım, ince toprak (10-15 cm), Sedum türü bitkiler. (Önerilen Model).
+    *   **İntensif (Yoğun) Yeşil Çatı:** Kalın toprak, ağaç dikilebilir, bahçe gibidir. Statik yükü fazladır.
+*   **Maliyet:** Çatı yalıtımı ve drenaj dahil m² maliyeti 2025 fiyatlarıyla 4.000 - 6.000 TL arasındadır.
+*   **Yağmur Suyu Hasadı:** Yeşil çatı ile entegre "Gri Su" deposu zorunluluğu da düşünülmelidir.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **İstanbul (Zorunluluk):** 60.000 m² üzeri kamu binalarında zorunludur.
+*   **Toronto (Kanada):** Belirli büyüklükteki binalarda %20-60 arası yeşil alan zorunluluğu.
+*   **İTÜ Yeşil Kampüs:** Türkiye'deki başarılı akademik uygulama.
+*   **Seyhan Uyarlaması:** Adana sıcağına dayanıklı "Kurakçıl Peyzaj" bitkileri seçilmelidir, aksi takdirde çatı kurur.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Belediye Bütçesi:** Mevzuat hazırlığı için bütçe gerekmez.
+*   **Teşvik Maliyeti:** Emlak vergisi indirimi belediye gelirini düşürür ancak altyapı (kanalizasyon) yatırım maliyetini azalttığı için uzun vadede kârlıdır.
+*   **Teşvik Modeli:** "Yeşil Çatı yapan müteahhide %5 Emsal Artışı (Ekstra İnşaat Alanı)" verilmesi en güçlü motivasyondur.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** İmar Komisyonu'nda taslak yönetmeliğin görüşülmesi.
+*   **Ay 2:** Peyzaj Mimarları Odası ile "Adana Çatı Bitkileri Rehberi"nin hazırlanması.
+*   **Ay 3:** Pilot Uygulama: Belediyenin bir kültür merkezinin çatısının dönüştürülmesi.
+*   **Ay 4:** Meclis kararı ve uygulamanın başlaması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Su yalıtımı hatası ve binaya su sızması. -> **Önlem:** Uygulamanın sertifikalı uzman firmalarca yapılması ve belediyece denetlenmesi şarttır.
+*   **Risk:** Bakımsızlık nedeniyle çatının kuruması. -> **Önlem:** İskan sonrası periyodik denetim yapılır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Yeşil çatı uygulanan bina sayısı (m²).
+    2.  Yağmur suyu tutma kapasitesi.
+*   **Sosyal Etki:** Şehrin kuşbakışı görüntüsünün "Gri"den "Yeşil"e dönmesi. Biyoçeşitliliğin (Kuşlar, Böcekler) şehre dönmesi.
+

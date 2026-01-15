@@ -1,0 +1,56 @@
+# PROJE 20: KENT BOSTANLARI VE MAHALLE BAHÇELERİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Toprak Ana: Kentsel Tarım ve Komşuluk Alanları
+*   **Uygulayıcı Birim:** Park ve Bahçeler Müdürlüğü
+*   **Proje Kategorisi:** Ekoloji ve Gıda Güvenliği
+*   **Tahmini Başlangıç/Bitiş:** 01.03.2025 - 01.09.2025 (6 Ay)
+*   **Konum:** İmar planında "Park" veya "Ağaçlandırılacak Alan" görünen atıl arsalar (10 Lokasyon).
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Şehir merkezindeki betonlaşmış alanların arasında kalmış atıl arazilerin; teknik altyapısı (su, toprak) belediyece hazırlanan, parsellere bölünmüş "Yükseltilmiş Sebze Yatakları" (Raised Beds) şeklinde mahalleliye tahsis edildiği projedir. Emekliler veya ev hanımları burada kendi domatesini, biberini yetiştirir. Amaç sadece gıda değil, komşuluk ilişkilerini güçlendirmek ve "Toprakla Terapi" sağlamaktır.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Şehir insanı topraktan kopuktur. Çocuklar sebzenin markette yetiştiğini sanmaktadır. Ayrıca gıda enflasyonu aile bütçesini zorlamaktadır.
+*   **Teknik Zorunluluk:** Her boş arsada tarım yapılamaz (Ağır metal riski). Bu yüzden proje, mevcut zemine değil, dışarıdan getirilen temiz toprakla doldurulmuş ahşap/kompozit kasalarda (Yükseltilmiş Yatak) yapılacaktır.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Bahçe Mimarisi:**
+    *   **Parsel:** 6m²'lik (3m x 2m) yükseltilmiş yataklar. Ahşap veya galvaniz malzeme. Maliyet ~2.500 TL/Adet.
+    *   **Sulama:** her parselin başında damlama sulama vanası ve su sayacı (İsrafı önlemek için cüzi su ücreti alınır).
+    *   **Ortak Alan:** Alet kulübesi (Çapa, kürek ortak kullanılır), kompost ünitesi ve çardak.
+*   **Toprak Güvenliği:** Kullanılacak toprağın mutlaka laboratuvar analizi (pH, Tuzluluk, Ağır Metal) yapılır. (Analiz maliyeti ~1000 TL).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (Havana - Organopónicos):** Ambargo altındaki Küba'nın şehri doyuran efsanevi kent tarımı modeli.
+*   **Dünya Örneği (Parisculteurs):** Paris'te çatılarda ve yeraltında yapılan modern tarım.
+*   **Türkiye Örneği (Nilüfer ve Kadıköy Kent Bostanları):** Başarılı yönetim modelleri ve tohum takas şenlikleri.
+*   **Seyhan Uyarlaması:** "Ata Tohumu Merkezi" ile entegre çalışacak. Hibrit tohum yasak, sadece yerel ve sürdürülebilir tohum ekilecek.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   10 Bahçe x 20 Kasa = 200 Kasa Kurulumu: 500.000 TL
+    *   Sulama Tesisatı ve Çit Çevrilmesi: 200.000 TL
+    *   Toprak Temini ve Analizi: 100.000 TL
+    *   **Toplam:** 800.000 TL
+*   **İşletme Modeli:** Parseller yıllık sembolik bir ücretle (Örn: 500 TL/Yıl) kiralanır. Bu gelir, su ve bakım masraflarına harcanır.
+*   **Yatırım Getirisi (ROI):** Sosyal fayda odaklıdır. Ancak elde edilen ürünün piyasa değeri (Hane başına yıllık 5-6 bin TL mutfak tasarrufu) yatırımın toplumsal geri dönüşüdür.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Arsa tespiti ve zemin etüdü.
+*   **Ay 2:** Peyzaj tasarımı ve malzeme ihalesi.
+*   **Ay 3:** Kurulum ve Toprak dolumu.
+*   **Ay 4:** Başvuruların alınması (Emekli, Engelli ve Şehit yakını öncelikli kura).
+*   **Ay 5:** "Ekolojik Okuryazarlık Eğitimi" (Eğitim almayan anahtar teslim alamaz).
+*   **Ay 6:** İlk fide dikimi şenliği.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Hobi bahçesinin "Gecekonduya" dönüşmesi. -> **Önlem:** Kesinlikle kapalı yapı (kulübe/konteyner) yasak. Sadece bitki kasası olacak. Güvenlik kamerası ile izlenecek. 3 ihtar alanın sözleşmesi feshedilecek.
+*   **Risk:** Bakımsızlık. -> **Önlem:** 1 ay boyunca uğranmayan bahçe geri alınır ve yedek listedeki vatandaşa verilir.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Üretilen sebze miktarı (kg).
+    2.  Bahçelerden toplanan organik atığın komposta dönüşüm oranı.
+*   **Sosyal Etki:** Komşuluk ilişkilerinin gelişmesi (%80 memnuniyet) ve yaşlılarda fiziksel aktivite artışı.
+

@@ -1,0 +1,53 @@
+# PROJE 59: SEYHAN CAZ GÜNLERİ (TARİHİ DOKUDA MÜZİK)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Cazın Rengi Seyhan
+*   **Uygulayıcı Birim:** Kültür İşleri Müdürlüğü
+*   **Proje Kategorisi:** Butik Festival
+*   **Tahmini Başlangıç/Bitiş:** Ekim Ayı (3-5 Gün)
+*   **Konum:** Büyüksaat, Ramazanoğlu Konağı, Kız Lisesi
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Adana'nın tarihi mekanlarının büyüleyici atmosferinde; yerli ve yabancı caz sanatçılarının sahne aldığı, sofistike, butik ve "yerel ile evrenseli" buluşturan (Caz ve Türk Müziği füzyonu) nitelikli bir konser serisidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Adana'da popüler müzik konserleri boldur ancak alternatif/caz türünde nitelikli etkinlik azdır. Tarihi mekanlar akşamları atıl kalmaktadır.
+*   **Çözüm:** Tarihi dokuyu müzikle canlandırmak ve "Kültür Turisti"ni (Beyaz yakalı, harcama potansiyeli yüksek kitle) şehre çekmek.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Mekan ve Kapasite:**
+    *   Ramazanoğlu Konağı Avlusu: 200 Kişi (Akustik/Trio konserler).
+    *   Büyüksaat Meydanı: 1000 Kişi (Ana sahne - Big Band).
+*   **Teknik:** Tarihi dokuya zarar vermeyen özel ses sistemleri (Line Array yerine daha kompakt sistemler) ve "Architectural Lighting" (Binaları boyayan ışıklar).
+*   **Program:** 3 Yabancı, 5 Yerli grup. "Adana Türküleri Caz Yorumu" özel projesi.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Montreux Jazz Festival:** Bir kasabayı dünya markası yaptı.
+*   **Cappadox (Kapadokya):** Coğrafya ve müziğin uyumu.
+*   **Akbank Caz Festivali:** Kampüs ve şehir konserleri.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Sanatçı Kaşeleri: 750.000 TL.
+    *   Sahne/Ses/Işık (Kiralama): 500.000 TL.
+    *   Konaklama/Ulaşım: 250.000 TL.
+    *   **Toplam:** 1.5 Milyon TL.
+*   **Gelir:** Bilet satışları ve kurumsal sponsorluklar (Bankalar, Oteller) bütçenin %50'sini karşılayabilir.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Sanat Yönetmeni atanması ve programın (Line-up) taslağı.
+*   **Ay 2:** Sponsorluk dosyası ile markalara gidilmesi.
+*   **Ay 3:** Mekan izinleri (Vakıflar Bölge Müdürlüğü).
+*   **Ay 4:** Bilet satışı ve lansman.
+*   **Ay 5:** Festival.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Yağmur. -> **Önlem:** Ekim ayı risklidir. Kapalı alternatif mekan (Tarihi Kız Lisesi Salonu vb.) mutlaka rezerve edilir (Rain Venue).
+*   **Risk:** İlgi azlığı. -> **Önlem:** Sadece "Caz" değil, pop-caz, funk, etnik caz gibi daha dinlenebilir türler seçilerek kitle genişletilir.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Biletli izleyici sayısı.
+    2.  Şehir dışından gelen katılımcı oranı.
+*   **Sosyal Etki:** Şehrin kültür-sanat çıtasının yükselmesi. "Adana'da Ekim başkadır" algısının oturması.
+

@@ -1,0 +1,51 @@
+# PROJE 29: UNESCO YARATICI ŞEHİR AĞI BAŞVURUSU (2027 Stratejisi)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan UNESCO Vizyonu: Dünya Gastronomi/Tasarım Kenti
+*   **Uygulayıcı Birim:** Dış İlişkiler & Kültür Müdürlüğü
+*   **Proje Kategorisi:** Şehir Markalaşması (City Branding)
+*   **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.06.2027 (2 Yıllık Hazırlık)
+*   **Hedef:** UNESCO Creative Cities Network (UCCN) 2027 Başvurusu
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+2025 başvuru dönemi kapanmış olup, bir sonraki çağrı dönemi olan **2027 yılına** şehri en güçlü şekilde hazırlamak için stratejik bir eylem planıdır. Adana'nın "Gastronomi" alanındaki gücü (Kebap, Şalgam, Narenciye) veya "Tasarım/Moda" (Tekstil geçmişi) alanındaki potansiyeli UNESCO tarafından tescillenerek şehrin uluslararası turizm destinasyonu olması hedeflenir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Durum:** Gaziantep, Hatay ve Afyonkarahisar "Gastronomi" alanında; İstanbul "Tasarım" alanında ağa üyedir. Adana bu ligde hak ettiği yerde değildir.
+*   **Fırsat:** İyi hazırlanmış bir başvuru dosyası ve 2 yıllık "Track Record" (yapılan etkinlikler kanıtı) ile 2027'de unvanın alınması kuvvetle muhtemeldir.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Tema Kararı:** Gastronomi en güçlü kasımızdır ancak rekabetin en yüksek olduğu alandır. "Tasarım" (Tekstil/Moda odaklı) stratejik bir alternatif olabilir. SWOT analizi ile karar verilecektir.
+*   **Hazırlık Süreci:**
+    *   **Envanter:** Şehrin tüm somut olmayan kültürel mirasının (yemek tarifleri, dokuma teknikleri) tescillenmesi.
+    *   **Uluslararası İşbirliği:** Ağdaki diğer şehirlerle (Örn: Lyon, Gaziantep) ortak projeler yapmak (Başvuru şartıdır).
+    *   **Sürdürülebilirlik:** "Atıksız Mutfak" (Zero Waste Kitchen) projelerinin hayata geçirilmesi.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Gaziantep Örneği:** UNESCO unvanından sonra turist sayısı ve gastronomi gelirleri katlanmıştır.
+*   **Montreal (Tasarım Şehri):** Şehrin her detayında tasarımın ön planda olması.
+*   **Östra Göinge (İsveç):** Küçük bir şehrin inovasyonla ağa girmesi.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (2 Yıllık Hazırlık):**
+    *   Danışmanlık ve Dosya Yazımı: 500.000 TL
+    *   Uluslararası Lobi Faaliyetleri (Seyahatler): 1.000.000 TL
+    *   Festival ve Etkinlikler (Mevcut bütçeden): - (Ek maliyet değil, yönlendirme).
+    *   **Toplam:** 1.500.000 TL (Yıllık 750k).
+*   **ROI:** UNESCO logosunun turizmde yarattığı marka değeri paha biçilemezdir (Milyonlarca dolarlık reklam değerindedir).
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **2025 Q3:** "UNESCO Yürütme Komitesi"nin (Valilik, Büyükşehir, Üniversite) kurulması.
+*   **2025 Q4:** Gastronomi vs. Tasarım kararının verilmesi.
+*   **2026 Yılı:** "Aday Şehir" temalı festivaller ve uluslararası partnerlikler.
+*   **2027 Q1:** Başvuru dosyasının Paris'e teslimi.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Başvurunun reddedilmesi. -> **Önlem:** Süreç boyunca yapılan envanter çalışması ve kurulan kurumsal kapasite bile şehre kârdır. "Gastronomi Şehri" markası UNESCO olmasa da kullanılmaya devam edilir.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Tamamlanan başvuru dosyası.
+    2.  Uluslararası partner şehir sayısı (Hedef: 3 Şehir).
+*   **Sosyal Etki:** Kentte yaşayanların "Dünya Şehri"nde yaşadığını hissetmesi ve gurur duyması.
+

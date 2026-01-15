@@ -1,0 +1,52 @@
+# PROJE 88: SEYHAN NEHRİ KIYI REKREASYON MASTER PLANI
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Mavi Kuşak: Nehirle Barışan Şehir
+*   **Uygulayıcı Birim:** Kentsel Tasarım Müdürlüğü & Park Bahçeler
+*   **Proje Kategorisi:** Kentsel Tasarım / Peyzaj
+*   **Tahmini Başlangıç/Bitiş:** 01.07.2025 - 01.01.2026 (Planlama)
+*   **Konum:** Seyhan Nehri Kıyı Şeridi (Regülatör Köprü - Otoban Arası)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Adana'nın en büyük doğal değeri olan Seyhan Nehri kıyılarının (Riverfront); bütüncül bir "Master Plan" ile ele alınarak; rekreasyon alanları, kesintisiz yürüyüş/bisiklet yolları, su sporları merkezleri ve ekolojik koridorlar olarak tasarlanması projesidir. (Bu aşama planlama ve yarışma aşamasıdır).
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Nehir kıyısı parçacıl planlanmış. Bazı yerler işgalli, bazı yerler bakımsız. Nehir şehirden kopuk, sadece uzaktan izleniyor.
+*   **Çözüm:** Nehri yaşamın içine katmak, suya dokunmak.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Zonlama (Bölgeleme):**
+    *   *Kültür Sanat Zonu:* Merkez Park çevresi (Konser, Festival).
+    *   *Spor Zonu:* Gençlik Köprüsü çevresi (Kano, Kürek, Koşu).
+    *   *Ekoloji Zonu:* Güney kısmı (Kuş gözlemi, sessiz bölge).
+*   **Tasarım Kriterleri:** Taşkın riski göz önüne alınarak "Suya Dayanıklı Peyzaj". Beton yerine ahşap ve doğal taş kullanımı.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Eskişehir Porsuk Çayı:** Türkiye'nin en iyi örneği. Şehri turizm markası yaptı.
+*   **Ahmedabad (Hindistan):** Sabarmati Riverfront projesi.
+*   **London South Bank:** Kültür ve sanat odaklı kıyı düzenlemesi.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Master Plan ve Etüt Çalışması: 2.000.000 TL.
+    *   Ulusal Proje Yarışması (Ödüller+Jüri): 3.000.000 TL.
+    *   **Toplam:** 5 Milyon TL (Uygulama bütçesi hariçtir, uygulama 2026-2027 planına girer).
+*   **Kaynak:** Çevre, Şehircilik ve İklim Değişikliği Bakanlığı hibeleri.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** DSİ (Devlet Su İşleri) ile protokol ve kıyı kenar çizgisi tespiti.
+*   **Ay 2:** Mevcut durum analizi (Drone haritalama).
+*   **Ay 3:** "Seyhan Kıyısını Tasarlıyor" yarışmasının ilanı.
+*   **Ay 4-6:** Projelerin toplanması ve jüri değerlendirmesi.
+*   **Ay 7:** Kazanan projenin uygulama projelerinin çizdirilmesi.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** DSİ'nin taşkın riski gerekçesiyle kıyı kullanımına izin vermemesi. -> **Önlem:** Sabit yapı (bina) yapılmayacağı, sadece peyzaj olacağı taahhüt edilir.
+*   **Risk:** Mülkiyet sorunları (Özel şahıs arazileri). -> **Önlem:** Kamulaştırma yerine "Düzenleme Ortaklık Payı" (DOP) veya takas yöntemleri.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Kazanılan aktif yeşil alan miktarı (m2).
+    2.  Kıyı şeridinin kesintisiz uzunluğu.
+*   **Sosyal Etki:** Adana'nın "Marka Şehir" olması. Turist sayısında artış.
+

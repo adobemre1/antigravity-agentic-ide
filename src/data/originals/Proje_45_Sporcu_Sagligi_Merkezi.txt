@@ -1,0 +1,57 @@
+# PROJE 45: AMATÖR SPORCU SAĞLIĞI VE PERFORMANS MERKEZİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Performans: Şampiyonların Sağlığı
+*   **Uygulayıcı Birim:** Sağlık İşleri & Spor Müdürlüğü
+*   **Proje Kategorisi:** Sporcu Sağlığı
+*   **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.10.2025 (5 Ay)
+*   **Konum:** Mevcut Spor Komplekslerinden Birinin İçinde
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Profesyonel imkanlara erişemeyen amatör kulüp sporcularına ve altyapı öğrencilerine; ücretsiz EKG (Kalp taraması), Vücut Analizi (Yağ/Kas), Performans Testleri ve Sakatlık Sonrası Rehabilitasyon hizmeti veren butik bir sağlık merkezidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Amatör kümede oynayan bir genç sakatlandığında MR çektirememekte, fizyoterapi alamamakta ve sporu bırakmaktadır. Ayrıca "Gizli Kalp" riski sahalarda ölümcül olabilmektedir.
+*   **Fırsat:** Erken teşhis ve doğru yönlendirme ile Adana'dan daha fazla milli sporcu çıkabilir.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Ekipman Maliyeti (2025):**
+    *   **EKG Cihazı (12 Kanallı):** ~25.000 TL.
+    *   **Vücut Analiz (Tanita Profesyonel):** ~40.000 - 60.000 TL.
+    *   **Koşu Bandı (Medikal):** ~100.000 TL.
+    *   **Fizyoterapi Cihazları (Ultrason, TENS vb.):** ~150.000 TL.
+    *   **Toplam Donanım:** ~500.000 TL.
+*   **Personel:** 1 Spor Hekimi (Yarı zamanlı/Protokol ile), 2 Fizyoterapist (Belediye kadrosu), 1 Diyetisyen.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Aspetar (Katar):** Dünyanın en iyi örneği (Çok ileri seviye).
+*   **İzmir Büyükşehir:** Sporcu Sağlık Merkezi örneği.
+*   **PPE Standartları:** "Pre-Participation Evaluation" (Sporsa Başlama Muayenesi) uluslararası standarttır.
+*   **Seyhan Modeli:** Hepsini yapmak yerine "Tarama ve Yönlendirme" odaklı, maliyeti düşük, etkisi yüksek model.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   Tadilat ve Tefrişat: 300.000 TL.
+    *   Medikal Cihazlar: 500.000 TL.
+    *   **Toplam:** 800.000 TL.
+*   **İşletme Gideri:** Personel maaşları ve sarf malzeme (Jel, elektrot vb.).
+*   **Gelir:** Tamamen ücretsiz sosyal hizmettir.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Uygun mekanın (Spor salonu yanındaki boş odalar) belirlenmesi.
+*   **Ay 2:** Cihaz ihalesi.
+*   **Ay 3:** İl Sağlık Müdürlüğü'nden gerekli izinlerin (Revir/Poliklinik) alınması.
+*   **Ay 4:** Amatör Spor Kulüpleri Federasyonu (ASKF) ile protokol.
+*   **Ay 5:** Sezon öncesi toplu taramaların başlaması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Hukuki sorumluluk (Yanlış teşhis). -> **Önlem:** Merkez bir "Hastane" değildir, "Tarama Merkezi"dir. Şüpheli durumlarda tam teşekküllü hastaneye sevk eder. Bu tabela girişe asılır.
+*   **Risk:** Doktor bulamamak. -> **Önlem:** Üniversite hastanesiyle protokol yapılır, asistan doktorlar rotasyonla gelir.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Taranan sporcu sayısı.
+    2.  Tespit edilen riskli vaka sayısı (Teşhis konulan).
+    3.  Sakatlık sonrası spora dönen genç sayısı.
+*   **Sosyal Etki:** Sporcu ailelerinin içinin rahat etmesi.
+

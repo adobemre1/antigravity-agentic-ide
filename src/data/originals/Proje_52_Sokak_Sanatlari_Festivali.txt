@@ -1,0 +1,53 @@
+# PROJE 52: SEYHAN ULUSLARARASI SOKAK SANATLARI FESTİVALİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Mural Fest: Şehrin Renkleri
+*   **Uygulayıcı Birim:** Kültür İşleri & Park Bahçeler
+*   **Proje Kategorisi:** Festival / Kent Estetiği
+*   **Tahmini Başlangıç/Bitiş:** Nisan Ayı (Portakal Çiçeği Karnavalı ile entegre olabilir)
+*   **Konum:** Şehir Merkezindeki Gri Duvarlar (Apartman Cepheleri, Trafolar)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Adana'nın gri beton duvarlarını devasa sanat eserlerine (Mural) dönüştüren; dünyaca ünlü sokak sanatçılarının davet edildiği, vinçler üzerinde canlı boyama performanslarının yapıldığı (Live Painting), şehri açık hava galerisine çeviren bir festivaldir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Şehir merkezinde estetikten yoksun, sıvası dökülmüş, devasa sağır cepheler (penceresiz duvarlar) görüntü kirliliği yaratmaktadır.
+*   **Çözüm:** Bu duvarları tuvale çevirmek. Bir bina boyandığında tüm sokağın havası değişir, emlak değeri artar.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Lojistik:** Yüksek binalar (5-10 kat) için Sepetli Vinç kiralama (Günlük 8.000 - 12.000 TL).
+*   **Boyalar:** Dış cepheye dayanıklı sprey boyalar (Montana, Molotow vb.) ve astar boya.
+*   **Sanatçılar:** 3 Yabancı (Prestij için), 5 Ulusal, 10 Yerel (Genç yetenek) sanatçı.
+*   **Konum:** Uydu görüntüsü ve sokak taraması ile en uygun 10 "Kanvas Duvar"ın seçilmesi.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Mural İstanbul (Kadıköy/Yeldeğirmeni):** Mahalleyi turizm merkezine dönüştürdü.
+*   **Wynwood Walls (Miami):** Dünyanın en ünlü sokak sanatı bölgesi.
+*   **Bristol (Upfest):** Avrupa'nın en büyük festivali.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   Sanatçı Kaşeleri ve Ulaşım: 500.000 TL.
+    *   Vinç Kiralama (10 Vinç x 5 Gün): 500.000 TL.
+    *   Boya ve Malzeme: 300.000 TL.
+    *   Organizasyon (Ses, Tanıtım): 200.000 TL.
+    *   **Toplam:** 1.5 Milyon TL.
+*   **Sponsorluk:** Boya firmaları (DYO, Polisan vb.) genellikle %100 malzeme sponsoru olur.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Duvar tespiti ve bina sakinlerinden (Yöneticilerden) yazılı izin alınması (En zor süreç).
+*   **Ay 2:** Küratör eşliğinde sanatçı seçimi ve eskizlerin onayı (Müstehcenlik/Politik içerik kontrolü).
+*   **Ay 3:** Sponsorluk görüşmeleri.
+*   **Ay 4:** Festival haftası. Canlı performanslar.
+*   **Ay 5:** "Seyhan Mural Haritası"nın yayınlanması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Hava muhalefeti (Yağmurda boya yapılmaz). -> **Önlem:** Festival tarihleri meteorolojiye göre esnek tutulur.
+*   **Risk:** Vandalizm (Eserin üzerine yazı yazılması). -> **Önlem:** Eserlerin alt kısmı 3 metreye kadar "Anti-Graffiti" (tazikli suyla temizlenen) vernik ile kaplanır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Boyanan metrekare alan.
+    2.  Sosyal medyada (Instagram) eser önünde çekilen fotoğraf sayısı.
+*   **Sosyal Etki:** Sanatın galeri/müze dışına çıkıp halkın ayağına gelmesi.
+

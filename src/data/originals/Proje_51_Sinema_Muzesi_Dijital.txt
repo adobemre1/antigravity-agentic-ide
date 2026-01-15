@@ -1,0 +1,54 @@
+# PROJE 51: ADANA SİNEMA MÜZESİ DİJİTAL DÖNÜŞÜMÜ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Dijital Hafıza: Sinema Belleği
+*   **Uygulayıcı Birim:** Kültür İşleri & Bilgi İşlem
+*   **Proje Kategorisi:** Dijital Arşivcilik
+*   **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.12.2025 (6 Ay)
+*   **Konum:** Adana Sinema Müzesi
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Mevcut Sinema Müzesi'ndeki fiziksel arşivin (Afiş, senaryo, set fotoğrafları); müze standartlarında profesyonel tarayıcılarla dijitalleştirilerek çevrimiçi erişime açılması, yapay zeka ile renklendirilmesi ve "Sanal Tur" entegrasyonu projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Müzedeki kağıt eserler nem ve ışıktan dolayı yıpranmaktadır. Arşive sadece müzeye gelenler ulaşabilmektedir. Arama yapmak imkansızdır (Metadata yoktur).
+*   **Çözüm:** Dijital ikiz oluşturmak ve bunu dünyaya açmak.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Donanım Yatırımı:**
+    *   **A0 Kitap Tarayıcı (Book Scanner):** Ciltli eserlere zarar vermeyen "V" beşikli özel tarayıcı. (Tahmini: 200.000 TL).
+    *   **NAS Sunucu:** QNAP veya Synology Enterprise serisi (32TB+ RAID 6 yedeklemeli). (Tahmini: 50.000 TL).
+    *   **Yazılım:** DSpace veya açık kaynaklı bir arşiv yazılımı kurulumu.
+*   **3D Tur:** Matterport teknolojisi ile müzenin milim milim taranması ve web sitesine gömülmesi.
+*   **AI Restorasyon:** Yıpranmış siyah-beyaz set fotoğraflarının yapay zeka ile renklendirilmesi.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **EYE Filmmuseum (Amsterdam):** Dijital erişimde dünya lideri.
+*   **Salt Araştırma (İstanbul):** Mükemmel bir online arşiv örneği.
+*   **European Film Gateway:** Avrupa film mirasına erişim portalı.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Tarayıcı ve Sunucu: 300.000 TL.
+    *   Web Portalı Geliştirme: 150.000 TL.
+    *   Personel (Arşivist): Mevcut personel eğitilecek.
+    *   **Toplam:** 450.000 TL.
+*   **Gelir:** Yüksek çözünürlüklü görsellerin belgeselcilere/yayıncılara telif karşılığı satılması.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Envanter sayımı ve önceliklendirme (Acil korunması gerekenler).
+*   **Ay 2:** Donanım kurulumu.
+*   **Ay 3:** Tarama operasyonunun başlaması (Günde 500 sayfa hedefi).
+*   **Ay 4:** Metadata girişi (Etiketleme: "Yılmaz Güney", "1972", "Umut Filmi").
+*   **Ay 5:** Web sitesinin beta yayını.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Telif hakları sorunu. -> **Önlem:** Eserler sadece "Thumbnails" (küçük resim) olarak halka açılır, tam boy indirme için "Araştırmacı Başvurusu" şartı aranır.
+*   **Risk:** Veri kaybı. -> **Önlem:** 3-2-1 Yedekleme kuralı (3 kopya, 2 farklı medya, 1 ofis dışı yedek).
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Dijitalleştirilen eser sayısı (Hedef: 50.000).
+    2.  Web sitesi ziyaretçi sayısı.
+*   **Sosyal Etki:** Adana'nın sinema hafızasının ölümsüzleşmesi.
+

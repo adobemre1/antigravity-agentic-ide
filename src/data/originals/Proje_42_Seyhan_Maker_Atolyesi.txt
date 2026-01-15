@@ -1,0 +1,54 @@
+# PROJE 42: SEYHAN MAKER ATÖLYESİ VE ÇOCUK FAB-LAB
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Mucitler Atölyesi: Kendin Yap (DIY)
+*   **Uygulayıcı Birim:** Bilgi İşlem & Kültür Müdürlüğü
+*   **Proje Kategorisi:** STEM Eğitimi
+*   **Tahmini Başlangıç/Bitiş:** 01.09.2025 - Sürekli
+*   **Konum:** Kütüphaneler veya Bilgi Evleri İçinde
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Çocuklara "tüketici" değil "üretici" olmayı aşılayan; 3D Yazıcılar (Creality/Prusa), Arduino setleri, ahşap tasarım kitleri ve basit el aletleri ile donatılmış, ücretsiz bir "Kendin Yap" (Maker) atölyesidir. Kodlama, robotik ve tasarım odaklıdır.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Çocuklar teknolojiyi sadece tablet izleyerek kullanıyor. El becerileri (Motor kaslar) zayıflıyor. Üretim kültürü yok oluyor.
+*   **Fırsat:** Maker hareketi dünyada eğitim devrimidir. Basit bir 3D yazıcı ile çocuk hayalindeki oyuncağı basabilir.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Donanım (2025 Maliyetleri):**
+    *   **3D Yazıcı:** 5 Adet (Creality Ender 3 V3 KE vb.). Birim: ~15.000 TL. Toplam: 75.000 TL.
+    *   **Filament:** Yıllık stok (PLA). ~600 TL/kg. Toplam: 20.000 TL.
+    *   **Arduino Setleri:** 30 Adet (Başlangıç Seti). Birim: ~750 TL. Toplam: 22.500 TL.
+    *   **Bilgisayar/Tablet:** Tasarım (Tinkercad) için 10 adet orta seviye PC.
+*   **Müfredat:** Hafta içi okul grupları, hafta sonu serbest atölye.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Üsküdar Belediyesi:** Bilim Üsküdar projesi.
+*   **FabLab Ağı (MIT):** Küresel üretim ağı.
+*   **Seyhan Modeli:** "Baba-Çocuk Atölyesi" gibi ebeveynleri de sürece katan, kuşakları buluşturan model.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   Donanım ve Tefrişat: 400.000 TL.
+    *   Eğitmen Gideri (Yıllık): 500.000 TL (Veya gönüllü üniversiteliler).
+    *   **Toplam Kuruluş:** ~500.000 TL.
+*   **Sürdürülebilirlik:** Üretilen hediyelik eşyaların (Anahtarlık vb.) belediye mağazasında satılmasıyla sarf malzeme (Filament) parası çıkarılabilir.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Mekan tespiti (Havalandırması iyi olan bir oda - 3D yazıcı kokusu için).
+*   **Ay 2:** Ekipman alımı.
+*   **Ay 3:** "Maker Eğitmeni" eğitimi (Halk Eğitim ile işbirliği).
+*   **Ay 4:** Pilot atölyeler (Personel çocuklarıyla deneme).
+*   **Ay 5:** Genel açılış.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** İş güvenliği (Lehim makinesi, sıcak silikon yanıkları). -> **Önlem:** Her masada 1 mentör olacak. Koruyucu gözlük/eldiven şart.
+*   **Risk:** Cihazların bozulması. -> **Önlem:** "Tamir İstasyonu" kurularak çocuklara cihaz tamiri de öğretilir.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Eğitim alan çocuk sayısı.
+    2.  Üretilen proje sayısı.
+    3.  TEKNOFEST katılımı.
+*   **Sosyal Etki:** Analitik düşünme, problem çözme ve el becerilerinin gelişimi.
+

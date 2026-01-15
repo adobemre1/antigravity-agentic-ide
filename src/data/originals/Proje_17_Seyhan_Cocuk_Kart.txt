@@ -1,0 +1,57 @@
+# PROJE 17: SEYHAN ÇOCUK KART (Akıllı Beslenme ve Destek Sistemi)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Beslenme Dostu Okul Kartı
+*   **Uygulayıcı Birim:** Sosyal Yardım İşleri & Bilgi İşlem Müdürlüğü
+*   **Proje Kategorisi:** Çocuk Sağlığı ve Sosyal Yardım
+*   **Tahmini Başlangıç/Bitiş:** 01.09.2025 - 01.06.2026 (Öğretim Yılı Boyunca)
+*   **Hedef Kitle:** İlköğretim çağındaki 50.000 öğrenci (Pilot: 10 Okul).
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+İlkokul öğrencilerinin okul kantinlerinde kullanabileceği, "Kapalı Döngü" (Closed Loop) ödeme sistemidir. Veli, mobil uygulama üzerinden çocuğunun ne yediğini görebilir, harcama limiti koyabilir ve alerjisi olan ürünleri (Örn: Yer fıstığı) kısıtlayabilir. Projenin sosyal yönü ise; belediyenin ihtiyaç sahibi öğrencilerin kartına her ay gizlice (renk/desen farkı olmadan) beslenme desteği yüklemesi ve "Beslenme çantam boş" utancını bitirmesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Nakit para çocuklar için risklidir (Kaybolma, çalınma, hijyen). Ayrıca yoksul öğrenciler kantin sırasında arkadaşlarına mahcup olmaktadır.
+*   **Sağlık Sorunu:** Ebeveynler çocuğun okulda ne yediğini (kola mı içti, ayran mı?) bilememekte, bu da obeziteyi tetiklemektedir.
+*   **Veri Eksikliği:** Okul kantinlerinin cirosu ve satılan ürün kalitesi denetlenememektedir.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Sistem Bileşenleri:**
+    1.  **NFC Akıllı Kart:** Öğrenci fotoğraflı, kişiye özel kart.
+    2.  **Kantin POS Cihazı:** Kantincinin kullandığı dokunmatik ekranlı satış terminali.
+    3.  **Veli Mobil App:** Bakiye yükleme (Kredi kartı ile), yasaklı ürün seçimi ve raporlama ekranı.
+*   **Yazılım Kural Seti:**
+    *   *Kural 1:* "Bu çocuğun fındık alerjisi var, fındıklı gofret satılamaz." (Ekranda uyarı çıkar).
+    *   *Kural 2:* "İhtiyaç sahibi bursu, sadece besleyici gıdalarda (tost, ayran, meyve) geçerlidir, cips/kola alınamaz."
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (İngiltere - Free School Meals):** Devlet okullarında ihtiyaç sahiplerine verilen ücretsiz yemek desteği, artık damgalanmayı önlemek için dijital kartlara yüklenmektedir.
+*   **Türkiye Örneği (İBB Anne Kart & Üniversite Kartları):** Ulaşımda kullanılan modelin kantine uyarlanmış hali.
+*   **Seyhan Farkı:** Yerel süt kooperatifleri ile anlaşıp, "Seyhan Kart ile alınan sütte %20 indirim" gibi sağlıklı teşvikler uygulanacaktır.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   POS Cihazı ve Yazılım Lisansı (20 Pilot Kantin için): 300.000 TL
+    *   Kart Basımı (5000 Öğrenci): 100.000 TL
+    *   Mobil Uygulama Geliştirme: 200.000 TL
+    *   **Toplam:** 600.000 TL
+*   **Sosyal Yardım Bütçesi:** Ayda 1000 öğrenciye 500 TL beslenme desteği = Yıllık 4.5 Milyon TL (Sosyal Yardım bütçesinden aktarılır).
+*   **Finansman Modeli:** Kantin işletmecilerinden alınan POS komisyonu (%1-2) ile sistemin teknik bakım giderleri karşılanır.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Milli Eğitim Müdürlüğü ve Kantinciler Odası ile protokol.
+*   **Ay 2:** Pilot okulların seçimi (Farklı sosyo-ekonomik düzeyde 3 okul).
+*   **Ay 3:** Yazılımın "Yasaklı Ürün" ve "Burs" algoritmalarının kodlanması.
+*   **Ay 4:** Veli bilgilendirme toplantıları ve kart dağıtımı.
+*   **Ay 5:** Sistemin aktif olması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Kantincilerin sisteme direnmesi (Kayıt dışı gelirin bitmesi). -> **Önlem:** Kantincilere "Kartlı sistemle cironuz artacak, para üstü derdi bitecek" eğitimi verilecek. Gerekirse ilk yıl POS ücreti alınmayacak.
+*   **Risk:** İnternet/Sistem kesintisi. -> **Önlem:** Kartların "Offline Bakiye" özelliği olacak, internet gelince senkronize olacak.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Kart kullanım oranı (%80 üzeri).
+    2.  Sağlıklı gıda (süt/meyve) tüketiminde artış oranı.
+*   **Sosyal Etki:** Sınıf içinde "zengin-fakir" ayrımının görünmez hale gelmesi. Tüm çocukların eşit şartlarda beslenmesi.
+

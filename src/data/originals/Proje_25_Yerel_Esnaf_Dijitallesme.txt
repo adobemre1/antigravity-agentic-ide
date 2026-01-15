@@ -1,0 +1,56 @@
+# PROJE 25: YEREL ESNAF DİJİTALLEŞME PAKETİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Esnafım Dijital: Yerelden Genele Ticaret Köprüsü
+*   **Uygulayıcı Birim:** Bilgi İşlem Müdürlüğü & Basın Yayın
+*   **Proje Kategorisi:** KOBİ Destek
+*   **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.12.2025 (Pilot Faz)
+*   **Partner:** KOSGEB, Trendyol/Hepsiburada (Pazaryeri Entegrasyonu)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Mahalle esnafının (tuhafiyeci, şarküteri vb.) ulusal zincir marketler karşısında rekabet edebilmesi için; e-ticaret altyapısının kurulması, Google Maps harita kayıtlarının güncellenmesi ve pazaryeri (Trendyol vb.) entegrasyonlarının "Anahtar Teslim" yapıldığı bir destek paketidir. KOSGEB'in 2025 İş Geliştirme Destekleri ile finanse edilir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Esnafın dijital okuryazarlığı düşüktür. İnternetten satış yapmak istese bile "ürün fotoğrafı çekmek", "kargo anlaşması yapmak", "komisyon oranlarını hesaplamak" karmaşık gelmektedir.
+*   **Fırsat:** E-ticaret pazaryerlerinin (Örn: Trendyol) kadın girişimciler ve yerel satıcılar için sunduğu düşük komisyon (%3-5 civarı) fırsatları mevcuttur.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Dijital Destek Timi:** Üniversite öğrencilerinden oluşan 20 kişilik stajyer ekibi. Ekipmanları: Profesyonel Fotoğraf Makinesi, Işık Çadırı (Ürün çekimi için), Tablet.
+*   **Yapılacak İşler:**
+    1.  Dükkana gidilir, en çok satan 50 ürünün fotoğrafı çekilir.
+    2.  Google Benim İşletmem (Maps) kaydı doğrulanır/açılır.
+    3.  Pazaryeri mağazası açılır ve ürünler yüklenir.
+    4.  Esnafa "Sipariş gelince ne yapacaksın?" eğitimi verilir (Basit Arayüz).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (Digital Main Street - Kanada):** Hükümetin yerel cadde esnafını dijitalleştirmek için kurduğu Dijital Hizmet Ekibi modeli.
+*   **Dünya Örneği (GoDaddy Empower):** Düşük gelirli bölgelerdeki esnafa web sitesi eğitimi.
+*   **Türkiye Örneği (GetirÇarşı / Yemeksepeti Mahalle):** Hızlı ticaret (Q-Commerce) entegrasyonu.
+*   **Seyhan Farkı:** Belediyenin "tarafsız güvenilirliği" ile esnafı ikna etmesi daha kolaydır.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   Ekipman (Fotoğraf Makinesi, Tablet): 300.000 TL
+    *   Öğrenci Harçlıkları/Maaşları (6 Ay): 600.000 TL
+    *   Yazılım Entegrasyonu (Toplu Lisans): 200.000 TL
+    *   **Toplam:** 1.100.000 TL
+*   **Finansman:** KOSGEB "İşletme Geliştirme Destek Programı" veya ÇKA Teknik Destek programı.
+*   **ROI:** Ciro artışı yaşayan esnaf dükkanını kapatmaz, vergisini öder, istihdam sağlar.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Üniversite Teknokent ile "Dijital Tim" protokolü.
+*   **Ay 2:** Öğrenci seçimi ve "E-Ticaret Operasyon Eğitimi".
+*   **Ay 3:** Pilot bölge (Örn: Baraj Yolu Caddesi) seçimi ve esnaf ziyareti.
+*   **Ay 4:** Ürün çekimleri ve veri girişi maratonu.
+*   **Ay 5:** Lansman: "Seyhan'ın Esnafı İnternette".
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Esnafın "İnternet işi bana uymaz, iadeyle uğraşamam" direnci. -> **Önlem:** Sadece iade oranı düşük, dayanıklı ürünler (Paketli gıda, züccaciye) ile başlanır. Başarı hikayeleri (videolar) diğerlerine izletilir.
+*   **Risk:** Öğrencilerin ciddiyetsizliği. -> **Önlem:** Her 5 öğrencinin başında bir "Saha Süpervizörü" bulunur.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Dijitalleşen esnaf sayısı (Hedef: 500 İşletme).
+    2.  Yüklenen ürün sayısı (Hedef: 20.000 Ürün).
+*   **Sosyal Etki:** Mahalle bakkalının Amazon/Trendyol ile rekabet edebilir hale gelerek hayatta kalması.
+

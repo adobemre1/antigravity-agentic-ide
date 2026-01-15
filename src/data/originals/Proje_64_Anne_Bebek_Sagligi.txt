@@ -1,0 +1,53 @@
+# PROJE 64: YENİ DOĞAN DESTEK PAKETİ VE ANNE EĞİTİMİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Hoş Geldin Bebek: İlk Adım Paketi
+*   **Uygulayıcı Birim:** Kadın ve Aile Hizmetleri
+*   **Proje Kategorisi:** Sosyal Yardım / Anne Çocuk Sağlığı
+*   **Tahmini Başlangıç/Bitiş:** 01.05.2025 - Sürekli
+*   **Hedef Kitle:** Seyhan'da doğan tüm bebekler (Yılda ~10.000 Doğum)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Finlandiya'nın ünlü "Baby Box" modelinin yerelleştirilmiş halidir. Yeni doğum yapan annelere; içinde bebek bezi, zıbın, ateş ölçer, hijyen seti ve "Eğitici Anne Kitapçığı" bulunan bir kutunun hediye edilmesi; teslimat sırasında emzirme ve bebek bakımı eğitiminin verilmesi projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Genç anneler bebek bakımı konusunda bilgisizdir. Ekonomik krizde bebek masrafları aileyi zorlamaktadır.
+*   **Çözüm:** Hem maddi destek (malzeme) hem de manevi destek (eğitim) sağlamak.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Kutu İçeriği:**
+    *   Tekstil: %100 Pamuklu zıbın, battaniye, çorap.
+    *   Hijyen: Yenidoğan bezi, ıslak mendil, şampuan, pişik kremi.
+    *   Sağlık: Dijital ateş ölçer, burun aspiratörü.
+    *   Eğitim: "Bebeğim Büyüyor" rehberi (Aşı takvimi, emzirme teknikleri).
+*   **Dağıtım Ağı:** Nüfus Müdürlüğü'nden alınan günlük doğum listesiyle adreslere teslimat veya belediyeden randevulu teslim.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Finlandiya:** 80 yıldır uygulanan, bebek ölümünü düşüren devlet politikası. Kutu aynı zamanda yatak olur.
+*   **İBB (Anne Bebek Paketi):** Başarılı bir yerel örnek.
+*   **Seyhan Farkı:** Kutu teslim edilirken hemşirenin eve girip 15 dk "Emzirme ve Gaz Çıkarma" eğitimi vermesi.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (Yıllık):**
+    *   Paket Maliyeti: 500 TL/Adet (Toptan Alım).
+    *   Yıllık 5.000 Kutu (Hedef): 2.500.000 TL.
+    *   Lojistik/Araç: 500.000 TL.
+    *   **Toplam:** 3 Milyon TL.
+*   **Kaynak:** Sosyal yardım bütçesi ve sponsorluklar (Bebek bezi firmalarından ürün desteği alınabilir).
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** İhale ve kutu tasarımı (Karton kutu, beşik gibi süslü olmalı).
+*   **Ay 2:** Ürünlerin tedariki ve paketleme ekibinin kurulması.
+*   **Ay 3:** Dağıtım ekiplerinin (Hemşire/Ebe) eğitimi.
+*   **Ay 4:** Dağıtımın başlaması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Ürünlerin alerji yapması. -> **Önlem:** Sadece dermatolojik testli, bilindik markalar kullanılır.
+*   **Risk:** Zengin/Fakir ayrımı tartışması. -> **Önlem:** "Hoş Geldin" hediyesidir, gelir durumuna bakılmaksızın herkese verilir. Ancak eğitim ve takip dar gelirlide yoğunlaşır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Dağıtılan kutu sayısı.
+    2.  Eğitim verilen anne sayısı.
+*   **Sosyal Etki:** Annenin kendini değerli hissetmesi. "Belediyem çocuğumu sahiplendi" duygusu.
+

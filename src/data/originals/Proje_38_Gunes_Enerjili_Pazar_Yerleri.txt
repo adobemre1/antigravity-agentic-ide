@@ -1,0 +1,52 @@
+# PROJE 38: GÜNEŞ ENERJİLİ PAZAR YERLERİ (GES)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Enerji Çatıları: Kapalı Pazarlardan Elektrik Üretimi
+*   **Uygulayıcı Birim:** Fen İşleri & Enerji Yönetim Birimi
+*   **Proje Kategorisi:** Yenilenebilir Enerji
+*   **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.02.2026 (8 Ay)
+*   **Kapasite:** 1 MW (Pilot Pazar Yeri İçin)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Belediyeye ait geniş çatılı kapalı semt pazarlarının üzerine Güneş Enerjisi Santrali (GES) kurularak; gündüz üretilen elektriğin şebekeye verilmesi (mahsuplaşma), akşam ise pazar yerinin ve çevredeki parkların aydınlatılmasında kullanılmasıdır. Atıl çatıları "Gelir Kapısı"na dönüştürür.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Pazar yerleri haftada 1 gün kullanılır, 6 gün boştur. Çatıları binlerce metrekaredir ve sadece gölge yapar. Belediye yılda milyonlarca lira elektrik faturası öder.
+*   **Fırsat:** Adana Türkiye'nin en iyi güneşlenme süresine sahip illerindendir. 1 MW GES, yılda ~1.600.000 kWh elektrik üretir.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Statik Analiz:** Öncelikle çatının rüzgar ve panel yükünü (20 kg/m²) kaldırıp kaldıramayacağı test edilir. Gerekirse güçlendirme yapılır.
+*   **Donanım:** 550W Monokristal Paneller (Yüksek Verim).
+*   **Kapasite:** 1 MW kurulum için yaklaşık 6.000 m² çatı alanı gerekir. (Ortalama bir büyük semt pazarı yeterlidir).
+*   **Maliyet (2025):** 1 MW Anahtar Teslim GES maliyeti ~550.000 $ (Yaklaşık 18-20 Milyon TL).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Antalya Kepez Belediyesi:** Pazar yeri çatılarında başarılı GES uygulamaları.
+*   **Denizli Büyükşehir:** Pazar yeri ve otogar çatıları GES ile kaplı.
+*   **Mexico City Toptancı Hali:** Dünyanın en büyük çatı GES projesi.
+*   **Seyhan Farkı:** Pazarın altına elektrikli araç şarj istasyonları da eklenerek "Enerji Hub"ı oluşturulması.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe:** ~20.000.000 TL (Kredi veya İller Bankası desteği ile).
+*   **Gelir:** Yıllık elektrik üretimi bugünkü fiyatlarla (Ticari tarife ~4 TL/kWh) yaklaşık 6-7 Milyon TL gelir/tasarruf sağlar.
+*   **ROI:** Yatırım kendini 3 - 3.5 yılda amorti eder. Panellerin ömrü 25 yıldır. Yani 20+ yıl "Bedava" elektrik üretir. En kârlı belediye projesidir.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Statik rapor ve Çağrı Mektubu (EDAŞ Bağlantı Görüşü) başvurusu.
+*   **Ay 2:** Proje onayı ve İhale süreci.
+*   **Ay 3:** Çatı güçlendirme (Gerekirse) ve konstrüksiyon montajı.
+*   **Ay 4:** Panellerin yerleştirilmesi.
+*   **Ay 5:** Kablolama, Inverter ve Trafo bağlantısı.
+*   **Ay 6:** Geçici kabul ve elektrik üretimine başlama.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Pazarın inşaat sırasında kapanması. -> **Önlem:** Montaj pazarın kurulmadığı 6 gün boyunca yapılır, pazar günü çalışma durur. Esnaf mağdur edilmez.
+*   **Risk:** Hırsızlık. -> **Önlem:** Çatıya kamera ve alarm sistemi kurulur.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Kurulu Güç (MW).
+    2.  Yıllık Üretim (MWh).
+    3.  Karbon Salınım Azaltımı (Ton CO2).
+*   **Sosyal Etki:** Halkın yenilenebilir enerjiye ilgisinin artması. Belediyenin mali yapısının güçlenmesi.
+

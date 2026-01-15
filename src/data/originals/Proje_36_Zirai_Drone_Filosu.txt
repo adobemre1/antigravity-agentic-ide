@@ -1,0 +1,52 @@
+# PROJE 36: ZİRAİ DRONE FİLOSU (Akıllı Tarım Timi)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Air-Farm: Havadan Zirai Mücadele
+*   **Uygulayıcı Birim:** Kırsal Hizmetler Müdürlüğü
+*   **Proje Kategorisi:** Akıllı Tarım (Agri-Tech)
+*   **Tahmini Başlangıç/Bitiş:** 01.04.2025 - Sürekli (Sezonluk)
+*   **Donanım:** DJI Agras T50 (veya T40) Serisi
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Belediye bünyesinde 2 adet Zirai İlaçlama Drone'u ve 1 adet Multispektral (Analiz) Drone'u ile kurulan bir filonun; traktörün giremediği (çamurlu veya ürün boyu yüksek) tarlalarda küçük çiftçiye "Maliyetine Hizmet" (Dekar Başına ~50 TL) vermesi projesidir. %90 su, %30 ilaç tasarrufu sağlar ve ürünü ezmez.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Traktörle yapılan ilaçlamada ürünlerin %5'i tekerlek altında ezilir (Rekolte kaybı). Ayrıca tonlarca su harcanır. Küçük çiftçi, 20.000$'lık drone'u tek başına alamaz.
+*   **Çözüm:** "Paylaşım Ekonomisi". Belediye alır, çiftçi randevuyla kullanır.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Donanım Maliyeti (2025):**
+    *   DJI Agras T50 (TK): ~700.000 TL (Bataryalar ve Jeneratör dahil set).
+    *   2 Adet İlaçlama + 1 Adet Analiz Drone'u: Toplam ~2.000.000 TL yatırım.
+*   **Operasyon:**
+    *   **Keşif:** Multispektral drone uçar, tarladaki "Hastalık Haritasını" çıkarır (NDVI Analizi).
+    *   **Müdahale:** İlaçlama drone'u sadece hastalıklı bölgeye "Nokta Atışı" (Spot Spraying) ilaç atar.
+*   **Kapasite:** Bir drone saatte 150-200 dekar alanı ilaçlayabilir.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Çin ve Japonya:** Tarımın %60'ı dronlarla yapılıyor.
+*   **İpsala (Edirne) Çeltik Üreticileri:** Çeltik (Pirinç) tarlasına traktör giremediği için drone kullanımı çok yaygın.
+*   **Seyhan Farkı:** Belediyenin kâr amacı gütmeden bu teknolojiyi "Hizmet" olarak sunması.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):** 2.000.000 TL (Ekipman) + 100.000 TL (Pilot Eğitimi).
+*   **Gelir Modeli:** Piyasa fiyatı (Özel sektör) dekar başına 80-100 TL iken, belediye 50 TL (Sadece batarya, pilot ve amortisman maliyeti) alır.
+*   **ROI:** Ürün ezilmesinin önlenmesiyle 1.000 dekarlık alanda çiftçiye kazandırılan "Ekstra Mahsul" bedeli cihaz parasını çıkarır.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** İhale teknik şartnamesinin hazırlanması (Yedek parça garantisi şart).
+*   **Ay 2:** Cihazların temini ve SHGM (Sivil Havacılık) uçuş izinlerinin alınması.
+*   **Ay 3:** 4 Adet Belediye personelinin (Ziraat Teknikeri) İHA-2 ehliyeti alması.
+*   **Ay 4:** İlk uçuş (Mısır tarlalarında deneme).
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Pervane kırılması, kaza. -> **Önlem:** "Kasko Sigortası" zorunludur. Ayrıca yedek drone (Yedek Parça) bulundurulmalıdır.
+*   **Risk:** Rüzgarlı hava. -> **Önlem:** Operasyon durdurulur.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  İlaçlanan toplam alan (Dekar).
+    2.  Hizmet verilen çiftçi sayısı.
+    3.  Tasarruf edilen su miktarı (Ton).
+*   **Sosyal Etki:** Genç çiftçilerin teknolojiyle barışması. İş kazalarının (ilaca maruz kalma) azalması.
+

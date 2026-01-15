@@ -1,0 +1,57 @@
+# PROJE 43: GEZİCİ KÜTÜPHANE VE MOBİL BİLİM TIRI
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Bilimbüs: Keşfetmeye Geliyoruz
+*   **Uygulayıcı Birim:** Kültür İşleri & Destek Hizmetleri
+*   **Proje Kategorisi:** Mobil Eğitim
+*   **Tahmini Başlangıç/Bitiş:** 01.04.2025 - 01.09.2025 (Hazırlık)
+*   **Araç:** Dönüştürülmüş Belediye Otobüsü
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Dezavantajlı mahallelerdeki ve uzak köylerdeki çocuklara fırsat eşitliği sunmak için; belediye envanterindeki eski bir otobüsün içine mikroskoplar, VR gözlükler, deney setleri ve kitaplık monte edilerek "Gezici Bilim Merkezi"ne dönüştürülmesi projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Kenar mahalledeki çocuk ömründe hiç mikroskop görmemiş, VR denememiştir. Sabit merkezlere ulaşım zordur.
+*   **Çözüm:** "Eğer çocuk bilime gelemiyorsa, bilim çocuğa gitmelidir."
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Dönüşüm:**
+    *   Araç: Belediyenin hurdaya ayırmak üzere olduğu veya çalışan eski bir otobüsü.
+    *   İç Dizayn: Koltuklar sökülecek, bilim istasyonları monte edilecek. Yalıtım ve klima güçlendirilecek.
+    *   Maliyet: Profesyonel dönüşüm 2-3 Milyon TL olsa da, belediye atölyesinde kendi ustalarıyla 1 Milyon TL altına mal edilebilir.
+*   **Donanım:**
+    *   Stereo Mikroskoplar (Ekrana yansıtan).
+    *   VR Gözlükler (Oculus Quest 2/3 - Uzay simülasyonu için).
+    *   Van de Graaff Jeneratörü (Saçları diken diken eden elektrik deneyi).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **BioBus (New York):** Mobil biyoloji laboratuvarı.
+*   **Kocaeli Bilim Merkezi:** Gezici tır uygulaması.
+*   **Seyhan Farkı:** Sadece sergi değil, araç dışında kurulan tente altında "Bilim Tiyatrosu" şovları yapılması.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   Araç Tadilatı (Belediye içi): 500.000 TL (Malzeme).
+    *   Bilimsel Ekipman: 500.000 TL.
+    *   Araç Giydirme: 50.000 TL.
+    *   **Toplam:** 1 Milyon TL (Piyasa fiyatının çok altında).
+*   **İşletme Gideri:** Yakıt ve 2 personel (Şoför + Bilim Anlatıcısı).
+*   **Sponsorluk:** Aracın dış giydirmesine sponsor (Örn: Bir sanayi devi) alınarak maliyet sıfırlanabilir.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Araç seçimi ve söküm işlemleri.
+*   **Ay 2:** İç tasarım (Mobilya montajı).
+*   **Ay 3:** Ekipman satın alma ve montaj.
+*   **Ay 4:** Rota planlaması (Okul müdürleriyle koordinasyon).
+*   **Ay 5:** Lansman ve ilk sefer.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Aracın eski olması nedeniyle sık arızalanması. -> **Önlem:** Bakımları tam yapılır, yedek parça stoğu tutulur.
+*   **Risk:** Hassas cihazların (Mikroskop) sarsıntıda bozulması. -> **Önlem:** Özel süngerli/kilitli dolap sistemi tasarlanır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Ziyaret edilen mahalle/okul sayısı.
+    2.  Hizmet verilen çocuk sayısı.
+*   **Sosyal Etki:** Çocukların hayal dünyasının genişlemesi. Bilim insanı olma hevesinin aşılanması.
+

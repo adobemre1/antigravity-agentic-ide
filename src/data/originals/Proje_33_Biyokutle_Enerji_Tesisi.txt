@@ -1,0 +1,51 @@
+# PROJE 33: BİYOKÜTLE ENERJİ TESİSİ VE ANIZ YÖNETİMİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Biyokütle: Atıktan Enerjiye, Külleri Gübreye
+*   **Uygulayıcı Birim:** Temizlik İşleri & Çevre Koruma
+*   **Proje Kategorisi:** Yenilenebilir Enerji
+*   **Tahmini Başlangıç/Bitiş:** 01.09.2025 - 01.09.2027 (24 Ay - Fizibilite ve İnşaat)
+*   **Kapasite:** 1 MW (Başlangıç) - 5 MW (Hedef)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Seyhan Ovası'nda hasat sonrası tarlada kalan ve çiftçilerce yasak olmasına rağmen yakılan mısır sapı, pamuk çalısı ve narenciye dallarının (Anız); belediye öncülüğünde toplanarak Biyokütle (Biomass) Enerji Santrali'nde yakılması ve elektrik enerjisine dönüştürülmesi projesidir. Tarlayı temizler, enerjiyi üretir, hava kirliliğini önler.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Adana'da her yıl binlerce dönüm anız yakılmakta, şehir duman altı olmakta ve toprak verimsizleşmektedir. Anız yakma cezası 2025'te dekar başına **556 TL** olsa da caydırıcı olmamaktadır.
+*   **Fırsat:** Bu atıklar yüksek kalorilidir. 1 MW tesis için yıllık ~10.000 ton atık yeterlidir.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Teknoloji:** Yakma (Direct Combustion) veya Gazlaştırma (Gasification). Gazlaştırma daha verimlidir.
+*   **Lojistik (En Kritik Kısım):** Atığın tarladan toplanması maliyetlidir. Belediye, çiftçiye "Balya Makinesi" desteği verir veya atığını getirene ton başına sembolik ödeme yapar.
+*   **Yan Ürün:** Yanma sonucu oluşan küller (Potasyum zengini) gübre olarak tekrar tarlaya döner (Döngüsel Ekonomi).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Danimarka:** Bölgesel ısıtma sistemlerinin %70'i biyokütle (saman) iledir.
+*   **Mutlular Enerji (Balıkesir):** Türkiye'nin başarılı biyokütle örneklerinden.
+*   **VGrid (Kaliforniya):** Atıktan elektrik + Biochar (Toprak düzenleyici kömür) üreten mobil sistemler.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   1 MW Santral Kurulumu: ~2.8 Milyon Euro (Belediye bütçesini aşar).
+    *   **Model:** Yap-İşlet-Devret (YİD). Belediye araziyi ve atık garantisini verir, özel sektör tesisi kurar.
+*   **Gelir Modeli:**
+    *   YEKDEM (2025): Biyokütle için ~28.6 Dolar-cent/kWh (TL karşılığı) teşvik vardır.
+    *   Karbon Kredisi Satışı.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1-6:** Atık envanteri çalışması (Hangi ayda ne kadar sap çıkıyor, nem oranı ne?).
+*   **Ay 6-12:** Fizibilite raporu ve ÇED süreci.
+*   **Ay 12:** Yatırımcı ihalesi (Yap-İşlet-Devret).
+*   **Ay 12-24:** Tesis inşaatı ve devreye alma.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Hammadde tedarik zincirinin kopması (Çiftçinin atığı vermemesi). -> **Önlem:** Çiftçi ile uzun vadeli "Sözleşmeli Atık Alım" protokolleri yapılır.
+*   **Risk:** Nemli atığın yanmaması. -> **Önlem:** Tesis sahasında "Ön Kurutma" alanı ayrılır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Bertaraf edilen tarımsal atık miktarı (Ton).
+    2.  Üretilen elektrik (MWh).
+    3.  Engellenen anız yangını sayısı.
+*   **Sosyal Etki:** Adanalıların sonbaharda "küllü hava" solumaktan kurtulması.
+

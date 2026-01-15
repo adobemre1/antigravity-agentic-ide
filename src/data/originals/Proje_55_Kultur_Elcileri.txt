@@ -1,0 +1,52 @@
+# PROJE 55: SEYHAN KÜLTÜR ELÇİLERİ VE GÖNÜLLÜ REHBERLER
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Greeters: Şehrin Ev Sahipleri
+*   **Uygulayıcı Birim:** Kültür İşleri & Dış İlişkiler
+*   **Proje Kategorisi:** Gönüllülük / Turizm
+*   **Tahmini Başlangıç/Bitiş:** Sürekli (Hafta sonları ve festivallerde aktif)
+*   **Hedef Kitle:** Lise ve Üniversite Öğrencileri
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Yerel halkın (özellikle gençlerin); kısa bir eğitimden geçerek şehre gelen turistleri ücretsiz gezdirdiği, onlara "bir dost gibi" şehri anlattığı, yeme-içme tavsiyelerinde bulunduğu "Gönüllü Turizm Elçisi" (Greeter) ağıdır.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Turistler şehre geldiğinde kendini yabancı hisseder. Profesyonel rehber tutmak pahalıdır. Adana'nın "tehlikeli" veya "kaba" olduğuna dair yanlış önyargılar vardır.
+*   **Çözüm:** Güler yüzlü, eğitimli gençlerin şehri tanıtması. "Adana insanı sıcaktır" imajını pekiştirmek.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Organizasyon:**
+    *   **Eğitim:** Halk Eğitim desteğiyle 2 haftalık "Turizm, İletişim, Kent Tarihi, Öfke Kontrolü" eğitimi.
+    *   **Üniforma:** Turuncu renkli "Ask Me" (Bana Sorun) yelekleri veya tişörtleri.
+    *   **Uygulama:** "Global Greeter Network" standartlarına uyum.
+*   **Konumlandırma:** Festival zamanlarında (Portakal Çiçeği, Lezzet Festivali) ve hafta sonları tarihi noktalarda (Ulu Cami, Taşköprü) sabit duraklar.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Paris Greeters:** Dünyanın en köklü örneği. "Turist değil, misafir" mottosu.
+*   **New York (Big Apple Greeter):** Şehrin kötü imajını değiştiren proje.
+*   **Seyhan Modeli:** Öğrencilere bu hizmetleri karşılığında "Belediye Hizmetlerinden (Havuz, Kurs) İndirim" veya sinema bileti verilir.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (Yıllık):**
+    *   Eğitim ve Sertifikasyon: 50.000 TL.
+    *   Kıyafet ve Teçhizat: 50.000 TL.
+    *   Ödül/Teşvik Sistemi: 100.000 TL (Ayni - Bilet vb.).
+    *   **Toplam:** 200.000 TL.
+*   **Kaynak:** Belediye bütçesi.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Okullara duyuru ve başvuru toplama.
+*   **Ay 2:** Mülakat (İletişim becerisi yüksek gençlerin seçimi).
+*   **Ay 3:** Eğitim kampı.
+*   **Ay 4:** Yemin töreni ve sahaya çıkış.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Profesyonel rehberlerin (TUREB) tepkisi. -> **Önlem:** Greeter'lar "Tarih/Sanat Tarihi" anlatmaz, yasaktır. Sadece "Şurası güzel, burayı seversiniz, ben burada yaşıyorum" gibi kişisel deneyim paylaşır. Sınır net çizilir.
+*   **Risk:** Güvenlik. -> **Önlem:** Gönüllüler tek başına değil, ikili timler halinde gezer.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Aktif elçi sayısı.
+    2.  Hizmet verilen turist sayısı.
+*   **Sosyal Etki:** Gençlerin özgüven kazanması, yabancı dil pratiği yapması ve şehri sahiplenmesi.
+

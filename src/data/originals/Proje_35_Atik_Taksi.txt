@@ -1,0 +1,53 @@
+# PROJE 35: ATIK TAKSİ (Mobil Ödül Sistemi)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Atık Taksi: Ayrıştır, Çağır, Kazan
+*   **Uygulayıcı Birim:** Temizlik İşleri & İklim Değişikliği
+*   **Proje Kategorisi:** Sıfır Atık / Geri Dönüşüm
+*   **Tahmini Başlangıç/Bitiş:** 01.06.2025 - Sürekli
+*   **Ödül Sistemi:** Seyhan Kart Puan / Market Çeki
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Vatandaşların evlerinde biriktirdiği elektronik atık, bitkisel atık yağ, pil ve hacimli ambalaj atıklarını; mobil uygulama üzerinden "Taksi" çağırır gibi randevu alarak kapıdan teslim etmesi ve atık türüne göre (Örn: Yağ 5 Puan, E-Atık 10 Puan) anında ödül kazanması projesidir. "Çöp" algısını "Değer" algısına dönüştürür.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Vatandaş atık yağını lavaboya dökmekte, eski tost makinesini çöp konteynerine atmaktadır. Çünkü geri dönüşüm kumbarası uzaktır veya doludur.
+*   **Fırsat:** İnsanlar evinden alınırsa ve küçük de olsa bir ödül verilirse (Gamification) ayrıştırmaya %80 daha yatkındır.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Araç Filosu:** 3 Adet panelvan araç ("Atık Taksi" giydirmeli), içinde dijital terazi ve tablet bulunan.
+*   **Mobil Uygulama:** "Atık Nakit" benzeri bir modül. Konum seç, atık türünü seç, randevu oluştur.
+*   **Alt Limitler:** Lojistik maliyeti kurtarmak için "En az 5 Litre Yağ" veya "En az 5 kg E-Atık" kuralı uygulanır. Komşular birleşip çağırabilir.
+*   **Ödül:** Puanlar Seyhan Kart'a yüklenir. Anlaşmalı marketlerde veya belediye tesislerinde geçerlidir.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Başakşehir (Atık Nakit):** Türkiye'nin en başarılı örneği. Atık karşılığı para puan veriyor.
+*   **Fatih Belediyesi (Dönüşüm Kart):** Atık getirene deterjan vb. veriyor.
+*   **Recycle Track Systems (ABD):** "Uber for Trash" modeli.
+*   **Seyhan Farkı:** Sadece para değil, "Sinema Bileti", "Tiyatro Bileti" gibi kültürel ödüller de verilecek.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   3 Araç Giydirme ve Donanım: 300.000 TL (Mevcut araçlar kullanılır).
+    *   Yazılım Geliştirme: 200.000 TL
+    *   **Toplam:** 500.000 TL
+*   **Gelir Modeli:** Toplanan e-atıklar ve metal atıklar lisanslı firmalara satılır. Yağlar biyodizel firmalarına satılır.
+*   **ROI:** Atık satış geliri, araçların yakıt ve personel giderini karşılar. Kâr amacı gütmez, başa baş (Breakeven) noktası hedeftir.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Yazılım ihalesi ve ödül sisteminin kurgulanması (Puan tablosu).
+*   **Ay 2:** Atık alım firmalarıyla (lisanslı) sözleşme: "Biz toplayacağız, siz kaça alacaksınız?"
+*   **Ay 3:** Pilot mahalle seçimi ve tanıtım (Buzdolabı magnetleri dağıtımı).
+*   **Ay 4:** Operasyonun başlaması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Talep azlığı. -> **Önlem:** Okullarda yarışma düzenlenir ("En çok atık toplayan sınıf").
+*   **Risk:** Hurdacıların rekabeti. -> **Önlem:** Hurdacı "Atık Yağ" veya "Pil" almaz. Belediye bu niş alanlara odaklanır. Değerli metaller (Kablo vb.) için rekabet etmez.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Toplanan atık miktarı (Ton).
+    2.  Uygulamayı indiren hane sayısı.
+    3.  Dağıtılan ödül tutarı.
+*   **Sosyal Etki:** Çocuklara çevre bilinci aşılanması. Su kaynaklarının (Yağ dökülmediği için) korunması.
+

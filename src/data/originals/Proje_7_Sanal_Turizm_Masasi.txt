@@ -1,0 +1,54 @@
+# PROJE 7: SANAL TURİZM MASASI (VR Seyhan Deneyimi)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan VR: Tarihi Mirasın Dijital İkizi ve Sanal Müze
+*   **Uygulayıcı Birim:** Kültür ve Sosyal İşler Müdürlüğü
+*   **Proje Kategorisi:** Kültür Sanat ve Dijital Turizm
+*   **Tahmini Başlangıç/Bitiş:** 01.04.2025 - 01.08.2025 (4 Ay)
+*   **Uygulama Alanı:** Tepebağ Evleri, Büyük Saat, Taş Köprü, Atatürk Evi.
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Adana'nın tarihi kalbi olan Seyhan'daki kültürel mirasın; Lidar tarama ve 360 derece fotogrametri teknolojileri ile birebir "Dijital İkizi"nin çıkarılması projesidir. Oluşturulan bu sanal tur; web sitesinden, mobil uygulamadan ve VR (Sanal Gerçeklik) gözlüklerinden erişilebilir olacaktır. Proje, hem şehre gelemeyen turistleri cezbetmeyi (Teaser etkisi) hem de tarihi eserlerin detaylı dijital arşivini oluşturarak restorasyon çalışmalarına altlık sağlamayı hedefler.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Adana'nın tarihi zenginliği yeterince tanıtılamamaktadır. Klasik broşürler ve videolar, yeni nesil turistin ilgisini çekmekte yetersiz kalmaktadır.
+*   **Risk:** Deprem veya yangın gibi afetlerde tarihi eserlerin rölöve (ölçüm) verilerinin kaybolma riski vardır. Dijital ikiz, bu riski sıfırlar (Notre Dame Katedrali örneği).
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Teknoloji:**
+    *   **Donanım:** Matterport Pro3 (Lidar özellikli 360 Kamera) veya muadili cihazlarla tarama. Santimetre hassasiyetinde "Nokta Bulutu" (Point Cloud) verisi.
+    *   **Yazılım:** WebVR (Tarayıcı tabanlı) altyapısı sayesinde uygulama indirmeden gezilebilme.
+    *   **İçerik:** Sanal turun içine yerleştirilmiş "Hotspot"lar (Bilgi noktaları). Tıklayınca o bina hakkında sesli ve yazılı anlatım çıkması.
+*   **Erişim:**
+    *   **Online:** `turizm.seyhan.bel.tr` üzerinden 7/24 erişim.
+    *   **Fiziksel:** Havalimanı ve AVM'lere kurulacak "VR Kiosklar" (Meta Quest 3 gözlükleri ile).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (Google Arts & Culture):** Dünyadaki müzelerin ve ören yerlerinin sokak görünümü teknolojisiyle gezilmesi.
+*   **Dünya Örneği (Roma Reborn):** Antik Roma'nın dijital olarak yeniden inşası.
+*   **Seyhan Uyarlaması:** Sadece mevcut hali değil, yıkılmış tarihi binaların da "Artırılmış Gerçeklik" (AR) ile yerinde canlandırılması (Faz 2).
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   Çekim ve Prodüksiyon (5 Lokasyon): 150.000 TL (Hizmet Alımı veya Kiralama yöntemiyle).
+    *   VR Gözlük ve Kiosk Donanımı (3 Nokta): 100.000 TL
+    *   Yazılım ve Web Arayüzü: 100.000 TL
+    *   **Toplam:** 350.000 TL
+*   **İşletme Gideri:** Yıllık hosting ve Matterport abonelik bedeli yaklaşık 20.000 - 30.000 TL.
+*   **Gelir Modeli:** Sanal müze ücretsizdir ancak özel sanal sergiler veya "NFT Hatıra Kartları" satılarak sembolik gelir elde edilebilir.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Lokasyon seçimi ve senaryo yazımı (Hangi binanın neresi anlatılacak?).
+*   **Ay 2:** Çekimlerin yapılması (Güneş ışığının en uygun olduğu saatlerde).
+*   **Ay 3:** Post-prodüksiyon (Görüntü birleştirme, seslendirme ekleme).
+*   **Ay 4:** Web lansmanı ve VR kioskların kurulumu.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Teknolojinin hızlı eskimessi. -> **Önlem:** Web tabanlı (WebXR) standartların kullanılması, böylece her cihazda çalışması.
+*   **Risk:** Sanal gezenin gerçeğine gelmemesi. -> **Önlem:** Sanal turun içine "Gizli Şifreler" saklanması; bu şifreyi bulup Adana'ya gelene indirim veya hediye verilmesi (Gamification).
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Web sitesinde yıllık 50.000 tekil ziyaretçi.
+    2.  Sanal turu gezenlerin turizm memnuniyet anketinde ölçümlenmesi.
+*   **Sosyal Etki:** Engelli bireylerin, yaşlıların veya Adana'ya gelemeyen öğrencilerin tarihi mirasa erişim hakkının sağlanması.

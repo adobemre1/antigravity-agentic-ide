@@ -1,0 +1,52 @@
+# PROJE 22: MİKRO-FİNANS FONU (Girişimci Kadınlar İçin Can Suyu)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Altın Bilezik Fonu: Güven Temelli Mikro Kredi
+*   **Uygulayıcı Birim:** Sosyal Yardım İşleri & Strateji Geliştirme (Partner Vakıf Üzerinden)
+*   **Proje Kategorisi:** Sosyal Ekonomi
+*   **Tahmini Başlangıç/Bitiş:** 01.06.2025 - Sürekli
+*   **Partner:** TGMP (Türkiye Grameen Mikrofinans Programı)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Bankalardan kredi çekemeyen (teminatı olmayan) dar gelirli kadınlara; teminatsız, kefilsiz, küçük sermaye (5.000 - 30.000 TL) sağlayarak kendi işlerini kurmalarını hedefleyen projedir. Belediye, yasal kısıtlar nedeniyle doğrudan kredi veremediği için, bu işlemi Türkiye İsrafı Önleme Vakfı (TİSVA) ile protokol yaparak yürütür. Model, "Grup Dayanışması" (Biri ödemezse grup öder) prensibine dayanır.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Yetenekli ev hanımları sermaye bulamadığı için üretim döngüsüne girememekte, tefecilere veya sosyal yardıma mahkum kalmaktadır.
+*   **Yasal Zemin:** 5393 Sayılı Belediye Kanunu, nakdi krediye izin vermez ancak sivil toplumla ortak projeye izin verir. Bu yüzden TGMP protokolü şarttır.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Kredi Modeli:**
+    *   **Başlangıç:** 5.000 TL (İlk adım kredisi). Zamanla ve düzenli ödemeyle 30.000 TL'ye kadar limit artışı.
+    *   **Geri Ödeme:** Haftalık taksitler halinde (40-48 hafta). Elden tahsilat (Saha görevlileri her hafta mahalleye gider, hem parayı toplar hem dert dinler).
+    *   **Hizmet Bedeli:** Faiz yoktur, sadece operasyonel maliyetleri karşılayacak cüzi bir "Hizmet Bedeli" alınır.
+*   **Grup Dinamiği:** Kredi bireye değil, 5 kişilik kadın grubuna verilir. Bu, "Sosyal Teminat" sağlar.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (Grameen Bank - Bangladeş):** Muhammed Yunus'un Nobel ödüllü modeli. Geri ödeme oranı %98 (Bankalardan yüksek).
+*   **Türkiye Örneği (Şanlıurfa Büyükşehir Belediyesi & TGMP):** Başarılı bir belediye-vakıf işbirliği örneği.
+*   **Seyhan Uyarlaması:** Kredi alan kadınlara "Seyhan Pazar Yeri"nde (Proje 13) ücretsiz tezgah hakkı da verilir.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (Başlangıç Fonu):**
+    *   Belediye katkısı: 2.000.000 TL (Bütçeden aktarılır, Vakıf hesabında "Döner Sermaye" olarak kalır).
+    *   Operasyonel Giderler: TGMP personeli ve araç desteği belediyeden.
+*   **Sürdürülebilirlik:** Fon bitmez; geri ödenen paralar anında başka bir kadına kredi olarak verilir (Revolving Fund).
+*   **ROI:** Sosyal yardım alan kadının, vergi veren esnafa dönüşmesi.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Belediye Meclisi'nden TİSVA/TGMP ile protokol yetkisi alınması.
+*   **Ay 2:** Protokol imzası ve fon transferi.
+*   **Ay 3:** Mahalle muhtarlarıyla toplantı ve "Potansiyel Girişimci" taraması.
+*   **Ay 4:** İlk 5'li grupların kurulması ve eğitim (3 gün).
+*   **Ay 5:** İlk kredi dağıtımı töreni.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Paranın batması (Geri ödenmemesi). -> **Önlem:** Grup baskısı (Peer Pressure) en etkili yöntemdir. Ayrıca kredi, nakit değil "Malzeme" (Dikiş makinesi faturası karşılığı) olarak ödenir.
+*   **Risk:** Siyasi ayrımcılık iddiaları. -> **Önlem:** TGMP'nin bağımsız kriterleri uygulanır, siyasi referansla kredi verilmez.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Kredi alan kadın sayısı (Hedef: 500 Kadın/Yıl).
+    2.  Geri ödeme oranı (Hedef: %95+).
+*   **Sosyal Etki:** Kadının aile içindeki statüsünün güçlenmesi. "El Emeği"nin ekonomiye kazandırılması.
+

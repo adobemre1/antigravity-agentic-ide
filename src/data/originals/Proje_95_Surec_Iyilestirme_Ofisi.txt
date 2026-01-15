@@ -1,0 +1,52 @@
+# PROJE 95: SÜREÇ İYİLEŞTİRME VE YALIN BELEDİYE OFİSİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Hızlı ve Çevik Seyhan: Yalın Dönüşüm
+*   **Uygulayıcı Birim:** Strateji Geliştirme Md.
+*   **Proje Kategorisi:** Kurumsal Verimlilik
+*   **Tahmini Başlangıç/Bitiş:** Sürekli (5 Yıllık Plan)
+*   **Konum:** Belediye Hizmet Binası
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Belediyedeki hantal, bürokratik, vatandaşı yoran ve gereksiz zaman kaybı yaratan iş süreçlerinin (Örn: Ruhsat, Nikah, İmar durumu); endüstri mühendisliği teknikleri (Yalın, 6 Sigma) ile analiz edilip; gereksiz onayların kaldırılması, dijitalleşme ile sadeleştirilmesi ve hızlandırılması projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Bir ruhsat imzası için evrak 15 masadan geçiyor. Memur izindeyse iş duruyor. Vatandaş "Bugün git yarın gel"den bıkmış.
+*   **Çözüm:** Süreç Haritalama (Process Mapping). Tıkanıklıkları açmak.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Metodoloji:**
+    *   *AS-IS (Mevcut Durum):* Sürecin şu anki hali çizilir. (Örn: 45 gün, 12 imza).
+    *   *Analiz:* Hangi imza gereksiz? Hangi adım aslında otomatik olabilir?
+    *   *TO-BE (Olması Gereken):* İdeal süreç tasarlanır. (Örn: 10 gün, 3 imza).
+*   **Odak Alanlar:** İmar Ruhsatı, İşyeri Açma Ruhsatı, Sosyal Yardım Başvurusu.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **e-Estonya:** Neredeyse sıfır bürokrasi.
+*   **Toyota (Yalın Yönetim):** "Muda" (İsraf) tespiti felsefesinin kamuya uyarlanması.
+*   **Tek Durak Ofis:** Vatandaşın tek masada işini bitirmesi.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Yönetim Danışmanlığı Hizmet Alımı (1 Yıl): 500.000 TL.
+    *   Süreç Yönetim Yazılımı (BPM): 250.000 TL.
+    *   **Toplam:** 750.000 TL.
+*   **Yatırımın Geri Dönüşü:** Kırtasiye tasarrufu, personel zaman tasarrufu. Vatandaşın bekleme maliyetinin azalması.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** "Yalın Ofis" ekibinin kurulması (İçeriden mühendisler ve dış danışman).
+*   **Ay 2:** Öncelikli 5 sürecin seçilmesi (En çok şikayet alanlar).
+*   **Ay 3-4:** Analiz ve İyileştirme tasarımı.
+*   **Ay 5:** Yazılım/Yönetmelik değişikliği ile yeni sürecin devreye alınması.
+*   **Ay 6:** Ölçüm (Eskiden kaç gündü, şimdi kaç gün?).
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Personel direnci ("Bizim imza yetkimizi alıyorlar" korkusu). -> **Önlem:** İyileştirmenin personelin iş yükünü azalttığı anlatılır. Hedef kişi değil, süreçtir.
+*   **Risk:** Mevzuat engeli. -> **Önlem:** Yasanın izin verdiği sınırlarda maksimum esneklik kullanılır. Gerekirse Bakanlığa görüş sorulur.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Süreç tamamlanma sürelerindeki kısalma oranı (%).
+    2.  İşlem başına maliyet düşüşü.
+*   **Sosyal Etki:** "Hızlı ve Modern Belediye" imajı. Yatırımcı için cazip bir ilçe.
+

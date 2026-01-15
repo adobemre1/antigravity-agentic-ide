@@ -1,0 +1,50 @@
+# PROJE 87: TARİHİ ÇEŞMELERİN İHYASI VE SU KÜLTÜRÜ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan''dan Su İçilir: Tarihi Çeşmeler
+*   **Uygulayıcı Birim:** KUDEB & Fen İşleri
+*   **Proje Kategorisi:** Kültürel Miras / Su Yönetimi
+*   **Tahmini Başlangıç/Bitiş:** 01.10.2025 - 01.10.2026
+*   **Konum:** Tepebağ, Kayalıbağ, Ulucami Çevresi
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+İlçedeki kurumuş, musluğu sökülmüş veya kaybolmaya yüz tutmuş tarihi sokak çeşmelerinin restore edilerek tekrar "akar" hale getirilmesi; ayrıca işlek meydanlara estetik, arıtmalı "Sokak Hayratları" (Sebil) kurularak vatandaşa ücretsiz, temiz su imkanı sunulması ve plastik kullanımının azaltılması projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Tarihi çeşmeler çöplük olmuş. Vatandaş yaz sıcağında su içmek için sürekli pet şişe almak zorunda (Pahalı ve çevreyi kirletiyor).
+*   **Çözüm:** "Sebil Kültürü"nü canlandırmak. Suya ücretsiz erişim bir haktır.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Restorasyon:** Taş temizliği, derz dolgusu, kitabe okunması (Anıtlar Kurulu onaylı proje).
+*   **Tesisat:** Şebeke suyuna bağlantı. Musluk arkasına gizli "Endüstriyel Filtre ve Soğutucu" ünitesi (Yazın soğuk akması için).
+*   **Musluk:** Çalınmaya karşı özel kilitli veya değersiz metalden (Pirinç görünümlü kompozit) "Bas-Bırak" musluk (Su israfını önler).
+*   **Hayvan Dostu:** Kurnanın alt seviyesine kedi/köpek suluğu entegrasyonu.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Roma (Nasone):** Şehirdeki 2.500 küçük çeşme, turistlerin ve halkın su ihtiyacını karşılar.
+*   **Vakıf Sular (İstanbul):** Tarihi çeşmelerin ihyası.
+*   **Refill (İngiltere):** Mataranı doldur hareketi.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   10 Tarihi Çeşme Restorasyonu: 3.000.000 TL (Birim fiyat: ~300k TL).
+    *   10 Yeni Sebil Yapımı: 1.000.000 TL.
+    *   **Toplam:** 4 Milyon TL.
+*   **İşletme:** Su faturası belediye tarafından "Kamu Yararı" kapsamında ödenir.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Envanter çalışması (Hangi çeşme kimin mülkiyetinde?).
+*   **Ay 2-4:** Rölöve, Restitüsyon, Restorasyon projelerinin çizimi ve Kurul onayı.
+*   **Ay 5-10:** Uygulama (İnşaat).
+*   **Ay 11:** Su bağlantısı ve analiz (Hıfzıssıhha onayı).
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Muslukların çalınması. -> **Önlem:** Kilitli sistem ve polikarbon malzeme.
+*   **Risk:** Suyun kirli olması. -> **Önlem:** Periyodik numune alımı ve filtre değişimi. Çeşme üzerine "İçilebilir - Tarih:..." raporu asılır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Akar hale gelen çeşme sayısı.
+    2.  Önlene pet şişe atığı miktarı (Tahmini).
+*   **Sosyal Etki:** Suya erişim adaleti. Tarihe saygı.
+

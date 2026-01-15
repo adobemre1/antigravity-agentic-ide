@@ -1,0 +1,54 @@
+# PROJE 50: SEYHAN DOĞA OKULU VE İZCİLİK MERKEZİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Kampüs Doğa: Yeşile Dönüş
+*   **Uygulayıcı Birim:** Gençlik ve Spor Hizmetleri & Park Bahçeler
+*   **Proje Kategorisi:** Doğa Eğitimi / Kampçılık
+*   **Tahmini Başlangıç/Bitiş:** 01.04.2025 - 01.08.2025
+*   **Konum:** Seyhan Nehri Kıyısı veya Şehir Dışı Ormanlık Alan
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Beton binalar arasına sıkışmış şehir çocuklarını; güvenli bir kamp alanında doğayla buluşturan, temel kampçılık (çadır kurma, düğüm atma), yön bulma ve çevre bilinci eğitimlerinin verildiği, "ekransız" (telefonsuz) bir deneyim merkezidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Çocuklar "Doğa Yoksunluğu Sendromu" yaşamaktadır. Fiziksel aktivite azdır, obezite ve dikkat dağınıklığı artmaktadır. Afet bilinci (depremde çadırda kalma vb.) zayıftır.
+*   **Çözüm:** Doğada zaman geçirmek stresi azaltır, özgüveni artırır.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Kamp Alanı:**
+    *   **Konaklama:** 10 Adet Bungolov (Kış için) + 50 Adet Çadır Platformu (Yaz için).
+    *   **Tesis:** Yemekhane çadırı, temiz tuvalet/duş konteynerleri (En kritiği budur), ateş çukuru amfisi.
+    *   **Macera Parkuru:** İpli tırmanma, denge tahtaları (Ahşap, doğal malzeme).
+*   **Maliyet (2025 Tahmini):**
+    *   Bungolov (Ahşap üçgen ev - 10 adet): ~1.500.000 TL.
+    *   Çevre Düzenleme ve Parkur: 500.000 TL.
+    *   **Toplam:** 2.000.000 TL.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Orman Okulları (Forest Schools - İskandinavya):** Her türlü hava koşulunda dışarıda eğitim.
+*   **Türkiye İzcilik Federasyonu:** Beykoz ve Bolu kampları.
+*   **Rotterdam (Speeldernis):** Doğal oyun alanı.
+*   **Seyhan Farkı:** Deprem bölgesinde olduğumuz için kampçılık eğitimine "Afet Hazırlığı" modülünün eklenmesi.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):** 2 Milyon TL.
+*   **İşletme Gideri:** Güvenlik görevlisi, eğitmenler, yemek gideri.
+*   **Gelir:** Hafta sonu aile kampları ücretli olabilir, hafta içi okul grupları ücretsizdir. Kantin ve ekipman kiralama geliri.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Arazi tahsisi (Milli Emlak veya Orman'dan kiralama).
+*   **Ay 2:** Altyapı (Su, elektrik, kanalizasyon) ve zemin düzeltme.
+*   **Ay 3:** Bungolov ve çadır kurulumu.
+*   **Ay 4:** Eğitmen kadrosunun (Lider izciler) oluşturulması.
+*   **Ay 5:** İlk kamp ateşi.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Güvenlik (Yılan, böcek, yabancı şahıs). -> **Önlem:** Alan tel çitle çevrilir, düzenli ilaçlanır, 7/24 güvenlik bulunur.
+*   **Risk:** Yangın. -> **Önlem:** Kamp ateşi sadece belirlenen beton çukurda yakılır, yangın tüpleri her yerde hazırdır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Kampa katılan çocuk sayısı.
+    2.  Memnuniyet oranı (Anket).
+*   **Sosyal Etki:** Doğaya saygılı, kendi işini görebilen (öz bakım), dirençli bir nesil.
+

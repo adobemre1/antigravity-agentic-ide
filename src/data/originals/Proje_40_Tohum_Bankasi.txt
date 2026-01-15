@@ -1,0 +1,54 @@
+# PROJE 40: ATA TOHUMU BANKASI VE TAKAS ŞENLİĞİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Nuh'un Ambarı: Yerel Tohum Koruma Merkezi
+*   **Uygulayıcı Birim:** Kırsal Hizmetler & Park Bahçeler
+*   **Proje Kategorisi:** Biyokültürel Miras / Tarım
+*   **Tahmini Başlangıç/Bitiş:** 01.04.2025 - Sürekli
+*   **Konum:** Seyhan Kırsal Hizmetler Kampüsü
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Adana ve çevresindeki köylerden toplanan, genetiğiyle oynanmamış (GDO'suz), yüzyıllık yerel "Ata Tohumları"nın (Domates, Biber, Bamya vb.) uygun iklimlendirme koşullarında (+4°C ve %30 Nem) saklandığı, her yıl ekilerek tazelendiği ve düzenlenen şenliklerle halka ücretsiz dağıtıldığı (Takas edildiği) bir gen koruma projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Ticari hibrit tohumlar "kısırdır", çiftçi her yıl yeniden tohum almak zorundadır. Yerel lezzetler ve genetik çeşitlilik kaybolmaktadır (Gıda Güvenliği Riski).
+*   **Yasal Durum:** 5553 Sayılı Kanun gereği yerel tohumun satışı yasaktır ancak "Takas Edilmesi" serbesttir. Proje bu yasal zemine oturur.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Tohum Bankası (Soğuk Hava Deposu):**
+    *   **Orta Vadeli Saklama:** +4°C (Buzdolabı koşulları). 5-10 yıl dayanır.
+    *   **Uzun Vadeli Saklama:** -18°C (Derin dondurucu). 50+ yıl dayanır.
+    *   **Nem Kontrolü:** Silika jel veya profesyonel nem alıcılar şarttır. Tohum nemli kalırsa çürür.
+*   **Rejenerasyon (Yenileme):** Tohumlar rafta durdukça bayatlar. Her yıl belirli miktar toprağa ekilip, taze tohum alınmalıdır (İzolasyon mesafesine dikkat edilerek).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Svalbard (Norveç):** Kıyamet Ambarı.
+*   **Seferihisar (Can Yücel Tohum Merkezi):** Türkiye'nin ilk ve en iyi örneği.
+*   **Nilüfer Belediyesi:** Tohum Kütüphanesi modeli (Kitap gibi ödünç al, seneye tohumu geri getir).
+*   **Seyhan Modeli:** "Adana Patlıcanı" ve "Karaisalı Biberi" gibi coğrafi işaretli ürünlere odaklanma.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   İklimlendirmeli Depo (50 m² - Sandviç Panel): 300.000 TL
+    *   Laboratuvar Malzemeleri (Mikroskop, Nem ölçer): 100.000 TL
+    *   **Toplam:** 400.000 TL
+*   **İşletme Gideri:** Elektrik ve Ziraat Mühendisi maaşı.
+*   **Gelir:** Ticari gelir yoktur, tamamen sosyal sorumluluktur. Ancak şenliklerde kurulan stantlardan gelir elde edilebilir.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Köy gezileri ve "Sandıkların Açılması" (Yaşlı teyzelerden tohum toplama).
+*   **Ay 2:** Laboratuvar ortamında temizlik, kurutma ve tasnif.
+*   **Ay 3:** Soğuk hava deposu kurulumu.
+*   **Ay 4:** Deneme ekimleri (Belediye fidanlığında).
+*   **Ay 12 (Bahar):** 1. Seyhan Tohum Takas Şenliği.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Elektrik kesintisi. -> **Önlem:** Jeneratör ve sıcaklık takip alarmı (Telefona bildirim).
+*   **Risk:** Tohumların karışması (Melezleşme). -> **Önlem:** Farklı türler arasına mesafe konur veya tül seralar kullanılır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Envantere kayıtlı tohum çeşidi sayısı.
+    2.  Halka dağıtılan fide sayısı (Hedef: 100.000 Fide).
+*   **Sosyal Etki:** Gıda egemenliğine sahip çıkılması. Çocukların gerçek domates kokusunu tanıması.
+

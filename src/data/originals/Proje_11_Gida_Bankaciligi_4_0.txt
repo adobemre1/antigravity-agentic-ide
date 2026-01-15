@@ -1,0 +1,57 @@
+# PROJE 11: GIDA BANKACILIĞI 4.0 (Taze Gıda Kurtarma Zinciri)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Taze Paylaşım Ağı: Market Atıklarını Fırsata Dönüştürme
+*   **Uygulayıcı Birim:** Sosyal Yardım İşleri & Temizlik İşleri Müdürlüğü
+*   **Proje Kategorisi:** Sosyal İnovasyon ve Sıfır Atık
+*   **Tahmini Başlangıç/Bitiş:** 01.04.2025 - 01.10.2025 (6 Ay)
+*   **Konum:** Sosyal Yardım Merkezi ve Anlaşmalı 20 Zincir Market Şubesi
+*   **Model:** TİDER (Temel İhtiyaç Derneği) "Destek Market" Modeli
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Market raflarında son kullanma tarihi yaklaşan (fakat henüz bozulmamış) taze gıdaların (sebze, meyve, unlu mamul), çöpe gitmeden hemen önce özel soğuk hava donanımlı araçlarla toplanıp; aynı gün içinde belediyenin "Sosyal Market"inde ihtiyaç sahiplerine ücretsiz sunulması projesidir. Proje, klasik "koli yardımı" (makarna/bulgur) anlayışını yıkarak, yoksul vatandaşın taze gıdaya ve proteine erişimini sağlar.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Türkiye'de üretilen sebze-meyvenin %50'si tarladan sofraya gelene kadar israf olmaktadır. Öte yandan Seyhan'da on binlerce aile gıda güvencesizliği yaşamakta, çocuklar yetersiz beslenmektedir.
+*   **Yasal Fırsat:** Gelir Vergisi Kanunu'na göre, gıda bankacılığı yapan vakıf/derneklere (veya belediyelere) bağışlanan gıdaların maliyet bedelinin %100'ü vergiden düşülebilmektedir. Bu durum marketler için büyük bir teşviktir.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Lojistik Ağı (Just-in-Time):** Taze ürün beklemeye gelmez.
+    1.  Saat 09:00: Market personeli SKT'si 2 gün kalan ürünleri "Bağış Kasası"na ayırır ve sisteme girer.
+    2.  Saat 10:00: Belediyenin frigofirik (soğutuculu) hafif ticari aracı rotayı takip ederek ürünleri toplar.
+    3.  Saat 12:00: Ürünler Sosyal Market raflarına dizilir.
+    4.  Saat 13:00: İhtiyaç sahiplerine "Taze Muz ve Ispanak geldi" SMS'i atılır.
+*   **Yazılım:** Bağışlanan her ürünün barkodu okutulur. Market, ay sonunda "Şu kadar ton gıda bağışladım" raporunu sistemden alıp muhasebesine işler (Vergi avantajı için kanıt).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (Fransa):** Yasayla süpermarketlerin gıda çöpe atması yasaklanmıştır, bağışlamak zorundadırlar.
+*   **Dünya Örneği (Too Good To Go):** İsrafı önleyen mobil uygulama modeli.
+*   **Türkiye Örneği (TİDER):** Destek Market modeli ile binlerce ton gıda kurtarılmakta, aynı zamanda başvuranlara İK (İş bulma) desteği de verilmektedir.
+*   **Seyhan Uyarlaması:** Sadece marketler değil, semt pazarlarının akşam saatlerinde kalan (ezik ama yenebilir) ürünleri de toplanıp "Çorba Evi"nde değerlendirilecektir.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   2 Adet Frigofirik (Soğuk Hava) Panelvan Araç: 1.800.000 TL
+    *   Sosyal Market Raf ve Soğutucu Dolapları: 300.000 TL
+    *   Yazılım Entegrasyonu: 150.000 TL
+    *   **Toplam:** 2.250.000 TL
+*   **İşletme Gideri (OPEX):** Araç yakıtı ve 2 şoför, 2 depo personeli maaşı.
+*   **Yatırım Geri Dönüşü (ROI):** Belediyenin satın alarak dağıttığı gıda kolisi bütçesinden yıllık en az %40 tasarruf sağlanır. Marketlerden alınan ürünler "bedava" olduğu için operasyonel maliyet çok düşüktür.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** TİDER ile işbirliği protokolü ve Know-How transferi.
+*   **Ay 2:** İlçedeki 3 büyük ulusal market zinciri bölge müdürleriyle toplantı.
+*   **Ay 3:** Araç alımı ve giydirilmesi ("Gıda Kurtarma Timi").
+*   **Ay 4:** Sosyal Marketin tadilatı ve barkod sisteminin kurulumu.
+*   **Ay 5-6:** Pilot bölgede (Örn: Yeşilyurt) toplama ve dağıtımın başlaması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Gıda zehirlenmesi / Bozuk ürün. -> **Önlem:** "Soğuk Zincir" Kırılmayacak. Teslim alınırken gıda mühendisi/teknikeri onayı şart koşulacak. Market ile yapılan sözleşmede sorumluluk paylaşımı netleştirilecek.
+*   **Risk:** Ürün gelmemesi. -> **Önlem:** Bağışın az olduğu günler için belediyenin halden satın aldığı "tampon stok" devreye girecek.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Kurtarılan gıda miktarı (Ton/Yıl).
+    2.  Faydalanan aile sayısı (Aylık düzenli 1000 aile).
+*   **Çevresel Etki:** Çöpe gitmeyen her 1 kg gıda için karbon emisyonu (CO2) önlenir.
+

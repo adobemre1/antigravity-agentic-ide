@@ -1,0 +1,52 @@
+# PROJE 97: AKTİF KARDEŞ ŞEHİR VE DİPLOMASİ AĞI
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Global Seyhan: Dünyaya Açılan Kapı
+*   **Uygulayıcı Birim:** Dış İlişkiler Müdürlüğü
+*   **Proje Kategorisi:** Kent Diplomasisi / Turizm
+*   **Tahmini Başlangıç/Bitiş:** Sürekli
+*   **Konum:** Uluslararası
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Mevcut durumda kağıt üzerinde kalan "Kardeş Şehir" protokollerini canlandırarak; sadece turistik gezi değil, "Teknik İşbirliği", "Ticaret Köprüsü" ve "Öğrenci Değişimi" odaklı, somut çıktısı olan aktif bir diplomasi ağı kurma projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Birçok kardeş şehir var ama kimse adını bilmiyor. Heyetler gidip yemek yiyip dönüyor. Şehre katkısı sıfır.
+*   **Çözüm:** Hedef odaklı (Tematik) kardeşlik. Almanya ile sanayi, İtalya ile tasarım, Hollanda ile tarım kardeşliği.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Strateji:**
+    *   *Analiz:* Hangi ülke Seyhan'a ne katabilir? (Örn: Güney Kore akıllı şehirde iyi).
+    *   *Protokol:* "İyi niyet mektubu" ötesinde, yıllık faaliyet takvimi içeren anlaşmalar.
+*   **Faaliyetler:**
+    *   Teknik personelin orada staj yapması (Know-how).
+    *   Adanalı iş adamlarının o şehre ihracat gezisi.
+    *   Gençlik kampları (Kültür değişimi).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **İzmir Büyükşehir:** Kardeş şehirleri stratejik kullanır. Fuarına davet eder, uluslararası fon bulur.
+*   **Eurocities:** Avrupa şehirleri ağı. Proje ortağı bulmak için en iyi platform.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Yıllık Üyelik Aidatları (UCLG vb.): 100.000 TL.
+    *   Ağırlama ve Temsil Giderleri: 200.000 TL.
+    *   **Toplam:** 300.000 TL.
+*   **Kaynak:** Giderler belediye bütçesinden, yurtdışı gezileri ise mümkünse AB Hibeleri (Town Twinning) ile karşılanır.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Mevcut kardeş şehirlerin "Durum Analizi" (Hangisi aktif, hangisi ölü?).
+*   **Ay 2:** Pasif olanların iptali veya canlandırılması mektubu.
+*   **Ay 3:** Yeni stratejik partner arayışı (Büyükelçilikler üzerinden).
+*   **Ay 6:** İlk somut işbirliği projesinin (Örn: Ortak Festival) yapılması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** "Turistik gezi yapıyorlar" eleştirisi. -> **Önlem:** Giden heyet teknik personelden (Mühendis, Uzman) oluşur. Dönüşte kamuoyuna "Rapor" sunulur.
+*   **Risk:** Vize sorunları. -> **Önlem:** Gri pasaport (Hizmet pasaportu) ve Dışişleri Bakanlığı yazışmaları ile çözüm.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Gerçekleştirilen ortak proje sayısı.
+    2.  Kardeş şehirden gelen turist/yatırımcı sayısı.
+*   **Sosyal Etki:** Seyhanlı gençlerin vizyonunun açılması. Marka şehir algısı.
+

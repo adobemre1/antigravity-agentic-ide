@@ -1,0 +1,53 @@
+# PROJE 71: SEYHAN AFET KOORDİNASYON MERKEZİ (S-AKOM)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Nöbette: Akıllı Afet Yönetim Merkezi
+*   **Uygulayıcı Birim:** Afet İşleri Müdürlüğü & Bilgi İşlem
+*   **Proje Kategorisi:** Afet Yönetimi / Akıllı Şehir
+*   **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.06.2026
+*   **Konum:** Seyhan Belediyesi Ana Hizmet Binası (Güçlendirilmiş Zemin Kat) veya Ek Hizmet Binası
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Olası bir İstanbul/Adana depreminde veya sel felaketinde; belediyenin tüm ağır iş makinelerinin, arama kurtarma timlerinin ve lojistik depolarının tek bir merkezden, dijital haritalar ve kesintisiz haberleşme (Uydu/DMR Telsiz) altyapısıyla yönetildiği, 7/24 aktif bir Komuta Kontrol Merkezi (AKOM) projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Afet anında koordinasyonsuzluk (Hangi kepçe nerede bilinmiyor), GSM şebekelerinin çökmesiyle iletişimin kopması, veriye dayalı karar verilememesi.
+*   **Çözüm:** "Veriyle Yönetilen Afet Müdahalesi".
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Donanım:**
+    *   **Video Wall:** 4x3 (12 Ekranlı) dev izleme duvarı (Şehrin kameraları, araç takipleri).
+    *   **Haberleşme:** 50 Adet DMR (Sayısal) El Telsizi ve 1 Adet Telsiz Rölesi. (GSM çökse de çalışır).
+    *   **Uydu İnterneti:** Starlink veya Türksat uydu terminali (Fiber kopsa da internet var).
+*   **Yazılım:** "Seyhan Afet Yönetim Sistemi" (SAYS). Coğrafi Bilgi Sistemi (CBS) tabanlı, enkaz ve yardım taleplerini haritada gösteren yazılım.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **İBB AKOM:** Türkiye'nin en iyi örneği.
+*   **FEMA (ABD):** Ulusal olay yönetim sistemi (NIMS) standartları.
+*   **Sendai Çerçevesi:** "Afet Riskini Azaltma" odaklı Birleşmiş Milletler standardı.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Video Wall ve Bilişim Altyapısı: 2.000.000 TL.
+    *   DMR Telsiz Sistemi (Röle dahil): 1.500.000 TL.
+    *   Mekan Tadilatı ve Güçlendirme: 2.500.000 TL.
+    *   **Toplam:** 6 Milyon TL.
+*   **Kaynak:** Dünya Bankası "Dirençli Şehirler" fonu veya Japonya Büyükelçiliği hibeleri.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Yer seçimi (Bodrum kat olmamalı, sel riski).
+*   **Ay 2:** Teknolojik altyapı ihalesi.
+*   **Ay 3:** Telsiz frekans tahsisi (BTK izinleri).
+*   **Ay 4:** Yazılım entegrasyonu (Araç takip sistemlerinin bağlanması).
+*   **Ay 5:** Personel eğitimi ve ilk "Masa Başı Tatbikatı".
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** AKOM binasının hasar görmesi. -> **Önlem:** "Mobil AKOM Tırı" yedeği hazır tutulur.
+*   **Risk:** Siber saldırı. -> **Önlem:** Kapalı devre (Intranet) çalışma prensibi.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Olay anında ekiplerin sevk süresi (Response Time).
+    2.  Kesintisiz iletişim süresi (%99.9 Uptime).
+*   **Sosyal Etki:** Vatandaşın "Sahipsiz değilim" güveni.
+

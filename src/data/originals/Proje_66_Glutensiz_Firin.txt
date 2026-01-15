@@ -1,0 +1,55 @@
+# PROJE 66: GLUTENSİZ FIRIN VE KAFE
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Glutensiz: Herkes İçin Ekmek
+*   **Uygulayıcı Birim:** İşletme ve İştirakler Müdürlüğü
+*   **Proje Kategorisi:** Halk Sağlığı / Gıda İşletmesi
+*   **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.11.2025
+*   **Konum:** Merkezi, steril bir üretim tesisi ve satış noktası
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Çölyak hastaları ve gluten intoleransı olanlar için; piyasada çok pahalı olan (Normal ekmeğin 10-15 katı) glutensiz ürünlerin (Ekmek, simit, pasta); "Çapraz Bulaşma" (Cross-contamination) riskine karşı tamamen izole edilmiş özel bir fırında üretilip, uygun fiyata halka sunulduğu sosyal işletme projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Adana'da %100 güvenilir glutensiz fırın sayısı çok azdır. Market ürünleri çok pahalıdır. Dar gelirli çölyak hastaları (özellikle çocuklar) diyete uyamayınca bağırsak kanseri riskiyle yaşar.
+*   **Çözüm:** Belediyenin sübvanse ettiği, kar amacı gütmeyen güvenli üretim.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Tesis:** Normal unun zerresinin bile girmemesi gereken "Karantina Tipi" üretim alanı. Havalandırma sistemi bile ayrı olmalı.
+*   **Ekipman:**
+    *   Endüstriyel Konveksiyonel Fırın: ~100.000 - 300.000 TL.
+    *   Hamur Yoğurma (Spiral Mikser): ~50.000 TL.
+    *   Paketleme Hattı: Ürünler fırından çıkar çıkmaz paketlenmeli.
+*   **Ürün Gamı:** Glutensiz Somun, Simit, Kurabiye, Yaş Pasta (Doğum günleri için).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Gaziantep Büyükşehir (Glutensiz Bir Başka Kafe):** Türkiye'nin en iyi örneği. İstihdam da sağlıyor.
+*   **Karatay Belediyesi:** Glutensiz ekmek büfeleri ile dağıtım yapıyor.
+*   **Maliyet:** Glutensiz unun kilosunun normal unun 10 katı olduğu unutulmamalıdır.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Tesis Kurulumu ve Ekipman: 3.000.000 TL. (Sıfırdan hijyenik tesis).
+    *   Hammadde Stoğu (Başlangıç): 500.000 TL.
+    *   **Toplam:** 3.5 Milyon TL.
+*   **Gelir Modeli:**
+    *   Çölyak Raporlu Vatandaşa: Maliyetine satış (Sübvansiyonlu).
+    *   Keyfi Diyet Yapan Vatandaşa: Kar marjlı satış. (Bu gelir, raporluları finanse eder).
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Yer seçimi (Mevcut fırınların dönüştürülmesi risklidir, yeni veya boş bina tercih edilir).
+*   **Ay 2:** Ekipman alımı.
+*   **Ay 3:** Personel eğitimi (Çölyak dernekleri ile işbirliği).
+*   **Ay 4:** Deneme üretimi ve laboratuvar testleri (Gluten analizi).
+*   **Ay 5:** Açılış.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Üretim hattına gluten bulaşması. -> **Önlem:** Personelin öğle yemeğinde bile normal ekmek yemesi yasaklanır veya kıyafet değişimi zorunlu tutulur. Düzenli numune testi.
+*   **Risk:** Hammadde tedariği. -> **Önlem:** Glutensiz un üreticileriyle yıllık anlaşma.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Günlük üretilen ekmek sayısı.
+    2.  Faydalanan raporlu hasta sayısı.
+*   **Sosyal Etki:** Çölyaklı bir çocuğun hayatında ilk kez sıcak simit yiyebilmesi.
+

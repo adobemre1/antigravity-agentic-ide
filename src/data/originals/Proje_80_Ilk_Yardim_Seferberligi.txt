@@ -1,0 +1,54 @@
+# PROJE 80: İLK YARDIM SEFERBERLİĞİ VE GÖNÜLLÜ EĞİTİMİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Kahraman Sensin: Seyhan İlk Yardım Hareketi
+*   **Uygulayıcı Birim:** Sağlık İşleri Müdürlüğü
+*   **Proje Kategorisi:** Halk Sağlığı / Eğitim
+*   **Tahmini Başlangıç/Bitiş:** Sürekli (Yıllık Hedefli)
+*   **Hedef Kitle:** Lise Öğrencileri, Taksiciler, Kuryeler, Anneler
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+"Her evde en az bir ilk yardımcı olsun" vizyonuyla; toplumun geniş kesimlerine, özellikle sahada olan meslek gruplarına (Taksici, esnaf) ücretsiz, uygulamalı ve sertifikalı "Temel İlk Yardım Eğitimi" verilmesi; ambulans gelene kadar geçen sürede hayatta kalma oranının artırılması projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Kalp krizi veya boğulma anında ambulans gelmesi 10-15 dakika sürebilir. Beyin ölümü 5 dakikada başlar. Vatandaş müdahaleyi bilmiyor veya korkuyor.
+*   **Çözüm:** Bilinçli müdahale (Heimlich, CPR) hayat kurtarır.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Eğitim İçeriği:**
+    *   Temel Yaşam Desteği (Kalp Masajı/Suni Solunum).
+    *   Hava Yolu Tıkanıklığı (Heimlich Manevrası).
+    *   Kanamalarda Turnike.
+*   **Materyal:** Profesyonel eğitim maketleri (Yetişkin, Çocuk, Bebek). Geri bildirimli (Doğru basınca ışık yanan) maketler. (Fiyat: ~20.000 TL/Set).
+*   **Sertifikasyon:** İl Sağlık Müdürlüğü onaylı "İlk Yardımcı Sertifikası" veya "Katılım Belgesi".
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Stop The Bleed (ABD):** Kanama durdurma eğitimi kampanyası.
+*   **Danimarka:** İlkokuldan itibaren zorunlu ilk yardım dersi. (Kalp krizinden kurtulma oranı 3 kat arttı).
+*   **Taksiciler:** Londra'da taksiciler ilk yardım bilmek zorundadır.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Eğitim Maketleri (10 Set): 200.000 TL.
+    *   Eğitim Salonu Teçhizatı: 100.000 TL.
+    *   Basılı Materyal (Broşür, Kitapçık): 100.000 TL.
+    *   **Toplam:** 400.000 - 500.000 TL.
+*   **İşletme:** Eğitmenler belediyenin sağlık personelidir (Ek maliyet yok).
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Eğitmen sertifikası olan personelin belirlenmesi.
+*   **Ay 2:** Maket alımı.
+*   **Ay 3:** Taksiciler Odası ve Milli Eğitim ile protokol.
+*   **Ay 4:** "İlk Yardım Otobüsü" ile mahallelerde gezici eğitim.
+*   **Ay 5:** "En İyi İlk Yardımcı" yarışması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Yanlış öğrenme ve uygulama. -> **Önlem:** Eğitimler mutlaka "Uygulamalı" olur. Sadece video izleyerek sertifika verilmez. Eğitmen birebir düzeltir.
+*   **Risk:** Katılım düşüklüğü. -> **Önlem:** Katılımcılara küçük bir "İlk Yardım Kiti" (Batikon, sargı bezi) hediye edilir.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Eğitilen kişi sayısı (Hedef: Yılda 5.000).
+    2.  İlk yardım bilinci anketi sonuçları.
+*   **Sosyal Etki:** Toplumsal özgüven. "Kahraman sensin" duygusu.
+

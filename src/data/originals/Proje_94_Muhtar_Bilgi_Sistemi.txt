@@ -1,0 +1,52 @@
+# PROJE 94: DİJİTAL MUHTAR BİLGİ SİSTEMİ (MUBİS)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Muhtarın Sesi, Başkanın Kulağı: MUBİS
+*   **Uygulayıcı Birim:** Muhtarlık İşleri Md. & Bilgi İşlem
+*   **Proje Kategorisi:** Dijitalleşme / Yerel Yönetim
+*   **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.10.2025
+*   **Konum:** Seyhan''daki 96 Mahalle Muhtarlığı
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Mahalle muhtarlarının belediye ile olan iletişimini WhatsApp gruplarından çıkarıp kurumsal bir zemine oturtan; tablet/cep telefonu üzerinden fotoğraflı talep girmelerini, talebin durumunu (Sırada/Yapıldı) anlık takip etmelerini sağlayan, Belediye EBYS (Elektronik Belge Yönetim Sistemi) ile entegre bir yazılım ve donanım projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Muhtar çukuru görüyor, WhatsApp'tan yazıyor, mesaj arada kaynıyor. "Söyledim yapmadılar" diyor. Takip yok, hesap verilebilirlik yok.
+*   **Çözüm:** Dijital kayıt. Her talebin bir numarası ve sorumlusu (İlgili Müdür) olacak.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Yazılım:** iOS ve Android uyumlu mobil uygulama.
+    *   *Konum:* Talep girildiği an GPS koordinatı otomatik alınır.
+    *   *Görsel:* Fotoğraf/Video yükleme.
+    *   *Acil Buton:* Afet anında kırmızı alarm.
+*   **Donanım:** İhtiyacı olan muhtarlara SIM kartlı Tablet dağıtımı.
+*   **Entegrasyon:** Sistem doğrudan Fen İşleri'nin iş emri havuzuna düşer.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **İBB Muhtar:** İstanbul'un başarılı ve çok kullanılan sistemi. Muhtarların sağ kolu oldu.
+*   **e-Muhtar (İçişleri):** Bakanlığın sistemi, ancak belediyelere entegrasyonu zayıf. MUBİS yerel odaklıdır.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Yazılım Geliştirme ve EBYS Entegrasyonu: 500.000 TL.
+    *   Tablet Dağıtımı (100 Adet x 5.000 TL): 500.000 TL.
+    *   **Toplam:** 1 Milyon TL.
+*   **İşletme:** Yıllık sunucu ve internet (SIM) gideri belediye tarafından karşılanır.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Yazılım analiz ve kodlama.
+*   **Ay 2:** Tablet ihalesi.
+*   **Ay 3:** Pilot Uygulama (Gönüllü 10 muhtar ile test).
+*   **Ay 4:** Lansman ve tüm muhtarlara "Uygulamalı Eğitim".
+*   **Ay 5:** "En Dijital Muhtar" ödülleri.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Yaşlı muhtarların teknolojiyi kullanamaması. -> **Önlem:** Basit arayüz (Büyük butonlar). Torunlarının/Azalarının eğitilmesi. Sesli komut özelliği ("Tuşa bas konuş, yazıya döksün").
+*   **Risk:** Siyasi talepler (Oğluma iş ver vb.). -> **Önlem:** Sistem sadece altyapı/hizmet taleplerine açıktır. Diğer talepler "Kapsam Dışı" olarak reddedilir.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Sistem üzerinden gelen talep sayısı.
+    2.  Taleplerin çözülme süresi (Ortalama gün).
+*   **Sosyal Etki:** Muhtarın "Benim arkamda belediye var" özgüveni. Hızlanan hizmet.
+

@@ -1,0 +1,52 @@
+# PROJE 54: MAHALLELERDE YAZLIK SİNEMA NOSTALJİSİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Yıldızların Altında: Seyhan Yazlık Sineması
+*   **Uygulayıcı Birim:** Kültür İşleri Müdürlüğü
+*   **Proje Kategorisi:** Sosyal Etkinlik / Nostalji
+*   **Tahmini Başlangıç/Bitiş:** Haziran - Eylül (Her Yıl)
+*   **Konum:** 30 Farklı Mahalle Parkı veya Okul Bahçesi
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Adana'nın efsanevi "Yazlık Sinema" kültürünü canlandırmak için; mobil şişme perde ve projeksiyon sistemiyle her hafta farklı bir mahalleye gidilerek, ailelerin bir arada film izlediği, patlamış mısır ve gazoz ikramının yapıldığı sosyal kaynaşma projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Komşuluk ilişkileri zayıflamıştır. Ekonomik kriz nedeniyle aileler sinemaya gidememektedir.
+*   **Çözüm:** Sinemayı bedava halkın ayağına götürmek. Adana sıcağında açık hava etkinliği en sevilen aktivitedir.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Donanım:**
+    *   **Perde:** 6x4 metre veya 8x5 metre Şişme Perde (AIRSCREEN). Kurulumu 10 dakikadır.
+    *   **Projeksiyon:** En az 10.000 Ansi Lümen Lazer Projeksiyon (Alacakaranlıkta bile net görüntü için).
+    *   **Ses:** 4+2 Kule Ses Sistemi (Açık hava akustiğine uygun).
+*   **İkram:** Nostaljik "Mısırcı Arabası" ve yerel gazoz.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Movies in the Park (Chicago):** Dünyaca ünlü bir gelenek.
+*   **Bornova Belediyesi:** Yazlık sinema günleri başarılı bir örnektir.
+*   **Seyhan Farkı:** Film öncesi "Mahalleli ile Sohbet" ve yerel müzisyenlerin kısa dinletisi.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Mobil Sinema Ekipmanı Satın Alma: 400.000 TL (Bir kez alınır, yıllarca kullanılır). Kiralama yerine satın alma daha karlıdır.
+*   **Operasyonel Gider:**
+    *   Telif Hakları (Film başı): 5.000 - 10.000 TL.
+    *   İkram: 2.000 TL/Etkinlik.
+    *   **Sezonluk Bütçe:** ~1 Milyon TL (30 Gösterim için).
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Ekipman ihalesi.
+*   **Ay 2:** Film seçkisi (Yeşilçam, Hababam Sınıfı, Buz Devri vb. aile filmleri) ve telif görüşmeleri.
+*   **Ay 3:** Mahalle muhtarlarıyla takvim planlaması.
+*   **Ay 4:** Gösterimlerin başlaması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Sivrisinek. -> **Önlem:** Film başlamadan 1 saat önce ve ara verildiğinde alanda ULV ilaçlama yapılır.
+*   **Risk:** Elektrik kesintisi. -> **Önlem:** Mobil jeneratör mutlaka araçta hazır bulunur.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Toplam izleyici sayısı (Sandalye sayısı + ayaktakiler).
+    2.  Dağıtılan mısır adedi.
+*   **Sosyal Etki:** "Nerede o eski günler" diyen yaşlılarla, ilk kez açık hava sineması gören çocukların buluşması.
+

@@ -1,0 +1,51 @@
+# PROJE 96: ULUSLARARASI FON VE HİBE PROJE OFİSİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Kaynak Seyhan''a Akıyor: Proje Fabrikası
+*   **Uygulayıcı Birim:** Dış İlişkiler Müdürlüğü
+*   **Proje Kategorisi:** Finansman / Dış İlişkiler
+*   **Tahmini Başlangıç/Bitiş:** Sürekli
+*   **Konum:** Belediye Hizmet Binası
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Belediye bütçesine yük olmadan dev projeleri hayata geçirmek için; Avrupa Birliği (Horizon, Erasmus+), Birleşmiş Milletler, Kalkınma Ajansları ve Büyükelçilik fonlarını takip eden, "İngilizce Proje Yazan" ve yöneten profesyonel bir ofisin kurulmasıdır.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Dünyada milyarlarca dolarlık hibe fonu var (Yeşil enerji, mülteci, kadın istihdamı vb. için). Seyhan Belediyesi proje yazacak uzmanı olmadığı için bu paralardan yararlanamıyor.
+*   **Çözüm:** "Para masa üstünde duruyor, almasını bilmek lazım." Uzman ekip.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Personel:** İleri düzey İngilizce bilen, PCM (Proje Döngüsü Yönetimi) sertifikalı 3 proje uzmanı.
+*   **Yöntem:**
+    *   *Tarama:* Hibe duyurularının günlük takibi.
+    *   *Hazırlık:* "Havuz Projeler". Çağrı açılmadan hazırda bekleyen proje taslakları.
+    *   *Ortaklık:* Yabancı belediyelerle konsorsiyum kurma.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Gaziantep Büyükşehir:** Türkiye'de hibe kullanım şampiyonu. Bütçesinin önemli kısmını dış fondan sağlar.
+*   **Seferihisar:** "Cittaslow" vb. ağlar üzerinden fon bulma başarısı.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Ofis Kurulum Bütçesi (CAPEX):**
+    *   Donanım ve Yazılım: 100.000 TL.
+    *   Eğitim/Danışmanlık: 100.000 TL.
+    *   **Toplam:** 200.000 TL.
+*   **Getiri Hedefi:** Yılda en az 1 Milyon Euro hibe girişi. (Yatırımın 150 katı getiri).
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Proje Ofisi yönergesinin çıkması ve personel görevlendirmesi.
+*   **Ay 2:** PADOR (AB veri tabanı) kaydı ve akreditasyonlar.
+*   **Ay 3:** Belediyenin stratejik planına uygun fon haritasının çıkarılması.
+*   **Ay 4:** İlk başvuru (Örn: Erasmus+ Kardeş Şehir projesi).
+*   **Ay 6:** Kabul edilen ilk projenin lansmanı.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Projenin reddedilmesi. -> **Önlem:** Hibe dünyasında red normaldir. Revize edip başka fona başvurulur. Pes edilmez.
+*   **Risk:** Eş finansman (Co-financing) zorunluluğu. -> **Önlem:** Belediye bütçesinden %10-20 pay ayrılır, kalanı hibeden gelir.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Yazılan proje sayısı.
+    2.  Kazanılan hibe miktarı (Euro/Dolar).
+*   **Sosyal Etki:** Şehrin uluslararasılaşması. Belediye kasasından çıkmadan yapılan hizmetler.
+

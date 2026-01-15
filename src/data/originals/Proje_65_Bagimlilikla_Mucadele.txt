@@ -1,0 +1,52 @@
+# PROJE 65: BAĞIMLILIKLA MÜCADELE VE SOSYAL UYUM MERKEZİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Yeni Hayat Akademisi: Özgürlüğe İlk Adım
+*   **Uygulayıcı Birim:** Sağlık İşleri & Sosyal Yardım
+*   **Proje Kategorisi:** Rehabilitasyon
+*   **Tahmini Başlangıç/Bitiş:** 01.01.2026 (Uzun vadeli yatırım)
+*   **Konum:** Şehir dışı, yeşil alan (Sarıçam sınırı veya güney mahalleler)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Tıbbi tedavisini (AMATEM) tamamlamış, maddeden arınmış gençlerin; psikolojik destek, iş uğraş terapisi (tarım, marangozluk) ve sporla meşgul edilerek "boşluğa düşüp tekrar başlamasının" (relaps) önlendiği gündüzlü rehabilitasyon merkezidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** AMATEM'de kanı temizlenen genç, sokağa çıkınca işsiz ve amaçsız kalıyor. Eski arkadaş çevresine dönüp 3 ayda tekrar maddeye başlıyor.
+*   **Çözüm:** Tıbbi tedavi sonrası sosyal iyileşme süreci (1 yıl) çok kritiktir. Burası bir "hayata dönüş okulu"dur.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Model:** SAMBA (Sigara, Alkol ve Madde Bağımlılığı Tedavi Programı) uyumlu "Gündüz Merkezi".
+*   **Aktiviteler:**
+    *   **Sabah:** Spor ve Grup Terapisi.
+    *   **Öğle:** Meslek Atölyeleri (Galaloş üretimi, Ahşap oyuncak, Seramik).
+    *   **Akşam:** Sanat ve Müzik.
+*   **Kadro:** Psikiyatrist (Danışman), Uzman Psikolog, Sosyal Hizmet Uzmanı, Spor Hocası.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **İsviçre Modeli:** Zarar azaltma (Harm Reduction) ve mesleki entegrasyon.
+*   **YEŞİLAY Danışmanlık Merkezleri (YEDAM):** Psikolojik destek süreçlerinde ortaktır.
+*   **Bursa Büyükşehir (GADEM):** Yerel yönetimlerde iyi bir örnektir.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Bina İnşası/Tadilatı (Kampüs şeklinde): 5.000.000 TL.
+    *   Atölye Ekipmanları: 1.000.000 TL.
+    *   **Toplam:** 6 Milyon TL.
+*   **Kaynak:** Kalkınma Ajansı (Çukurova Bölge Kalkınma Ajansı) hibeleri.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1-3:** Yer seçimi ve proje çizimi. (Mahalleli tepkisine dikkat edilmeli).
+*   **Ay 4:** AMATEM ve Kaymakamlık ile protokol.
+*   **Ay 5-10:** İnşaat ve kadro kurulumu.
+*   **Ay 12:** Açılış.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Merkezde madde kullanımı/satışı. -> **Önlem:** Havaalanı güvenliği gibi giriş. Düzenli idrar testi zorunluluğu. Temiz kalmayanın ilişiği kesilir.
+*   **Risk:** NIMBY (Not In My Back Yard) - "Arka bahçemde istemem" tepkisi. -> **Önlem:** Merkezin adı "Gençlik ve Meslek Edindirme Merkezi" konur. "Bağımlı" etiketi kullanılmaz.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Merkezde temiz (Clean) kalma süresi.
+    2.  İşe yerleştirilen mezun sayısı.
+*   **Sosyal Etki:** Suç oranlarının düşmesi. Parçalanan ailelerin birleşmesi.
+

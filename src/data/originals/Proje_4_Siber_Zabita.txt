@@ -1,0 +1,55 @@
+# PROJE 4: SİBER-ZABITA (Dijital Delil ve Akıllı Denetim Sistemi)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Siber-Zabıta: Yaka Kamerası ve Yapay Zeka Destekli Denetim Ağı
+*   **Uygulayıcı Birim:** Zabıta Müdürlüğü ve Bilgi İşlem Müdürlüğü
+*   **Proje Kategorisi:** Kamu Düzeni ve Şeffaflık
+*   **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.11.2025 (6 Ay)
+*   **Uygulama Alanı:** Seyyar ekipler ve pazar yeri denetim birimleri.
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Zabıta memurlarının saha denetimlerinde yaşadığı tartışmalar, kanıt yetersizliği ve iddialara karşı savunmasız kalma durumlarına karşı; memurların **"Akıllı Yaka Kamerası" (Body Worn Camera)** ile donatılması projesidir. Sadece kayıt yapmakla kalmayan, kaydedilen görüntülerin şifreli olarak buluta yüklendiği ve (gelecekte) Yapay Zeka ile analiz edilerek otomatik tutanak (Speech-to-Text) oluşturulabildiği bir ekosistemdir. Danıştay kararlarına uygun şekilde, şeffaflık ve hesap verebilirlik ilkelerini esas alır.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Denetim sırasında vatandaş ile zabıta arasında yaşanan sözlü/fiziksel arbedeler, "bana vurdu", "rüşvet istedi" gibi kanıtlanamayan iddialara dönüşmektedir. Ayrıca elle tutanak tutmak zaman alıcıdır.
+*   **Çözüm:** Olay anının HD kalitesinde ve sesli olarak, memurun silemeyeceği veya değiştiremeyeceği şekilde kayıt altına alınması tarafları sakinleştirir (Caydırıcılık Etkisi).
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Donanım:**
+    *   Full HD (1080p) veya 4K kayıt yapabilen, geniş açılı, gece görüşlü yaka kameraları.
+    *   GPS modülü (Memurun nerede olduğunu anlık izlemek için).
+    *   4G/LTE bağlantısı (Görüntüyü canlı olarak merkeze aktarabilme opsiyonu).
+    *   Uzun pil ömrü (Vardiya süresince, min. 8-10 saat kayıt).
+*   **Yazılım ve Depolama:**
+    *   CJIS (Criminal Justice Information Services) standartlarına yakın güvenli bulut depolama veya belediye sunucularında (On-Premise) şifreli saklama.
+    *   "Digital Evidence Management System" (DEMS) yazılımı: Videoların tarih, saat, memur ID ve olay türüne göre etiketlenip arşivlenmesi.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (Londra Met Polisi):** Yaka kamerası kullanımından sonra memura yönelik şikayetlerde %33 azalma görülmüştür.
+*   **Türkiye Örneği (İnegöl Belediyesi):** 2019'da zabıta ekiplerinde kamera kullanımına başlanmış, şeffaflık sayesinde vatandaş memnuniyeti artmıştır.
+*   **Yasal Bağlam:** Danıştay'ın emniyet personelinin görüntülenmesini yasaklayan genelgeyi iptal etmesi (2025), kamusal alanda şeffaflığın ve kaydın hukuki meşruiyetini güçlendirmiştir. KVKK kapsamında "Hukuki Yükümlülük" ve "Kamu Yararı" maddeleri işletilecektir.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   Donanım (50 Adet Akıllı Yaka Kamerası + Docking Station): 400.000 - 500.000 TL
+    *   Sunucu/Depolama Altyapısı (On-Premise başlangıç): 200.000 TL
+    *   **Toplam:** 700.000 TL
+*   **İşletme Gideri (OPEX):** Yıllık veri depolama maliyeti (Bulut kullanılırsa artar, yerel sunucuda disk maliyeti). Tahmini yıllık 50.000 TL.
+*   **Yatırımın Getirisi:** Hukuki tazminatların önlenmesi ve denetim verimliliğinin artması ile ölçülemeyen (intangible) ama yüksek bir getiri sağlar.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1 (Hukuk):** KVKK Aydınlatma Metinlerinin hazırlanması, zabıta yönetmeliğine "Kamera Kullanım Yönergesi" eklenmesi.
+*   **Ay 2 (Tedarik):** Teknik şartname hazırlığı (Darbeye dayanıklılık, IP67 su geçirmezlik, şifreli kayıt şartı) ve alım.
+*   **Ay 3 (Eğitim):** Zabıta memurlarına kamerayı ne zaman açıp kapatacakları, vatandaşı nasıl uyaracakları konusunda eğitim.
+*   **Ay 4 (Pilot):** En yoğun bölgedeki (Örn: Çakmak Caddesi) ekiplerde kullanımın başlaması.
+*   **Ay 6 (Tam Yayılım):** Tüm ekiplerin donatılması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Mahremiyet ihlali şikayetleri. -> **Önlem:** Kameraların özel mülke (ev içi) girildiğinde kapatılması prosedürü ve kayıtların sadece savcılık/mahkeme talebiyle flulaştırma (maskeleme) yapılarak verilmesi.
+*   **Risk:** Veri güvenliği (Hacklenme). -> **Önlem:** Videoların cihaz üzerinde AES-256 ile şifrelenmesi. Cihaz çalınsa bile görüntülerin izlenememesi.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Zabıta-Vatandaş tartışmalarında %40 düşüş.
+    2.  İşlem yapılan (Tutanak tutulan) vaka hızında artış.
+*   **Sosyal Etki:** Zabıta teşkilatının kurumsallığının ve saygınlığının artması.

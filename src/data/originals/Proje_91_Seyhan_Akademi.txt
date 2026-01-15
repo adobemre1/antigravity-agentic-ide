@@ -1,0 +1,55 @@
+# PROJE 91: SEYHAN AKADEMİ (SÜREKLİ EĞİTİM VE GELİŞİM MERKEZİ)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Geleceği Yönetenler: Seyhan Akademi
+*   **Uygulayıcı Birim:** İnsan Kaynakları ve Eğitim Müdürlüğü
+*   **Proje Kategorisi:** Kurumsal Kapasite / İK
+*   **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.01.2026 (Kurulum ve İlk Mezuniyet)
+*   **Konum:** Seyhan Belediyesi Kültür Merkezi (Kampüs) ve Online Portal
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Belediye personelinin yetkinliklerini artırmak, hizmet kalitesini standartlaştırmak ve dijital dönüşüme uyum sağlamak amacıyla; hem "Yüz Yüze" atölye çalışmalarını hem de "Online (LMS)" eğitimleri kapsayan, performansa dayalı bir Kurumsal Akademi'nin kurulmasıdır.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Personel eğitimi "dostlar alışverişte görsün" mantığıyla, yılda bir kez seminer salonunda yapılıyor. Kimin ne öğrendiği meçhul. Verimlilik düşük.
+*   **Çözüm:** Ölçülebilir, takip edilebilir ve kariyer yoluna etki eden sistematik eğitim.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Platform (LMS):** Moodle veya yerli bir LMS altyapısı ile personelin cepten/webden eğitim izleyebilmesi. (SCORM uyumlu içerik).
+*   **Müfredat:**
+    *   *Zabıta:* Öfke kontrolü, mevzuat, ilk yardım.
+    *   *Büro:* Excel, resmi yazışma, KVKK.
+    *   *Yönetici:* Liderlik, kriz yönetimi.
+*   **Oyunlaştırma:** Eğitimi bitirene "Dijital Rozet". En çok eğitimi alana "Ayın Personeli" ödülü.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **TBB Belediye Akademisi:** Türkiye Belediyeler Birliği'nin uzaktan eğitim sistemi.
+*   **İBB Enstitü İstanbul:** Hem personele hem halka eğitim veren dev yapı.
+*   **Kurumsal Üniversiteler:** Turkcell Akademi, THY Akademi gibi özel sektör modelleri.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   LMS Yazılım Lisansı ve Kurulumu: 750.000 TL.
+    *   Eğitim İçerik Üretimi (Video çekimi): 500.000 TL.
+    *   Eğitim Salonu Tadilatı ve Ekipman: 750.000 TL.
+    *   **Toplam:** 2 Milyon TL.
+*   **Yatırımın Geri Dönüşü:** Hatalı işlem (kamu zararı) oranının azalması. Personel motivasyonu.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Eğitim İhtiyaç Analizi (Anket).
+*   **Ay 2:** LMS yazılım ihalesi.
+*   **Ay 3:** Üniversite (ÇÜ/ATÜ) ile akademik işbirliği protokolü.
+*   **Ay 4:** İçeriklerin sisteme yüklenmesi.
+*   **Ay 5:** Pilot uygulama (Bir müdürlük ile başlama).
+*   **Ay 6:** Tam açılış.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Personelin iş yoğunluğunu bahane edip eğitime katılmaması. -> **Önlem:** Eğitimlerin bir kısmı "Mesai Saati İçinde" sayılır. Eğitimi tamamlamak "Terfi Kriteri" (Yönetmelik değişikliği) yapılır.
+*   **Risk:** Teknik altyapı sorunları. -> **Önlem:** Bulut tabanlı (SaaS) sistem tercihi ile kesintisiz erişim.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Eğitim tamamlama oranı (%).
+    2.  Eğitim öncesi/sonrası sınav başarı farkı.
+*   **Sosyal Etki:** Vatandaşın karşısında bilgili ve nezaketli personel bulması.
+

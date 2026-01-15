@@ -1,0 +1,52 @@
+# PROJE 78: SOKAK HAYVANLARI REHABİLİTASYON VE EĞİTİM MERKEZİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Patiler Güvende: Modern Rehabilitasyon Merkezi
+*   **Uygulayıcı Birim:** Veteriner İşleri Müdürlüğü
+*   **Proje Kategorisi:** Hayvan Hakları / Halk Sağlığı
+*   **Tahmini Başlangıç/Bitiş:** 01.06.2025 - Sürekli
+*   **Konum:** Mevcut Barınak Alanının Genişletilmesi
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Sokak hayvanlarının sadece toplanıp hapsedildiği klasik barınak mantığından çıkıp; agresif köpeklerin uzman eğitmenlerce rehabilite edildiği (uysallaştırıldığı), sahiplendirme odaklı, kısırlaştırma kapasitesi artırılmış (Günde 50 operasyon) modern bir "Geçici Bakımevi ve Eğitim Kampüsü" projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Sokaklarda kontrolsüz köpek popülasyonu artıyor. Vatandaş korkuyor, hayvanlar açlık ve hastalık çekiyor. Barınaklar "ölüm kampı" gibi algılanıyor.
+*   **Çözüm:** Kısırlaştır, Aşıla, Yerinde Yaşat (Yasaya uygun). Ancak agresif olanları rehabilite et.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Rehabilitasyon Parkuru:** Köpeklerin enerjisini atacağı oyun alanları. Pozitif pekiştirme (Ödül maması) ile eğitim.
+*   **Kısırlaştırma Ünitesi:** 3 Ameliyathane masası ile seri operasyon.
+*   **Sahiplendirme:** "Bekçi Köpeği Programı". Fabrika ve çiftliklere, eğitimi tamamlanmış köpeklerin çipli olarak sahiplendirilmesi.
+*   **Yemek:** "Mama Üretim Tesisi". Pazar artıklarından ve yemekhane atıklarından (Kompost/Fermente) yüksek proteinli mama üretimi.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **ICAM (Uluslararası Hayvan Yönetimi):** Bilimsel popülasyon kontrol standartları.
+*   **Romanya Örneği:** AB fonlarıyla kurulan dev kısırlaştırma merkezleri.
+*   **Cezaevi Projeleri:** Mahkumların köpek eğitmesi (Çift taraflı rehabilitasyon).
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Tesis Yenileme ve Eğitim Parkuru: 3.000.000 TL.
+    *   Tıbbi Cihazlar (Röntgen, Hemogram): 2.000.000 TL.
+    *   **Toplam:** 5 Milyon TL.
+*   **İşletme:** Mama maliyeti "Atıktan Mama" projesiyle %70 düşürülür.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Proje çizimi ve gönüllülerle (Hayvanseverler) toplantı.
+*   **Ay 2:** İnşaat/Tadilat.
+*   **Ay 3:** Profesyonel Köpek Eğitmeni istihdamı.
+*   **Ay 4:** Mobil Kısırlaştırma Aracının devreye girmesi.
+*   **Ay 5:** "Seyhan'ın Sadık Dostları" sahiplendirme web sitesinin açılması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Çevre ilçelerden Seyhan'a köpek bırakılması. -> **Önlem:** Sınırlara fotokapan kurulur, bırakan belediye veya şahıs tespit edilip ağır ceza kesilir.
+*   **Risk:** Saldırganlığın geçmemesi. -> **Önlem:** Rehabilite edilemeyen, tehlike arz eden köpekler "Yasaklı Irk" bölümünde ömür boyu misafir edilir, sokağa salınmaz.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Aylık kısırlaştırma sayısı.
+    2.  Sahiplendirme oranı.
+    3.  Isırma vakalarındaki düşüş.
+*   **Sosyal Etki:** Sokak güvenliğinin sağlanması. Hayvanlara merhametli muamele.
+

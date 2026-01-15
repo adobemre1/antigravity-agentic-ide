@@ -1,0 +1,52 @@
+# PROJE 9: AÇIK VERİ PORTALI (Open-Seyhan)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Open-Seyhan: Veri Demokrasisi ve İnovasyon Portalı
+*   **Uygulayıcı Birim:** Strateji Geliştirme Müdürlüğü & Bilgi İşlem
+*   **Proje Kategorisi:** Şeffaflık ve Girişimcilik
+*   **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.09.2025 (4 Ay)
+*   **Web Adresi:** `data.seyhan.bel.tr`
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Belediyenin elindeki kişisel olmayan (anonim) verilerin (Örn: Toplu taşıma hatları, park konumları, ihale verileri, günlük çöp toplama miktarları, hava kalitesi ölçümleri) belirli standartlarda (CSV, JSON, XML) girişimcilere, araştırmacılara ve vatandaşlara ücretsiz açılmasıdır. Amaç; bu verileri kullanarak üniversite öğrencilerinin ve yazılımcıların şehre değer katan yeni uygulamalar geliştirmesini (Örn: En yakın parkı bulan uygulama) sağlamaktır.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Belediye verileri PDF raporlarında veya kapalı veritabanlarında "hapistir". Bu veriler işlenemediği için ekonomik veya sosyal bir değere dönüşemez.
+*   **Fırsat:** Veri, 21. yüzyılın petrolüdür. Ancak işlenirse (rafine edilirse) değerlenir.
+*   **Şeffaflık:** "Hesap verebilir belediyecilik" sadece sloganla olmaz, veriyi açmakla olur.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Yazılım Altyapısı (CKAN):** Dünyada standart kabul edilen açık kaynak kodlu "CKAN" veri yönetim sistemi kullanılacaktır. Lisans maliyeti yoktur, topluluk desteği güçlüdür.
+*   **Veri Standartları:** "5 Yıldızlı Açık Veri" modeline uygunluk hedeflenecektir (PDF değil, makine okunabilir format).
+*   **Anonimleştirme (Anonymization):** KVKK gereği, kişisel veriler (İsim, TC vb.) otomatik araçlarla (Örn: ARX Tool) temizlendikten sonra yayınlanacaktır.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (London Datastore):** Londra Belediyesi verilerini açtıktan sonra "Citymapper" gibi milyar dolarlık girişimler bu verilerle kuruldu.
+*   **Türkiye Örneği (İBB Açık Veri):** Türkiye'nin en kapsamlı veri portalı. Düzenledikleri "Hackathon"lar ile bu verilerden proje üretiyorlar.
+*   **Seyhan Uyarlaması:** Sadece veri yayınlamakla kalmayıp, Çukurova Üniversitesi öğrencileriyle "Datathon" (Veri Maratonu) yarışmaları düzenleyerek kullanımı teşvik edeceğiz.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   Portal Kurulumu ve Özelleştirme: 100.000 TL
+    *   Sunucu ve Hosting (1 Yıllık): 50.000 TL
+    *   Veri Temizliği Danışmanlığı: 50.000 TL
+    *   **Toplam:** 200.000 TL
+*   **Datathon Bütçesi:** Gençleri teşvik etmek için ödüllü yarışma bütçesi (Sponsorlarla karşılanabilir).
+*   **Yatırım Getirisi:** Doğrudan parasal dönüşü yoktur ancak dolaylı ekonomik katkısı (Girişimcilik ekosistemi) büyüktür.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Kurum içi "Veri Envanteri"nin çıkarılması. Hangi müdürlükte hangi veri var?
+*   **Ay 2:** Hukuk birimi ile KVKK süzgeci ve veri sınıflandırması (Açık, Gizli, Hizmete Özel).
+*   **Ay 3:** Portalın teknik kurulumu ve ilk 20 veri setinin yüklenmesi.
+*   **Ay 4:** Lansman ve Seyhan Datathon duyurusu.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Verilerin güncellenmemesi (Veri mezarlığına dönmesi). -> **Önlem:** API entegrasyonu ile verilerin insan eli değmeden otomatik güncellenmesi.
+*   **Risk:** Verilerin çarpıtılması. -> **Önlem:** Verinin "Ham" (Raw) haliyle sunulması ve meta-veri (açıklama) kısmının detaylı yazılması.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Yayınlanan veri seti sayısı (Yıl sonu hedefi: 50+).
+    2.  Veri indirme sayısı (Download count).
+    3.  Bu verilerle geliştirilen en az 3 mobil uygulama/proje.
+*   **Sosyal Etki:** Akademik çalışmalara kaynak sağlaması. Şeffaflık endeksinde Seyhan'ın sıralamasını yükseltmesi.

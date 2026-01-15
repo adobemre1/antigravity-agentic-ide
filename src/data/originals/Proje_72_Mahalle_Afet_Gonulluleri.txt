@@ -1,0 +1,49 @@
+# PROJE 72: MAHALLE AFET GÖNÜLLÜLERİ (SEYHAN MAG)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Komşum Kahramanım: Seyhan Arama Kurtarma
+*   **Uygulayıcı Birim:** Afet İşleri Müdürlüğü
+*   **Proje Kategorisi:** Toplum Tabanlı Afet Yönetimi
+*   **Tahmini Başlangıç/Bitiş:** 01.07.2025 - Sürekli
+*   **Hedef Kitle:** 96 Mahallenin Tamamı (Her mahalleye 20 Gönüllü)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Büyük bir afette profesyonel ekipler (AFAD, İtfaiye) gelene kadar geçecek "Altın Saatler"de (İlk 6 saat); kendi mahallesindeki hafif enkazlara müdahale edebilecek, ilk yardım yapabilecek, eğitimli ve teçhizatlı "Mahalle Gönüllü Timleri"nin (MAG) kurulmasıdır.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** 6 Şubat depreminde görüldü ki, ilk saatlerde vatandaş yalnız kalıyor. Bilinçsiz kurtarma çabaları (yanlış kaldırma) yaralıya zarar veriyor.
+*   **Çözüm:** Profesyonel değil ama "Bilinçli Amatör" ekipler.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Eğitim:** AFAD akreditasyonuna uygun 3 Modül: 1. Hafif Arama Kurtarma, 2. Yangın Söndürme, 3. İlk Yardım.
+*   **Teçhizat (Kişisel Kit):** Baret, Reflektörlü Yelek, İş Eldiveni, Düdük, Kafa Lambası. (Kişi başı ~2.000 TL).
+*   **Mahalle Konteyneri:** Pilot 10 mahalleye konulacak turuncu konteynerlerde; Jeneratör, Hilti (Kırıcı), Kazma, Kürek ve Sedye bulunur.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **MAG-DER (Türkiye):** En başarılı sivil toplum modeli.
+*   **CERT (ABD):** Federal Acil Durum Yönetimi Kurumu'nun (FEMA) halk eğitim programı.
+*   **Endonezya:** Tsunami sonrası kurulan toplum tabanlı erken uyarı sistemi.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Kişisel Ekipman (1000 Gönüllü x 2.000 TL): 2.000.000 TL.
+    *   10 Adet Tam Donanımlı Afet Konteyneri (İçi dolu): 1.500.000 TL. (Boş konteyner 70k, içi alet dolu 150k).
+    *   **Toplam:** 3.5 Milyon TL.
+*   **İşletme:** Eğitimler belediye personeli ve AFAD eğitmenlerince ücretsiz verilir.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Muhtarlarla toplantı ve gönüllü çağrısı.
+*   **Ay 2-3:** Eğitimlerin verilmesi (Hafta sonları).
+*   **Ay 4:** Ekipman dağıtımı ve yemin töreni.
+*   **Ay 5:** Mahalleler arası "Afet Tatbikatı Yarışması".
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Gönüllünün heyecanla kendini tehlikeye atması. -> **Önlem:** Eğitimde "Önce Kendi Güvenliğin" (Can Güvenliği) ilkesi işlenir.
+*   **Risk:** Ekipmanların çalınması. -> **Önlem:** Konteyner anahtarı Muhtar ve Zabıta'da durur.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Sertifikalı gönüllü sayısı.
+    2.  Kurulan tim sayısı.
+*   **Sosyal Etki:** Mahallede güven ve dayanışma duygusunun artması.
+

@@ -1,0 +1,52 @@
+# PROJE 30: YATIRIMCI İLİŞKİLERİ BİRİMİ (INVEST IN SEYHAN)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Yatırım Destek Ofisi: Invest in Seyhan
+*   **Uygulayıcı Birim:** Strateji Geliştirme & Dış İlişkiler
+*   **Proje Kategorisi:** Ekonomik Kalkınma
+*   **Tahmini Başlangıç/Bitiş:** 01.08.2025 - Sürekli
+*   **Mevzuat:** Kalkınma Ajansları Yatırım Destek Ofisleri Yönetmeliği ile uyumlu.
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Belediye bünyesinde, özel sektör mantığıyla çalışan profesyonel bir "Yatırım Ajansı"dır. Yerli ve yabancı yatırımcılara; uygun arsa bulma, ruhsat süreçlerini hızlandırma (Fast-Track), teşvikler hakkında bilgi verme ve bürokrasiyi azaltma hizmeti sunan "Tek Durak Ofis" (One-Stop-Shop) modelidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Yatırımcı "Belediyede muhatap bulamıyorum, işim çok yavaş ilerliyor" diyerek vazgeçmekte ve başka şehirlere/ilçelere gitmektedir.
+*   **Fırsat:** Adana'nın liman, enerji ve tarım potansiyeli yüksektir. Profesyonel bir dille (İmgilizce sunumlar, veriler) anlatıldığında yatırım çekilebilir.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Hizmetler:**
+    1.  **Yatırım Envanteri:** "Yatırıma Uygun Arsalar" haritasının (GIS tabanlı) hazırlanması.
+    2.  **Hızlı Ruhsat (Red Tape Reduction):** Bu ofisten gelen dosyaların imar/ruhsat birimlerinde "Kırmızı Etiketli" (Öncelikli) işlem görmesi.
+    3.  **Veri Bankası:** Yatırımcıya "Adana'da işgücü maliyeti nedir?", "Lojistik imkanlar nelerdir?" raporlarının sunulması.
+    4.  **After-Care:** Yatırım yapıldıktan sonra da yatırımcının "Mutlu" olduğundan emin olunması.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Uluslararası Örnek (Invest in Bogota):** Kolombiya'nın başkentini yatırım üssüne dönüştüren belediye ajansı.
+*   **Ulusal Örnek (Cumhurbaşkanlığı Yatırım Ofisi):** "Invest in Türkiye" markası.
+*   **Yerel Örnek (İzmir Kalkınma Ajansı - Invest in İzmir):** Bölgesel yatırım tanıtımında lider model.
+*   **Seyhan Modeli:** Çukurova Kalkınma Ajansı (ÇKA) ile entegre, ancak belediye özelinde sahada aktif bir birim.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (Yıllık):**
+    *   Personel (Yabancı dil bilen uzmanlar): 1.500.000 TL
+    *   Tanıtım (Fuar, Roadshow, Web): 500.000 TL
+    *   **Toplam:** 2.000.000 TL
+*   **ROI:** Tek bir fabrikanın kurulması bile belediyeye Emlak Vergisi, İlan Reklam Vergisi ve Ruhsat Harcı olarak bu parayı geri öder. Yarattığı istihdam ise en büyük kazançtır.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Birimin kurulması ve "Yatırımcı İlişkileri Yöneticisi" atanması.
+*   **Ay 2:** "Invest in Seyhan" web sitesinin (İngilizce/Türkçe/Arapça) açılması.
+*   **Ay 3:** İstanbul ve Ankara'daki büyük holdinglere ve ticaret müşavirliklerine ziyaret (Roadshow).
+*   **Ay 4:** İlk yatırımcı heyetinin Adana'da ağırlanması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Bürokrasinin direnci ("Neden bu dosyaya öncelik veriyoruz?"). -> **Önlem:** Belediye başkanının net talimatı ve "Yatırımcı Dostu Belediye" genelgesi yayımlanması.
+*   **Risk:** Ekonomik kriz nedeniyle yatırımların durması. -> **Önlem:** Kriz dönemlerinde "Satın Alma ve Birleşme" (M&A) fırsatlarına odaklanılması.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Görüşülen yatırımcı sayısı.
+    2.  Gerçekleşen (Realize olan) yatırım tutarı (Milyon TL).
+    3.  Yaratılan doğrudan istihdam.
+

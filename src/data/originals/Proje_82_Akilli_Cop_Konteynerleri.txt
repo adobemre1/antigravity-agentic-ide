@@ -1,0 +1,50 @@
+# PROJE 82: AKILLI YERALTI ÇÖP KONTEYNER SİSTEMİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Temiz Seyhan: Yeraltı Atık Devrimi
+*   **Uygulayıcı Birim:** Temizlik İşleri Müdürlüğü
+*   **Proje Kategorisi:** Atık Yönetimi / Akıllı Şehir
+*   **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.06.2026
+*   **Konum:** Ana Arterler (Atatürk Cad, Ziyapaşa) ve Meydanlar
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Görüntü kirliliği, koku ve sinek kaynağı olan metal çöp konteynerlerinin yer altına alınarak (3000-5000 Litre kapasiteli); doluluk sensörleri ve hidrolik sıkıştırma teknolojisiyle çöp toplama maliyetlerinin %40 düşürüldüğü, hijyenik bir atık yönetim projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Çöp kamyonları her gün her konteynere gidiyor (Bazısı boş olsa bile). Trafiği tıkıyor. Yaz sıcağında açıkta duran çöp kokuyor. Kediler poşetleri parçalıyor.
+*   **Çözüm:** Çöpü yerin altına (serin ortam) hapsetmek. Sadece dolunca almak.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Konteyner Tipi:** Hidrolik sistemli veya Vinçli (Mantar Ataşmanlı) sistem.
+*   **Sensör:** Ultrasonik doluluk sensörü (IoT). Merkezdeki haritada "Yeşil (Boş), Sarı (Yarım), Kırmızı (Dolu)" olarak görünür.
+*   **Pedal:** Vatandaş kapağa elini sürmez, ayağıyla pedala basınca kapak açılır.
+*   **Kapasite:** 1 Yeraltı Konteyneri = 10 Klasik Konteyner.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Amsterdam:** Şehir merkezinde çöp aracı görülmez, hepsi yeraltındadır.
+*   **Kadıköy & Şişli:** Türkiye'de başarılı yeraltı uygulamaları.
+*   **Enevo (Finlandiya):** Atık optimizasyon yazılımında dünya lideri.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   100 Nokta x 150.000 TL (Konteyner + Betonarme Kaide): 15.000.000 TL.
+    *   2 Adet Vinçli Kamyon: 10.000.000 TL.
+    *   **Toplam:** 25 Milyon TL.
+*   **Yatırımın Geri Dönüşü:** Yakıt tasarrufu ve personel verimliliği ile sistem 4 yılda kendini amorti eder.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Yeraltı haritasının (Boru, kablo) incelenmesi. Kazı noktalarının tespiti.
+*   **Ay 2:** İhale süreci.
+*   **Ay 3-6:** Etap etap montaj (Gece çalışması ile trafiği aksatmadan).
+*   **Ay 7:** Yazılımın devreye alınması ve rota optimizasyonu.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Kazıda tarihi eser veya bilinmeyen kablo çıkması. -> **Önlem:** GPR (Yeraltı Radarı) ile tarama yapılır.
+*   **Risk:** Vatandaşın çöpü deliğe değil yanına bırakması. -> **Önlem:** Kamera ile tespit ve ceza. Ayrıca "Nasıl Kullanılır?" bilgilendirme etiketleri.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Çöp toplama sefer sayısındaki düşüş (%30).
+    2.  Vatandaş şikayetlerindeki azalma (Koku/Sinek).
+*   **Sosyal Etki:** Modern şehir görüntüsü. Kaldırımların genişlemesi.
+

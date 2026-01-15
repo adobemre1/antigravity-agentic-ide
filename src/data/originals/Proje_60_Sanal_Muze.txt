@@ -1,0 +1,54 @@
+# PROJE 60: SEYHAN SANAL MÜZE VE NFT GALERİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Verse: Dijital Sanat Üssü
+*   **Uygulayıcı Birim:** Bilgi İşlem & Kültür Müdürlüğü
+*   **Proje Kategorisi:** Dijital Sanat / Web 3.0
+*   **Tahmini Başlangıç/Bitiş:** 01.09.2025 - Sürekli
+*   **Konum:** Hibrit (Fiziksel Galeri + Metaverse)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Geleneksel sanat galerisi anlayışının ötesinde; dijital sanat eserlerinin (Video Art, NFT, Dijital İllüstrasyon) sergilendiği, yüksek çözünürlüklü ekranlar ve VR gözlüklerle donatılmış fiziksel bir mekan ve eş zamanlı olarak Metaverse üzerinde gezilebilen sanal bir galeri projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Adana'daki genç dijital sanatçılar (Illustrator, 3D Artist) eserlerini sergileyecek mecra bulamamaktadır. Klasik galeriler sadece tuval resmi kabul etmektedir.
+*   **Çözüm:** Geleceğin sanatı olan dijital sanata alan açmak. Genç kuşağı (Gen Z) müzeye çekmek.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Fiziksel Mekan:** "Black Box" (Kara Kutu) konseptli, duvarları siyah, pencereleri kapalı bir oda.
+    *   **Ekranlar:** 10 Adet dikey 4K profesyonel ekran veya Short-Throw Projeksiyon.
+    *   **VR İstasyonu:** 5 Adet Oculus/Meta Quest 3 gözlük.
+*   **Sanal Mekan:** Spatial.io veya Decentraland üzerinde Seyhan Belediyesi parseli/galerisi.
+*   **Koleksiyon:** "Dijital Adana" temalı ilk sergi için açık çağrı (Open Call).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Refik Anadol:** Veri heykelleri (Data Sculpture) ile dünyayı büyüledi. Benzer işler yerel verilerle (Seyhan Nehri akış verisi vb.) yapılabilir.
+*   **Moco Museum (Amsterdam):** NFT sergileriyle ünlüdür.
+*   **X Media Art Museum (İstanbul):** Türkiye'nin ilk dijital sanat müzesi.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Ekran ve Bilgisayar Altyapısı: 500.000 TL.
+    *   VR Gözlükler (5 Adet): 100.000 TL.
+    *   Mekan Düzenleme: 100.000 TL.
+    *   **Toplam:** 700.000 TL.
+*   **İşletme:** Elektrik gideri yüksektir.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Mekan seçimi (Mevcut bir kültür merkezinin bir odası dönüştürülür).
+*   **Ay 2:** Ekipman alımı ve kurulum.
+*   **Ay 3:** Sanal galeri tasarımı (3D modelleme).
+*   **Ay 4:** Sanatçı başvurularının alınması.
+*   **Ay 5:** "Hello World" sergisi ile açılış.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Teknolojinin anlaşılmaması. -> **Önlem:** Galeride sürekli bir rehber bulunur, gelenlere "Bu NFT'dir, böyle çalışır" diye anlatır, gözlüğü takmasına yardım eder.
+*   **Risk:** Siber güvenlik (Sanal galerinin hacklenmesi). -> **Önlem:** Platform olarak güvenli global sunucular (Spatial vb.) kullanılır, kendi sunucumuzda tutulmaz.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Fiziksel ziyaretçi sayısı.
+    2.  Sanal galeri tıklanma sayısı.
+    3.  Sergilenen genç sanatçı sayısı.
+*   **Sosyal Etki:** Teknolojik okuryazarlığın artması. Sanatın tanımının genişlemesi.
+

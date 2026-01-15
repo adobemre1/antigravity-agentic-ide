@@ -1,0 +1,54 @@
+# PROJE 26: KOOPERATİF 2.0 (Dijital Üretici Ağı)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Doğal Ağ: Tarladan Sofraya Akıllı Kooperatif
+*   **Uygulayıcı Birim:** Kırsal Hizmetler & Bilgi İşlem
+*   **Proje Kategorisi:** Tarım ve Teknoloji
+*   **Tahmini Başlangıç/Bitiş:** 01.07.2025 - 01.07.2026 (12 Ay)
+*   **Teknoloji:** Blokzincir (QR Kod ile İzlenebilirlik) ve E-Ticaret Platformu
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Seyhan'daki üretici kooperatiflerini (Narenciye, Zeytin, Pamuk) birleştiren bir "Üst Birlik Platformu"dur. Ürünlerin tarladan çıkışından sofraya gelişine kadar olan sürecin blokzincir (Basit QR Kod) ile takip edildiği, aracıların kaldırıldığı ve çiftçinin doğrudan tüketiciye satış yaptığı dijital bir ekosistemdir. "Platform Kooperativizmi" (User-Owned Platform) modelini esas alır.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Çiftçi portakalı dalında 3 TL'ye satarken, markette 30 TL olmaktadır. Aradaki 27 TL aracılara gitmektedir. Tüketici de "Bu ürün gerçekten organik mi?" diye güvenememektedir.
+*   **Çözüm:** Blokzincir şeffaflığı sağlar (Güven sorunu biter). Dijital platform aracıyı kaldırır (Gelir sorunu biter).
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Platform Mimarisi:**
+    *   **Çiftçi App:** Üretici, tarladaki ürünün fotoğrafını çeker, hasat tarihini ve kullanılan gübreyi girer. Sistem buna bir "Dijital Kimlik" (Token) atar.
+    *   **QR Kod Etiketi:** Ürün kasalanırken üzerine yapıştırılan QR kod, tüketici tarafından okutulduğunda "Bu domates Ahmet Amca'nın tarlasından, dün sabah toplandı" bilgisini gösterir.
+    *   **Lojistik (Hub):** Ürünler belediyenin soğuk hava deposunda (Toplama Merkezi) birleşir ve buradan kargolanır.
+*   **Maliyet:** IBM Food Trust gibi pahalı sistemler yerine, açık kaynaklı (Ethereum veya Avalanche alt ağları) basit izlenebilirlik yazılımları kullanılır.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (Open Food Network):** Küresel, açık kaynaklı gıda dağıtım ağı.
+*   **Dünya Örneği (Fairbnb & Stocksy):** Platform gelirinin kullanıcılara dağıtıldığı modeller.
+*   **Türkiye Örneği (Tire Süt Kooperatifi):** Üreticinin sütünü değerinde satması ve markalaşma başarısı.
+*   **Seyhan Uyarlaması:** Seyhan'ın "Narenciye Borsası"nı dijitalleştirmek.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   Yazılım Geliştirme (Mobil App & Blockchain Entegrasyonu): 800.000 TL
+    *   Barkod Yazıcı ve El Terminalleri (Kooperatiflere hibe): 200.000 TL
+    *   Lansman ve Eğitim: 200.000 TL
+    *   **Toplam:** 1.200.000 TL
+*   **Gelir Modeli:** Satış üzerinden cüzi bir komisyon (%2-3) alınarak platformun sunucu ve bakım masrafları karşılanır. Kâr amacı güdülmez.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Mevcut kooperatif başkanlarıyla çalıştay: "Dijitale Var Mısınız?"
+*   **Ay 2:** Yazılım ihalesi (Yerel teknokent firmalarına öncelik).
+*   **Ay 3:** Pilot ürün seçimi (Örn: Sadece Limon ve Salça ile başlanır).
+*   **Ay 4:** Üreticilere tablet dağıtımı ve kullanımı eğitimi.
+*   **Ay 5:** İlk hasadın QR kodlu olarak paketlenmesi ve e-ticaret satışının başlaması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Lojistik zayiatı (Ürünün kargoda çürümesi). -> **Önlem:** Soğuk zincir kargo anlaşması şarttır. Sadece dayanıklı ürünlerle (Salça, Reçel, Kuru Gıda) başlanıp taze ürüne sonra geçilir.
+*   **Risk:** Çiftçinin teknolojiyi kullanamaması. -> **Önlem:** Gençler (Çiftçi çocukları) "Dijital Elçi" olarak eğitilir.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Platform üzerinden satılan ürün tonajı.
+    2.  Çiftçinin eline geçen net gelirdeki artış oranı (Hedef: %30 artış).
+*   **Sosyal Etki:** Kırsal kalkınma sayesinde köyden kente göçün yavaşlaması.
+

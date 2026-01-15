@@ -1,0 +1,57 @@
+# PROJE 12: ASKIDA FATURA - BLOKZİNCİR (Şeffaf İyilik Platformu)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan İyilik Zinciri: Kripto Şeffaflığında Sosyal Dayanışma
+*   **Uygulayıcı Birim:** Bilgi İşlem Müdürlüğü & Sosyal Yardım İşleri
+*   **Proje Kategorisi:** Sosyal İnovasyon ve Fintech
+*   **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.11.2025 (6 Ay)
+*   **Teknoloji:** Avalanche (Subnet) veya Stellar Blockchain
+*   **Web Adresi:** `iyilik.seyhan.bel.tr`
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Belediyenin doğruladığı ihtiyaç sahibi ailelerin su (ASKİ) ve elektrik faturalarının; dünyanın herhangi bir yerindeki yardımsever tarafından, Blokzincir teknolojisi kullanılarak "Askıdan indirilmesi" (ödenmesi) projesidir. Blokzincir kullanımı, yardımın gerçekten faturaya gittiğini (başka bir yere harcanmadığını) %100 kanıtlar ve takip edilebilir kılar (Traceability).
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Klasik yardım kampanyalarında "Acaba param yerine ulaştı mı?" şüphesi, bağış hacmini düşüren en büyük faktördür.
+*   **Fırsat (Gen Z ve Web3):** Dünyada "Crypto-Philanthropy" (Kripto Yardımseverlik) akımı hızla büyümektedir. Geleneksel bankacılık sisteminin dışındaki (DeFi) varlık sahiplerini de yardıma çekmek mümkündür.
+*   **Bütçe Kısıtı:** Birçok blokzincir projesi yüksek işlem ücretleri (Gas fee) yüzünden batmaktadır. Ancak 2025 teknolojileri (Avalanche9000 güncellemesi) bu maliyeti sıfıra yaklaştırmıştır.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Akıllı Kontrat (Smart Contract):**
+    *   Fonksiyon: "Havuz hesabına gelen para, SADECE onaylı abone numaraları (Whitelist) listesindeki borçları kapatmak için çıkış yapabilir. Başka bir IBAN'a transfer edilemez."
+*   **Ödeme Yöntemleri:**
+    1.  **Klasik:** Kredi Kartı / Havale (Bankacılık API).
+    2.  **Kripto:** USDT/USDC (Stablecoin) veya AVAX. (Yerel bir kripto borsası ile işbirliği yapılarak, gelen kripto anlık olarak Türk Lirası'na çevrilip kurum hesabına yasal olarak girecektir).
+*   **Şeffaflık Paneli:** Web sitesinde her bağışın "TxID"si (Transfer Kimliği) yayınlanır. Bağışçı linke tıklayıp paranın hangi dakikada faturayı ödediğini blok gezgininde (Explorer) görebilir.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (UNICEF CryptoFund):** UNICEF, kripto bağışları kabul ederek şeffaf yardım projeleri yürütmektedir.
+*   **Dünya Örneği (The Water Project):** Bitcoin bağışlarıyla Afrika'da su kuyusu açan ve sürecin her adımını blokzincirde kanıtlayan sistem.
+*   **Türkiye Örneği (İBB Askıda Fatura):** Dünyaya örnek olmuş başarılı bir modeldir, ancak blokzincir tabanlı değildir. Seyhan bunu teknolojik olarak bir üst lige taşıyacaktır.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   Yazılım Geliştirme (Web3 Frontend + Smart Contract): 300.000 TL
+    *   Akıllı Kontrat Denetimi (Security Audit): 100.000 TL (Güvenlik açığı olmaması için şart).
+    *   Sunucu ve Bakım: 50.000 TL
+    *   **Toplam:** 450.000 TL
+*   **Blockchain Maliyeti:** Avalanche Subnet kurulumu artık sembolik (Düşük donanım ve stake maliyeti) seviyededir. İşlem ücretleri ihmal edilebilir düzeydedir.
+*   **ROI:** Proje doğrudan gelir getirmez ama belediyenin "Nakdi Yardım" bütçesinden milyonlarca liralık yükü alır (Vatandaşın faturası ödendiği için belediyeden para istemez).
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Hukuk birimi ile "Kripto Varlık Bağış Kabul Prosedürü"nün netleştirilmesi (Varlık Yönetim Şirketi aracılığı).
+*   **Ay 2:** ASKİ ve EnerjiSA ile API entegrasyonu (Fatura sorgulama ve ödendi bilgisi).
+*   **Ay 3:** Testnet üzerinde Akıllı Kontratın yazılması ve denenmesi.
+*   **Ay 4:** Güvenlik denetimi (Audit) ve Penetrasyon testleri.
+*   **Ay 5:** Web sitesi ve Mobil Arayüz lansmanı. "Bir Fatura da Sen Askıdan İndir" kampanyası.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Siber Saldırı / Hack. -> **Önlem:** Kontratın "Pause" (Durdurma) fonksiyonu olacak. Çoklu İmza (Multi-Sig) cüzdan yönetimi kullanılacak (Tek kişinin imzasıyla para çıkamaz).
+*   **Risk:** Kripto Volatilitesi. -> **Önlem:** Sistem sadece Stablecoin (Dolar endeksli) kabul edecek veya gelen varlığı anında TL'ye çevirecek (Volatility Risk Hedging).
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Ödenen fatura sayısı ve toplam tutarı (Hedef: 1.000.000 TL / Yıl).
+    2.  Yurt dışı kaynaklı bağış oranı (Hedef: %20).
+*   **Sosyal Etki:** Teknolojinin "İyilik" için kullanılması. Seyhan'ın "Global İnovatif Belediye" markasının güçlenmesi.
+

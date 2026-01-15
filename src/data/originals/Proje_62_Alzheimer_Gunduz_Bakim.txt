@@ -1,0 +1,53 @@
+# PROJE 62: ALZHEIMER GÜNDÜZ BAKIM EVİ VE DUYU MERKEZİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Anı Evi: Alzheimer Gündüz Yaşam Merkezi
+*   **Uygulayıcı Birim:** Sağlık İşleri & Sosyal Yardım
+*   **Proje Kategorisi:** Engelli/Yaşlı Hizmetleri
+*   **Tahmini Başlangıç/Bitiş:** 01.09.2025 (Dünya Alzheimer Günü Açılış)
+*   **Konum:** Bahçeli, Tek Katlı Müstakil Bina (Gürselpaşa/Pınar Mh.)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Erken ve orta evre Alzheimer hastalarının gün boyu (08:30-17:00) sosyalleştiği, zihinsel rehabilitasyon (Boyama, Müzik) gördüğü; bu sayede onlara bakan hasta yakınlarının (eş/çocuk) nefes alabildiği, özel "Nostalji Odası" ve "Duyu Bütünleme (Snoezelen)" alanları içeren bir mola evidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Alzheimer hastasına bakmak 7/24 süren çok yıpratıcı bir iştir. Hasta yakınları "Bakıcı Tükenmişliği" (Caregiver Burnout) yaşamaktadır.
+*   **Çözüm:** Hastayı gündüz güvenli bir yere emanet edip, kendi işlerini halletmelerini sağlamak.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Mekan Tasarımı:**
+    *   **Retro Oda:** 1970'lerin Adana evi gibi döşenmiş (Danteller, eski radyo) oda. (Hatırlama terapisi için).
+    *   **Duyu Odası (Snoezelen):** Sakinleştirici ışıklar, su tüpleri ve aromaterapi ile hastanın ajitasyonunu (öfke nöbetini) azaltan oda. (Maliyet: ~25.000 TL).
+    *   **Güvenlik:** Wandering (Amaçsız dolaşma/kaçma) riskine karşı manyetik kilitli kapılar ve GPS bileklikler.
+*   **Personel:** 1 Gerontolog, 1 Sosyal Hizmet Uzmanı, 2 Hasta Bakıcı, 1 Hemşire.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Hogeweyk (Hollanda):** Dünyanın ilk "Demans Köyü". Hastalar normal hayatlarını yaşıyor gibi hisseder.
+*   **Mersin Büyükşehir:** "Mola Evi" projesi çok başarılı bir örnektir.
+*   **Türkiye Alzheimer Derneği:** Gündüz yaşam evleri standartlarını belirlemiştir.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Bina Tadilatı ve Bahçe Düzenlemesi: 2.000.000 TL.
+    *   Tefrişat (Mobilya, Duyu Odası): 500.000 TL.
+    *   Servis Aracı (Hastayı evden alma): Kiralama veya mevcut araç.
+    *   **Toplam:** 2.5 - 3 Milyon TL.
+*   **İşletme:** Yemek ve personel gideri belediye tarafından karşılanır. Hizmet ücretsiz veya sembolik ücretlidir.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Bina tahsisi.
+*   **Ay 2:** Tadilat (Merdivensiz, engelliye uygun, yuvarlak köşeli mobilyalar).
+*   **Ay 3:** Personel alımı ve Alzheimer Derneği'nden eğitim.
+*   **Ay 4:** Hasta kabul kriterlerinin (Sadece kendi yemeğini yiyebilen, yatalak olmayan hastalar) ilanı.
+*   **Ay 5:** Açılış.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Hastaların düşmesi. -> **Önlem:** Zemin kaymaz malzeme (PVC) ile kaplanır. Tutamaklar (Bar) konur.
+*   **Risk:** Hasta yakınlarının hastayı tamamen bırakıp gitmesi. -> **Önlem:** Burası yatılı bakım evi değildir, sözleşme ile akşam 17:00'de alma şartı konur.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Hizmet verilen hasta sayısı.
+    2.  Hasta yakınlarının depresyon/stres seviyesindeki düşüş (Anketle ölçülür).
+*   **Sosyal Etki:** Hasta yakınının "Yalnız değilim" demesi.
+

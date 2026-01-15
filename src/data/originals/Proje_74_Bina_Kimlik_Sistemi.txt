@@ -1,0 +1,50 @@
+# PROJE 74: BİNA KİMLİK SİSTEMİ VE QR RİSK KARNESİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Şeffaf Yapı: Binanı Tanı
+*   **Uygulayıcı Birim:** İmar ve Şehircilik Müdürlüğü
+*   **Proje Kategorisi:** Yapı Güvenliği / Şeffaflık
+*   **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.12.2025
+*   **Konum:** Tüm Seyhan (Öncelik 1999 öncesi binalar)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+İlçedeki her binanın girişine; o binanın yapım yılı, zemin etüdü, ruhsat bilgileri, kolon/kiriş durumu (son denetim) ve en yakın toplanma alanını gösteren "QR Kodlu Metal Levha" asılması projesidir. Vatandaş, oturduğu veya kiralayacağı evin "röntgenini" şeffafça görebilir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Vatandaş ev kiralarken "Bu bina sağlam mı?" bilmiyor. Emlakçı "Çok sağlam" diyor ama bina 40 yıllık ve deniz kumuyla yapılmış olabiliyor.
+*   **Çözüm:** Bilgi asimetrisini kaldırmak. Binanın teknik künyesini kapıya asmak.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Veri Seti:** İmar arşivindeki ruhsatlar taranır. Zemin etüdü haritası ile çakıştırılır.
+*   **Levha:** Dış hava koşullarına dayanıklı, lazer kazıma metal (Alüminyum/Paslanmaz Çelik) levha.
+*   **Yazılım:** QR kod okutulunca açılan web sayfası. (KVKK gereği kişisel isimler gizli, sadece bina teknik verisi açık).
+*   **Afet Modu:** QR kod aynı zamanda AFAD ekipleri içindir. Enkaz başına gelen kurtarmacı kodu okutunca "Bu binada 14 daire var, sığınak şurada, doğalgaz vanası burada" bilgisini görür.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **ÇŞB Bina Kimlik Sistemi (BKS):** Bakanlığın projesi. Yerel belediye olarak buna entegre olunmalıdır.
+*   **Kartal Belediyesi:** Coğrafi bilgi sistemi üzerinden bina yaşlarını halka açtı.
+*   **Şili:** Binaların deprem güvenlik sertifikasının kapıda asılı olması zorunluluğu.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Levha Üretimi (50.000 Bina x 100 TL): 5.000.000 TL.
+    *   Yazılım ve Veri Girişi Ekibi: 1.000.000 TL.
+    *   **Toplam:** 6 Milyon TL.
+*   **Yöntem:** Levha ücreti cüzi bir miktar olarak bina yönetiminden de talep edilebilir veya reklam sponsoru alınabilir.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Dijital arşivin taranması ve veritabanının oluşturulması.
+*   **Ay 2:** QR yazılımının kodlanması.
+*   **Ay 3:** Saha ekiplerinin (Zabıta/Fen İşleri) levhaları monte etmeye başlaması.
+*   **Ay 4:** Lansman: "Binanın Kimliğini Sorgula".
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Bina sahiplerinin "Binamız çürük görünecek, değeri düşecek" diye levhayı sökmeleri. -> **Önlem:** Levha asılması meclis kararı ile zorunlu hale getirilir. Sökene "Kabahatler Kanunu" cezası uygulanır.
+*   **Risk:** Verilerin güncelliğini yitirmesi. -> **Önlem:** Her tadilat ruhsatında QR kod verisi güncellenir.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Levha asılan bina sayısı.
+    2.  QR kod okuma (sorgulama) sayısı.
+*   **Sosyal Etki:** Kentsel dönüşüm bilincinin artması. Çürük binaların piyasa değerinin düşüp, sağlam binaların artması (Piyasa regülasyonu).
+

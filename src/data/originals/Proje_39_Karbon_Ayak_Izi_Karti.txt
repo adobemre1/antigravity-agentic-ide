@@ -1,0 +1,55 @@
+# PROJE 39: KARBON AYAK İZİ KARTI VE YEŞİL PUAN
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Yeşil Cüzdan: İklim Dostu Yaşam App
+*   **Uygulayıcı Birim:** İklim Değişikliği Müdürlüğü & Bilgi İşlem
+*   **Proje Kategorisi:** Dijital Dönüşüm / Çevre
+*   **Tahmini Başlangıç/Bitiş:** 01.07.2025 - 01.01.2026 (6 Ay)
+*   **Platform:** iOS / Android (Seyhan Mobil Entegre)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Vatandaşların ulaşım (yürüme, bisiklet, toplu taşıma), enerji tüketimi ve atık yönetimi alışkanlıklarını mobil uygulama üzerinden takip eden; karbon ayak izini azalttıkça (Örn: Araba yerine yürüdükçe) "Yeşil Coin" kazandıran ve bu coinlerle belediye tesislerinde indirim veya ücretsiz hizmet (Kahve, Tiyatro, Fidan) sağlayan bir sadakat programıdır.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** İklim değişikliği ile mücadele "Devletlerin işi" gibi görülmektedir. Birey, "Benim yapacağım tasarruftan ne olur?" demektedir.
+*   **Çözüm (Gamification):** İnsanlar oyunlaştırma ve ödül mekanizması ile davranış değiştirir. Finlandiya Lahti şehri bunun en iyi örneğidir.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Algoritma:** Telefonun adımsayar ve GPS verisini kullanır.
+    *   Hız > 20 km/s ise ve duraklarda duruyorsa = Otobüs (Yeşil Puan).
+    *   Hız > 20 km/s ve durmuyorsa = Özel Araç (Puan Yok).
+    *   Hız < 15 km/s = Bisiklet/Yürüme (Yüksek Puan).
+*   **Entegrasyon:** Su faturası az gelen haneye ek puan. Atık Taksi'ye (Proje 35) atık verene ek puan.
+*   **Maliyet:** App Geliştirme Maliyeti 2025 fiyatlarıyla ~300.000 - 500.000 TL arasındadır.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Lahti (Finlandiya) - CitiCAP:** Kişisel karbon kotası uygulaması. Kotayı aşmayana bedava ulaşım bileti veriliyor.
+*   **Viyana (Kultur-Token):** Yürüyerek veya bisikletle gidene müze bileti hediye ediliyor.
+*   **Adım Para (Türkiye):** Yürüdükçe kazandıran popüler uygulama.
+*   **Seyhan Modeli:** Yerel esnafı da işin içine katan (Yeşil Coin ile simit alabilme) model.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   Yazılım Geliştirme: 400.000 TL
+    *   Ödül Havuzu (Sponsorlukla): 200.000 TL
+    *   **Toplam:** 600.000 TL
+*   **Gelir Modeli:** Uygulama üzerinden "Yeşil Dostu" markaların reklamı alınabilir veya karbon nötrlemek isteyen firmalardan bağış alınabilir.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Yazılım analiz ve tasarım (UI/UX).
+*   **Ay 2:** Algoritma geliştirme (Hile koruması - Arabada telefonu sallayanı tespit etme).
+*   **Ay 3:** Beta sürüm ve üniversite öğrencileriyle test.
+*   **Ay 4:** Esnaf ve sponsor anlaşmaları (Puan nerede geçecek?).
+*   **Ay 5:** Marketlerde lansman.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Pil tüketimi. -> **Önlem:** GPS'i sürekli değil, sadece hareket algılayınca açan "Pil Dostu Mod" geliştirilir.
+*   **Risk:** KVKK (Veri Gizliliği). -> **Önlem:** Veriler anonim tutulur, kimsenin nereye gittiği izlenmez, sadece aktivite türü saklanır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Aktif kullanıcı sayısı (MAU).
+    2.  Kazanılan ve harcanan Yeşil Coin miktarı.
+    3.  Azaltılan karbon emisyonu (Tahmini Ton).
+*   **Sosyal Etki:** Sağlıklı yaşam (Yürüyüş). Toplu taşıma kullanımının artması.
+

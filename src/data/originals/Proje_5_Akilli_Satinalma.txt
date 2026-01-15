@@ -1,0 +1,45 @@
+# PROJE 5: AKILLI SATINALMA VE ŞEFFAF İHALE PLATFORMU
+
+**Döküman Tipi:** Mali Yönetim ve Denetim Projesi
+**Durum:** Tasarım Aşaması
+**Sorumlu Birim:** Mali Hizmetler Müdürlüğü & Destek Hizmetleri
+
+---
+
+## 1. ARAŞTIRMA VE ANALİZ (RESEARCH & ANALYSIS)
+
+### 1.1. Problem Tanımı
+Kamu ihalelerinde şeffaflık eksikliği algısı, rekabetin düşüklüğü ve "en düşük fiyat" odaklı yaklaşımın kalitesiz hizmete yol açması. Tedarikçi performansının ölçülememesi.
+
+### 1.2. Literatür ve Yaklaşım
+*   **Yapay Zeka ile Anomali Tespiti:** Geçmiş verileri tarayarak olağandışı fiyat tekliflerini veya şüpheli tedarikçi ilişkilerini tespit eden algoritmalar.
+*   **Strategic Sourcing (Stratejik Satınalma):** Sadece fiyat değil, "Toplam Sahip Olma Maliyeti" (TCO) ve sürdürülebilirlik kriterleri.
+
+---
+
+## 2. PROJE ÖĞRENİMLERİ (LEARNINGS)
+
+*   **Önleyici Denetim:** Yolsuzluk veya hata yapıldıktan sonra değil, ihale sürecindeyken sistemin uyarı vermesi (Kırmızı Bayrak / Red Flag sistemi).
+*   **Tedarikçi Karnesi:** İyi hizmet veren tedarikçinin ödüllendirildiği, kötünün elendiği dinamik bir puanlama sistemi. Mevzuattaki "yasaklılık" kavramının ötesinde "performans" odaklılık.
+
+---
+
+## 3. PROJE PLANLAMASI (PLANNING)
+
+### 3.1. Platform Özellikleri
+1.  **AI İhale Asistanı:** Teknik şartnameleri tarayarak "adrese teslim" (belli bir markayı işaret eden) maddeleri tespit eden NLP (Doğal Dil İşleme) modülü.
+2.  **Akıllı Piyasa Araştırması:** E-ticaret siteleri ve diğer kamu ihalelerinden otomatik fiyat çekerek "Yaklaşık Maliyet"i gerçekçi hesaplayan botlar.
+3.  **Blokzincir Zaman Damgası:** İhale tekliflerinin açılma anına kadar şifreli kalması ve açıldığı anın blokzincire işlenerek değiştirilemez olması.
+
+### 3.2. Uygulama Süreci
+*   **Faz 1:** Geçmiş 5 yılın ihale verilerinin dijitalleştirilmesi ve AI modelinin eğitilmesi.
+*   **Faz 2:** "Tedarikçi Portalı"nın açılması. Tedarikçilerin kendi performans notlarını görebilmesi.
+*   **Faz 3:** E-İhale entegrasyonu ve tam otomasyon.
+
+### 3.3. Etki Analizi
+*   Bu sistem, Seyhan Belediyesi'ni "Türkiye'nin En Şeffaf Belediyesi" unvanına taşıyacak en güçlü araçtır.
+
+### 3.4. KPI ve Başarı Kriterleri
+*   **Tasarruf:** Ortalama ihale iskontosunda %10 artış.
+*   **Rekabet:** İhale başına düşen ortalama teklif sayısında %50 artış.
+*   **Denetim:** İptal edilen ihale sayısında %20 azalma (Doğru hazırlanan şartnameler sayesinde).

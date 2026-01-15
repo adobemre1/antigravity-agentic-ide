@@ -1,0 +1,52 @@
+# PROJE 68: PSİKOSOSYAL DESTEK VE AİLE DANIŞMA MERKEZİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Aile Akademisi: Ruh Sağlığı Destek Birimi
+*   **Uygulayıcı Birim:** Kadın ve Aile Hizmetleri
+*   **Proje Kategorisi:** Ruh Sağlığı / Toplum Hizmeti
+*   **Tahmini Başlangıç/Bitiş:** Sürekli
+*   **Konum:** İlçe Merkezi (Ulaşımı kolay ama göz önünde olmayan diskret bir nokta)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Ekonomik kriz, deprem travması veya ailevi sorunlar yaşayan vatandaşlara; uzman psikologlar eşliğinde ücretsiz bireysel terapi, çift terapisi, oyun terapisi (çocuklar için) ve grup danışmanlığı hizmeti veren, randevu tabanlı bir merkezdir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Özel psikolog seans ücretleri (1.500-3.000 TL) vatandaşın erişemeyeceği seviyededir. Ruh sağlığı sorunları (depresyon, öfke, şiddet) artmaktadır.
+*   **Çözüm:** Ruh sağlığı hizmetini lüks olmaktan çıkarıp, temel bir hak olarak sunmak.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Hizmetler:**
+    *   **Yetişkin:** Depresyon, kaygı, yas süreci danışmanlığı.
+    *   **Çift/Aile:** İletişim sorunları, boşanma süreci desteği.
+    *   **Çocuk:** Oyun Terapisi (Play Therapy) odası. Dikkat eksikliği taraması.
+*   **Kadro:** 4 Klinik Psikolog, 2 Aile Danışmanı, 1 Çocuk Gelişimci.
+*   **Süreç:** 45 dakikalık seanslar. Kişi başı maksimum 8-10 seans (Kısa süreli çözüm odaklı terapi). İleri vakalar Psikiyatri'ye sevk.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **İBB PDM (Psikolojik Danışmanlık Merkezleri):** Çok yoğun talep gören, başarılı bir model.
+*   **Sliding Scale Clinics:** Gelire göre ücretleme (Biz ücretsiz yapacağız).
+*   **Online Terapi:** Evden çıkamayanlar için görüntülü görüşme seçeneği.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Ofis Kurulumu (Ses yalıtımlı odalar): 500.000 TL.
+    *   Oyun Terapisi Malzemeleri: 100.000 TL.
+    *   **Toplam:** 600.000 TL (Düşük kurulum maliyeti).
+*   **İşletme:** En büyük gider personel maaşlarıdır.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Uygun mekanın kiralanması veya tahsisi.
+*   **Ay 2:** Personel alımı (Mesleki yeterlilik testleri ile).
+*   **Ay 3:** Online randevu sisteminin ("e-Terapi") yazılımı.
+*   **Ay 4:** Tanıtım ve hasta kabulü.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Randevuya gelmeme (No-show). -> **Önlem:** Randevudan 24 saat önce SMS ile teyit alınır. Teyit etmeyenlerin sırası yedek listeye geçer. 2 kez gelmeyen 6 ay yasaklanır.
+*   **Risk:** İntihar riski olan danışan. -> **Önlem:** Acil durum protokolü (Prosedür) hazırlanır, 112 ve polis ile irtibatlı olunur.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Gerçekleştirilen seans sayısı.
+    2.  Danışan memnuniyet oranı.
+*   **Sosyal Etki:** Aile içi şiddetin azalması. Daha huzurlu bir toplum.
+

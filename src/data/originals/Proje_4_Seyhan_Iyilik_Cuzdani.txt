@@ -1,0 +1,46 @@
+# PROJE 4: SEYHAN İYİLİK CÜZDANI (BLOCKCHAIN SOSYAL YARDIM)
+
+**Döküman Tipi:** Sosyal İnovasyon Projesi
+**Durum:** Fizibilite Aşaması
+**Sorumlu Birim:** Sosyal Yardım İşleri Müdürlüğü
+
+---
+
+## 1. ARAŞTIRMA VE ANALİZ (RESEARCH & ANALYSIS)
+
+### 1.1. Problem Tanımı
+Klasik sosyal yardım kolisi dağıtımı insan onurunu zedeleyebilmekte, lojistik maliyet yaratmakta ve şeffaflık sorunları barındırmaktadır. Ayrıca yardım parası yerel ekonomi dışına çıkabilmektedir.
+
+### 1.2. Literatür ve Teknoloji
+*   **Blockchain (Blokzincir):** Değiştirilemez, şeffaf kayıt defteri.
+*   **Akıllı Kontratlar (Smart Contracts):** Belirli şartlar (örn. ayın 1'i gelmesi) sağlandığında otomatik ödeme yapan kod parçaları.
+*   **Döngüsel Ekonomi:** Paranın yerel esnafta kalmasını sağlayan kapalı devre sistemler.
+
+---
+
+## 2. PROJE ÖĞRENİMLERİ (LEARNINGS)
+
+*   **Şeffaflık ve Güven:** "Yardım kime gidiyor?" sorusuna, kişisel verileri ifşa etmeden (hash ID ile) kanıt sunabilmek bağışçı güvenini artırır.
+*   **Onurlu Yardım:** Vatandaşın elinde koliyle değil, dijital kart veya mobil uygulama (QR Kod) ile istediği marketten alışveriş yapması onurunu korur.
+*   **Yerel Kalkınma:** Sadece Seyhan sınırlarındaki bakkal, kasap ve kırtasiyede geçen bir "Token", paranın büyük zincir marketlere gitmesini engeller.
+
+---
+
+## 3. PROJE PLANLAMASI (PLANNING)
+
+### 3.1. Sistem Tasarımı: "SeyhanCoin" (İsim temsilidir)
+*   **Altyapı:** Avalanche Subnet veya Ethereum Layer 2 (düşük işlem ücreti için) üzerinde özel bir ağ (Private Permissioned Blockchain).
+*   **Cüzdan:** Vatandaşlar için basit arayüzlü mobil uygulama. Yaşlılar için QR kodlu NFC kartlar.
+
+### 3.2. İşleyiş Senaryosu
+1.  **Tanımlama:** İhtiyaç sahibinin cüzdanına her ay belirlenen miktarda "Token" yüklenir (Akıllı kontrat ile otomatik).
+2.  **Harcama:** Vatandaş, anlaşmalı "Seyhan Esnafı"na gider, QR kodu okutur.
+3.  **Ödeme:** Esnafın hesabına geçen Token'lar, belediye tarafından gün sonunda itibari paraya (TL) çevrilerek esnafın banka hesabına yatırılır.
+
+### 3.3. Sosyal Fayda Modeli (Gönüllülük)
+*   Üniversite öğrencileri, belediyenin sosyal projelerinde (park temizliği, yaşlı bakımı, ders verme) gönüllü çalışarak "Token" kazanabilir. Bu tokenları yerel esnafta harcayabilir.
+
+### 3.4. KPI ve Başarı Kriterleri
+*   **Lojistik Maliyet:** %0 (Depo, kamyon, koli maliyeti yok).
+*   **Yerel Esnaf Cirosu:** Proje kapsamındaki esnafta %15 ciro artışı.
+*   **Şeffaflık:** %100 izlenebilir yardım bütçesi.

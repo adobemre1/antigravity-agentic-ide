@@ -1,0 +1,51 @@
+# PROJE 28: FREELANCE DESTEK OFİSİ (Seyhan Gig Hub)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Freelancer Masası: Genç Girişimci Destek Birimi
+*   **Uygulayıcı Birim:** Mali Hizmetler & Gençlik Hizmetleri
+*   **Proje Kategorisi:** Yeni Ekonomi / Gig Economy
+*   **Tahmini Başlangıç/Bitiş:** 01.06.2025 - Sürekli
+*   **Mevzuat Dayanağı:** Gelir Vergisi Kanunu (Genç Girişimci İstisnası)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Evden çalışan, freelancer (serbest) olarak döviz veya TL kazanan gençlerin; vergi mükellefiyeti, sigorta teşvikleri ve yurt dışı kazanç istisnaları konusunda ücretsiz danışmanlık aldığı, hukuki sözleşmelerinin (Tip Sözleşme) hazırlandığı bir destek ofisidir. Amaç, gençleri kayıt altına almak ve "Korkmadan Şirketleşmelerini" sağlamaktır.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Gençler, "Şirket kurarsam muhasebeci parasına yetişemem", "Bağ-Kur borcu çıkar" korkusuyla kayıt dışı çalışmakta, bu da banka kredisi alamamalarına ve kurumsal iş alamamalarına sebep olmaktadır.
+*   **Fırsat:** 2025 yılı itibarıyla **Genç Girişimci Kazanç İstisnası 330.000 TL** olmuştur. Ayrıca 29 yaş altına 1 yıl Bağ-Kur primi devlet tarafından ödenmektedir. Gençler bunu bilmemektedir.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Hizmetler:**
+    1.  **Vergi Danışmanlığı:** Şahıs şirketi kuruluş rehberliği (E-Devlet üzerinden interaktif vergi dairesi).
+    2.  **Sözleşme Desteği:** "Freelance Hizmet Sözleşmesi" şablonları (Müşteri parayı ödemezse ne olacak?).
+    3.  **Yurt Dışı İstisnası:** Yazılım, tasarım, mühendislik ihracatında **%80 Vergi Muafiyeti** prosedürlerinin anlatılması.
+    4.  **Adres Gösterme:** Seyhan Hub'ın (Proje 21) yasal tebligat adresi (Sanal Ofis) olarak kullandırılması.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (Freelancers Union - NYC):** New York'ta "Freelance Isn't Free Act" yasasını geçiren dev sendika.
+*   **Türkiye Örneği (Workup vb.):** Girişim hızlandırma programlarının hukuk/finans modülleri.
+*   **Seyhan Farkı:** Özel sektördeki sanal ofisler pahalıdır, belediye bunu "Kamu Hizmeti" olarak maliyetine sunacaktır.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX & OPEX):**
+    *   Hukuk ve Mali Müşavir Danışmanlık Hizmeti (Haftada 2 gün nöbetçi uzman): 300.000 TL / Yıl.
+    *   Web Portalı Hazırlığı: 100.000 TL.
+    *   **Toplam:** 400.000 TL.
+*   **ROI:** Kayıt altına alınan her genç, potansiyel bir vergi mükellefidir. Kayıt dışılığın azalması ülke ekonomisine katkıdır.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Adana Serbest Muhasebeci Mali Müşavirler Odası (ASMMMO) ile protokol.
+*   **Ay 2:** Rehber kitapçığın hazırlanması ("Freelancer'ın El Kitabı 2025").
+*   **Ay 3:** Web sitesi ve randevu sisteminin açılması.
+*   **Ay 4:** Sanal ofis (Adres gösterme) hizmetinin Seyhan Hub binasında aktifleştirilmesi.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Gençlerin "Belediye beni maliyeye ihbar eder mi?" korkusu. -> **Önlem:** "Veri Gizliliği Taahhütnamesi" imzalanır. Ofisin amacı ihbar değil, teşvik etmektir.
+*   **Risk:** Mali mevzuatın sürekli değişmesi. -> **Önlem:** Danışmanlar sürekli güncel sirküleri takip eder.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Danışmanlık alan kişi sayısı.
+    2.  Ofis desteğiyle kurulan şahıs şirketi sayısı (Hedef: 200 Şirket/Yıl).
+*   **Sosyal Etki:** Güvencesiz (Prekarya) çalışan gençlerin sosyal güvenliğe (Bağ-Kur/SGK) kavuşması.
+

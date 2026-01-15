@@ -1,0 +1,57 @@
+# PROJE 37: TOPLULUK KOMPOST MERKEZLERİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Toprak Ana: Semt Kompost İstasyonları
+*   **Uygulayıcı Birim:** Temizlik İşleri & Park Bahçeler
+*   **Proje Kategorisi:** Sıfır Atık
+*   **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.11.2025 (Pilot Faz)
+*   **Ekipman:** Kapalı Sistem (Tamburlu) Kompost Makineleri
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Semt pazarlarından çıkan tonlarca sebze-meyve atığının ve gönüllü sitelerden toplanan evsel organik atıkların; mahalle parklarında kurulan "Kokusuz, Kapalı Sistem" kompost makinelerinde işlenerek nitelikli gübreye dönüştürülmesi projesidir. Üretilen gübre parklarda kullanılır ve atık getiren vatandaşa hediye edilir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Pazar yerlerinden çıkan marul yaprağı, domates ezikleri "Çöp" olarak kamyonlara yüklenip kilometrelerce ötedeki Sofulu Çöplüğü'ne taşınır. Bu hem nakliye maliyeti hem karbon emisyonudur. Oysa bu atıklar %100 organiktir.
+*   **Çözüm:** "Yerinde Dönüşüm". Atık oluştuğu yerde gübreye dönmelidir.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Teknoloji:** Aerobik (Haval) Kompostlama.
+*   **Makine:** 200-500 Litre kapasiteli, elektrikli, otomatik karıştıran ve ısıtan sanayi tipi makineler (Maliyet: 150.000 - 300.000 TL).
+*   **Süreç:**
+    1.  Pazarcı kalan yeşilliği getirir.
+    2.  Makineye atılır + Talaş eklenir (Karbon dengesi için).
+    3.  Makine 24-48 saatte "Ön Kompost" yapar.
+    4.  21 gün olgunlaşma süresinden sonra "Siyah Altın" (Humus) hazırdır.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **New York (NYC Compost Project):** Şehir genelinde binlerce noktada toplama yapılıyor.
+*   **Kadıköy Belediyesi (Fenerbahçe Parkı):** Kompost eğitim merkezi.
+*   **Nilüfer Belediyesi:** Pazar atıklarından kompost üretimi.
+*   **Seyhan Farkı:** Halka açık, şeffaf ve katılımcı bir süreç olması. "Kompostunu getir, çiçeğini götür".
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   3 Adet Makine (Farklı boyutlarda): 600.000 TL
+    *   Dal Öğütme Makinesi (Talaş için): 50.000 TL
+    *   **Toplam:** 650.000 TL
+*   **ROI:**
+    *   Çöp döküm bedelinden tasarruf.
+    *   Kimyasal gübre alımının durması (Parklar için). Yılda 200.000 TL tasarruf öngörülür.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Pazar Yeri yanında uygun alan tespiti (Elektrik ve su hattı olan).
+*   **Ay 2:** Makine temini ve kurulumu.
+*   **Ay 3:** Pazarcılar Odası ile işbirliği ("Çöpü konteynere değil, buraya dökün").
+*   **Ay 4:** İlk mahsulün (Gübrenin) analizi (Tuzluluk, pH kontrolü).
+*   **Ay 5:** Halka dağıtım şenliği.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Koku şikayeti. -> **Önlem:** Kapalı sistem makineler koku yapmaz (Biyo-filtre vardır). Yine de konutlara çok yakın kurulmamalıdır.
+*   **Risk:** Sineklenme. -> **Önlem:** Karbon (Talaş) oranı yüksek tutulursa sinek olmaz.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Dönüştürülen atık miktarı (Ton).
+    2.  Üretilen kompost miktarı (Ton).
+*   **Sosyal Etki:** Toprağın iyileşmesi. Vatandaşın "Çöpüm ziyan olmuyor" huzuru.
+

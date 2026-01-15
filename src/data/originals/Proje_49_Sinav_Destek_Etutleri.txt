@@ -1,0 +1,50 @@
+# PROJE 49: YAPAY ZEKA DESTEKLİ SINAV HAZIRLIK MERKEZİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Dijital Dershane: Yapay Zeka Koçum
+*   **Uygulayıcı Birim:** Kültür İşleri (Eğitim Birimi)
+*   **Proje Kategorisi:** Eğitim Teknolojileri (EdTech)
+*   **Tahmini Başlangıç/Bitiş:** 01.08.2025 - Sürekli
+*   **Hedef Kitle:** LGS (8. Sınıf) ve YKS (12. Sınıf) Öğrencileri
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Dershaneye gitme imkanı olmayan dar gelirli öğrencilere; Yapay Zeka (AI) destekli, kişiye özel eksik analizi yapan, "adaptive learning" (uyarlanabilir öğrenme) teknolojisine sahip dijital eğitim lisanslarının verilmesi ve Bilgi Evleri'nde etüt desteği sağlanmasıdır. Dijital + Fiziksel (Phygital) bir modeldir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Özel dershane fiyatları yıllık 50.000 - 100.000 TL bandındadır. Dar gelirli ailelerin bunu karşılaması imkansızdır. Standart kurslarda ise 30 kişilik sınıflarda verim düşüktür.
+*   **Çözüm:** AI, öğrencinin özel öğretmeni gibi çalışır. Hangi konuda eksiği varsa (Örn: Türev) onu tespit eder ve sadece o konuyu çalıştırır.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Yazılım:** Piyasada rüştünü ispatlamış platformlardan (Raunt, Doping Hafıza, Vitamin vb.) kurumsal lisans paketi alınır. Sıfırdan yazılım yapmak maliyetli ve risklidir.
+*   **Donanım:** Evinde interneti olmayanlar için Bilgi Evleri'ne tablet/bilgisayar laboratuvarı kurulur.
+*   **Mentörlük:** Yazılımı çocuğa verip bırakmak yetmez. Başında duran, takip eden "Eğitim Koçları" (Atanamayan öğretmenler) istihdam edilir.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Khan Academy:** Dünyanın en büyük ücretsiz AI destekli platformu.
+*   **MEB EBA Akademik Destek:** Devletin sunduğu güçlü bir altyapı. Proje, bunu tamamlayıcı nitelikte olacak.
+*   **Asya Modeli (Güney Kore):** Dijital eğitimin en yoğun kullanıldığı yerler.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (Yıllık):**
+    *   Lisans Alımı (2000 Öğrenci x 500 TL/Kurumsal Fiyat): 1.000.000 TL.
+    *   Tablet/PC Alımı (50 Adet): 250.000 TL.
+    *   **Toplam:** 1.25 Milyon TL.
+*   **Verimlilik:** Bir dershane binası kurmaktan çok daha ucuzdur ve binlerce öğrenciye ulaşır.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Eğitim firmalarıyla görüşme ve kurumsal pazarlık.
+*   **Ay 2:** Seviye belirleme sınavı ile burs verilecek 2000 öğrencinin seçimi.
+*   **Ay 3:** Bilgi Evleri altyapısının hazırlanması.
+*   **Ay 4:** Şifrelerin dağıtılması ve sistemin açılması.
+*   **Ay 5:** Aylık deneme sınavlarıyla gelişimin takibi.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Öğrencinin sistemi kullanmaması (Disiplin sorunu). -> **Önlem:** Gamification (Kullandıkça puan kazanma) ve Mentör takibi (Veliye "Çocuğunuz bu hafta hiç girmedi" SMS'i).
+*   **Risk:** İnternet kotası sorunu. -> **Önlem:** Belediyenin ücretsiz Wi-Fi noktaları artırılır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Platformu aktif kullanım oranı.
+    2.  LGS/YKS yerleştirme başarısı (Önceki yıla göre artış).
+*   **Sosyal Etki:** Gelir adaletsizliğinin eğitimdeki etkisinin azaltılması.
+

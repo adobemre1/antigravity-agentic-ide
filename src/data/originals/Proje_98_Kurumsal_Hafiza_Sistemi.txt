@@ -1,0 +1,52 @@
+# PROJE 98: KURUMSAL HAFIZA VE DİJİTAL ARŞİV SİSTEMİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Belleği: Bilgi Kaybolmaz
+*   **Uygulayıcı Birim:** Yazı İşleri & Bilgi İşlem
+*   **Proje Kategorisi:** Dijital Dönüşüm / Arşiv
+*   **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.06.2026
+*   **Konum:** Belediye Arşivi ve Sunucular
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Belediyenin tozlu raflarında çürümeye yüz tutmuş milyonlarca sayfa fiziki evrağın (İmar, Ruhsat, Meclis kararı) taranarak dijitalleştirilmesi, OCR ile aranabilir hale getirilmesi ve emekli olan personelin tecrübesinin "Dijital Hafıza" portalına aktarılması projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Bir imar dosyası arşive inip saatlerce aranıyor. Yangın veya su basarsa her şey biter. Tecrübeli personel gidince "işin nasıl yapıldığı" bilgisi de gidiyor.
+*   **Çözüm:** Dijital İkiz. Kağıtsız ofis.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Dijitalleştirme:**
+    *   *Tarama:* Endüstriyel tarayıcılarla A4/A3/A0 (Plan) tarama.
+    *   *İndeksleme:* Dosyanın ada/parsel, isim ve tarih ile etiketlenmesi.
+    *   *OCR:* Taranan resmin içindeki yazının aranabilir metne dönüşmesi.
+*   **Yazılım:** EBYS (Elektronik Belge Yönetim Sistemi) ile entegre "Dijital Arşiv Modülü".
+*   **Wiki-Seyhan:** Kurum içi Wikipedia. Projelerin hikayesinin ve teknik detaylarının yazıldığı bilgi tabanı.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **NASA:** "Lessons Learned" (Alınan Dersler) veritabanı ile hata yapmayı önler.
+*   **Tapu Kadastro:** Türkiye'nin en büyük dijital arşiv projesini (TAK BİS) yaptı.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Hizmet Alımı (1 Milyon Sayfa Tarama): 500.000 TL (Sayfa başı ~0.50 TL).
+    *   Sunucu ve Storage (Depolama) Üniteleri: 250.000 TL.
+    *   **Toplam:** 750.000 TL.
+*   **Yatırımın Geri Dönüşü:** Evrak arama süresinin dakikalara inmesi. Personel verimliliği. Arşiv mekanı kirasından tasarruf.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Arşiv analizi ve tasnif. İmha edilecek evrakın ayrılması.
+*   **Ay 2:** Hizmet alımı ihalesi.
+*   **Ay 3-10:** Tarama operasyonu (Arşivde kurulan istasyonda).
+*   **Ay 11:** Verilerin sisteme yüklenmesi ve kalite kontrol.
+*   **Ay 12:** Vatandaşın e-eksper ve e-imar ile kendi dosyasına erişimi.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Siber saldırı veya veri kaybı. -> **Önlem:** "3-2-1 Yedekleme Kuralı". Verinin bir kopyası farklı lokasyonda (Disaster Recovery Center) saklanır.
+*   **Risk:** KVKK ihlali. -> **Önlem:** Kişisel veriler sadece yetkili personel tarafından görülür (Maskeleme).
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Dijitalleşen evrak sayısı.
+    2.  Fiziki arşivden dosya isteme sayısındaki düşüş.
+*   **Sosyal Etki:** Kurumsal devamlılık. Tarihe ve bilgiye sahip çıkma.
+

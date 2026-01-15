@@ -1,0 +1,53 @@
+# PROJE 67: MOBİL DİŞ KLİNİĞİ OTOBÜSÜ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Gülümseyen Seyhan: Mobil Ağız ve Diş Sağlığı
+*   **Uygulayıcı Birim:** Sağlık İşleri Müdürlüğü
+*   **Proje Kategorisi:** Gezici Sağlık
+*   **Tahmini Başlangıç/Bitiş:** 01.09.2025 (Okulların açılmasıyla)
+*   **Konum:** İlkokullar ve Kırsal Mahalleler
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Mevcut bir belediye otobüsünün tam donanımlı diş kliniğine (2 Ünit + Röntgen) dönüştürülerek; okullarda öğrencilere, köylerde ise yaşlılara ücretsiz diş taraması, florür uygulaması ve basit müdahaleler (çekim, dolgu) yaptığı mobil hizmet projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Diş çürüğü okul devamsızlığının en büyük sebeplerinden biridir. Dar gelirli aileler diş kontrolünü ihmal etmektedir. "Dişçi korkusu" yaygındır.
+*   **Çözüm:** Dişçiyi çocukların ayağına, okul bahçesine götürmek.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Araç Dönüşümü:**
+    *   12 metrelik bir otobüsün içi sökülür.
+    *   Su deposu (Temiz/Kirli su), Kompresör, Jeneratör eklenir.
+    *   2 Adet Diş Üniti (Koltuk) ve 1 Adet Panoramik Röntgen odası (Kurşun kaplamalı) kurulur.
+*   **Ekip:** 2 Diş Hekimi, 2 Asistan, 1 Şoför/Tekniker. (Hekimler Gönüllü veya Kısmi Zamanlı olabilir).
+*   **Hizmet:** Teşhis, Diş Taşı Temizliği, Florür, Basit Çekim. (Kanal tedavisi gibi uzun işler yapılmaz, hastaneye sevk edilir).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Tooth Fairy (Durham):** Çocuklara yönelik mobil diş kliniği.
+*   **Kayseri Büyükşehir:** Kendi atölyesinde otobüs dönüştürerek maliyeti düşürdü.
+*   **Koruyucu Hekimlik:** 1 TL'lik florür, ileride 1000 TL'lik implant masrafını önler.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Otobüs: Mevcut araç parkından (Bedelsiz).
+    *   Dönüşüm ve Tıbbi Donanım: 2.000.000 - 2.500.000 TL. (Karoser işçiliği + Dental cihazlar).
+    *   Sarf Malzemesi: 50.000 TL/Yıl.
+*   **Toplam Yatırım:** ~2.5 Milyon TL.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Araç seçimi ve proje çizimi.
+*   **Ay 2:** Dönüşüm ihalesi (Tıbbi araç üreten firmalar).
+*   **Ay 3:** Diş Hekimleri Odası ile protokol.
+*   **Ay 4:** İl Milli Eğitim Müdürlüğü'nden okullar için izin.
+*   **Ay 5:** Hediye setlerinin (Fırça/Macun) temini ve sahaya çıkış.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Cihazların sarsıntıdan bozulması. -> **Önlem:** Dental ünitler zemine özel şok emici takozlarla monte edilir. Her sabah kalibrasyon yapılır.
+*   **Risk:** Tıbbi atık. -> **Önlem:** Araçta tıbbi atık deposu bulunur, her akşam merkeze boşaltılır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Taranan öğrenci sayısı (Hedef: Günde 50).
+    2.  Tespit edilen çürük oranı.
+*   **Sosyal Etki:** Sağlıklı gülüşler, özgüvenli çocuklar.
+

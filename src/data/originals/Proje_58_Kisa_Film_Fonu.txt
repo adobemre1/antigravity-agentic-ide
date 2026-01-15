@@ -1,0 +1,53 @@
+# PROJE 58: SEYHAN KISA FİLM FONU VE YAPIM DESTEĞİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Kadraj: Genç Yönetmen Destek Fonu
+*   **Uygulayıcı Birim:** Kültür İşleri Müdürlüğü
+*   **Proje Kategorisi:** Sanat Fonlaması
+*   **Tahmini Başlangıç/Bitiş:** Yıllık Döngü
+*   **Bütçe:** 500.000 TL (Yıllık Hibe Havuzu)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Konusu Seyhan'da geçen veya Seyhan'da çekilen kısa film projelerine; senaryo aşamasında nakdi (para) ve çekim aşamasında ayni (ekipman, yemek, ulaşım, izin) destek sağlayan; Altın Koza'nın altyapısını besleyen bir yerel film fonudur.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Genç sinemacılar bütçe bulamadığı için proje üretemiyor. Kültür Bakanlığı destekleri çok rekabetçi. Sokakta çekim yaparken bürokratik engellerle karşılaşıyorlar.
+*   **Çözüm:** Yerel yönetimin kolaylaştırıcı (facilitator) rolü oynaması.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Destek Modeli:**
+    *   **Nakdi Destek:** Seçilen 5 Projeye 50.000 TL Yapım Desteği (Toplam 250.000 TL).
+    *   **Ayni Destek:** Belediyenin basın birimindeki kamera, ışık, drone ve kurgu bilgisayarının (randevulu) kullandırılması. Belediyenin yemekhanesinden set yemeği desteği.
+    *   **İzin Kartı:** "Seyhan Belediyesi Film Ekibi" kartı ile parklarda/sokaklarda zabıta engeli olmadan çekim izni.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Esenler Belediyesi:** Türkiye'nin en aktif kısa film fonlarından biri. (Ayni ve nakdi destek veriyor).
+*   **Jerome Foundation:** New York'ta genç sanatçılara hibe.
+*   **İzmir Sinema Ofisi:** Film çekimleri için lojistik destek masası.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (Yıllık Operasyonel):**
+    *   Hibe Ödemeleri: 250.000 TL.
+    *   Jüri/Huzur Hakkı: 50.000 TL.
+    *   Galâ ve Gösterim: 100.000 TL.
+    *   **Toplam:** 400.000 - 500.000 TL.
+*   **Kaynak:** Kültür bütçesi.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Yönetmelik hazırlığı (Başvuru şartları, jüri kriterleri).
+*   **Ay 2:** Duyuru (Üniversitelerin Radyo-TV bölümlerine afiş).
+*   **Ay 3:** Başvuruların toplanması (Senaryo + Yönetmen Görüşü).
+*   **Ay 4:** Pitching (Sunum) günü ve kazananların açıklanması.
+*   **Ay 5-6:** Çekim süreci ve mentörlük.
+*   **Ay 7:** Filmlerin teslimi ve Altın Koza'da özel gösterim.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Filmin çekilmemesi (Paranın alınıp işin yapılmaması). -> **Önlem:** Destek tutarı parçalı ödenir (%30 başta, %40 sette, %30 teslimde). Sözleşme imzalanır.
+*   **Risk:** İçerik sorunu (Propaganda vb.). -> **Önlem:** Senaryo onayı şartı aranır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Üretilen film sayısı.
+    2.  Filmlerin ulusal/uluslararası festivallere kabul oranı.
+*   **Sosyal Etki:** Seyhan'ın "Sinema Dostu İlçe" markasının güçlenmesi.
+

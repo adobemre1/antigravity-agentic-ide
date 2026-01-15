@@ -1,0 +1,52 @@
+# PROJE 89: ASFALT AR-GE VE KALİTE KONTROL LABORATUVARI
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Kaliteli Yol: Bilimsel Asfalt
+*   **Uygulayıcı Birim:** Fen İşleri Müdürlüğü
+*   **Proje Kategorisi:** Altyapı / Ar-Ge
+*   **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.12.2025
+*   **Konum:** Fen İşleri Şantiyesi
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Belediyenin döktüğü veya satın aldığı asfaltın kalitesini denetlemek, Adana'nın aşırı sıcaklarına dayanıklı (erimeyen) "Modifiye Bitüm" formüllerini geliştirmek ve yol ömrünü uzatarak kamu zararını önlemek amacıyla tam donanımlı bir Asfalt Laboratuvarı kurulmasıdır.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Dökülen asfalt 1-2 yıl içinde bozuluyor (Onderülasyon, çatlak). Müteahhit ne verirse o kullanılıyor, bilimsel denetim yetersiz. "Yap-Boz" belediyeciliği bütçeyi eritiyor.
+*   **Çözüm:** Kendi laboratuvarında test etmek. "Ölçemediğini yönetemezsin."
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Cihazlar:**
+    *   **Marshall Test Cihazı:** Asfaltın stabilitesini (dayanımını) ölçer.
+    *   **Bitüm Ekstraktörü:** Asfaltın içindeki zift (bitüm) oranını kontrol eder. (Az zift = Çabuk bozulma).
+    *   **Elek Seti:** Taş boyutlarını (Granülometri) analiz eder.
+    *   **Karot Makinesi:** Yoldan numune almak için.
+*   **Standart:** TS EN 13108 standartlarına akredite (TÜRKAK) bir laboratuvar.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Karayolları Genel Müdürlüğü (KGM):** Her şantiyede laboratuvar şarttır.
+*   **İsfalt (İstanbul):** Kendi Ar-Ge merkezi ile "Sessiz Asfalt", "Renkli Asfalt" üretir.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Laboratuvar Cihazları ve Test Setleri: 4.000.000 TL.
+    *   Konteyner Laboratuvar Binası: 500.000 TL.
+    *   **Toplam:** 4.5 Milyon TL.
+*   **Yatırımın Geri Dönüşü:** Kalitesiz asfaltın reddedilmesi ve yol ömrünün 5 yıldan 10 yıla çıkması ile proje 1 yılda kendini amorti eder (Yılda 100 milyonluk asfalt dökülüyorsa, %10 tasarruf 10 milyon eder).
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Laboratuvar alanının hazırlanması.
+*   **Ay 2:** Cihaz alım ihalesi.
+*   **Ay 3:** Üniversite (ÇÜ İnşaat Müh.) ile danışmanlık protokolü.
+*   **Ay 4:** Personel eğitimi ve cihaz kalibrasyonu.
+*   **Ay 5:** İlk sahadan numune alımı ve analiz.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Asfalt tedarikçilerinin denetimden rahatsız olması. -> **Önlem:** Şartnamelere "Belediye laboratuvar onayı şarttır" maddesi eklenir. Standart dışı ürün kamyondan inmeden geri gönderilir.
+*   **Risk:** Personel yetersizliği. -> **Önlem:** Üniversiteden stajyer ve uzman desteği.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Test edilen numune sayısı.
+    2.  Reddedilen (Standart dışı) asfalt miktarı (Ton).
+*   **Sosyal Etki:** Konforlu sürüş. Vergi gelirlerinin verimli kullanılması.
+

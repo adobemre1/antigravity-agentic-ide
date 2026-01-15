@@ -1,0 +1,49 @@
+# PROJE 84: KESİNTİSİZ BİSİKLET AĞI VE MAVİ YOLLAR
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Pedalla Seyhan: Mavi Şerit Hareketi
+*   **Uygulayıcı Birim:** Ulaşım Hizmetleri & Fen İşleri
+*   **Proje Kategorisi:** Sürdürülebilir Ulaşım
+*   **Tahmini Başlangıç/Bitiş:** 01.08.2025 - 01.08.2027 (Etaplı)
+*   **Konum:** Ana Bulvarlar (Turgut Özal, Baraj Yolu) ve Kanal Kıyısı
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Mevcut, kopuk ve araç işgali altındaki bisiklet yollarının; fiziksel bariyerlerle (kauçuk/beton) ayrılarak güvenli hale getirilmesi (Mavi Yol), birbirine bağlanarak "ağ" bütünlüğü sağlanması ve bisikletin bir "spor aracı" değil "ulaşim aracı" olarak konumlandırılması projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Bir bisiklet yolu 500 metre gidip aniden bitiyor. Yolu araçlar otopark gibi kullanıyor. Mazgallar tekerlek sıkıştırıyor.
+*   **Çözüm:** "Segregated Lane" (Ayrılmış Yol). Araç istese de giremeyecek. Kesintisiz rota.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Ayrıştırıcı:** Plastik duba yerine, estetik "Kauçuk Separatörler" veya "Beton Bordür". (Üzerine araç çıkamaz).
+*   **Zemin:** Mavi renkli "Termoplastik Boya". Kaymaz özellikli, gece parlar.
+*   **Kavşak:** Bisikletli geçiş önceliğini vurgulayan boyamalar ve tabelalar.
+*   **Park:** Metro istasyonlarına ve okul bahçelerine "Güvenli Bisiklet Park Üniteleri" (Üstü kapalı, kameralı).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Kopenhag:** Bisiklet otoyolları.
+*   **Sevilla (İspanya):** 5 yılda yapılan ağ ile bisiklet kullanımını 10 kat artırdı.
+*   **Konya:** Türkiye'nin en uzun bisiklet yolu ağına sahip şehri.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   10 km Yeni Bisiklet Yolu Yapımı: 10.000.000 TL.
+    *   Mevcut Yolların İyileştirilmesi (Boya, Duba): 5.000.000 TL.
+    *   **Toplam:** 15 Milyon TL.
+*   **Kaynak:** İller Bankası "Bisiklet Yolu Hibe Programı" ve AB Fonları.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Ulaşım Master Planı analizi (Rotanın belirlenmesi).
+*   **Ay 2-6:** Kanal boyundaki (DSİ mülkiyeti) servist yolunun "Bisiklet Otobanı"na dönüşümü (En kolay etap).
+*   **Ay 7-12:** Şehir içi ana arterlerde şerit daraltma ve bisiklet yolu ayrıştırma.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Esnafın "Müşteri park edemiyor" isyanı. -> **Önlem:** Cep otoparkları planlanır. Esnafa "Bisikletli müşteri trafiği" verileri anlatılır.
+*   **Risk:** Motosikletlilerin yolu işgal etmesi. -> **Önlem:** Girişlere "S" bariyer konur (Sadece bisiklet dönebilir). EDS ile plaka tanıma ve ceza.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Yapılan yol uzunluğu (km).
+    2.  Bisikletli sayısı sayımı (Sayç ile).
+*   **Sosyal Etki:** Obeziteyle mücadele. Daha temiz hava. Öğrenciler için ucuz ulaşım.
+

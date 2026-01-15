@@ -1,0 +1,53 @@
+# PROJE 61: EVDE BAKIM 2.0 (DİJİTAL SAĞLIK VE TELE-TIP)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Dijital Şifa: Uzaktan Hasta Takip Sistemi
+*   **Uygulayıcı Birim:** Sağlık İşleri & Bilgi İşlem
+*   **Proje Kategorisi:** Sağlık Teknolojileri (HealthTech)
+*   **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.12.2025
+*   **Hedef Kitle:** Evden çıkamayan 65+ yaş ve kronik hastalar
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Klasik "evde bakım" (pansuman/iğne) hizmetini teknolojiyle birleştirerek; hastalara dağıtılan SIM kartlı tabletler ve Bluetooth tansiyon/şeker ölçüm cihazları sayesinde, sağlık verilerinin belediye komuta merkezine anlık aktarıldığı, doktorların görüntülü (Tele-Tıp) muayene yapabildiği hibrit bir sağlık modelidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Evde bakım ekipleri hastayı haftada bir görebiliyor. Aradaki 6 gün hasta kontrolsüz kalıyor. Ani tansiyon yükselmesi fark edilmiyor.
+*   **Çözüm:** 7/24 dijital takip (RPM - Remote Patient Monitoring).
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Donanım:**
+    *   **Tablet:** "GrandPad" benzeri, yaşlı dostu (büyük ikonlu), sadece sağlık uygulaması çalışan, düşmeye dayanıklı (Rugged) tabletler.
+    *   **Sensörler:** Bluetooth Tansiyon Aleti, Pulse Oksimetre (SpO2), Şeker Ölçer. Cihaz ölçümü yapınca veriyi otomatik tablete atar.
+*   **Yazılım:** "Seyhan e-Sağlık" paneli. Kırmızı alarm (Örn: Tansiyon 18) durumunda komuta merkezindeki hemşirenin ekranına uyarı düşer.
+*   **Operasyon:** 1 Doktor + 3 Hemşireden oluşan "Dijital Takip Merkezi".
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Jersey City PACE (ABD):** Yaşlıların hemşireyle tek tuşla görüntülü konuştuğu tablet projesi.
+*   **Sağlık Bakanlığı (e-Nabız):** Entegrasyon sağlanabilirse veriler e-Nabız'a işlenir.
+*   **Bursa Büyükşehir:** Evde bakım hizmetlerinde dijitalleşme adımları.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Tablet ve Sensör Seti (500 Hasta x 5.000 TL): 2.500.000 TL.
+    *   Yazılım Geliştirme/Lisans: 500.000 TL.
+    *   Komuta Merkezi Ekranları: 100.000 TL.
+    *   **Toplam:** 3.1 Milyon TL.
+*   **İşletme:** Veri hattı (SIM Kart) giderleri aylık ödenir.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Yazılım ihalesi ve cihaz seçimi.
+*   **Ay 2:** Pilot bölge (Örn: Yeşilyurt Mah.) seçimi ve 50 hasta ile deneme.
+*   **Ay 3:** Çağrı merkezi personelinin eğitimi.
+*   **Ay 4:** Cihazların dağıtımı ve hastalara eğitim ("Teyze, tansiyon aletini koluna tak, tuşa bas, gerisini tablet halledecek").
+*   **Ay 5:** Sistemin tam kapasite devreye girmesi.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Hastaların teknolojiyi kullanamaması. -> **Önlem:** Sistem "Sıfır Dokunuş" (Zero Touch) mantığıyla kurulur. Hasta tablete dokunmaz, sadece tansiyon aletini kullanır, veri otomatik gider.
+*   **Risk:** Cihazların kaybolması/satılması. -> **Önlem:** Zimmetli verilir, GPS takibi yapılır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Takip edilen hasta sayısı.
+    2.  Erken müdahale edilen "Acil Durum" sayısı (Ambulans çağırma süresinin kısalması).
+*   **Sosyal Etki:** Yaşlıların "Devlet beni 7/24 gözetiyor" güveni. Yalnızlık hissinin azalması.
+

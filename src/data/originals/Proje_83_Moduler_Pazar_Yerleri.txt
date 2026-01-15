@@ -1,0 +1,50 @@
+# PROJE 83: MODÜLER VE ÇOK AMAÇLI PAZAR YERLERİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Pazar Yeri Değil, Yaşam Kompleksi
+*   **Uygulayıcı Birim:** Fen İşleri & İşletme Müdürlüğü
+*   **Proje Kategorisi:** Kentsel Dönüşüm / Sosyal Alan
+*   **Tahmini Başlangıç/Bitiş:** 01.07.2025 - 01.07.2026
+*   **Konum:** Pınar ve Yeşilyurt Semt Pazarları (Pilot)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Haftada sadece bir gün kullanılan, 6 gün atıl ve boş kalan, hijyen sorunu olan semt pazarlarının; estetik çelik konstrüksiyon çatılı, zemini spor sahası ve otopark olarak çizgilenmiş, haftanın 7 günü yaşayan (Basketbol, Kermes, Otopark, Pazar) modern komplekslere dönüştürülmesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Mahalle aralarında kurulan pazarlar trafiği felç ediyor. Sabit kapalı pazarlar ise haftanın 6 günü "hayalet bina" gibi boş duruyor. Arazi israfı.
+*   **Çözüm:** Alanı çok fonksiyonlu (Multi-functional) kullanmak.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Çatı:** Uzay kafes sistemi veya estetik membran. Çatının güney cephesine Güneş Enerjisi Santrali (GES) kurulumu. (Metrekare maliyeti ~4.000 TL).
+*   **Zemin:** Kolay yıkanabilir, kaymaz helikopter beton üzeri epoksi boya. Çizgiler hem pazar tezgahına hem basketbol sahasına göre.
+*   **Pota:** Direklere monte, katlanabilir veya hidrolik basketbol potaları.
+*   **Altyapı:** Her tezgah grubu için elektrik prizi ve su musluğu (Balıkçılar için ayrı gider).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Rotterdam Markthal:** Pazar yerinin mimari ikona dönüşmesi.
+*   **Barcelona:** Pazar yerlerinin aynı zamanda sosyal buluşma noktası olması.
+*   **Bornova (İzmir):** Pazar yerlerinin basketbol sahası olarak kullanımı.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   2000 m2 Çelik Çatı ve İnşaat: 8-10 Milyon TL.
+    *   GES Kurulumu: 3 Milyon TL.
+    *   **Toplam:** 12-13 Milyon TL (Bir pazar için).
+*   **Gelir:** Pazar olmayan günlerde otopark ücreti ve GES elektrik satışı ile işletme gideri çıkar.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1-2:** Proje çizimi ve statik hesaplar.
+*   **Ay 3:** Pazarcılar Odası ile geçici yer konusunda anlaşma.
+*   **Ay 4-8:** İnşaat süreci (Çelik montajı hızlıdır).
+*   **Ay 9:** Açılış.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Pazar sonrası temizliğin yetişmemesi ve kokunun kalıcı olması. -> **Önlem:** Pazar akşamı basınçlı su ve köpükle endüstriyel temizlik zorunluluğu.
+*   **Risk:** Pazarcıların yer kavgası. -> **Önlem:** Çizgilerle numaralandırılmış "sabit yer" sistemi ve kura çekimi.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Alan kullanım verimliliği (7/24 aktiflik).
+    2.  Mahalleli memnuniyet oranı.
+*   **Sosyal Etki:** Çocuklar için güvenli spor alanı, mahalleli için otopark çözümü.
+

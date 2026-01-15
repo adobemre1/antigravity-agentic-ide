@@ -1,0 +1,56 @@
+# PROJE 48: SEYHAN YETENEK TARAMA VE KEŞİF PROGRAMI
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Yıldızlarını Arıyor: Erken Keşif
+*   **Uygulayıcı Birim:** Spor İşleri & Kültür Müdürlüğü
+*   **Proje Kategorisi:** Spor / Sanat / Eğitim
+*   **Tahmini Başlangıç/Bitiş:** Eğitim Öğretim Yılı (Eylül-Haziran)
+*   **Kapsam:** Tüm İlkokul 3. ve 4. Sınıflar
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+İlçedeki ilkokulların gezici bir uzman ekip (Antrenör, Müzik Öğretmeni) tarafından ziyaret edilerek; çocukların fiziksel (Boy, kilo, esneklik, sıçrama) ve sanatsal (Ritim kulağı) özelliklerinin bilimsel testlerle ölçülmesi, elde edilen verilere göre çocuğun en yatkın olduğu alana (Örn: "Yüzmeye uygun", "Piyanoya yatkın") yönlendirilmesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Bir çocuk belki dünyanın en iyi cirit atıcısı olacak fiziksel yapıdadır ama eline hiç cirit almadığı için bunu bilmez. Yetenekler tesadüfen keşfediliyor veya kayboluyor.
+*   **Çözüm:** Bilimsel tarama ile tesadüfü ortadan kaldırmak. Veriye dayalı yönlendirme.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Ekipman (Gezici Set):**
+    *   Dikey Sıçrama Testi Matı.
+    *   El Dinamometresi (Kavrama kuvveti).
+    *   Esneklik Sehpası.
+    *   Kulaç Ölçer.
+    *   Tabletler (Veri girişi için).
+    *   Müzik için: Ritim çubukları ve kulaklık testi.
+*   **Yazılım:** Girilen verileri analiz edip "Bu çocuk %80 Voleybol, %20 Basketbol potansiyeline sahip" raporu veren basit bir algoritma.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Sportkompas (Belçika):** Hangi spora yatkın olduğunu bulan lider yazılım.
+*   **Gençlik ve Spor Bakanlığı:** Türkiye geneli taramalar yapıyor. Seyhan Belediyesi bu taramayı yerelde derinleştirip "Takip ve Kurs" ayağını tamamlayacak.
+*   **Doğu Bloğu Ekolü:** Eski SSCB ülkelerindeki katı ama başarılı tarama sistemleri.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Ölçüm Ekipmanları: 200.000 TL.
+    *   Yazılım/Tablet: 100.000 TL.
+    *   Personel (Ek Ders Ücreti): 200.000 TL.
+    *   **Toplam:** ~500.000 TL.
+*   **Sürdürülebilirlik:** Maliyeti düşüktür, etkisi çok yüksektir.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** İlçe Milli Eğitim Müdürlüğü ile protokol.
+*   **Ay 2:** Gezici ekibin (BESYO mezunu antrenörler) kurulması ve eğitimi.
+*   **Ay 3:** Rota planlaması (Kenar mahalle okullarına öncelik).
+*   **Ay 4:** Taramaların başlaması.
+*   **Ay 5:** Velilere "Yetenek Karnesi" gönderilmesi ve belediye kurslarına ücretsiz davet.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Ailenin ilgisizliği ("Okusun memur olsun, topçu olmasın"). -> **Önlem:** Ailelere "Sporcu Bursları" ve kariyer imkanları anlatılır. Başarılı sporcularla buluşmalar düzenlenir.
+*   **Risk:** Veri güvenliği. -> **Önlem:** Çocuğun verileri KVKK'ya uygun saklanır, sadece velisi ve antrenörü görür.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Taranan öğrenci sayısı (Hedef: 20.000/Yıl).
+    2.  Kursa başlayan yetenekli öğrenci oranı.
+*   **Sosyal Etki:** Kayıp yeteneklerin (Lost Einsteins) topluma kazandırılması.
+

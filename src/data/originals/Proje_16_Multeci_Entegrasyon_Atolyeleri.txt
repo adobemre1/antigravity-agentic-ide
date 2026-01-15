@@ -1,0 +1,58 @@
+# PROJE 16: MÜLTECİ ENTEGRASYON VE ÜRETİM ATÖLYELERİ (Kardeşlik Fabrikası)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Ortak Gelecek Atölyesi: Meslek, Dil ve Uyum Merkezi
+*   **Uygulayıcı Birim:** Dış İlişkiler Müdürlüğü & Sosyal Yardım İşleri
+*   **Proje Kategorisi:** Sosyal Uyum ve İstihdam
+*   **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.06.2026 (12 Ay)
+*   **Finansman Kaynağı:** AB FRIT II (Mülteciler için Mali Yardım Fonu) veya GIZ (Alman İşbirliği) Hibeleri
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Seyhan'da yaşayan mülteci nüfusun "yardıma muhtaç" konumdan "üreten ve vergi veren" konuma geçmesini hedefleyen; tekstil, saya (ayakkabı) ve CNC operatörlüğü gibi piyasada açığı olan mesleklerin öğretildiği bir "Üretim Okulu" projesidir. Projenin en önemli kuralı, atölye çalışanlarının %50'sinin Mülteci, %50'sinin Türk vatandaşı olmasıdır (Getto oluşumunu engellemek için).
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Niteliksiz işgücü ve dil bariyeri nedeniyle mülteciler kayıt dışı çalışmakta, bu da yerel halkın işini elinden aldığı algısına ve sosyal gerilime yol açmaktadır.
+*   **Fırsat:** Adana sanayisi "Ara Eleman" değil "Aranan Eleman" bulamamaktadır. Sanayinin talebine göre eğitim verilirse iş garantisi oluşur.
+*   **Fon İmkanı:** AB'nin FRIT II fonları ve Erasmus+ (KA121-VET) programları, mesleki eğitime büyük hibe destekleri sunmaktadır.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Müfredat (Hibrit Model):**
+    *   09:00 - 12:00: Türkçe Dil Eğitimi ve Vatandaşlık Bilgisi (Halk Eğitim Desteği).
+    *   13:00 - 17:00: Pratik Atölye Eğitimi (Sanayi tipi dikiş makinesi kullanımı vb.).
+*   **Yan Haklar:**
+    *   **Kreş Desteği:** Kadın kursiyerlerin çocukları için atölye içinde oyun odası.
+    *   **Yevmiye:** Kurs süresince günlük cep harçlığı (Stipend) ve SGK iş kazası sigortası.
+*   **Ekipman:** 20 Adet Sanayi Tipi Dikiş Makinesi, 5 Adet Deri Kesim Masası, 10 Bilgisayar (Tasarım eğitimi için).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (Almanya - Dual Eğitim):** Mültecilerin haftanın 2 günü okulda, 3 günü fabrikada olduğu çıraklık sistemi.
+*   **Dünya Örneği (IKEA & Tent Partnership):** IKEA'nın mülteci emeğiyle üretilen halıları mağazalarında satması.
+*   **Türkiye Örneği (Gaziantep SADA Merkezi):** Kadın mülteciler ve yerli kadınların birlikte çanta üretip sattığı başarılı model.
+*   **Seyhan Uyarlaması:** "Kardeşlik Markası" ile üretilen tekstil ürünlerinin belediye personel kıyafeti veya promosyon ürünü olarak satın alınması (Satın alma garantisi).
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   Atölye Tadilatı ve Ekipman Alımı: 1.500.000 TL
+    *   Eğitmen Giderleri (1 Yıl): 600.000 TL
+    *   **Toplam:** 2.100.000 TL
+*   **Finansman:** Bu bütçenin %90'ı AB Proje hibeleriyle (Grant) karşılanacaktır. Belediye sadece mekan tahsisi yapar.
+*   **Sürdürülebilirlik:** Atölye, belediyenin iş elbiselerini dikerek kendi döner sermayesini oluşturur.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Proje Yazım Ofisi'nin AB Merkezi Finans ve İhale Birimi çağrılarını taraması ve hibe başvurusu.
+*   **Ay 2:** Adana Sanayi Odası (ADASO) ile "İhtiyaç Analizi Anketleri": Hangi sektörde açık var?
+*   **Ay 3:** Mekan hazırlığı ve ekipman alımı.
+*   **Ay 4:** Kursiyer seçimi (%50 Türk - %50 Mülteci kotasıyla kura).
+*   **Ay 5:** Eğitimin başlaması.
+*   **Ay 12:** İlk Mezuniyet ve İstihdam Fuarı.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Yerel halkın "Mültecilere bakıyorsunuz" tepkisi. -> **Önlem:** Projenin her adımında "Türk vatandaşlarına da iş kapısı" vurgusu yapılacak. Kontenjanın yarısı Türklere ayrılacak.
+*   **Risk:** Fon kesintisi. -> **Önlem:** Atölyenin "Sosyal Kooperatif" statüsüne geçirilip kendi geliriyle ayakta kalması.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Mezun olan kişi sayısı (Hedef: 200/Yıl).
+    2.  İşe yerleşme oranı (Hedef: %70).
+*   **Sosyal Etki:** Farklı kültürlerin "tezgah başında" kaynaşması ve önyargıların kırılması.
+

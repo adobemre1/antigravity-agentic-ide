@@ -1,0 +1,10 @@
+{
+  "urban": "Urban",
+  "agriculture": "Agriculture",
+  "disaster": "Disaster",
+  "general": "General",
+  "technology": "Technology",
+  "social": "Social",
+  "health": "Health",
+  "culture": "Culture"
+}

@@ -1,0 +1,56 @@
+# PROJE 56: UNUTULAN ZANAATLAR ATÖLYESİ VE YAŞAYAN MÜZE
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Usta Ellerin Mirası: Yaşayan Zanaatlar
+*   **Uygulayıcı Birim:** Kültür İşleri & Kırsal Kalkınma
+*   **Proje Kategorisi:** Kültürel Miras / İstihdam
+*   **Tahmini Başlangıç/Bitiş:** 01.07.2025 - Sürekli
+*   **Konum:** Tarihi Tepebağ Konağı veya Büyüksaat Çarşısı
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Kaybolmaya yüz tutmuş geleneksel zanaatların (Kalaycılık, Semercilik, Keçe, Yorgancılık); son ustalar tarafından hem turistlere "deneyim" olarak sunulduğu (workshop) hem de genç çıraklara öğretilerek mesleğin yaşatıldığı, üretim odaklı bir yaşayan müze projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Adana'nın köklü zanaatları (Örn: Kazancılar Çarşısı kültürü) ustaların yaşlanması ve çırak yetişmemesi nedeniyle yok olmaktadır.
+*   **Çözüm:** Zanaatı sadece müzelik bir obje değil, yaşayan ve para kazandıran bir "tasarım ürünü" haline getirmek.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Zanaat Dalling:**
+    *   **Keçe:** Modern iPad kılıfları, çantalar.
+    *   **Ahşap Oyma:** Kişiye özel hediyelikler.
+    *   **Bakır/Kalay:** Dekoratif mutfak eşyaları.
+*   **Model:**
+    *   **Usta:** Belediyeden "Eğitmen" maaşı alır, üretim yapar.
+    *   **Çırak:** Kursiyer olarak gelir, öğrenir, üretime katkı sunar.
+    *   **Turist:** 1 saatlik atölyeye katılır, kendi anahtarlığını yapar, parasını öder gider.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Living National Treasure (Japonya):** Devlet ustalara hazine muamelesi yapar.
+*   **Eskişehir Odunpazarı Kurşunlu Külliyesi:** Cam ve lületaşı atölyeleri.
+*   **Seyhan Farkı:** Tasarım Fakültesi öğrencileriyle ustaların işbirliği ("Craft + Design").
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Atölye Kurulumu (Tezgahlar, Fırınlar): 600.000 TL.
+    *   Konak Restorasyonu (Varsa): Ayrı bütçedir, mevcut bina kullanılırsa maliyet düşer.
+*   **Gelir:**
+    *   Atölye (Workshop) katılım ücretleri.
+    *   e-Seyhan ve müze mağazasında ürün satışı. (Kendi kendini finanse edebilir).
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Adana'daki son ustaların envanterinin çıkarılması ve ikna edilmesi.
+*   **Ay 2:** Mekan tahsisi ve düzenleme.
+*   **Ay 3:** Güzel Sanatlar Fakültesi ile "Tasarım Protokolü".
+*   **Ay 4:** Deneme üretimleri ve eğitimlerin başlaması.
+*   **Ay 5:** Turizm acenteleriyle anlaşma (Tur otobüslerinin buraya gelmesi).
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Ustaların pedagojik formasyonunun olmaması/öğretememesi. -> **Önlem:** Yanlarına genç asistanlar verilir, eğitim sürecini asistan yönetir.
+*   **Risk:** Ürünlerin satılmaması. -> **Önlem:** Kurumsal hediye (Protokol hediyeleri) olarak belediye satın alır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Yetiştirilen çırak (Yeni usta) sayısı.
+    2.  Ürün satış cirosu.
+*   **Sosyal Etki:** Somut olmayan kültürel mirasın (SOKÜM) gelecek nesillere aktarılması.
+

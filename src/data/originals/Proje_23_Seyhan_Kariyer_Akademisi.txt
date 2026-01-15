@@ -1,0 +1,53 @@
+# PROJE 23: SEYHAN KARİYER AKADEMİSİ (İş Garantili Teknoloji Eğitimleri)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Tech: Yeni Nesil Yetenek Dönüşüm Programı
+*   **Uygulayıcı Birim:** İnsan Kaynakları & Seyhan Tekmer
+*   **Proje Kategorisi:** Eğitim ve İstihdam
+*   **Tahmini Başlangıç/Bitiş:** 01.10.2025 - Sürekli (6 Aylık Dönemler)
+*   **Paydaşlar:** Adana Sanayi Odası, Patika.dev (veya benzeri platformlar)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Üniversite mezunu ancak iş bulamayan gençlerin; yazılım (Full-Stack), veri analitiği ve siber güvenlik alanlarında yoğunlaştırılmış Bootcamp eğitimiyle (1000 Saat) sektöre kazandırılmasıdır. Model, "Eğitimi Belediye verir, İstihdamı Özel Sektör yapar" işbirliğine dayanır. Hukuki risk taşıyan ISA (Income Share Agreement) yerine, işverenin işe alım başına eğitim maliyetini karşıladığı "İşveren Ödemeli" model tercih edilir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Adana'da hem genç işsizliği var hem de sanayici "Yazılımcı bulamıyorum" diyor (Yetenek Uyuşmazlığı / Skill Gap).
+*   **Çözüm:** Üniversite eğitimi teorik kalmaktadır. Piyasaya yönelik pratik eğitim (Bootcamp) gereklidir.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Müfredat (Hibrit):**
+    *   **Teknik:** Java, React, .NET Core, Python (Piyasa ne istiyorsa o).
+    *   **Soft Skills:** İngilizce, CV Hazırlama, Mülakat Simülasyonları.
+*   **Seçme Süreci:** Çok katı bir eleme uygulanır (Başvuranların %5'i seçilir). Algoritmik düşünme testi ve kişilik envanteri yapılır. "Pes etmeyecek" aday aranır.
+*   **Donanım:** Eğitime kabul edilen ancak bilgisayarı yetersiz olanlara belediye tarafından süreli "MacBook/Laptop" tahsisi yapılır.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (42 Ecole):** Paris merkezli, öğretmensiz, akran öğrenimli yazılım okulu.
+*   **Türkiye Örneği (Patika.dev & Kodluyoruz):** Şirketlerle (Trendyol, Getir vb.) işbirliği içinde yapılan bootcamp'ler.
+*   **Seyhan Uyarlaması:** Yerel sanayinin (SASA, Temsa) IT departmanlarının ihtiyaçlarına özel sınıflar açmak.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX & OPEX):**
+    *   Eğitmen Giderleri (Dış Kaynak): 1.500.000 TL / Yıl.
+    *   Bilgisayar Parkuru (Kiralama veya Alım): 500.000 TL.
+    *   **Toplam:** 2.000.000 TL/Yıl.
+*   **Gelir Modeli:** İşverenlerden "Placement Fee" (Yerleştirme Ücreti) talep edilebilir veya proje tamamen sosyal sorumluluk bütçesinden karşılanır.
+*   **ROI (Toplumsal):** Bir gencin asgari ücret yerine, 2-3 katı maaşla işe başlaması, şehrin tüm ekonomisine katkıdır.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Yerel firmaların İK müdürleriyle çalıştay: "Hangi teknolojiyi kullanan adam lazım?"
+*   **Ay 2:** Eğitim partnerinin (eğitmen kurumun) ihale ile seçimi.
+*   **Ay 3:** Başvuruların toplanması ve 3 aşamalı eleme (Test -> Mülakat -> Ön Hazırlık).
+*   **Ay 4:** Bootcamp başlangıcı (Online + Seyhan Hub'da fiziksel buluşmalar).
+*   **Ay 10:** Demo Day (Mezun sunumları) ve İşe Yerleştirme.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Eğitim kalitesinin düşmesi. -> **Önlem:** Öğrencilerin geri bildirimlerine göre eğitmen değiştirme hakkı sözleşmede saklı tutulur.
+*   **Risk:** Mezunların iş bulamaması. -> **Önlem:** Eğitime başlanmadan önce firmalardan "Niyet Mektubu" (Letter of Intent) alınır, kontenjan buna göre açılır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Mezuniyet oranı (%80+ hedef).
+    2.  Mezunların ilk 3 ayda işe yerleşme oranı (%70+ hedef).
+*   **Sosyal Etki:** Umutsuz gençlerin "Sınıf atlaması". Şehrin teknoloji yetkinliğinin artması.
+

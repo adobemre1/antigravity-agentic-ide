@@ -1,0 +1,50 @@
+# PROJE 44: SEYHAN GENÇ KART (KÜLTÜR CÜZDANI)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Genç Kart: Şehrin Anahtarı
+*   **Uygulayıcı Birim:** Kültür İşleri & Bilgi İşlem
+*   **Proje Kategorisi:** Sosyal Yardım / Kültür
+*   **Tahmini Başlangıç/Bitiş:** 01.09.2025 (Okul Dönemi Başlangıcı)
+*   **Hedef Kitle:** Seyhan'da İkamet Eden 18-25 Yaş Gençler
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Seyhanlı gençlere yılda bir kez tanımlanan 1.000 TL (2025 tahmini) bakiyeli dijital bir kart verilmesi; bu bakiyenin sadece kitap, tiyatro bileti, sinema, müze ve anlaşmalı yerel kafelerde (Alkol/Tütün hariç) harcanabilmesi projesidir. Gençlerin sosyalleşmesini ve yerel esnafı (Kitapçıları) destekler.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Ekonomik şartlar nedeniyle gençler sinemaya gidememekte, kitap alamamakta ve sosyalleşememektedir. Eve kapanan gençlik mutsuzdur.
+*   **Fırsat:** Bakanlığın "Genç Kart"ı sadece devlet kurumlarında geçerlidir. Seyhan Kart ise yerel ekonomiyi canlandırır.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Sistem:** Fiziksel kart yerine "Seyhan Mobil" uygulaması içinde QR Kodlu dijital cüzdan. (Kart basım maliyeti yoktur).
+*   **MCC Kısıtlaması:** Bakiye sadece belirli "Merchant Category Code" (Kitapçı, Sinema, Kırtasiye) olan POS cihazlarında geçerlidir. Market veya tekel bayinde geçmez.
+*   **Bütçe Kontrolü:** 5.000 Gence 1.000 TL verilirse toplam bütçe 5 Milyon TL olur. (Sponsor desteği aranır).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **KulturPass (Almanya):** 18 yaşına girenlere 200 Euro kültür harçlığı.
+*   **İBB Genç Üniversiteli:** Eğitim desteği modeli.
+*   **European Youth Card (EYCA):** İndirim odaklıdır. Seyhan Kart ise doğrudan "Hibe Bakiye" içerir, bu yönüyle daha güçlüdür.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (Yıllık):**
+    *   Bakiye Yüklemesi: 5.000.000 TL (5000 x 1000 TL).
+    *   Yazılım Entegrasyonu: 200.000 TL.
+*   **Kaynak:** Belediye Sosyal Yardım bütçesi ve özel sektör sponsorlukları (Örn: "Bu ayki sinema biletleri X firmasından").
+*   **Ekonomik Etki:** Bu para Seyhan esnafına geri döner (Yerel Çarpan Etkisi).
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Esnaf odalarıyla (Kırtasiyeciler, Kafeciler) görüşme ve üye işyeri ağı kurma.
+*   **Ay 2:** Yazılım modülünün geliştirilmesi (Bloke koyma, yaş kontrolü vb.).
+*   **Ay 3:** Başvuruların E-Devlet entegrasyonu ile alınması.
+*   **Ay 4:** Bakiyelerin yüklenmesi ve kullanımın başlaması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Nakite çevirme (Kötüye kullanım). -> **Önlem:** QR ile ödeme sırasında kimlik kontrolü şartı. Şüpheli işlemlerde (Aynı işyerinden 1 dakikada 10 çekim) kartın bloke edilmesi.
+*   **Risk:** Bütçe yetersizliği. -> **Önlem:** Bakiye düşürülür veya kullanıcı sayısı (Başarı kriterine göre) filtrelenir.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Kartı kullanan genç sayısı.
+    2.  Satın alınan kitap/bilet adedi.
+    3.  Yerel esnafa aktarılan kaynak.
+*   **Sosyal Etki:** Gençlerin "Şehrim beni düşünüyor" demesi. Kültür sanat tüketiminin artması.
+

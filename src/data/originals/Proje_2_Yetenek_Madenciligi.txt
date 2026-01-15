@@ -1,0 +1,53 @@
+# PROJE 2: YETENEK MADENCİLİĞİ VE MUTLULUK ENDEKSİ (HR 2.0)
+
+**Döküman Tipi:** İnsan Kaynakları Dönüşüm Stratejisi
+**Durum:** Konsept Tasarım
+**Sorumlu Birim:** İnsan Kaynakları ve Eğitim Müdürlüğü
+
+---
+
+## 1. ARAŞTIRMA VE ANALİZ (RESEARCH & ANALYSIS)
+
+### 1.1. Problem Tanımı
+Kamu sektöründe çalışan bağlılığının düşük olması, "Memur Zihniyeti" (sadece mesai doldurma) ve yeteneklerin kurumsal hedeflerle örtüşmemesi.
+
+### 1.2. Literatür ve Dünyadan Örnekler
+*   **Kavram:** "Positive Psychology in Workplace" (İşyerinde Pozitif Psikoloji).
+*   **Teori:** *Self-Determination Theory (Öz Belirleme Kuramı)*: İnsanlar özerklik, yetkinlik ve ilişkisellik hissettiklerinde motive olurlar.
+*   **Örnekler:** Google'ın "Project Aristotle" (Takım başarısı araştırması), Hollanda kamu sektörü "Job Crafting" uygulamaları.
+
+---
+
+## 2. PROJE ÖĞRENİMLERİ (LEARNINGS)
+
+*   **Gizli Yetenekler:** Bir zabıtanın iyi bir grafik tasarımcı, bir temizlik personelinin iyi bir bitki uzmanı olabileceği gerçeği göz ardı edilmektedir.
+*   **Psikolojik Sermaye:** Umut, İyimserlik, Dayanıklılık ve Öz Yeterlilik (PsyCap) eğitilebilir kapasitelerdir.
+*   **Ödül Sistemi:** Kamuda maddi ödül kısıtlıdır, bu yüzden "Sosyal Onay" ve "Anlam" odaklı ödüllendirme gereklidir.
+
+---
+
+## 3. PROJE PLANLAMASI (PLANNING)
+
+### 3.1. Proje Kapsamı
+Çalışanların sadece teknik değil, sosyal ve sanatsal yeteneklerinin de envanterinin çıkarılması ve kurum içi projelerde bu yeteneklerin "iç girişimci" olarak değerlendirilmesi.
+
+### 3.2. Uygulama Adımları
+1.  **Adım 1: Dijital Yetenek Envanteri:**
+    *   Tüm çalışanlara (işçi, memur) yönelik kapsamlı, oyunlaştırılmış bir anket.
+    *   Hobiler, sertifikalar, ilgi alanları ve "Hayalindeki Proje" sorusu.
+
+2.  **Adım 2: Çevik Takımlar (Squads) Kurulması:**
+    *   Hiyerarşiden bağımsız, projeler özelinde kurulan takımlar.
+    *   Örn: "Sokak Hayvanları Projesi" için Veteriner İşleri Müdürü değil, bu konuda en tutkulu personelin lider olması.
+
+3.  **Adım 3: Kurumsal Mutluluk Barometresi:**
+    *   Her sabah mobil uygulama üzerinden tek soruluk "Bugün nasıl hissediyorsun?" anketi.
+    *   AI ile duygu durum haritası çıkarılarak "tükenmişlik" (burnout) riskinin önceden tespiti.
+
+### 3.3. Sosyal İnovasyon Bileşeni
+*   **Takdir Coin:** Çalışanların birbirine "Teşekkür" ettiği ve biriken puanlarla belediye tesislerinde indirim/hak kazandığı blokzincir tabanlı (sembolik) ödül sistemi.
+
+### 3.4. KPI ve Başarı Kriterleri
+*   **eNPS (Çalışan Tavsiye Skoru):** -20'den +30'a yükselmesi.
+*   **İç İnovasyon Sayısı:** Çalışanlardan gelen ve hayata geçen proje sayısı (Hedef: Yılda 50 proje).
+*   **Turnover (İşten Ayrılma) Oranı:** %20 düşüş (Özellikle genç yeteneklerde).

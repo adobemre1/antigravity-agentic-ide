@@ -1,0 +1,55 @@
+# PROJE 1: SEYHAN NÖRON (Yapay Zeka Destekli Kentsel Karar Destek Sistemi)
+
+**Döküman Tipi:** Proje Uygulama Planı ve Teknik Şartname Taslağı
+**Durum:** Planlama Aşaması
+**Sorumlu Birim:** Strateji Geliştirme Müdürlüğü & Bilgi İşlem Müdürlüğü
+
+---
+
+## 1. ARAŞTIRMA VE ANALİZ (RESEARCH & ANALYSIS)
+
+### 1.1. Problem Tanımı
+Geleneksel belediyecilikte kararlar, genellikle reaktif olarak (sorun oluştuktan sonra) ve silo halindeki verilerle (müdürlüklerin birbirinden habersiz verileri) alınmaktadır. Çöp toplama rutasından sosyal yardım dağıtımına kadar optimize edilmemiş süreçler kaynak israfına yol açmaktadır.
+
+### 1.2. Literatür ve Dünyadan Örnekler
+*   **Kavram:** "City Brain" (Şehir Beyni).
+*   **Referanslar:** Çin (Hangzhou Trafik Yönetimi), Londra (Datastore).
+*   **Akademik Dayanak:** *Resource-Based View (Kaynaklara Dayalı Görüş)* teorisine göre, veri belediyenin en stratejik kaynağıdır.
+
+### 1.3. Seyhan İçin İhtiyaç Analizi
+Seyhan'ın nüfus yoğunluğu ve dinamik yapısı, statik planlamayı imkansız kılmaktadır. Anlık veri akışını işleyecek bir "sinir sistemi"ne ihtiyaç vardır.
+
+---
+
+## 2. PROJE ÖĞRENİMLERİ (LEARNINGS)
+
+*   **Veri Kalitesi:** "Çöp veri girersen, çöp sonuç alırsın" (Garbage In, Garbage Out). İlk aşama yapay zeka değil, veri temizliğidir.
+*   **Etik ve Gizlilik:** Kişisel Verilerin Korunması Kanunu (KVKK) uyumu kritik öneme sahiptir. Anonimleştirme standartları belirlenmelidir.
+*   **Kültürel Direnç:** Kurum içi direnci kırmak için "Veri Okuryazarlığı" eğitimleri şarttır.
+
+---
+
+## 3. PROJE PLANLAMASI (PLANNING)
+
+### 3.1. Proje Kapsamı
+Belediyenin tüm veri akışını (IoT sensörleri, vatandaş şikayetleri, GIS, mali veriler) tek bir merkezde toplayan ve makine öğrenmesi algoritmalarıyla analiz ederek yöneticiye "karar önerisi" sunan bir platform.
+
+### 3.2. Teknik Mimari
+*   **Veri Gölü (Data Lake):** Tüm yapısal ve yapısal olmayan verilerin toplandığı havuz (Hadoop/Azure Data Lake).
+*   **Analitik Motor:** Python (Pandas, Scikit-learn) tabanlı tahminleme modülleri.
+*   **Ön Yüz:** Karar vericiler için PowerBI veya özel Tableau dashboardları.
+
+### 3.3. İş Paketleri ve Zaman Çizelges (Tahmini 18 Ay)
+1.  **Faz 1 (Ay 1-3):** Veri Envanterinin Çıkarılması ve Dijital Olgunluk Analizi.
+2.  **Faz 2 (Ay 4-9):** Büyük Veri Altyapısının Kurulması (Server/Cloud).
+3.  **Faz 3 (Ay 10-15):** Pilot Girişim: "Akıllı Temizlik" (Çöp konteyner doluluk verisine göre rota optimizasyonu).
+4.  **Faz 4 (Ay 16-18):** Genişletme ve Yönetim Paneli Lansmanı.
+
+### 3.4. KPI ve Başarı Kriterleri
+*   **Yakıt Tasarrufu:** %15 (Rota optimizasyonu ile).
+*   **Karar Alma Hızı:** Veriye erişim süresinin 2 günden 2 dakikaya düşmesi.
+*   **Vatandaş Memnuniyeti:** Şikayetlerin çözüm süresinde %30 kısalma.
+
+### 3.5. Risk Analizi
+*   **Risk:** Siber Güvenlik Saldırıları. -> **Önlem:** Blockchain tabanlı log yönetimi ve Penetrasyon testleri.
+*   **Risk:** Personel Adaptasyonu. -> **Önlem:** Gamification ile veri girişi teşviki.

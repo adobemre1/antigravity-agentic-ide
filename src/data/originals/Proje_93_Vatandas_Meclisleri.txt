@@ -1,0 +1,52 @@
+# PROJE 93: VATANDAŞ MECLİSLERİ (GENÇ, KADIN, ENGELLİ)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Söz Meclisten İçeri: Çoğulcu Katılım
+*   **Uygulayıcı Birim:** Kent Konseyi & Özel Kalem
+*   **Proje Kategorisi:** Sosyal Diyalog / Yönetişim
+*   **Tahmini Başlangıç/Bitiş:** Sürekli
+*   **Konum:** Belediye Meclis Salonu ve Semt Merkezleri
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Belediye yönetimine dezavantajlı ve farklı grupların sesini duyurabilmek amacıyla; resmi Belediye Meclisi'ne paralel çalışan (gölge meclis gibi), kendi gündemini oluşturan Genç, Kadın, Engelli ve Çocuk Meclislerinin kurulması; aldıkları kararların "Tavsiye" niteliğinde ana meclise taşınması projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Belediye Meclisi genellikle orta yaşlı erkeklerden oluşur. Gençlerin veya engellilerin bakış açısı temsil edilmez. Kararlar tek tip çıkar.
+*   **Çözüm:** Temsili demokrasiyi "Katılımcı Demokrasi" ile desteklemek.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Yapı:**
+    *   *Gençlik Meclisi:* Üniversite kulüpleri ve lise temsilcilerinden. (Kura ile seçim - Sortition).
+    *   *Kadın Meclisi:* Kadın kooperatifleri ve STK'lardan.
+    *   *Engelli Meclisi:* Dernek temsilcilerinden.
+*   **Yetki:** Meclis başkanı, Belediye Meclisi toplantısında "Söz Hakkı"na sahiptir.
+*   **Mekan:** Resmi meclis salonu bu gruplara tahsis edilir (Ciddiyet kazandırır).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **İrlanda Yurttaş Meclisi:** Ülkenin anayasasını değiştiren kararları (Kürtaj, İklim) sıradan vatandaşların oluşturduğu meclis tartıştı.
+*   **Gaziantep Çocuk Meclisi:** Çocukların şehri yönettiği sembolik ama etkili yapı.
+*   **Ostbelgien (Belçika):** Vatandaş meclisinin kalıcı bir kurum haline gelmesi.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Organizasyon ve Toplantı Giderleri (Yıllık): 500.000 TL.
+    *   Meclis üyelerine sembolik "Huzur Hakkı" (Ulaşım/Yemek): 250.000 TL.
+    *   **Toplam:** 750.000 TL.
+*   **Kaynak:** Belediye Bütçesi (Temsil Ağırlama kalemi).
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Meclis Çalışma Yönergesi'nin hazırlanması.
+*   **Ay 2:** Duyuru ve üye seçimi (Kura yöntemi adildir).
+*   **Ay 3:** İlk açılış oturumu (Belediye Başkanı katılımıyla).
+*   **Ay 4:** İlk tavsiye kararının Resmi Meclis'e sunulması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Meclislerin siyasi partilerin arka bahçesine dönüşmesi. -> **Önlem:** Siyasi parti rozeti ile katılım yasaklanır. Üyelerin %50'si STK'dan, %50'si bağımsız vatandaşlardan kura ile seçilir.
+*   **Risk:** Alınan kararların hiç uygulanmaması. -> **Önlem:** "Cevap Verme Zorunluluğu". Başkan, tavsiye kararına 30 gün içinde yazılı olumlu/olumsuz yanıt vermek zorundadır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Meclislere katılım sayısı.
+    2.  Ana meclise sunulan ve kabul edilen proje sayısı.
+*   **Sosyal Etki:** Toplumsal barış. Gençlerin siyasete ısınması.
+

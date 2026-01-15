@@ -1,0 +1,53 @@
+# PROJE 86: ÖZGÜN TASARIM KENT MOBİLYALARI YARIŞMASI
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan''ın İmzası: Tasarım Yarışması
+*   **Uygulayıcı Birim:** Kültür İşleri & Park Bahçeler
+*   **Proje Kategorisi:** Kentsel Tasarım / Yarışma
+*   **Tahmini Başlangıç/Bitiş:** 01.09.2025 - 01.02.2026
+*   **Konum:** Ulusal (Katılım), Seyhan (Uygulama)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Şehirdeki standart ve kimliksiz bank, çöp kutusu, durak gibi elemanların yerine; Adana'nın iklimine (sıcak), kültürüne (pamuk, sinema) ve kimliğine uygun, ergonomik "Seyhan Tipi" mobilyaların tasarlanması için ulusal çapta, ödüllü bir tasarım yarışması düzenlenmesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Metal banklar yazın yanıyor, oturulmuyor. Çöp kutuları kullanışsız. Şehrin estetik bir dili yok, katalogdan seçme ürünler kullanılıyor.
+*   **Çözüm:** Şehre özel, fonksiyonel ve estetik tasarım. "Adana Bankı" diye bir literatür oluşturmak.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Kategoriler:** Oturma Birimi (Bank), Çöp Kutusu, Aydınlatma Elemanı, Sınır Elemanı (Baba), Otobüs Durağı.
+*   **Kriterler:**
+    *   **İklim:** Güneşe dayanıklı malzeme (Ahşap türevi, kompozit).
+    *   **Vandalizm:** Kırılmaya karşı dirençli.
+    *   **Yerellik:** Adana referansları (Örn: Pamuk kozası formu).
+*   **Jüri:** Mimarlar Odası, Endüstriyel Tasarımcılar, Heykeltıraşlar.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Barselona:** Şehre özgü tasarlanan "Panot" (kaldırım taşı) ve banklar şehrin simgesi olmuştur.
+*   **İstanbul Senin:** İBB'nin düzenlediği büfe ve bank yarışmaları.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Ödüller (Toplam): 500.000 TL (1.lik, 2.lik, 3.lük ve Mansiyonlar).
+    *   Jüri ve Organizasyon: 250.000 TL.
+    *   Prototip Üretimi: 250.000 TL.
+    *   **Toplam:** 1 Milyon TL.
+*   **Kazanım:** Tasarımın telif hakkı belediyeye geçer. Kendi atölyesinde ucuza üretir.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Şartnamenin hazırlanması ve ilanı.
+*   **Ay 2-3:** Proje teslim süresi.
+*   **Ay 4:** Jüri değerlendirmesi ve ödül töreni.
+*   **Ay 5:** Kazanan tasarımların "1e1 Prototip" üretimleri.
+*   **Ay 6:** Prototiplerin bir parkta (Atatürk Parkı) sergilenmesi ve halk oylamasıyla nihai seçimin yapılması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Tasarımın üretim maliyetinin çok yüksek olması. -> **Önlem:** Şartnameye "Üretilebilirlik ve Maliyet" kriteri konur. Sanayide kolay üretilemeyen tasarım elenir.
+*   **Risk:** Çalıntı tasarım (İntihal). -> **Önlem:** Kazananlar ilana çıkılır, itiraz süresi tanınır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Yarışmaya katılan proje sayısı.
+    2.  Üretilen ve şehre konulan yeni mobilya sayısı.
+*   **Sosyal Etki:** Aidiyet duygusu. Şehrin estetik kalitesinin yükselmesi.
+

@@ -1,0 +1,51 @@
+# PROJE 81: TEMATİK SOKAKLAR VE KENTSEL TASARIM
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan''ın Renkleri: Canlanan Sokaklar
+*   **Uygulayıcı Birim:** Kentsel Tasarım Müdürlüğü & Park Bahçeler
+*   **Proje Kategorisi:** Kentsel Estetik / Turizm
+*   **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.11.2025
+*   **Konum:** Pilot Seçilen 5 Sokak (Örn: Barlar Sokağı, Eski Adliye Arkası)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Şehir merkezindeki gri, araç işgali altındaki ve kimliksiz ara sokakların; "Şemsiyeli Sokak", "Portakal Çiçeği Sokağı" gibi konseptlerle yayalaştırılması, zeminin ve cephelerin renklendirilmesi, instragramlık (fotojenik) destinasyonlara dönüştürülerek esnafın cirosunun artırılması projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Ara sokaklar sadece otopark veya çöplük olarak kullanılıyor. Yürümek keyifli değil. Esnaf iş yapamıyor.
+*   **Çözüm:** "Tactical Urbanism" (Taktiksel Şehircilik). Küçük dokunuşlarla (Boya, Süsleme) büyük etki yaratmak.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Havai Süsleme:** Sokak genişliğine göre çelik halatlar gerilerek üzerine UV dayanımlı renkli şemsiyeler, fenerler veya sarmaşıklar asılması. (Dayanıklılık: Rüzgar yükü hesabı şarttır).
+*   **Zemin:** Asfaltın soğuk yol boyası ile desenli (kilim motifi vb.) boyanması.
+*   **Cephe:** Binaların zemin katlarındaki kepenklerin mural (duvar resmi) sanatçıları tarafından boyanması.
+*   **Aydınlatma:** Kataner (Sarkıt) LED aydınlatma ile gece ambiyansı.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Agueda (Portekiz):** "Umbrella Sky Project" ile dünya çapında ünlenen kasaba.
+*   **Karaköy (İstanbul):** Şemsiyeli sokakların kafe kültürünü nasıl patlattığının kanıtı.
+*   **La Boca (Arjantin):** Rengarenk boyalı evleriyle turist mıknatısı bir mahalle.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Sokak Başına Süsleme ve Aydınlatma: 500.000 TL.
+    *   Zemin ve Cephe Boyama: 250.000 TL.
+    *   5 Sokak Toplam: 3.750.000 TL.
+*   **İşletme:** 6 ayda bir şemsiyelerin (güneşten solar) değişimi gerekir (Yıllık 200k TL bakım).
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Sokak seçimi (Esnaf anketleri ile).
+*   **Ay 2:** Tasarım yarışması (Hangi sokak ne tema olacak?).
+*   **Ay 3:** Trafiğe kapatma kararı (UKOME) ve altyapı temizliği.
+*   **Ay 4:** Çelik halat ve aydınlatma montajı.
+*   **Ay 5:** Festival havasında açılış.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Esnafın "Mal gelmeyecek" diye yayalaştırmaya itiraz etmesi. -> **Önlem:** Sadece sabah 07:00-10:00 arası lojistik araç girişine izin verilir, hidrolik baba konur.
+*   **Risk:** Fırtınada şemsiyelerin kopması. -> **Önlem:** Kışın şemsiyeler toplanıp kışlık konsept (Işık ağacı vb.) uygulanır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Yaya trafiğindeki artış oranı (%50+).
+    2.  Sosyal medyada paylaşım sayısı (Hashtag takibi).
+*   **Sosyal Etki:** Şehirde pozitif, enerjik bir hava oluşması.
+

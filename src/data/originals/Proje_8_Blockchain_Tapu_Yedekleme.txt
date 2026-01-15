@@ -1,0 +1,57 @@
+# PROJE 8: SEYHAN-CHAIN (Blokzincir Tabanlı Belge Güvenliği)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan-Chain: Değiştirilemez Dijital Arşiv ve Ruhsat Doğrulama Sistemi
+*   **Uygulayıcı Birim:** Bilgi İşlem Müdürlüğü / İmar ve Şehircilik Müdürlüğü
+*   **Proje Kategorisi:** Siber Güvenlik ve İnovasyon
+*   **Tahmini Başlangıç/Bitiş:** 01.07.2025 - 01.01.2026 (6 Ay)
+*   **Kullanılan Teknoloji:** Avalanche Subnet veya Hyperledger Fabric (Private/Permissioned Blockchain)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Belediye tarafından üretilen kritik belgelerin (İmar durumu, İşyeri ruhsatı, İskan belgesi) dijital parmak izlerinin (Hash); değiştirilemez, silinemez ve hacklenemez bir yapı olan Blokzincir (Blockchain) üzerine kaydedilmesi projesidir. Bu sayede vatandaş elindeki belgenin veya dijital arşivdeki dosyanın "orijinal" olduğunu, sonradan üzerinde oynanmadığını matematiksel kesinlikle (%100) doğrulayabilecektir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Kağıt belgeler kaybolabilir, yıpranabilir veya sahtesi üretilebilir. Dijital PDF'ler ise veritabanı saldırılarına veya yetkili personel tarafından manipülasyona açıktır.
+*   **Güven İhtiyacı:** İmar arşivindeki bir dosyanın 10 yıl sonra "değiştirilmediğini" kanıtlamak, kurumsal itibar için hayati önem taşır.
+*   **Yasal Zemin:** 5070 Sayılı Elektronik İmza Kanunu ve Zaman Damgası mevzuatı ile uyumlu hibrit bir yapı kurulacaktır.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Sistem İşleyişi:**
+    1.  Belediye EBYS (Elektronik Belge Yönetim Sistemi) üzerinden bir ruhsat üretilir.
+    2.  Sistem bu belgenin SHA-256 algoritmasıyla "Hash"ini (Özetini) çıkarır.
+    3.  Bu Hash, Blokzincir ağına (Örn: Avalanche Subnet) zaman damgasıyla birlikte yazılır.
+    4.  Vatandaşa verilen belgenin üzerinde bir karekod (QR) bulunur.
+    5.  Karekod okutulduğunda; sistem eldeki belgenin Hash'ini hesaplar ve Zincirdeki Hash ile karşılaştırır. Eşleşirse belge %100 orijinaldir.
+*   **Altyapı:** Halka açık ağların (Ethereum vb.) yüksek işlem ücretlerinden (Gas fee) kaçınmak için, belediyenin kendi kontrolünde olan veya konsorsiyum tipi (Örn: TÜRKSAT Blokzincir veya AVAX Subnet) düşük maliyetli ağlar tercih edilecektir.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (Gürcistan):** Ulusal Tapu Sicili blokzincir üzerine taşınmıştır.
+*   **Dünya Örneği (Güney Burlington, ABD):** Emlak kayıtları blokzincirde tutulmaktadır.
+*   **Türkiye Örneği:** Bazı üniversitelerin diplomaları blokzincir üzerinden doğrulanabilmektedir.
+*   **Seyhan Farkı:** Türkiye'de ilçe belediyesi ölçeğinde "İmar ve Ruhsat" dikeyinde bunu yapan öncü belediyelerden biri olunacaktır.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   Blokzincir Ağı Kurulumu ve Akıllı Kontrat (Smart Contract) Yazılımı: 250.000 TL
+    *   EBYS Entegrasyonu: 100.000 TL
+    *   **Toplam:** 350.000 TL
+*   **İşletme Gideri (OPEX):** Sunucu maliyetleri ve işlem ücretleri (Kendi ağımız olduğu için minimaldir). Yıllık ~20.000 TL.
+*   **Maliyet Avantajı:** Avalanche Subnet kurulum maliyeti "Avalanche9000" güncellemesi ile oldukça düşmüştür (1 AVAX sembolik ücret + donanım).
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Mevcut EBYS tedarikçisi ile entegrasyon analizi.
+*   **Ay 2:** Testnet (Test Ağı) kurulumu ve Akıllı Kontratların yazılması.
+*   **Ay 3:** Güvenlik testleri (Smart Contract Audit).
+*   **Ay 4:** İmar Ruhsatları için pilot uygulama.
+*   **Ay 5:** Web sitesine "Belge Doğrulama" panelinin eklenmesi.
+*   **Ay 6:** Lansman.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** "Kripto Para" algısı ile karıştırılması. -> **Önlem:** Projenin bir "Coin" projesi olmadığı, sadece "Dijital Noter" teknolojisi olduğu halka net anlatılmalı.
+*   **Risk:** Yasal geçerlilik tartışması. -> **Önlem:** Blokzincir kaydı "ek delil" olarak sunulur, resmiyette E-İmza ve Zaman Damgası geçerlidir. Sistem ikisini birleştirir.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Doğrulanan belge sayısı (Yıllık 10.000+).
+    2.  Sahtecilik girişimlerinin sıfıra inmesi.
+*   **Sosyal Etki:** Kuruma duyulan güvenin (Trust) teknoloji ile perçinlenmesi. "Şeffaf Belediye" ödüllerine adaylık.

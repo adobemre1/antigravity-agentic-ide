@@ -1,0 +1,56 @@
+# PROJE 3: E-SEYHAN SUPERAPP (Bütünleşik Kent ve Sadakat Uygulaması)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** e-Seyhan: Dijital Vatandaşlık ve Ödül Platformu
+*   **Uygulayıcı Birim:** Basın Yayın ve Halkla İlişkiler & Bilgi İşlem Müdürlüğü
+*   **Proje Kategorisi:** Vatandaş Etkileşimi ve Mobilite
+*   **Tahmini Başlangıç/Bitiş:** 01.04.2025 - 01.12.2025 (8 Ay)
+*   **Platformlar:** iOS, Android ve Huawei AppGallery
+*   **Hedef Kitle:** Akıllı telefon kullanan tüm Seyhanlılar (Özellikle 15-45 yaş grubu).
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Mevcut belediye uygulamaları genellikle sadece "borç ödeme" veya "haber okuma" odaklıdır ve vatandaş tarafından nadiren kullanılır. "e-Seyhan SuperApp", belediyecilik hizmetlerini (E-Belediye) bir "Sadakat Programı" (Gamification) ile birleştirir. Vatandaş; geri dönüşüm yaptıkça, yürüyüş yaptıkça, anketlere katıldıkça veya belediye tesislerini kullandıkça "SeyhanPuan" kazanır. Bu puanlar konser bileti, sosyal tesislerde indirim veya anlaşmalı esnafta harcama çeki olarak geri döner.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Birçok belediye uygulaması "hayalet uygulama"dır; indirilir, bir kez kullanılır ve silinir. Vatandaşı tutacak (Retention) bir mekanizma yoktur.
+*   **İhtiyaç:** Genç nüfus, kurumlarla dijital ve etkileşimli bir bağ kurmak istemektedir.
+*   **Fırsat:** Şehirde bir aidiyet duygusu yaratmak ve "iyi vatandaş" davranışlarını (çöp atmama, spor yapma) teşvik etmek için teknolojiyi kullanmak.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Yazılım Mimarisi:** "Modüler SuperApp". İçinde farklı mini uygulamalar (Miniapps) barındırır.
+    *   **Çek-Gönder Modülü:** Konum tabanlı sorun bildirimi.
+    *   **E-Cüzdan Modülü:** SeyhanPuan'ların biriktiği ve QR kod ile harcandığı alan.
+    *   **Gamification API:** Adımsayar (HealthKit/Google Fit entegrasyonu), Quiz modülü.
+    *   **Kimlik Doğrulama:** E-Devlet kapısı ile güvenli giriş.
+*   **Güvenlik:** KVKK tam uyumlu, veriler şifreli saklanır. OWASP Mobil Güvenlik standartlarına (MASVS) uygunluk.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (Viyana - Culture Token):** Vatandaşlar müze gezdikçe veya toplu taşıma kullandıkça puan kazanır, bu puanları tiyatro biletine dönüştürür.
+*   **Türkiye Örneği (İstanbul Senin):** Tek platformda tüm belediye hizmetleri, İBB WiFi, ödemeler ve kimlik doğrulama. Çok başarılı bir SuperApp örneğidir.
+*   **Seyhan Uyarlaması:** Bizim farkımız "Yerel Esnaf Ağı" (Local Economy) olacak. Kazanılan puanlar sadece belediyede değil, mahalle bakkalında da geçebilecek (Proje 25 ile entegre).
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   UX/UI Tasarımı ve Yazılım Geliştirme: 800.000 TL
+    *   Gamification Modülü Entegrasyonu: 250.000 TL
+    *   Sunucu ve Güvenlik Testleri (Penetration Test): 150.000 TL
+    *   **Toplam:** 1.200.000 TL
+*   **İşletme Gideri:** Yıllık bakım ve güncelleme bedeli ~150.000 TL.
+*   **Devlet Teşviği:** Türkiye'de yerli yazılım ve mobil uygulama projelerine verilen reklam/tanıtım veya vergi teşviklerinden yararlanılabilir.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1-2 (Tasarım):** Kullanıcı deneyimi (UX) araştırması. Gençlerle odak grup çalışmaları.
+*   **Ay 3-6 (Geliştirme):** Agile (Çevik) yöntemle kodlama. İlk önce "E-Belediye" ve "Çek-Gönder" modülleri.
+*   **Ay 7 (Beta Test):** Belediye personeli ve sınırlı sayıda vatandaş ile kapalı test.
+*   **Ay 8 (Lansman):** Uygulama marketlerine yükleme ve "İndirene İlk Kahve Bizden" kampanyası ile tanıtım.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Kişisel veri sızıntısı. -> **Önlem:** Verilerin uçtan uca şifrelenmesi, düzenli sızma testleri.
+*   **Risk:** Vatandaşın puan sistemini suistimal etmesi (Fake GPS vb.). -> **Önlem:** Algoritmik sahtecilik tespiti (Fraud Detection).
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  İlk yıl 100.000 aktif kullanıcı.
+    2.  Uygulama üzerinden çözülen şikayet sayısında %50 artış (Telefon trafiğinin azalması).
+    3.  Uygulama market puanının 4.5+ olması.
+*   **Sosyal Etki:** Vatandaşın yönetime katılımının artması, dijital okuryazarlığın gelişimi.

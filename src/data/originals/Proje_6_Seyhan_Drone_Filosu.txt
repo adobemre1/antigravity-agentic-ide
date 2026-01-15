@@ -1,0 +1,55 @@
+# PROJE 6: SEYHAN DRONE FİLOSU (Otonom Hava Denetim Timi)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Gözcü: Otonom İHA İstasyonu ve Yapı Denetim Sistemi
+*   **Uygulayıcı Birim:** İmar ve Şehircilik Müdürlüğü & Yapı Kontrol Müdürlüğü
+*   **Proje Kategorisi:** Akıllı Denetim ve Afet Hazırlığı
+*   **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.12.2025 (6 Ay)
+*   **Konum:** Belediye Ana Binası Çatısı (Merkezi İstasyon)
+*   **Teknoloji:** Drone-in-a-Box (Kutuda Drone)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Seyhan'daki kaçak yapılaşmayı, çatı/teras işgallerini ve hafriyat dökümlerini insan gücüyle %100 denetlemek imkansızdır. Bu proje ile belediye çatısına kurulacak otonom bir "Drone İstasyonu" (DJI Dock 2 vb.) sayesinde, İHA'lar pilotsuz olarak belirlenen rotada uçacak, görüntüleri merkeze aktaracak ve şarj olmak için kutusuna geri dönecektir. "Görüntü İşleme" yazılımı, geçen hafta ile bu hafta arasındaki farkı (yeni temel atılması, kat çıkılması) otomatik tespit edecektir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Kaçak yapılar genellikle hafta sonu veya geceleri, denetimin az olduğu zamanlarda yükselir. Beton döküldükten sonra yıkmak hem maliyetli hem de sosyal travma sebebidir.
+*   **Çözüm:** Kaçağı "temel aşamasında" tespit etmek.
+*   **Afet Boyutu:** Deprem anında yollar kapansa bile bu dronlar havalanarak hangi binanın yıkıldığını dakikalar içinde AFAD'a bildirebilir.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Donanım:**
+    *   **İstasyon:** Otonom Şarj ve Koruma İstasyonu (IP55 su/toz geçirmez, klimalı).
+    *   **Hava Aracı:** Termal ve RGB kameralı, RTK (Real Time Kinematic) modüllü, santimetre hassasiyetinde uçan endüstriyel drone (Örn: DJI Matrice 3D). 50 dakika uçuş süresi.
+*   **Yazılım:**
+    *   **Fotogrametri:** Çekilen fotoğraflardan 3 boyutlu harita üreten yazılım.
+    *   **Change Detection (Değişim Tespiti):** Yapay zeka ile eski ve yeni haritayı çakıştırıp "farklılıkları" işaretleyen algoritma.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (Houston, ABD):** Altyapı ve sel denetimlerinde drone kullanımı maliyetleri %30 düşürdü.
+*   **Türkiye Örneği (Konya & Esenler):** Akıllı şehir uygulamalarında drone filoları aktif olarak kullanılıyor.
+*   **Yasal Uyumluluk:** SHGM (Sivil Havacılık) talimatlarına uygun olarak "İkamet Mahalinde Uçuş İzni" alınacak ve ehliyetli pilotlar (IHA-2) nezaretinde operasyon yürütülecektir.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   Otonom İstasyon ve Drone (DJI Dock 2 Bundle): 850.000 TL - 950.000 TL
+    *   Fotogrametri ve Analiz Yazılımı: 150.000 TL
+    *   **Toplam:** 1.000.000 - 1.100.000 TL
+*   **İşletme Gideri (OPEX):** Batarya yenileme maliyeti (yıllık ~50.000 TL) ve sigorta.
+*   **ROI (Yatırım Dönüşü):** Tek bir kaçak binanın yıkım maliyeti bile bu sistemin fiyatından fazladır. Önleyici denetim ile milyonlarca liralık yıkım masrafından tasarruf edilir.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** SHGM izin süreçleri ve uçuşa yasak bölgelerin (No-Fly Zone) haritalanması.
+*   **Ay 2:** Donanım ihalesi ve temini.
+*   **Ay 3:** Kurulum ve test uçuşları.
+*   **Ay 4:** Yazılım entegrasyonu (Belediye İmar Arşivi ile Drone görüntülerinin eşleştirilmesi).
+*   **Ay 5-6:** Tam operasyonel geçiş.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Drone'un düşmesi veya kaza yapması. -> **Önlem:** Paraşüt sistemi entegrasyonu ve 3. şahıs mali mesuliyet sigortası.
+*   **Risk:** Mahremiyet şikayetleri. -> **Önlem:** Kameraların konut içlerini maskelemesi (Privacy Masking) ve uçuşların belli bir irtifadan (min 50m) yapılması.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Kaçak yapı tespit süresinin 1 günden 1 saate inmesi.
+    2.  Haftalık taranan alanın 10 katına çıkması.
+*   **Sosyal Etki:** "Belediye havadan görüyor" algısı ile kaçak yapılaşma iştahının kesilmesi.

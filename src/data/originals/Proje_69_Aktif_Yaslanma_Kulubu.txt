@@ -1,0 +1,56 @@
+# PROJE 69: AKTİF YAŞLANMA KULÜBÜ (65+ YAŞAM MERKEZİ)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** İkinci Bahar Yaşam Merkezi
+*   **Uygulayıcı Birim:** Sosyal Yardım & Kültür Müdürlüğü
+*   **Proje Kategorisi:** Yaşlı Hizmetleri / Sosyal Tesis
+*   **Tahmini Başlangıç/Bitiş:** Sürekli
+*   **Konum:** Park içlerinde, erişilebilir tek katlı yapılar
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Emekli ve yaşlı vatandaşların evlerine kapanıp yalnızlaşmasını önlemek için; gün boyu çay/kahve içip gazete okuyabilecekleri, Bocce, Satranç, Yoga, Resim gibi aktivitelerle zinde kaldıkları, akranlarıyla sosyalleştikleri bir "Emekliler Lokali 2.0" projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Emekliler kahvehane köşelerinde pasif zaman geçiriyor. Sosyal izolasyon depresyona ve fiziksel çöküşe yol açıyor.
+*   **Çözüm:** Onları "Aktif" tutacak, üretken hissedebilecekleri bir mekan.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Mekan:**
+    *   Kütüphane köşesi.
+    *   Hobi atölyesi (Ahşap boyama, örgü).
+    *   Spor alanı (Bocce sahası - Yaşlılar için en uygun spor).
+    *   Revir (Tansiyon ölçümü).
+*   **Aktiviteler:**
+    *   "Dijital Torun" kursu: Akıllı telefon kullanmayı (WhatsApp, E-Devlet) öğrenirler.
+    *   Kültür Gezileri: Ayda bir ören yeri ziyareti.
+*   **Üyelik:** "İkinci Bahar Kart" ile giriş. Çay 1 TL, Kahve 5 TL (Sembolik).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Senior Centers (ABD/Avrupa):** Standart bir belediye hizmetidir.
+*   **Muratpaşa Belediyesi (Yaşlı Evleri):** Türkiye'deki en başarılı örneklerden biridir.
+*   **Kuşaklararası Etkileşim:** Anaokulu çocuklarının merkezi ziyareti.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Prefabrik veya Mevcut Bina Tadilatı: 1.000.000 TL.
+    *   Tefrişat (Konforlu koltuklar, TV): 500.000 TL.
+    *   **Toplam:** 1.5 Milyon TL.
+*   **İşletme:** Elektrik, su, personel ve ikram giderleri. (Sosyal belediyecilik gereği kar beklenmez).
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Yer tespiti.
+*   **Ay 2:** Tadilat ve erişilebilirlik düzenlemeleri (Rampa, engelli WC).
+*   **Ay 3:** Tefrişat.
+*   **Ay 4:** Üye kayıtlarının başlaması.
+*   **Ay 5:** Açılış.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Üyeler arasında siyasi/spor tartışmaları ve gerginlik. -> **Önlem:** Merkezde siyaset konuşmak, TV'de haber kanalı açmak kural olarak kısıtlanır. Belgesel ve müzik kanalları açılır.
+*   **Risk:** Sağlık sorunları (Kalp krizi vb.). -> **Önlem:** Personel ilkyardım eğitimi alır. Panik butonu bulunur.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Aktif üye sayısı.
+    2.  Günlük ziyaretçi ortalaması.
+*   **Sosyal Etki:** Yaşlıların hayata tutunması. Alzheimer riskinin azalması.
+

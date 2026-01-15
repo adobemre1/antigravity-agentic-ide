@@ -1,0 +1,54 @@
+# PROJE 47: İNTERAKTİF MATEMATİK MÜZESİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Matematik Evi: Rakamlara Dokun
+*   **Uygulayıcı Birim:** Kültür İşleri & Fen İşleri
+*   **Proje Kategorisi:** Eğitim / Müze
+*   **Tahmini Başlangıç/Bitiş:** 01.09.2025 - 01.06.2026 (9 Ay)
+*   **Konum:** Park İçinde Atıl Bir Bina veya Kültür Merkezi
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Çocukların en çok korktuğu ders olan matematiği; formüllerden ve tahtadan çıkarıp, dokunulabilir, oynanabilir düzeneklerle (Da Vinci Köprüsü, Pisagor Havuzu, Olasılık Panosu) anlatan, "Eğlenerek Öğrenme" (Edutainment) temelli interaktif bir müzedir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Matematik eğitimimiz ezbere dayalıdır. Çocuklar "Bu formül gerçek hayatta ne işime yarayacak?" sorusuna cevap bulamaz. PISA testlerinde matematik başarımız düşüktür.
+*   **Çözüm:** Matematiği somutlaştırmak. Bir üçgenin iç açılarının toplamının neden 180 derece olduğunu ispatlayan maketler kullanmak.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **İstasyonlar (Örnekler):**
+    *   **Da Vinci Köprüsü:** Çivisiz, sadece tahtaların birbirine kenetlenmesiyle kurulan köprü. (Çocuklar kendisi kurar).
+    *   **Mimar Sinan Bölümü:** Kubbe statiği ve muqarnas matematiği.
+    *   **Altın Oran Pergeli:** Kendi yüzündeki altın oranı ölçme.
+    *   **Sihirli Aynalar:** Simetri ve yansıma.
+*   **Maliyet:**
+    *   İç dekorasyon ve 30 adet ahşap/metal istasyon üretimi: ~3.000.000 TL. (2025 Fiyatları - Thales Müzesi vb. benzerlerinden hareketle).
+    *   Malzemeler dayanıklı (Vandal-Proof) olmalıdır.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **MoMath (New York):** Dünyanın en ünlü matematik müzesi.
+*   **Thales Matematik Müzesi (Aydın):** Türkiye'deki en başarılı örnek.
+*   **Ali Nesin Matematik Köyü:** Felsefi yaklaşım.
+*   **Seyhan Farkı:** Yerel matematikçileri ve İslam alimlerini (Harezmi vb.) de tanıtan tarihsel derinlik.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):** 3 - 3.5 Milyon TL.
+*   **Gelir:** Giriş ücreti sembolik (Örn: 20 TL) olabilir veya okullara ücretsizdir.
+*   **Hediyelik Eşya:** Zeka oyunları, ahşap puzzle satışı ile işletme giderine katkı sağlanır.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Mekan tahsisi ve projelendirme.
+*   **Ay 2:** Matematik öğretmenlerinden oluşan bir "Danışma Kurulu" oluşturulması.
+*   **Ay 3:** İstasyonların (Düzeneklerin) üretimi için ihale.
+*   **Ay 4:** Rehberlerin (Üniversite öğrencileri) eğitimi.
+*   **Ay 5:** MEB ile protokol ve okul randevu sisteminin açılması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Çocukların düzenekleri kırması. -> **Önlem:** Malzemeler sanayi tipi dayanıklılıkta olacak. Her istasyonda yedek parça bulunacak.
+*   **Risk:** Rehbersiz gezilirse anlaşılmaz. -> **Önlem:** Müze sadece "Rehberli Tur" ile gezilebilir, serbest dolaşım kısıtlıdır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Ziyaret eden öğrenci sayısı.
+    2.  Atölyelere katılım.
+*   **Sosyal Etki:** Matematik önyargısının kırılması. "Matematik yapabiliyorum" diyen çocukların artması.
+

@@ -1,0 +1,54 @@
+# PROJE 77: PARKLARDA KADIN GÜVENLİK VE PANİK BUTONU SİSTEMİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Güven Çemberi: Acil Destek Butonları
+*   **Uygulayıcı Birim:** Park Bahçeler & Zabıta Müdürlüğü
+*   **Proje Kategorisi:** Kadın Güvenliği / Akıllı Şehir
+*   **Tahmini Başlangıç/Bitiş:** 01.10.2025 - 01.01.2026
+*   **Konum:** Tenha, büyük parklar ve koşu parkurları
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Parklarda ve yürüyüş yollarında, kadınların kendilerini takip edilmiş veya tehdit altında hissettikleri anda basabilecekleri; basıldığında 120 desibel siren çalan, flaşörleri yanan ve Zabıta/Polis merkezine anında konum bilgisiyle görüntülü alarm gönderen "Akıllı Güvenlik Totemleri" projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Kadınlar akşam saatlerinde parklarda spor yapmaktan veya yürümekten korkuyor. Telefonu çıkarıp KADES'e basmak her zaman mümkün olmayabilir (Şarj bitmesi, panik anı).
+*   **Çözüm:** Fiziksel, görünür ve caydırıcı bir "İmdat Freni".
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Totem Tasarımı:** Turuncu renkte, gece fosforlu, üzerinde "ACİL / SOS" yazan, 2 metre boyunda metal direk.
+*   **Buton:** Kolay erişilebilir (Engelliye uygun), bas-çek değil, basılı kalan mantar buton.
+*   **Reaksiyon:**
+    1.  Butona basılır.
+    2.  Tepe lambası (Çakar) döner ve yüksek sesli siren çalar (Saldırganı panikletir).
+    3.  Direğin üzerindeki PTZ kamera o noktaya odaklanır.
+    4.  Komuta merkezine "X Parkı 3 Nolu Direk Alarmı" düşer. Operatör kameradan bakar, gerçekse ekibi yönlendirir.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Hindistan (Delhi):** Kadına şiddetle mücadele için sokaklara SOS kutuları kondu.
+*   **Üniversite Kampüsleri (ABD):** "Blue Light" (Mavi Işık) güvenlik telefonları standarttır.
+*   **KADES:** Bu proje KADES'in fiziksel dünyadaki tamamlayıcısıdır.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   20 Nokta x 50.000 TL (Direk, Kamera, Elektronik): 1.000.000 TL.
+    *   Altyapı (Kazı, Kablo, İnternet): 500.000 TL.
+    *   **Toplam:** 1.5 Milyon TL.
+*   **Kaynak:** Belediye bütçesi ve BM Kadın Birimi (UN Women) fonları.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Nokta belirleme (Kadın Meclisi ile anket).
+*   **Ay 2:** Ürün tasarımı ve ihale.
+*   **Ay 3:** Saha montajı.
+*   **Ay 4:** Zabıta entegrasyonu.
+*   **Ay 5:** Tanıtım simülasyonu (Basın önünde tatbikat).
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Çocukların oyun amaçlı basması (Asılsız ihbar). -> **Önlem:** Butonun üzerine "Gereksiz basmanın cezası vardır" yazılır. Kamera ile teyit edilmeden ekip çıkmaz. Siren sesi zaten çocukları korkutup uzaklaştırır.
+*   **Risk:** Vandalizm. -> **Önlem:** Direkler sağlam çelikten yapılır, kamera kendini de kaydeder.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Sistemin aktiflik süresi.
+    2.  Parkların kadın kullanım oranındaki artış.
+*   **Sosyal Etki:** "Seyhan Kadınlar İçin Güvenli" algısı. Caydırıcılık etkisiyle taciz olaylarının azalması.
+

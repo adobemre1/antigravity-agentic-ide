@@ -1,0 +1,56 @@
+# PROJE 21: SEYHAN HUB (Yaratıcı Endüstriler Üssü ve FabLab)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Yaratıcı Üs: İnovasyon ve Prototipleme Merkezi
+*   **Uygulayıcı Birim:** İşletme ve İştirakler Müdürlüğü & AR-GE
+*   **Proje Kategorisi:** Yerel Ekonomi ve İstihdam
+*   **Tahmini Başlangıç/Bitiş:** 01.09.2025 - 01.05.2026 (8 Ay)
+*   **Konum:** Eski Çırçır Fabrikası veya Metro Güzergahında Atıl Bir Depo (Min. 1000 m²)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Adana'daki yazılımcı, tasarımcı ve maker'ların (üretenlerin) bir araya geldiği; içinde 3D yazıcılar ve CNC makinelerinin olduğu bir **FabLab (Fabrication Laboratory)** barındıran, 7/24 yaşayan bir "Co-Working" (Ortak Çalışma) alanıdır. Sadece masa kiralanan bir yer değil, "Topluluk" (Community) odaklı bir ekosistemdir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Adana'da freelance çalışan gençler kafelerde çalışmak zorunda kalmaktadır. Donanım (Laser kesici, güçlü bilgisayar) erişimi kısıtlıdır. Beyin göçü yüksektir.
+*   **Fırsat:** Şehirdeki start-up potansiyelini tek bir çatı altında toplamak, "Serendipity" (Tesadüfi iş birlikleri) yaratır.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Mekan Dağılımı:**
+    *   **Açık Ofis:** 200 Kişilik esnek çalışma alanı (Hot Desk).
+    *   **FabLab:** 5 Adet 3D Yazıcı (Bambu Lab P1S / Ultimaker), 1 Adet Lazer Kesici (Trotec 100W), 1 CNC Router, Elektronik Atölyesi (Osiloskop, Lehimleme).
+    *   **Sessiz Alan (Focus Room):** Ses yalıtımlı online toplantı kabinleri.
+    *   **Uyku Kapsülü:** 7/24 çalışan yazılımcılar için.
+*   **İşletme Modeli:** "Topluluk Yöneticisi" (Community Manager) istihdam edilir. Üyelik aidatı semboliktir (Örn: 500 TL/Ay). Elektrik/İnternet belediyeden, işletme gideri üyelerden.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (Station F - Paris):** Eski tren garının dünyanın en büyük start-up kampüsüne dönüşümü.
+*   **Türkiye Örneği (Zemin İstanbul):** Metro istasyonunda inovasyon merkezi.
+*   **Türkiye Örneği (Kolektif House):** Sadece ofis değil, etkinlik ve network sunan model.
+*   **Seyhan Uyarlaması:** "Sanayi Odaklı FabLab". Adana sanayisinin ihtiyaç duyduğu parçaların prototipi burada üretilecek.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   Tadilat ve Güçlendirme: 2.000.000 TL
+    *   FabLab Ekipmanları (2025 Fiyatları): 3.000.000 TL (Yüksek kaliteli cihazlar).
+    *   Mobilya ve IT Altyapısı (Fiber): 1.000.000 TL
+    *   **Toplam:** 6.000.000 TL
+*   **Gelir Modeli:** Özel ofis kiralamaları, etkinlik salonu kirası ve FabLab eğitimlerinden elde edilen gelirle %60 kendi kendini finanse eder (Self-Sufficient).
+*   **Fon Kaynağı:** Çukurova Kalkınma Ajansı (ÇKA) "Güdümlü Proje Desteği" (%75 Hibe).
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** ÇKA'ya proje yazımı ve uygun binanın tahsisi.
+*   **Ay 2:** Mimari tasarım (Endüstriyel, loft tarzı, gençlerin seveceği bir dil).
+*   **Ay 3:** Ekipman ihalesi.
+*   **Ay 4:** "Topluluk Yöneticisi"nin işe alınması ve lansman öncesi etkinlikler (Hackathon).
+*   **Ay 8:** Açılış.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Binanın boş kalması ("Hayalet Bina"). -> **Önlem:** Açılmadan önce "Erken Kayıt" (Early Bird) ile topluluğun %50'si doldurulacak. Üniversite kulüplerine ücretsiz kontenjan verilecek.
+*   **Risk:** Cihazların bozulması. -> **Önlem:** "Kullanıcı Eğitimi" almayan (Sertifikasız) kimse cihazlara dokunamayacak.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Aktif üye sayısı (Hedef: 500 Kişi).
+    2.  Burada kurulan şirket sayısı (Hedef: 10 Start-up/Yıl).
+*   **Sosyal Etki:** Yaratıcı sınıfın şehre aidiyet hissetmesi. Adana'nın "Sadece Kebap değil, Teknoloji de var" imajı.
+

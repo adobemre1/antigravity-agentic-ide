@@ -1,0 +1,55 @@
+# PROJE 79: AFET LOJİSTİK DEPOLARI VE STOK YÖNETİMİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Hazır: İleri Lojistik Üsleri
+*   **Uygulayıcı Birim:** Afet İşleri & Destek Hizmetleri
+*   **Proje Kategorisi:** Afet Lojistiği
+*   **Tahmini Başlangıç/Bitiş:** 01.07.2025 - 01.01.2026
+*   **Konum:** Şehrin 4 Ana Giriş Noktası (Kuzey, Güney, Doğu, Batı) ve Büyük Parklar
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Olası bir depremde yardım tırları şehre ulaşana kadar geçecek kritik ilk 72 saatte (3 Gün) şehrin kendi kendine yetebilmesi için; stratejik noktalara yerleştirilmiş, içinde çadır, battaniye, su ve jeneratör bulunan, mühürlü "Konteyner Depolar" (Pre-positioning) projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Deprem yolları kapatabilir. Yardım gelse bile şehre giremeyebilir. Yerel stok yoksa kaos başlar.
+*   **Çözüm:** Yardımı dışarıdan beklemek yerine, stoğu içeride, mahallenin yanı başında tutmak.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Depo Tipi:** 40 HC (High Cube) Deniz Konteyneri. Su geçirmez, çalınmaya karşı güvenli, taşınabilir.
+*   **Stok İçeriği (Her Depo İçin):**
+    *   100 Adet Afet Çadırı (16m2).
+    *   500 Adet Termal Battaniye.
+    *   5 Ton Su (Pet şişe, 5 yıllık ömürlü).
+    *   2 Adet Dizel Jeneratör ve Aydınlatma Kulesi.
+    *   Hilti, Kazma, Kürek Setleri.
+*   **Yönetim:** Dijital Envanter Sistemi. Hangi depoda ne var AKOM'dan görülür. Ürünler son kullanma tarihi gelmeden Sosyal Yardım Market'te tüketilir, yerine yenisi konur (Rotasyon).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Kızılay:** Bölgesel lojistik merkezleri.
+*   **Japonya:** Her okulun deposunda bisküvi ve su stoğu zorunludur.
+*   **UN WFP (Dünya Gıda Programı):** Ön-konumlandırma stratejisi.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   20 Adet 40'lık Konteyner (2. El temiz): 3.000.000 TL (Tanesi ~150k TL).
+    *   Stok Malzemesi (Çadır, Battaniye, Jeneratör): 5.000.000 TL.
+    *   **Toplam:** 8 Milyon TL.
+*   **Kaynak:** Belediye bütçesi ve AFAD teşvikleri.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Arazi tahsisi (Belediye garajları, park köşeleri).
+*   **Ay 2:** Konteyner alımı ve boyanması (Turuncu renk, Seyhan Logosu).
+*   **Ay 3:** İç raf sisteminin kurulması.
+*   **Ay 4:** Malzeme alımı ve istifleme.
+*   **Ay 5:** Mühürleme ve anahtar teslimi (Zabıta/Afet Müdürü).
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Depoların yağmalanması. -> **Önlem:** Çelik asma kilitler, kamera izleme ve alarm sistemi. Depo, karakol veya zabıta noktasına yakın konur.
+*   **Risk:** Gıdaların bozulması. -> **Önlem:** Sadece kuru gıda (Konserve, Bisküvi) ve su konur. Düzenli rotasyon (FIFO) yapılır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Hazır tutulan yatak/çadır kapasitesi.
+    2.  Stok devir hızı (Boşa giden ürün olmaması).
+*   **Sosyal Etki:** "Kötü güne hazırlıklıyız" güvencesi. Kaos ve yağma riskinin azalması.
+

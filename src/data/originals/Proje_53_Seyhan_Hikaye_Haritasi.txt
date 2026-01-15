@@ -1,0 +1,51 @@
+# PROJE 53: SEYHAN HİKAYE HARİTASI (QR SESLİ REHBER)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Konuşan Binalar: Seyhan'ın Hafızası
+*   **Uygulayıcı Birim:** Kültür İşleri & Basın Yayın
+*   **Proje Kategorisi:** Akıllı Turizm
+*   **Tahmini Başlangıç/Bitiş:** 01.07.2025 - 01.10.2025
+*   **Konum:** Tepebağ, Büyüksaat, Taşköprü Bölgesi
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Tarihi binaların, heykellerin ve anıt ağaçların üzerine yerleştirilen; güneşten solmayan özel metal QR kod levhaları sayesinde, turistlerin bir rehbere ihtiyaç duymadan, kendi telefonlarıyla o mekanın hikayesini (Türkçe/İngilizce/Arapça) profesyonel seslendirme ile dinleyebildiği dijital rehberlik sistemidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Turistler Büyüksaat'e bakıp fotoğraf çekiyor ama tarihini (Kim yaptı? Ne zaman yapıldı?) bilmeden geçip gidiyor. Tabelalar yetersiz ve sıkıcı.
+*   **Çözüm:** Hikayeleştirme (Storytelling). "Bu binanın taşlarını İtalyan ustalar döşedi..." gibi merak uyandıran anlatım.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Materyal:** Lazer kazıma (Laser Etching) yöntemiyle paslanmaz çelik veya pirinç üzerine QR kod işlenmesi (Solmaya karşı 50 yıl garantili).
+*   **İçerik:** 50 Nokta için profesyonel metin yazımı ve stüdyo seslendirmesi.
+*   **Yazılım:** QR kod okutulduğunda uygulama indirmeye zorlamayan, doğrudan tarayıcıda açılan (PWA - Progressive Web App) hafif bir arayüz.
+*   **Offline Mod:** İnterneti olmayan turist için bölgede "Seyhan_Free_Wifi" ağı.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Londra (Blue Plaques):** Tarihi kişiliklerin evlerini işaretleyen ikonik proje.
+*   **Tiflis (Scan Tbilisi):** Çok başarılı bir QR şehir turu.
+*   **Efes Antik Kenti:** Sesli rehber (Audio Guide) kiralama sisteminin ücretsiz mobil versiyonu.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Tabela ve Montaj (50 Adet): 100.000 TL.
+    *   İçerik Üretimi (Yazar + Seslendirme): 100.000 TL.
+    *   Yazılım/Hosting: 50.000 TL.
+    *   **Toplam:** 250.000 TL. (Çok düşük bütçeli, yüksek etkili).
+*   **Bakım:** Yılda bir kez tabelaların temizlenmesi ve linklerin kontrolü.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Rota ve noktaların belirlenmesi (Tarihçiler Danışma Kurulu).
+*   **Ay 2:** Metinlerin yazılması ve çevirisi.
+*   **Ay 3:** Seslendirme (Adanalı ünlü tiyatrocuların gönüllü desteği aranır).
+*   **Ay 4:** Tabela üretimi ve montajı (Anıtlar Kurulu izniyle).
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Tabelaların çalınması. -> **Önlem:** Özel vidalama ve yapıştırma teknikleri (Anti-theft).
+*   **Risk:** Linklerin kırılması. -> **Önlem:** Dinamik QR Kod (Dynamic QR) teknolojisi kullanılır. Link değişse bile QR kod aynı kalır, arkadaki yönlendirme güncellenir.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  QR Kod taranma sayısı (Lokasyon bazlı ısı haritası çıkarılır).
+    2.  Ses kaydının sonuna kadar dinlenme oranı.
+*   **Sosyal Etki:** Turistin şehri "anlayarak" gezmesi.
+

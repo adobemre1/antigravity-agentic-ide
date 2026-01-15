@@ -1,0 +1,54 @@
+# PROJE 63: OBEZİTE İLE MÜCADELE VE SAĞLIKLI YAŞAM TİMİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Fit: Harekete Geç, Sağlıklı Yaşa
+*   **Uygulayıcı Birim:** Sağlık İşleri & Spor Müdürlüğü
+*   **Proje Kategorisi:** Koruyucu Sağlık
+*   **Tahmini Başlangıç/Bitiş:** Yıllık Program
+*   **Konum:** Parklar, Semt Pazarları, Okullar
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Adana'nın yüksek kalorili yeme kültürüne karşı; diyetisyen, spor hocası ve psikologdan oluşan "Sağlıklı Yaşam Timi"nin mahalleleri gezerek ücretsiz vücut analizi yaptığı, kişiye özel beslenme programı sunduğu ve parklarda sabah sporları organize ettiği bir toplum sağlığı hareketidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Adana'da obezite ve diyabet oranları Türkiye ortalamasının üzerindedir. Diyetisyen hizmeti özelde pahalıdır.
+*   **Çözüm:** Diyetisyeni sokağa indirmek. "Yasaklama, Dengele" felsefesiyle Adanalıya uygun diyet yazdırmak.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Ekipman:**
+    *   **Tanita (Vücut Analiz Cihazı):** 3 Adet profesyonel mobil cihaz (Kas, Yağ, Su oranı ölçer). (Tanesi ~150.000 TL).
+    *   **Mobil Stand:** "Seyhan Fit" logolu, hızla kurulan analiz çadırı.
+*   **Yazılım:** Vatandaşın ölçüm sonucunu ve diyet listesini cebine gönderen SMS/Web entegrasyonu.
+*   **Program:**
+    *   Sabah 07:00-09:00: Parklarda spor (Zumba, Pilates).
+    *   Gün boyu: Pazar yerlerinde ve AVM önlerinde ölçüm.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Shape Up NYC:** New York parklarında ücretsiz fitness.
+*   **Obezite Merkezleri (Sağlık Bakanlığı):** Devlet hastanelerindeki birimlerle entegre çalışılabilir.
+*   **Okul Kantinleri:** Çocuk obezitesi için "Sağlıklı Kantin" denetimleri.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Analiz Cihazları ve Standlar: 500.000 TL.
+    *   Tanıtım Materyalleri: 100.000 TL.
+    *   **Toplam:** 600.000 TL.
+*   **İşletme:** Personel (Diyetisyen, Spor Hocası) maaşları. (Belediye şirketinden istihdam).
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Ekip alımı (Genç ve dinamik diyetisyenler).
+*   **Ay 2:** Cihazların temini.
+*   **Ay 3:** "Seyhan Zayıflıyor" lansmanı. İlk ölçümler.
+*   **Ay 4:** 3. Ay kontrolü (Kilo verenlerin ödüllendirilmesi).
+*   **Ay 5:** "En Fit Mahalle" yarışması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Vatandaşın diyete uymaması. -> **Önlem:** Motivasyon takibi. WhatsApp grupları kurularak "Bugün ne yedin?" paylaşımı yaptırılır.
+*   **Risk:** Yeme bozukluğu (Psikolojik). -> **Önlem:** Ekipteki psikolog devreye girer.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Ölçüm yapılan kişi sayısı.
+    2.  Takip süresince toplam verilen kilo (Ton bazında hesaplanır).
+*   **Sosyal Etki:** Kronik hastalık (Şeker, Tansiyon) riskinin azalması.
+

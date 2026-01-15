@@ -1,0 +1,51 @@
+# PROJE 73: AKILLI TOPLANMA ALANLARI VE DİRENÇLİ PARKLAR
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Güvenli Liman: Yeni Nesil Afet Parkları
+*   **Uygulayıcı Birim:** Park ve Bahçeler & Fen İşleri
+*   **Proje Kategorisi:** Kentsel Altyapı
+*   **Tahmini Başlangıç/Bitiş:** 01.08.2025 - 01.02.2026
+*   **Konum:** Nüfus Yoğunluğu Yüksek 20 Mahalle Parkı
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Mevcut afet toplanma alanlarının (parkların); afet anında elektriği (Güneş paneli), suyu (Yeraltı deposu), interneti (Uydu Wi-Fi) ve tuvalet altyapısı hazır olan "Kendi Kendine Yeten Yaşam Üsleri"ne dönüştürülmesi projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** AFAD'ın belirlediği toplanma alanları genellikle sadece boş arsadır. Afet anında insanlar buraya gelir ama su yok, elektrik yok, tuvalet yok.
+*   **Çözüm:** Parkı, afet anında 72 saat yaşanabilir bir kampa dönüştürecek "Pasif Altyapı"yı şimdiden gömmek.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Enerji:** "Solar Şarj Direkleri". Üzerinde güneş paneli, akü, LED aydınlatma ve USB şarj çıkışları olan direkler. (Fiyat: ~50.000 TL/Adet).
+*   **Su:** Parkın altına gömülü 10 Tonluk Polietilen Su Deposu. Normal şebeke kesilse bile manuel tulumba ile su alınabilir. (Maliyet: ~85.000 TL).
+*   **Hijyen:** Kanalizasyon bağlantısı hazır rögarlar. Afet anında üzerine seyyar kabin konur.
+*   **İletişim:** Starlink veya Uydu Wi-Fi Hotspot noktası.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Tokyo Rinkai Park (Japonya):** Banklar ocağa dönüşür, rögar kapakları tuvalete dönüşür. Dünyanın en iyi örneğidir.
+*   **Resilience Hubs (ABD):** Topluluk merkezlerinin afet üssü olması.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   20 Park x 2 Solar Direk (40 Direk): 2.000.000 TL.
+    *   20 Park x 10 Ton Su Deposu: 1.700.000 TL.
+    *   Wi-Fi ve Diğer Altyapı: 1.300.000 TL.
+    *   **Toplam:** 5 Milyon TL.
+*   **Kaynak:** Belediye özkaynakları ve İller Bankası kredisi.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Parkların seçimi (Zemin etüdü sağlam olanlar).
+*   **Ay 2:** Su depolarının gömülmesi ve tesisat işleri.
+*   **Ay 3:** Solar direklerin montajı.
+*   **Ay 4:** Wi-Fi testleri.
+*   **Ay 5:** Tabela ve İşaretleme ("Bu Park Afet Toplanma Alanıdır").
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Solar direklerin çalınması/kırılması. -> **Önlem:** Paneller direğin en tepesine (ulaşılamaz nokta) konur. Antivandal (kırılmaz) cam kullanılır. Kamera ile izlenir.
+*   **Risk:** Su deposundaki suyun bozulması. -> **Önlem:** Depo suyu park sulama sistemine bağlanarak sürekli devir daim (sirkülasyon) ettirilir, su hep taze kalır.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Dönüştürülen park metrekaresi.
+    2.  Afet anında barındırma kapasitesi (Kişi).
+*   **Sosyal Etki:** Vatandaşın deprem korkusunu azaltan somut bir güvence.
+

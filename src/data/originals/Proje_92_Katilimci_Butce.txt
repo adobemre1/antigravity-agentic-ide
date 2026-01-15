@@ -1,0 +1,52 @@
+# PROJE 92: KATILIMCI BÜTÇE (HALKIN PARASI, HALKIN KARARI)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Bütçe Senin, Karar Senin
+*   **Uygulayıcı Birim:** Strateji Geliştirme Müdürlüğü
+*   **Proje Kategorisi:** Katılımcı Demokrasi
+*   **Tahmini Başlangıç/Bitiş:** Her Yılın Eylül-Aralık Dönemi
+*   **Konum:** Dijital Platform ve Seyhan Meydanları
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Belediyenin yıllık yatırım bütçesinin (Örn: Fen İşleri, Park Bahçeler payının) %10'luk kısmının harcama yetkisinin doğrudan halka devredilmesi; vatandaşların proje önerdiği, teknik ekibin incelediği ve en çok oyu alan projelerin "Kesinleşmiş Bütçe"ye girerek uygulandığı doğrudan demokrasi modelidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Bütçe kararlarını sadece bürokratlar ve meclis üyeleri veriyor. Halkın gerçek ihtiyacı (Örn: Sokağıma park, okuluma kütüphane) bazen ıskalanıyor.
+*   **Çözüm:** "Cüzdanı halka teslim etmek." Şeffaflık ve hesap verebilirlik.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Yazılım:** "Decidim" (Açık kaynak demokrasi yazılımı) tabanlı "Seyhan Senin" portalı. Güvenli giriş (E-Devlet entegrasyonu).
+*   **Süreç:**
+    1.  **Fikir Toplama:** Vatandaş harita üzerinde "Buraya X yapılsın" der.
+    2.  **Teknik Süzgeç:** Mühendisler "Bu proje yasal mı, maliyeti ne?" diye bakar.
+    3.  **Oylama:** Elenen projeler halk oylamasına çıkar.
+*   **Kota:** Her mahalleye nüfusuna göre bütçe kotası (Adaletli dağılım).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Porto Alegre (Brezilya):** Modelin doğduğu yer. Atık su sorunu halk oylamasıyla çözüldü.
+*   **Paris Belediyesi:** Bütçenin %5'i (100 Milyon Euro) halk tarafından yönetilir.
+*   **Şişli Belediyesi:** Türkiye'de başarılı "Katılımcı Bütçe" örneği.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Yazılım ve Tanıtım Bütçesi:** 1.000.000 TL (Yazılım kurulumu ve billboard kampanyası).
+*   **Dağıtılacak Kaynak:** Yatırım bütçesinin %10'u (Örneğin 100 Milyon TL'lik bir havuz).
+*   **Kaynak:** Belediye Özkaynakları (Zaten harcanacak paranın yönünü halk belirliyor, ekstra maliyet değil).
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Eylül:** Lansman ve fikir toplama çağrısı.
+*   **Ekim:** Teknik inceleme (Yapılabilirlik analizi).
+*   **Kasım:** Dijital oylama haftası.
+*   **Aralık:** Kazanan projelerin Meclis Bütçesine eklenmesi.
+*   **Ocak-Haziran:** Uygulama ve açılışlar.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Organize grupların (Trol orduları) kendi projelerine oy yağdırması. -> **Önlem:** TC Kimlik / E-Devlet doğrulaması ve IP kontrolü. Her kişinin 3 oy hakkı olması.
+*   **Risk:** Seçilen projenin bütçeyi aşması. -> **Önlem:** Projeler maliyet tahminiyle (Örn: 5 Milyon TL) oylanır, aşarsa revize edilir.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Gelen proje önerisi sayısı.
+    2.  Oylamaya katılan vatandaş sayısı.
+    3.  Seçilen projelerin tamamlanma oranı (%100 olmak zorunda).
+*   **Sosyal Etki:** Demokrasi bilinci. "Benim vergim, benim kararım."
+

@@ -1,0 +1,54 @@
+# PROJE 14: ENGELSİZ ROTA VE ERİŞİLEBİLİRLİK HARİTASI
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan WheelMap: Erişilebilir Kent Navigasyonu
+*   **Uygulayıcı Birim:** Fen İşleri Müdürlüğü & Sosyal Yardım İşleri
+*   **Proje Kategorisi:** Akıllı Ulaşım ve Sosyal İçerme
+*   **Tahmini Başlangıç/Bitiş:** 01.04.2025 - 01.09.2025 (5 Ay)
+*   **Platform:** Mobil Uygulama (iOS/Android) ve Web Haritası (OpenStreetMap Tabanlı)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Engelli vatandaşların (özellikle tekerlekli sandalye kullanıcılarının) sokağa çıkmadan önce; gidecekleri güzergahta rampa var mı, kaldırım yüksekliği uygun mu, hedefledikleri kafenin tuvaleti erişilebilir mi gibi soruların cevabını görebilecekleri interaktif bir harita uygulamasıdır. "Crowdsourcing" (Kitle Kaynak) yöntemiyle, gönüllü gençler ve sensörlü akıllı sandalyeler veri toplar; uygulama en uygun "Yeşil Rotayı" çizer.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Bir engelli için 20 cmlik bir kaldırım taşı, aşılmaz bir duvardır. Şehirdeki fiziksel engeller, engellileri ev hapsine mahkum etmektedir.
+*   **Teknolojik Çözüm:** Standart navigasyonlar (Google Maps) "en kısa" yolu gösterir, "en düz" yolu göstermez. Bizim ihtiyacımız olan "Eğim ve Engel" verisidir.
+*   **Maliyet Avantajı:** Wheelmap.org gibi açık kaynaklı platformların API'si belediyeler için ücretsiz veya çok düşük maliyetlidir. Sıfırdan harita yazmaya gerek yoktur.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Veri Toplama (Crowdsourcing):**
+    1.  **Mapathon:** Üniversite ögrencileri ve izcilerle düzenlenen etkinliklerle sokak sokak işaretleme yapılır. (Kaldırım fotosu çek -> Yeşil/Sarı/Kırmızı işaretle).
+    2.  **Sensör Verisi:** Gönüllü engellilerin sandalyelerine takılan ivmeölçer (Accelerometer) cihazları, sürüş sırasındaki titreşimi (bozuk yol) ve eğimi (rampası yok) otomatik algılayıp haritaya işler.
+*   **Uygulama Özellikleri:**
+    *   *Renk Kodları:* Yeşil (Tam Erişim), Sarı (Kısmi Erişim - Yardım Gerekebilir), Kırmızı (Erişilemez).
+    *   *Nokta Detayları:* Engelli WC, Asansör, İndüksiyon Döngü Sistemi (İşitme engelliler için).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (Wheelmap.org - Almanya):** Dünyanın en büyük erişilebilirlik haritası. 1 milyondan fazla mekan işaretlenmiştir.
+*   **Dünya Örneği (AccessMap - Seattle):** Şehrin topografik eğim verilerini kullanarak tekerlekli sandalyenin tırmanabileceği maksimum açıyı (%8) aşmayan rotalar çizer.
+*   **Seyhan Uyarlaması:** "Engelsiz Mekan Sertifikası" ile işletmeler teşvik edilecek. Haritada "Yeşil" olan kafelere belediye tarafından "Erişilebilirlik Dostu İşletme" sticker'ı ve vergi tabela indirimi gibi sembolik teşvikler verilecek.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   Wheelmap Pro / Özelleştirilmiş App Geliştirme: 250.000 TL
+    *   Mapathon Etkinlik Giderleri (Gönüllü yemeği, ödüller): 50.000 TL
+    *   Tanıtım ve Sticker Basımı: 50.000 TL
+    *   **Toplam:** 350.000 TL
+*   **ROI:** Fen İşleri Müdürlüğü, hangi kaldırımın öncelikli tamir edilmesi gerektiğini bu haritadaki "Kırmızı Nokta" yoğunluğuna göre belirleyerek bütçesini (Veriye Dayalı) verimli kullanır.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Wheelmap.org teknik ekibiyle görüşme ve API entegrasyonu.
+*   **Ay 2:** Çukurova Üniversitesi öğrenci kulüpleriyle "Seyhan Mapathon" organizasyonu.
+*   **Ay 3:** Sahadan veri akışının başlaması ve verilerin doğrulanması.
+*   **Ay 4:** Mobil uygulamanın uygulama marketlerine yüklenmesi.
+*   **Ay 5:** "Engelsiz Seyhan" lansmanı ve en çok veri giren gönüllülerin ödüllendirilmesi.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Verilerin güncelliğini yitirmesi (Örn: Asansörün bozulması). -> **Önlem:** Kullanıcıların "Raporla" butonu ile anlık bildirim yapması.
+*   **Risk:** Mekan sahiplerinin "Kırmızı" işaretlenmeye tepkisi. -> **Önlem:** İşletmeye "Engeli kaldır, Yeşil ol, Müşteri kazan" şeklinde yaklaşılması ve teknik danışmanlık verilmesi.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Haritalandırılan mekan/sokak sayısı (Hedef: 5.000 nokta).
+    2.  Uygulama aktif kullanıcı sayısı.
+*   **Sosyal Etki:** Engelli bireyin "Bağımsız Yaşam" hakkının desteklenmesi. "Ben de bu şehrin parçasıyım" hissinin güçlenmesi.

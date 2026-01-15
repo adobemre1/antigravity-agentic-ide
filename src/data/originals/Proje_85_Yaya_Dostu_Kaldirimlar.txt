@@ -1,0 +1,49 @@
+# PROJE 85: ENGELSİZ VE YAYA DOSTU KALDIRIM STANDARDI
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Herkes İçin Kaldırım: Engelsiz Adımlar
+*   **Uygulayıcı Birim:** Fen İşleri Müdürlüğü
+*   **Proje Kategorisi:** Kentsel Altyapı / Erişilebilirlik
+*   **Tahmini Başlangıç/Bitiş:** Sürekli (Yıllık 50 km Hedef)
+*   **Konum:** İlçe Geneli (Öncelik Hastane ve Okul Çevreleri)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Kaldırımların; tekerlekli sandalye, bebek arabası ve görme engelliler için "Tam Erişilebilir" hale getirilmesi; yüksek bordürlerin sıfırlanması, sarı kılavuz izlerin (hissedilebilir yüzey) TS 13531 standartlarına uygun döşenmesi ve kaldırım işgallerine son verilmesi projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Kaldırımlar çok yüksek, rampalar dik veya yok. Görme engelli yolu ağaca veya direğe çarpıyor. Esnaf malzemesi kaldırımı kapatmış. Yaya yola inmek zorunda kalıyor.
+*   **Çözüm:** "Evrensel Tasarım" ilkelerine uygun, yayayı kral yapan kaldırım.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Hissedilebilir Yüzey:** 40x40 cm standartlarında, sarı, UV dayanımlı, beton veya TPU malzeme. (Plastik yapıştırmalar çabuk kopuyor, gömme taş tercih edilir).
+*   **Eğim:** Rampa eğimi maksimum %8. Bordür yüksekliği yaya geçidinde 0 cm (Hemzemin).
+*   **Genişlik:** Net yürüme alanı en az 150 cm (İki sandalye yan yana geçebilmeli).
+*   **Malzeme:** Yağmurda kaymayan, su tutmayan, tamiri kolay (puzzle gibi) parke taş.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Barcelona:** Pahlı (yuvarlatılmış) köşe tasarımları ile genişleyen kaldırımlar.
+*   **Japonya:** Kusursuz hissedilebilir yüzey uygulamaları (Tenji Block).
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Hissedilebilir Yüzey Taşı (Metretül): ~400 TL.
+    *   1 km Standart Kaldırım Maliyeti: ~2.000.000 TL.
+    *   Yıllık Bakım Bütçesi: 20 Milyon TL.
+*   **Kaynak:** Belediye Özkaynakları ve İller Bankası.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** "Engelsiz Timi" (Tekerlekli sandalyeli denetçiler) ile saha taraması.
+*   **Ay 2:** "Seyhan Kaldırım Standartları Kitapçığı"nın yayınlanması.
+*   **Ay 3:** İhale ve uygulama başlangıcı.
+*   **Ay 4:** Zabıta ile "Kaldırım İşgali" denetimlerinin sıkılaştırılması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Esnafın masa/sandalye koyma ısrarı. -> **Önlem:** "Sarı Çizgi" kuralı. Çizgiyi geçene ağır ceza ve mal toplama.
+*   **Risk:** Ağaç köklerinin kaldırımı bozması. -> **Önlem:** "Kök bariyeri" uygulaması veya esnek zemin (kauçuk katkılı) kullanımı.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Standarda uygun hale getirilen kaldırım uzunluğu (km).
+    2.  Engelli vatandaşlardan gelen şikayet sayısındaki azalma.
+*   **Sosyal Etki:** Engellilerin "Yardımsız" sokağa çıkabilme özgürlüğü.
+

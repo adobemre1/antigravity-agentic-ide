@@ -1,0 +1,57 @@
+# PROJE 99: SEYHAN BELEDİYE TV VE PODCAST AĞI
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan''ın Sesi: Yeni Nesil Medya
+*   **Uygulayıcı Birim:** Basın Yayın ve Halkla İlişkiler
+*   **Proje Kategorisi:** İletişim / Dijital Medya
+*   **Tahmini Başlangıç/Bitiş:** 01.07.2025 - 01.10.2025
+*   **Konum:** Youtube, Spotify, Apple Podcasts ve Sosyal Medya
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Halkın ilgisini çekmeyen klasik belediye bültenleri yerine; Youtube stüdyosu ve Podcast kanalları kurarak; Z kuşağına ulaşan, kentin kültürünü, lezzetlerini ve insan hikayelerini anlatan, meclis toplantılarını canlı yayınlayarak şeffaflığı artıran modern bir medya platformudur.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Belediyenin yaptığı işler halka ulaşmıyor. Gençler TV izlemiyor, gazete okumuyor. İletişim dili çok resmi ve sıkıcı.
+*   **Çözüm:** İçerik Kraldır (Content is King). Hikaye anlatıcılığı.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Stüdyo:** 
+    *   3 Kameralı Reji Sistemi.
+    *   Greenbox (Sanal Stüdyo) perdesi.
+    *   Profesyonel Podcast masası (Rodecaster vb.) ve mikrofonlar.
+    *   Ses yalıtımı (Akustik panel).
+*   **Formatlar:**
+    *   *Seyhan Talks:* Şehrin değerleriyle (Sanatçı, yazar) sohbet.
+    *   *Lezzet Durakları:* Adana gastronomisi belgeselleri.
+    *   *Şeffaf Oda:* İhalelerin canlı yayını.
+    *   *Sesli Bülten:* Haberlerin 5 dakikalık podcast özeti (Trafikte dinlemek için).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Podcast:** ABD ve Avrupa'da yerel yönetimler "Şehir Hikayeleri" podcastleri ile çok popüler.
+*   **Nilüfer Belediyesi:** Kültür sanat yayıncılığında başarılı youtube kanalı.
+*   **Vatandaş Muhabirliği:** Halkın çektiği videoların yayınlanması.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   Stüdyo Ekipmanı (Kamera, Işık, Ses): 400.000 TL.
+    *   Dekor ve Yalıtım: 100.000 TL.
+    *   **Toplam:** 500.000 TL.
+*   **İşletme:** Mevcut basın personeli (Kameraman, Kurgucu) eğitilerek kullanılır. Ek personel maliyeti yok.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Stüdyo alanının (Belediye içinde bir oda) hazırlanması.
+*   **Ay 2:** Ekipman alımı ve kurulum.
+*   **Ay 3:** Yayın akışı ve formatların belirlenmesi.
+*   **Ay 4:** İlk içerik stokunun (5-10 video) çekilmesi.
+*   **Ay 5:** Büyük lansman ve yayına başlama.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** İçeriğin sadece "Başkan Propagandası"na dönüşmesi. -> **Önlem:** Yayın ilkeleri belirlenir. İçeriğin %70'i "Şehir Kültürü", %30'u "Belediye İcraatı" olur. İzlenmek için bu şarttır.
+*   **Risk:** İzlenme sayılarının düşük kalması. -> **Önlem:** Sosyal medya reklamları (Boost) ve influencer işbirlikleri.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Youtube abone sayısı ve izlenme süresi.
+    2.  Podcast dinlenme sayısı.
+*   **Sosyal Etki:** Şeffaf belediyecilik. Kent belleğine dijital arşiv bırakmak.
+

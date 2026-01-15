@@ -1,0 +1,49 @@
+# PROJE 70: HASTA NAKİL VE TRANSFER HİZMETİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Şefkat Hattı: Ambulans Hizmeti
+*   **Uygulayıcı Birim:** Sağlık İşleri Müdürlüğü
+*   **Proje Kategorisi:** Sağlık Lojistiği
+*   **Tahmini Başlangıç/Bitiş:** 01.06.2025 - Sürekli
+*   **Araç Filosu:** 3 Adet Mavi Şeritli Ambulans
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Yatağa bağımlı, sedye ile taşınması gereken ancak acil tıbbi müdahale (Kırmızı Şerit) gerektirmeyen hastaların; evden hastaneye (randevu, diyaliz, taburcu) ve hastaneden eve ücretsiz, güvenli ve hijyenik naklini sağlayan belediye hizmetidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Yatalak hastası olan aileler, kontrol randevusu için hastayı normal taksiyle götüremez. Özel ambulanslar (Şehir içi 1.500-3.000 TL) çok pahalıdır. 112 Acil Ambulansı ise sadece acil vakalara gelir, nakil yapmaz.
+*   **Çözüm:** Aradaki bu boşluğu belediyenin "Mavi Şeritli" nakil ambulansıyla doldurması.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Araçlar:** TS EN 1789 standardına uygun, mavi şeritli, içinde oksijen tüpü, sedye ve temel tıbbi malzeme bulunan panelvan ambulanslar.
+*   **Personel:** Her araçta 1 Şoför + 1 Acil Tıp Teknisyeni (ATT) veya Paramedik.
+*   **Donanım:** Merdiven inme-çıkma cihazı (Sandalye Sedye) - Asansörü olmayan evler için kritiktir. Obezite ambulansı (Opsiyonel).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **112 Entegrasyonu:** Gerektiğinde 112 komuta merkeziyle koordineli çalışmak.
+*   **Randevu Sistemi:** Vatandaş 444'lü hattı arayıp "Salı günü 10:00'da MR randevum var" der, sistem planlama yapar.
+*   **Door-to-Door:** Hastayı yatağından alıp, doktorun kapısına kadar bırakmak.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   3 Adet Donanımlı Ambulans Alımı: 6.000.000 TL (Tanesi ~2 Milyon TL).
+    *   Veya Hizmet Alımı (Kiralama): Yıllık ~3 Milyon TL. (Satın alma daha avantajlı olabilir).
+*   **Bütçe (OPEX):** Akaryakıt, personel, araç bakımı.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Araç alım ihalesi (DMO üzerinden).
+*   **Ay 2:** İl Sağlık Müdürlüğü'nden ruhsatlandırma işlemleri (Mavi şerit onayı).
+*   **Ay 3:** Personel alımı ve ileri sürüş teknikleri eğitimi.
+*   **Ay 4:** Çağrı merkezi entegrasyonu.
+*   **Ay 5:** Hizmete başlama.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Suistimal (Taksi niyetine kullanma). -> **Önlem:** Hastadan "Yatağa bağımlıdır" raporu veya doktor randevu kağıdı istenir. Triyaj yapılır.
+*   **Risk:** Trafik kazası. -> **Önlem:** Kasko ve ferdi kaza sigortaları.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Günlük taşınan hasta sayısı.
+    2.  Çağrıya cevap verme süresi.
+*   **Sosyal Etki:** Vatandaşın en zor anında (hastalık) devletin şefkat elini hissetmesi.
+

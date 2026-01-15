@@ -1,0 +1,50 @@
+# PROJE 46: YABANCI DİL KAFELERİ (GLOBE CAFE)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Global Cafe: Konuşarak Öğren
+*   **Uygulayıcı Birim:** Kültür İşleri & Dış İlişkiler
+*   **Proje Kategorisi:** Eğitim / Sosyal
+*   **Tahmini Başlangıç/Bitiş:** 01.06.2025 (Hızlı Kurulum)
+*   **Konum:** Mevcut Belediye Kafeleri (Seyhan Sanat Merkezi vb.)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Gençlerin pahalı dil kurslarına gitmeden; Adana'da yaşayan yabancı üniversite öğrencileri (Erasmus) veya gönüllü öğretmenler moderatörlüğünde, ücretsiz çay-kahve eşliğinde İngilizce, Almanca, Rusça pratik yapabilecekleri (Speaking Club) sosyal öğrenme ortamlarıdır. "Gramer değil, Pratik" odaklıdır.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Türk gençleri gramer bilir ama "Anlıyorum ama konuşamıyorum" der. Çünkü pratik yapacak, hata yapmaktan korkmayacakları ortam yoktur. Kurslar çok pahalıdır.
+*   **Çözüm:** Rahat, yargılamayan, çay/kahve eşliğinde samimi bir ortam.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Model:** Haftanın belirli günleri ve saatlerinde (Örn: Salı 18:00 - English Night) kafedeki masalar dillere göre ayrılır.
+*   **Moderatör:** Her masada en az 1 adet dili iyi konuşan "Kaptan" bulunur. Sohbeti o yönlendirir, sorular sorar.
+*   **Gamification:** Yasak Kelime (Tabu), Scrabble gibi oyunlarla dil öğrenimi eğlenceli hale getirilir.
+*   **Maliyet:** Ekstra bina yapımına gerek yoktur. Mevcut kafelerin "ölü saatleri" kullanılır. Tek maliyet ikramlardır (Çay/Kek).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Conversation Exchange (Dünya):** Dil tandemi (Tandem Language Learning) modeli.
+*   **Kadıköy Belediyesi:** Yeldeğirmeni Sanat'ta benzer konuşma kulüpleri.
+*   **Tömer ve Konsolosluklar:** Genelde ücretlidir. Seyhan'ın farkı ücretsiz ve sivil olmasıdır.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (Yıllık):**
+    *   İkram Gideri: 100.000 TL.
+    *   Materyal (Oyunlar, Kartlar): 20.000 TL.
+*   **İnsan Kaynağı:** Moderatörler genellikle gönüllüdür (Üniversite öğrencileri stajyer olarak gelir).
+*   **Gelir:** Kafenin diğer ürün satışlarından cüzi gelir elde edilebilir ama amaç kamu hizmetidir.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Çukurova Üniversitesi Dış İlişkiler ve Erasmus ofisiyle görüşme. Gönüllü yabancı öğrenci bulma.
+*   **Ay 2:** Mekan düzenlemesi ve duyuru.
+*   **Ay 3:** "İlk Buluşma" (Ice Breaking) etkinliği.
+*   **Ay 4:** Haftalık düzenli takvimin oturması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Kimsenin konuşmaması, sessizlik olması. -> **Önlem:** Moderatörlere "Sohbet Başlatıcı" (Ice Breaker) sorular listesi verilir.
+*   **Risk:** Siyasi/Dini tartışma çıkması. -> **Önlem:** "Kafe Kuralları" tabelası asılır. Sadece kültür, sanat, hobi konuşulur.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Haftalık katılımcı sayısı.
+    2.  Düzenli gelen (Müdavim) sayısı.
+*   **Sosyal Etki:** Yabancı dil bariyerinin aşılması. Adana'nın uluslararası öğrenciler için cazip hale gelmesi.
+

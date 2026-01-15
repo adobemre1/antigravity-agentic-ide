@@ -1,0 +1,52 @@
+# PROJE 90: HİJYENİK VE KENDİ KENDİNİ TEMİZLEYEN AKILLI TUVALETLER
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Modern WC: Parklarda Hijyen Standartı
+*   **Uygulayıcı Birim:** İşletme İştirakler & Park Bahçeler
+*   **Proje Kategorisi:** Kentsel Donatı / Halk Sağlığı
+*   **Tahmini Başlangıç/Bitiş:** 01.08.2025 - 01.02.2026
+*   **Konum:** Merkez Park, Atatürk Parkı, Çobandede
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Şehir parklarındaki tuvalet eksikliğini ve mevcutların hijyen sorununu çözmek için; insansız çalışan, her kullanımdan sonra oturağını ve zeminini otomatik yıkayıp kurutan, vandalizme dayanıklı, ücretli (Kartlı) "Akıllı Şehir Tuvaletleri"nin kurulması projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Parklarda tuvalet ya yok ya da girilemeyecek kadar pis. Temizlikçi çalıştırmak (3 vardiya) çok maliyetli. Kadınlar ve çocuklar parklarda mağdur oluyor.
+*   **Çözüm:** Teknoloji ile hijyeni standart hale getirmek. Personelsiz işletme.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Otomasyon:** Kullanıcı çıkar çıkmaz kapı kilitlenir. Sensörler içeride kimse olmadığını doğrular. Basınçlı su ve dezenfektan ile klozet ve zemin yıkanır, sıcak hava ile kurutulur. Müzik yayını başlar.
+*   **Güvenlik:** "Maksimum Kullanım Süresi" (Örn: 15 Dk). Süre dolunca sesli uyarı verir ve kapı açılır (Bayılma veya amaç dışı kullanımı önlemek için).
+*   **Erişilebilirlik:** Tekerlekli sandalye dönüşüne uygun genişlikte.
+*   **Ödeme:** Temassız kredi kartı ve Kentkart ile çalışma (Bozuk para mekanizması sık arıza yapar, tercih edilmez).
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **JCDecaux (Paris/Londra):** Şehir tuvaletlerinin reklam karşılığı işletilmesi modeli. Standart gri kabinler.
+*   **İzmir Büyükşehir:** Kordon boyundaki akıllı tuvaletler (Başarılı yerli uygulama).
+*   **San Francisco:** "Pit Stop" projesi.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   10 Adet Akıllı Kabin (İthal/Yerli): 8.000.000 TL (Tanesi ~800k TL).
+    *   Altyapı (Kanalizasyon, Su, Elektrik): 1.000.000 TL.
+    *   **Toplam:** 9 Milyon TL.
+*   **Gelir:** Kullanım ücreti (Örn: 5 TL) ve dış cephesindeki reklam panosu geliri ile kendini amorti eder.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Yer tespiti (Altyapıya yakınlık önemli).
+*   **Ay 2:** İhale (Satın alma veya Yap-İşlet-Devret modeli kararı).
+*   **Ay 3:** Üretim süreci.
+*   **Ay 4:** Altyapı kazıları.
+*   **Ay 5:** Vinçle montaj ve bağlantı.
+*   **Ay 6:** Test kullanımı.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Sistemin arıza yapması. -> **Önlem:** İhaleye "7/24 Teknik Servis Garantisi" maddesi konur. Arızalı kabin sinyal gönderir, ekip gider.
+*   **Risk:** Evsizlerin içeride uyuması. -> **Önlem:** "Maksimum süre" kuralı ve otomatik kapı açılması bunu engeller. Zemin ıslatıldığı için uyumaya uygun değildir.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Günlük kullanım sayısı.
+    2.  Arıza giderme süresi.
+*   **Sosyal Etki:** Parkta tuvalet ihtiyacı yüzünden eve dönmek zorunda kalmamak. Medeniyet göstergesi.
+

@@ -1,0 +1,54 @@
+# PROJE 41: SEYHAN E-SPOR AKADEMİSİ VE OYUN MERKEZİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan E-Spor Arena: Dijital Gladyatörler
+*   **Uygulayıcı Birim:** Spor İşleri & Gençlik Hizmetleri
+*   **Proje Kategorisi:** Gençlik ve Teknoloji
+*   **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.12.2025 (6 Ay)
+*   **Konum:** Gençlik Merkezi (En az 200 m² alan)
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Gençlerin yoğun ilgi gösterdiği oyun dünyasını "vakit öldürme" aracı olmaktan çıkarıp profesyonel bir kariyere dönüştürmek amacıyla; RTX 4060 Ti ekran kartlı yüksek donanımlı bilgisayarların bulunduğu, TESFED onaylı antrenörler eşliğinde koçluk, yayıncılık (streaming) ve turnuva eğitimlerinin verildiği bir akademi projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** E-Spor ekipmanları çok pahalıdır (İyi bir sistem 50.000 TL+). Dar gelirli yetenekli gençler bu alana girememektedir. Merdiven altı internet kafeler ise güvensizdir.
+*   **Fırsat:** E-Spor ekonomisi milyar dolarlık sektördür. Adana'dan uluslararası oyuncular çıkabilir.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Donanım (2025 Fiyatlarıyla):**
+    *   **PC:** 20 Adet (RTX 4060 Ti, i5/Ryzen 5, 32GB RAM). Birim Fiyat: ~45.000 TL. Toplam: 900.000 TL.
+    *   **Monitör:** 20 Adet (24 inç, 144Hz, 1ms). Birim Fiyat: ~6.000 TL. Toplam: 120.000 TL.
+    *   **Ekipman:** Oyuncu koltuğu, mekanik klavye, mouse, kulaklık. Toplam: 200.000 TL.
+*   **Altyapı:** Metro Ethernet (Simetrik 1000 Mbps) şarttır.
+*   **Yayın Odası:** Twitch/Kick yayıncıları için Greenbox stüdyo.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Başakşehir ve Esenler Belediyesi:** E-Spor merkezleri çok aktiftir, akademi gibi çalışır.
+*   **T1 (Güney Kore):** E-Sporun mabedi.
+*   **Seyhan Modeli:** Sadece oyun değil, "Fiziksel Spor" zorunluluğu (1 saat LoL oynayan, 1 saat basketbol oynamalı).
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   Donanım ve Tadilat: ~1.500.000 TL.
+    *   Lisanslama ve Yazılım: 100.000 TL.
+    *   **Toplam:** 1.6 Milyon TL.
+*   **İşletme Gideri:** Elektrik ve personel (Koç).
+*   **Gelir:** Turnuva sponsorlukları ve kafe geliri. Üyelik sembolik ücretli olabilir (Aidiyet için).
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Mekan tadilatı ve fiber altyapı başvurusu.
+*   **Ay 2:** Donanım ihalesi (Kur dalgalanması sebebiyle hızlı yapılmalı).
+*   **Ay 3:** TESFED (Türkiye E-Spor Federasyonu) ile protokol ve antrenör eğitimi.
+*   **Ay 4:** Takım seçmeleri (Try-outs).
+*   **Ay 5:** Seyhan Ligi'nin başlaması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Ekipmanların çalınması/zarar görmesi. -> **Önlem:** Sigorta ve kamera sistemi. Kullanıcı sözleşmesi ile zimmet.
+*   **Risk:** "Belediye oyunhane açtı" eleştirisi. -> **Önlem:** "Akademi" vurgusu, kodlama dersleri ile hibrit yapı.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Lisanslı E-Sporcu sayısı.
+    2.  Ulusal turnuvalarda (Zula, Valorant) alınan dereceler.
+*   **Sosyal Etki:** Gençlerin sokağın tehlikelerinden uzak, güvenli ve denetimli bir ortamda sosyalleşmesi.
+

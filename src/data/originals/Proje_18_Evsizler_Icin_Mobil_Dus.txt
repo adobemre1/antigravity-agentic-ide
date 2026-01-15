@@ -1,0 +1,55 @@
+# PROJE 18: EVSİZLER İÇİN MOBİL DUŞ VE BAKIM ÜNİTESİ
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Temiz Hayat Otobüsü (Mobil Hijyen İstasyonu)
+*   **Uygulayıcı Birim:** Sosyal Yardım İşleri & Makine İkmal Müdürlüğü
+*   **Proje Kategorisi:** İnsani Yardım ve Halk Sağlığı
+*   **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.08.2025 (3 Ay)
+*   **Araç:** Belediye filosundan ayrılan 12 metrelik Körüklü/Solo Otobüs
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Sokakta yaşayan evsiz vatandaşların temel insani ihtiyacı olan duş, tuvalet, berber ve temiz kıyafet erişimini sağlamak amacıyla; ekonomik ömrünü tamamlamış eski bir belediye otobüsünün, tekerlekli bir "Hijyen Merkezi"ne dönüştürülmesi projesidir. Otobüs, şehrin belirli noktalarını (Parklar, Meydanlar) rotayla gezerek hizmet verir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Evsiz bireylerin temizlenememesi, deri hastalıklarına (uyuz, bit vb.) ve bulaşıcı hastalıklara yol açarak halk sağlığını tehdit etmektedir. Ayrıca kirli görünüm, sosyal dışlanmayı (Stigma) artırır ve iş bulmalarını imkansız kılar.
+*   **İnsani Boyut:** Maslow'un hiyerarşisinde fizyolojik ihtiyaçlar (temizlik) karşılanmadan, rehabilitasyon (iş/ev bulma) adımlarına geçilemez.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Dönüşüm (Retrofit):**
+    *   **Su Sistemi:** 500 Litre Temiz Su Tankı + 500 Litre Gri Su (Atık) Tankı (Şasi altına monte).
+    *   **Isıtma:** LPG'li veya Webasto tipi araç ısıtıcısı ile anında sıcak su.
+    *   **İç Tasarım:** 2 adet Duş Kabini, 1 adet Alafranga Tuvalet, 1 adet Berber Koltuğu alanı, Soyunma kabini.
+    *   **Malzeme:** Neme dayanıklı, kolay temizlenen antibakteriyel PVC kaplama.
+*   **Operasyon:** Otobüs, ASKİ'nin belirlediği noktalardan su dolumu ve kanalizasyon deşarjı yapar.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (Lava Mae - San Francisco):** Eski belediye otobüslerini "Mavi Duşlara" çeviren öncü proje. Sloganları: "Radikal Misafirperverlik".
+*   **Dünya Örneği (Orange Sky - Avustralya):** Mobil çamaşırhane (Laundry) hizmeti de sunuyorlar.
+*   **Seyhan Uyarlaması:** Adana Berberler Odası ile protokol yapılarak, gönüllü berberlerin haftada bir gün otobüste saç/sakal tıraşı yapması sağlanacak.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   Otobüs: Belediyenin hurdaya ayırdığı araç (Maliyet 0 TL).
+    *   Karavan Dönüşümü (Tesisat, İzolasyon, Mobilya): 450.000 TL - 600.000 TL (Lüks olmayan, fonksiyonel donanım).
+    *   Dış Giydirme: 20.000 TL
+    *   **Toplam:** ~500.000 TL
+*   **İşletme Gideri (OPEX):** Mazot, şoför ve temizlik personeli, şampuan/sabun giderleri.
+*   **Sponsorluk:** Otellerden çıkan az kullanılmış sabunlar (geri dönüştürülerek) veya havlu sponsorluklarıyla sarf malzeme maliyeti düşürülebilir.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Makine İkmal deposundaki uygun aracın seçimi ve sökülmesi.
+*   **Ay 2:** İç mimari projesinin çizilmesi ve tesisat montajı.
+*   **Ay 3:** ASKİ ile lojistik planlama (Nerede su dolduracak?).
+*   **Ay 4:** Personel eğitimi (Evsizlerle iletişim ve çatışma yönetimi).
+*   **Ay 5:** İlk durakta hizmete başlama.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Mahalle sakini tepkisi (NIMBY - Not In My Backyard). -> **Önlem:** Otobüsün sürekli hareket halinde olması, tek bir yerde getto oluşturmaması. Hijyen kurallarına (koku vb.) %100 uyulması.
+*   **Risk:** Güvenlik. -> **Önlem:** Zabıta eşliğinde hizmet verilmesi.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Aylık verilen duş sayısı (Hedef: 300 Duş).
+    2.  Dağıtılan temiz kıyafet seti sayısı.
+*   **Sosyal Etki:** Evsiz vatandaşın aynaya baktığında kendine olan saygısının geri gelmesi. Topluma kazandırma sürecinin (Rehabilitasyon) başlangıç noktası olması.
+

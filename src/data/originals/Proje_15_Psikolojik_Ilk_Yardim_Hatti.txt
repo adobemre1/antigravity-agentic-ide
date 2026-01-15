@@ -1,0 +1,51 @@
+# PROJE 15: PSİKOLOJİK İLK YARDIM HATTI VE CHATBOT
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan-Can: 7/24 Dijital Psikososyal Destek Asistanı
+*   **Uygulayıcı Birim:** Sağlık İşleri Müdürlüğü & Bilgi İşlem
+*   **Proje Kategorisi:** Toplum Sağlığı ve Yapay Zeka
+*   **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.10.2025 (5 Ay)
+*   **Yasal Dayanak:** KVKK "Özel Nitelikli Kişisel Verilerin İşlenmesi" Yönetmeliği
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Deprem, yas, ekonomik kriz veya sınav stresi gibi durumlarda vatandaşlara yargısız ve anında "Psikolojik İlk Yardım" (PFA) sunan, Yapay Zeka (AI) tabanlı bir Chatbot'tur. Bu bot; terapi yapmaz, teşhis koymaz; ancak kişiyi dinler, rahatlatıcı nefes egzersizleri yaptırır ve riskli bir durum (intihar, kendine zarar verme) sezdiğinde derhal nöbetçi uzman psikoloğa yönlendirir (Triage Sistemi).
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Psikolojik destek pahalıdır ve randevu bulmak zordur. Ayrıca insanlar "Deli damgası yerim" korkusuyla (stigmatizasyon) kliniğe gitmeye çekinir.
+*   **Hukuki Risk:** Yapay zekanın yanlış tavsiye vermesi (Halüsinasyon) riski vardır. Bu yüzden KVKK ve Etik kurallara %100 uyumlu, sınırları çizilmiş bir sistem gereklidir.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Yazılım (AI Model):** OpenAI GPT-4 API yerine, belediyenin kendi sunucularında çalışan (On-Premise) ve dışarıya veri sızdırmayan açık kaynaklı (Llama 3 vb.) bir modelin "Psikolojik İlk Yardım" protokolleriyle eğitilmesi (Fine-Tuning).
+*   **Veri Gizliliği (Privacy by Design):** Sohbetler veritabanına kaydedilmez. Konuşma bittiği an RAM'den silinir. Sadece anonim istatistikler (Örn: "Bugün 50 kişi anksiyete şikayetiyle yazdı") tutulur.
+*   **Acil Durum Protokolü:** Botun içinde "Kırmızı Kelime Listesi" vardır (Ölüm, intihar, bıçak vb.). Bu kelimeler geçtiğinde AI susar ve ekrana "Lütfen şu an 112'yi arayın veya Nöbetçi Psikolog Tuşuna Basın" uyarısı gelir.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (Woebot - ABD):** Dünyanın en ünlü CBT (Bilişsel Davranışçı Terapi) botu. Milyonlarca kullanıcıya hizmet veriyor.
+*   **Dünya Örneği (Elomia - Ukrayna):** Savaş travması yaşayan halka Telegram üzerinden psikolojik destek veren bot.
+*   **Seyhan Farkı:** Yerelleştirme. Bot, "Adana şivesini" ve kültürel kodları anlayacak şekilde eğitilecek. "Darlandım" dendiğinde ne yapması gerektiğini bilecek.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Bütçe (CAPEX):**
+    *   Yazılım Geliştirme ve RAG (Retrieval-Augmented Generation) Eğitimi: 200.000 TL
+    *   Hukuki Danışmanlık (Aydınlatma Metni & Açık Rıza): 30.000 TL
+    *   Sunucu (GPU) Donanımı: 60.000 TL
+    *   **Toplam:** 290.000 TL
+*   **İşletme Gideri (OPEX):** Sunucu elektriği ve sistemin başında duracak süpervizör psikoloğun maaşı.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Etik Komite Kurulumu (Psikologlar Odası + Baro + Yazılımcılar). Botun "Ne yapmaması gerektiğinin" sınırlarının çizilmesi.
+*   **Ay 2:** KVKK Açık Rıza metinlerinin hazırlanması ("Bu bir doktor değildir" onay kutusu).
+*   **Ay 3:** Yapay Zeka modelinin eğitimi (Senaryo tabanlı testler).
+*   **Ay 4:** Kapalı Beta testi (Üniversite öğrencileri ile).
+*   **Ay 5:** Web sitesi ve WhatsApp hattı üzerinden halka açılması.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Botun yanlış tavsiye vermesi. -> **Önlem:** "System Prompt" (Sistem Talimatı) içine katı kurallar konur. "Asla tıbbi tavsiye verme, ilaç önerme."
+*   **Risk:** Hacklenme/Veri Sızıntısı. -> **Önlem:** Sohbet loglarının tutulmaması (Zero-log policy).
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Kullanıcı memnuniyet puanı (Session Rating).
+    2.  Kriz anında uzman yönlendirmesi yapılan vaka sayısı.
+*   **Sosyal Etki:** Toplumdaki stres seviyesinin anlık ölçülmesi (Duygu Analizi) ve belediyenin buna göre sosyal politika üretmesi.
+

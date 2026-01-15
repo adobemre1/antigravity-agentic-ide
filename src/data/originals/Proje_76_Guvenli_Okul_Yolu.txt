@@ -1,0 +1,51 @@
+# PROJE 76: GÜVENLİ OKUL YOLU VE AYDINLATMA
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Işıl Işıl: Okul Yolu Güvenliği
+*   **Uygulayıcı Birim:** Fen İşleri & Park Bahçeler
+*   **Proje Kategorisi:** Kentsel Güvenlik / Ulaşım
+*   **Tahmini Başlangıç/Bitiş:** 01.08.2025 - Sürekli
+*   **Konum:** İlçe Sınırlarındaki 50 Pilot Okul Çevresi
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Özellikle kış aylarında havanın erken kararmasıyla (kış saati) güvensiz hale gelen okul çevrelerinin; güçlü LED aydınlatmalar, "Okul Yolu" zemin boyamaları, hız kesiciler ve kör nokta kameraları ile "Güvenli Koridorlar" haline getirilmesi projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Okul çıkışlarında (17:00-18:00) hava kararıyor. Ara sokaklar karanlık olduğu için çocuklar taciz, gasp veya trafik kazası riskiyle karşı karşıya. Uyuşturucu satıcıları karanlığı seviyor.
+*   **Çözüm:** "Aydınlık = Güvenlik". Fiziksel çevreyi suç işlenemez hale getirmek (CPTED prensibi).
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Aydınlatma:** Mevcut sarı (Sodyum) lambalar sökülüp, 100W-150W Beyaz LED armatürler takılır. Renksel geriverimi (CRI) yüksektir, yüzler net seçilir.
+*   **Akıllı Direk:** Okul kapısının önüne, üzerinde 360 derece kamera ve "Acil Durum Butonu" olan özel bir direk dikilir.
+*   **Trafik:** Yaya geçitleri 3 boyutlu (3D) boyanarak sürücüde "kasist" algısı yaratılır. Güneş enerjili "Okul Bölgesi" flaşörleri konur.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Safe Routes to School (ABD):** Ulusal bir programdır.
+*   **Seul (Güney Kore):** Okul yollarını sarı renge boyayarak "Yellow Carpet" (Sarı Halı) güvenli bekleme alanları oluşturmuştur.
+*   **CPTED (Crime Prevention Through Environmental Design):** Çevresel tasarımla suçu önleme.
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Bütçe (CAPEX):**
+    *   LED Aydınlatma Dönüşümü (50 Okul x 50.000 TL): 2.500.000 TL.
+    *   Boya ve Tabela İşleri: 500.000 TL.
+    *   Kamera Sistemi: 1.000.000 TL.
+    *   **Toplam:** 4 Milyon TL.
+*   **Kaynak:** Enerji tasarrufundan (LED daha az yakar) elde edilen bütçe ile finanse edilebilir (ESCO Modeli).
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1:** Emniyet'ten "Riskli Okullar Haritası"nın alınması.
+*   **Ay 2:** TEDAŞ ile protokol (Direklerin kullanımı için).
+*   **Ay 3:** Aydınlatma montajları.
+*   **Ay 4:** Zemin boyama (Sarı/Mavi Yürüyüş Yolu).
+*   **Ay 5:** Okul Aile Birlikleri ile denetim.
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Armatürlerin taşlanması/kırılması. -> **Önlem:** Polikarbon (kırılmaz) camlı armatürler ve tel kafes koruma kullanılır.
+*   **Risk:** Elektrik kesintisi. -> **Önlem:** Okul kapısındaki ana direk güneş enerjili (bataryalı) olur, şebeke gitse de o yanar.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Aydınlatılan sokak uzunluğu (km).
+    2.  Okul çevresindeki suç/kaza oranlarındaki düşüş.
+*   **Sosyal Etki:** Velilerin içinin rahat etmesi. Çocukların okula yürüyerek gitme oranının artması (Obeziteyle mücadeleye de destek).
+

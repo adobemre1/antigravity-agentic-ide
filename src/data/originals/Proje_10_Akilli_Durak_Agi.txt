@@ -1,0 +1,50 @@
+# PROJE 10: AKILLI DURAK AĞI (Seyhan Smart-Stop)
+
+## I. PROJE KİMLİK KARTI (PROJECT PASSPORT)
+*   **Resmi Proje Adı:** Seyhan Smart-Stop: Kendi Enerjisini Üreten Yeni Nesil Duraklar
+*   **Uygulayıcı Birim:** Ulaşım Hizmetleri Müdürlüğü / Fen İşleri
+*   **Proje Kategorisi:** Kentsel Estetik ve Ulaşım
+*   **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.06.2026 (12 Ay - Etaplı)
+*   **Konum:** Üniversite, Meydanlar ve Hastane önleri (İlk etap 20 nokta).
+
+## II. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+Otobüs duraklarını basit birer "bekleme kulübesi" olmaktan çıkarıp; çatısındaki güneş paneliyle kendi elektriğini üreten, ücretsiz Wi-Fi yayını yapan, telefon şarj üniteleri barındıran, dijital ekranlarında otobüs saatlerini ve belediye duyurularını gösteren, güvenlik kameralı "Mini Yaşam İstasyonları"na dönüştürme projesidir.
+
+## III. GEREKÇE VE MEVCUT DURUM ANALİZİ (PROBLEM STATEMENT)
+*   **Mevcut Sorun:** Mevcut duraklar konforsuz, karanlık (güvenlik sorunu) ve teknolojik ihtiyaçlara (şarj, internet) cevap vermekten uzaktır. Adana'nın sıcağında bekleme süreci eziyete dönüşmektedir.
+*   **Fırsat:** Duraklar, şehrin en çok kullanılan mobilyalarıdır. Akıllı hale getirilmeleri, vatandaşın belediye hizmetlerine erişimini kolaylaştırır ve "güvenli alan" yaratır.
+
+## IV. TEKNİK VE OPERASYONEL DETAYLAR (TECHNICAL SPECS)
+*   **Enerji Sistemi:** Off-grid (Şebekeden bağımsız) Solar Sistem. Gün boyu aküleri şarj eder, gece LED aydınlatmayı ve ekranları çalıştırır.
+*   **Donanım Özellikleri:**
+    *   **Ekran:** Dış ortama dayanıklı (High Brightness), vandalizme karşı korumalı (Temperli cam + metal kasa) LCD veya E-Ink Bilgi Ekranı.
+    *   **Bağlantı:** Her durakta 4 adet USB hızlı şarj portu ve ücretsiz Belediye Wi-Fi Hotspot.
+    *   **Güvenlik:** 360 derece balıkgözü kamera ve "Acil Durum Butonu" (Zabıta/Polis entegrasyonu).
+    *   **Konfor:** Geniş saçaklı gölgelik ve ergonomik oturma grupları.
+
+## V. KÜRESEL İYİ UYGULAMA ÖRNEKLERİ (BENCHMARKING)
+*   **Dünya Örneği (Seul, Güney Kore):** Isıtmalı koltuklu, hava temizleyicili ve tam kapalı "Smart Shelter" durakları.
+*   **Dünya Örneği (Dubai):** Klimalı kapalı duraklar (Adana için benzer bir modelin yarı-açık versiyonu düşünülmelidir).
+*   **Finansman Modeli (Los Angeles):** Durakların maliyeti ve işletmesi, dijital reklam panolarını işleten medya şirketlerine devredilerek belediye kasasından para çıkmadan yapılmıştır (Yap-İşlet-Devret).
+
+## VI. FİNANSAL MODELLEME VE KAYNAK YÖNETİMİ (FINANCIALS)
+*   **Tahmini Maliyet (Birim):** ~150.000 TL (Tam donanımlı 1 adet durak).
+*   **Toplam Bütçe (20 Adet):** 3.000.000 TL.
+*   **Finansman Stratejisi:** Bu bütçeyi belediyenin ödemesi yerine, duraklardaki Raket/CLP reklam alanlarının işletme hakkı karşılığında özel sektöre ihale edilmesi (Barter/Reklam Karşılığı) planlanmaktadır.
+*   **Gelir:** Eğer belediye kendi işletirse, dijital ekranlardaki reklam geliri yıllık ~500.000 TL potansiyel barındırır.
+
+## VII. UYGULAMA YOL HARİTASI (ROADMAP)
+*   **Ay 1-2:** Tasarım Yarışması. Adana iklimine uygun, estetik tasarımın seçilmesi.
+*   **Ay 3:** Lokasyon analizi (Yolcu yoğunluğu, güneş alma açısı).
+*   **Ay 4-5:** Reklam karşılığı yapım ihalesi.
+*   **Ay 6-12:** Üretim ve montaj (Ayda 3-4 durak).
+
+## VIII. RİSK YÖNETİMİ VE B PLANI (RISK MATRIX)
+*   **Risk:** Vandalizm (Ekranın kırılması). -> **Önlem:** Polikarbon koruyucu camlar, anti-graffiti boya kullanımı ve kamera ile caydırıcılık. Hasar durumunda reklam işletmecisinin sigortasının devreye girmesi.
+*   **Risk:** Yetersiz Güneş (Kış ayları). -> **Önlem:** Sistemin şebeke elektriği (sokak lambası hattı) ile hibrit çalışabilecek altyapıda olması.
+
+## IX. PERFORMANS GÖSTERGELERİ (KPIs) & ETKİ ANALİZİ
+*   **Başarı Metrikleri:**
+    1.  Durak başına günlük Wi-Fi ve Şarj kullanım sayısı.
+    2.  Yolcu memnuniyet anketlerinde artış.
+*   **Sosyal Etki:** Özellikle kadınlar ve çocuklar için gece saatlerinde "aydınlık ve güvenli liman" olması.
