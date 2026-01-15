@@ -46,6 +46,7 @@
     "typescript-eslint": "^8.46.4",
     "vite": "^7.2.4",
     "vite-plugin-compress": "^2.1.1",
-    "vite-plugin-compression": "^0.5.1"
+    "vite-plugin-compression": "^0.5.1",
+    "wrangler": "^4.59.2"
   }
 }
