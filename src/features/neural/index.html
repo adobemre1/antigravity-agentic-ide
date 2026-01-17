@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Antigravity - Neural Interface</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../features/nav/nav.css">
+  <link rel="stylesheet" href="../../features/settings/modal.css">
+  <link rel="stylesheet" href="graph.css">
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav class="floating-nav" style="position: absolute; top: 0; width: 100%; z-index: 100;">
+    <div class="nav-content">
+      <div class="nav-brand">
+        <div class="brand-logo">AG</div>
+        <span class="brand-name">Antigravity</span>
+      </div>
+      <ul class="nav-links">
+        <li><a href="../../features/editor/index.html" class="nav-link">Editor</a></li>
+        <li><a href="../../features/agents/index.html" class="nav-link">Agents</a></li>
+        <li><a href="#" class="nav-link active">Neural Graph</a></li>
+        <li><a href="../../features/docs/index.html" class="nav-link">Docs</a></li>
+      </ul>
+      <div class="nav-actions">
+           <a href="#" onclick="openSettings()" style="color: #66fcf1; text-decoration: none; font-size: 0.9rem; margin-right: 20px;">⚙️ Config</a>
+           <a href="../../../index.html" style="color: white; text-decoration: none; font-size: 0.9rem;">Exit</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HUD Overlay -->
+  <div class="hud-overlay">
+    <div class="hud-header">
+      <h1 class="hud-title">NEURAL CONNECTOME</h1>
+      <div class="hud-subtitle">Real-time Visualization of Agent Reasoning Chain</div>
+    </div>
+  </div>
+
+  <!-- Interactive Controls -->
+  <div class="control-panel">
+    <button class="control-btn active" id="filter-all" onclick="setFilter('all')">
+      <span>●</span> All Agents
+    </button>
+    <button class="control-btn" id="filter-gemini" onclick="setFilter('gemini')">
+      <span style="color: #7c4dff;">●</span> Gemini 3 Pro
+    </button>
+    <button class="control-btn" id="filter-gpt" onclick="setFilter('gpt')">
+      <span style="color: #00e676;">●</span> GPT-OSS
+    </button>
+  </div>
+
+  <!-- Background Canvas -->
+  <div id="canvas-container"></div>
+
+  <!-- Settings Modal (Injected) -->
+  <div id="modal-placeholder"></div>
+
+  <script src="neural.js"></script>
+  
+  <!-- Inject Settings script/html logic -->
+  <script>
+    fetch('../../features/settings/modal.html')
+      .then(r => r.text())
+      .then(html => {
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(html, 'text/html');
+        // Extract modal div
+        const modal = doc.getElementById('settings-modal');
+        document.body.appendChild(modal);
+        // Extract script
+        const scripts = doc.querySelectorAll('script');
+        scripts.forEach(s => {
+           const newScript = document.createElement('script');
+           newScript.text = s.text;
+           document.body.appendChild(newScript);
+        });
+      });
+  </script>
+
+</body>
+</html>

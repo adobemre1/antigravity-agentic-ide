@@ -1,0 +1,124 @@
+/* Neural Graph Styles */
+:root {
+  --bg-color: #050510;
+  --node-gemini: #7c4dff;
+  --node-gpt: #00e676;
+  --text-main: #fff;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: var(--bg-color);
+  font-family: 'Inter', sans-serif;
+  color: var(--text-main);
+}
+
+#canvas-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 1;
+}
+
+.hud-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+  pointer-events: none;
+}
+
+.hud-header {
+  position: absolute;
+  top: 80px; /* Below Nav */
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  pointer-events: auto;
+}
+
+.hud-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-shadow: 0 0 20px rgba(124, 77, 255, 0.5);
+  margin: 0;
+}
+
+.hud-subtitle {
+  font-family: 'JetBrains Mono', monospace;
+  color: rgba(255,255,255,0.6);
+  font-size: 0.9rem;
+  margin-top: 10px;
+}
+
+.node-tooltip {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.8);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 10px 15px;
+  border-radius: 8px;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.2s;
+  backdrop-filter: blur(5px);
+  transform: translate(15px, 15px);
+  max-width: 250px;
+}
+
+.tooltip-title {
+  font-weight: 600;
+  color: var(--node-gemini);
+  margin-bottom: 5px;
+  display: block;
+}
+
+.tooltip-desc {
+  font-size: 0.8rem;
+  color: #ccc;
+  line-height: 1.4;
+}
+
+.control-panel {
+  position: absolute;
+  bottom: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(20, 20, 30, 0.8);
+  padding: 15px 30px;
+  border-radius: 50px;
+  border: 1px solid rgba(255,255,255,0.1);
+  display: flex;
+  gap: 20px;
+  pointer-events: auto;
+  backdrop-filter: blur(10px);
+}
+
+.control-btn {
+  background: transparent;
+  border: 1px solid rgba(255,255,255,0.2);
+  color: #fff;
+  padding: 8px 16px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  transition: all 0.3s;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.control-btn:hover {
+  background: rgba(255,255,255,0.1);
+  border-color: #fff;
+}
+
+.control-btn.active {
+  background: var(--node-gemini);
+  border-color: var(--node-gemini);
+  box-shadow: 0 0 15px rgba(124, 77, 255, 0.4);
+}
