@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Antigravity - Launchpad</title>
+  <link rel="stylesheet" href="../../../index.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;700&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      background-color: #030303;
+      color: #e0e0e0;
+      font-family: 'Inter', sans-serif;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .main-grid {
+      display: grid;
+      grid-template-columns: 350px 1fr;
+      flex: 1;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    /* Sidebar: Deployment List */
+    .sidebar {
+      background: #0a0a0a;
+      border-right: 1px solid #222;
+      padding: 20px;
+      overflow-y: auto;
+    }
+    
+    .section-title {
+        font-family: 'Outfit', sans-serif;
+        color: #fff;
+        font-size: 1.2rem;
+        margin-bottom: 20px;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .deploy-card {
+        background: #111;
+        border: 1px solid #333;
+        border-radius: 8px;
+        padding: 15px;
+        margin-bottom: 10px;
+        transition: 0.2s;
+    }
+    .deploy-card:hover { border-color: #555; }
+    
+    .status-badge {
+        font-size: 0.7rem;
+        padding: 2px 6px;
+        border-radius: 4px;
+        text-transform: uppercase;
+        font-weight: 600;
+    }
+    .status-live { background: rgba(0, 230, 118, 0.1); color: #00e676; border: 1px solid rgba(0, 230, 118, 0.3); }
+    .status-building { background: rgba(124, 77, 255, 0.1); color: #7c4dff; border: 1px solid rgba(124, 77, 255, 0.3); }
+    
+    /* Main Content: Pipeline Visualizer */
+    .pipeline-view {
+        padding: 40px;
+        position: relative;
+        overflow-y: auto;
+        background: radial-gradient(circle at 50% 50%, rgba(20, 20, 20, 1) 0%, rgba(3, 3, 3, 1) 100%);
+    }
+
+    .pipeline-container {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    .pipeline-step {
+        display: flex;
+        align-items: center;
+        margin-bottom: 30px;
+        opacity: 0.3; /* Dim by default */
+        transition: 0.5s;
+    }
+    
+    .pipeline-step.active { opacity: 1; }
+    .pipeline-step.completed { opacity: 0.7; color: #00e676; }
+
+    .step-icon {
+        width: 40px; height: 40px;
+        border-radius: 50%;
+        background: #222;
+        border: 1px solid #444;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 20px;
+        position: relative;
+        z-index: 2;
+    }
+    
+    .step-line {
+        position: absolute;
+        left: 20px;
+        top: 40px; /* Below icon */
+        width: 2px;
+        height: 30px; /* Gap to next */
+        background: #333;
+        z-index: 1;
+    }
+
+    .step-label {
+        font-size: 1.1rem;
+        font-weight: 500;
+    }
+    
+    .step-logs {
+        font-family: 'JetBrains Mono';
+        font-size: 0.8rem;
+        color: #888;
+        background: #000;
+        padding: 10px;
+        border-radius: 4px;
+        margin-top: 10px;
+        margin-left: 60px;
+        display: none;
+        border: 1px solid #333;
+    }
+    .active .step-logs { display: block; }
+
+    /* World Map (Decor) */
+    .world-map {
+        position: absolute;
+        bottom: 20px; right: 20px;
+        width: 300px;
+        height: 150px;
+        border: 1px solid #222;
+        border-radius: 8px;
+        background: #0a0a0a;
+        display: flex; 
+        align-items: center; 
+        justify-content: center;
+        color: #444;
+        font-size: 0.8rem;
+    }
+
+  </style>
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav class="glass-nav">
+    <div class="logo">ANTIGRAVITY <span style="font-size: 0.8rem; opacity: 0.6; font-weight: normal;">/ LAUNCHPAD</span></div>
+    <div class="nav-links">
+      <a href="../../../index.html">Home</a>
+      <a href="../editor/index.html">Editor</a>
+      <a href="../agents/index.html">Agents</a>
+      <a href="../artifacts/index.html">Artifacts</a>
+      <a href="../tech/index.html">Tech</a>
+      <a href="index.html" class="active">Launchpad</a>
+    </div>
+  </nav>
+
+  <div class="main-grid">
+    <!-- Sidebar -->
+    <div class="sidebar">
+      <div class="section-title">Active Deployments</div>
+      <div id="deployment-list">
+          <!-- Injected JS -->
+      </div>
+    </div>
+
+    <!-- Pipeline View -->
+    <div class="pipeline-view" id="pipeline-view">
+      <div style="text-align: center; margin-top: 100px; color: #666;">
+          <h3>No Active Builds</h3>
+          <p>Deploy an artifact from the Studio to see the pipeline here.</p>
+      </div>
+      
+      <div class="world-map">
+          [Global Edge Network: ONLINE]
+      </div>
+    </div>
+  </div>
+
+  <script src="../store/store.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js"></script>
+  <script src="../physics/gravity.js"></script>
+  <script src="../voice/voice.js"></script>
+  
+  <script>
+    function renderPipeline(taskId) {
+        const view = document.getElementById('pipeline-view');
+        
+        // Pipeline HTML
+        view.innerHTML = `
+            <div class="pipeline-container">
+                <h2 style="margin-bottom: 40px; text-align: center;">Deploying: Artifact-${taskId.substr(-4)}</h2>
+                
+                <div class="pipeline-step active" id="step-1">
+                    <div class="step-icon">1</div>
+                    <div>
+                        <div class="step-label">Visual Build Detection</div>
+                        <div class="step-logs">> Parsing HTML/CSS...<br>> Checking Dependencies...</div>
+                    </div>
+                </div>
+
+                <div class="pipeline-step" id="step-2">
+                    <div class="step-icon">2</div>
+                    <div>
+                        <div class="step-label">Gemini Optimization</div>
+                        <div class="step-logs">> Analyzing Code Perf...<br>> Minifying Assets...</div>
+                    </div>
+                </div>
+
+                <div class="pipeline-step" id="step-3">
+                    <div class="step-icon">3</div>
+                    <div>
+                        <div class="step-label">Edge Distribution</div>
+                        <div class="step-logs">> Propagating to Region EU-West...<br>> Propagating to Region US-East...</div>
+                    </div>
+                </div>
+                
+                <div class="pipeline-step" id="step-4">
+                    <div class="step-icon">4</div>
+                    <div>
+                        <div class="step-label">Live</div>
+                        <div class="step-logs" style="color:#00e676;">> Deployment Successful.</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="world-map">
+                 [Global Edge Network: ACTIVE]
+            </div>
+        `;
+        
+        // Run Simulation
+        setTimeout(() => activateStep('step-2'), 2000);
+        setTimeout(() => activateStep('step-3'), 4500);
+        setTimeout(() => activateStep('step-4'), 7000);
+    }
+    
+    function activateStep(id) {
+        // Mark previous as completed
+        const prev = document.getElementById(id).previousElementSibling;
+        if(prev) {
+            prev.classList.remove('active');
+            prev.classList.add('completed');
+        }
+        document.getElementById(id).classList.add('active');
+    }
+
+    function renderDeployments() {
+        const list = document.getElementById('deployment-list');
+        const tasks = window.AGStore ? window.AGStore.getTasks() : [];
+        const deployed = tasks.filter(t => t.status === 'deployed' || t.status === 'deploying');
+        
+        if (deployed.length === 0) {
+            list.innerHTML = '<div style="color: #666; font-size: 0.9rem;">No deployments yet.</div>';
+            return;
+        }
+
+        list.innerHTML = deployed.map(t => `
+            <div class="deploy-card" onclick="renderPipeline('${t.id}')" style="cursor: pointer;">
+                <div style="font-weight: 500; margin-bottom: 5px;">${t.prompt}</div>
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                   <span class="status-badge ${t.status === 'deployed' ? 'status-live' : 'status-building'}">${t.status}</span>
+                   <span style="font-size: 0.7rem; color: #666;">${new Date(t.timestamp).toLocaleTimeString()}</span>
+                </div>
+            </div>
+        `).join('');
+        
+        // Automatically check url params for auto-trigger
+        const urlParams = new URLSearchParams(window.location.search);
+        const autoDeployId = urlParams.get('deploy');
+        if (autoDeployId) {
+            // Find task and simulate
+            renderPipeline(autoDeployId);
+        }
+    }
+
+    renderDeployments();
+  </script>
+</body>
+</html>

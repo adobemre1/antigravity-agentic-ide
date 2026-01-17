@@ -268,16 +268,36 @@
   <div class="modal-overlay" id="preview-modal">
     <div class="modal-content">
       <div class="modal-header">
-        <div style="display: flex; align-items: center; gap: 15px;">
-            <div id="modal-title" style="font-weight: 600;">Artifact Preview</div>
             <div class="modal-toolbar">
                 <button class="toolbar-btn" onclick="toggleEditMode()" id="edit-btn">✏️ Edit Code</button>
-                <button class="toolbar-btn" onclick="downloadArtifact()" id="download-btn">⬇️ Download .html</button>
+                <button class="toolbar-btn" onclick="downloadArtifact()" id="download-btn">⬇️ Download</button>
+                <button class="toolbar-btn btn-primary" onclick="deployArtifact()" id="deploy-btn">🚀 Deploy</button>
                 <button class="toolbar-btn btn-primary" onclick="saveChanges()" id="save-btn" style="display:none;">💾 Save Changes</button>
             </div>
         </div>
         <button class="close-btn" onclick="closeModal()">×</button>
       </div>
+      <!-- ... -->
+  <script>
+    // ... Existing JS ...
+
+    function deployArtifact() {
+        if (!currentTask || !window.AGStore) return;
+        
+        // Update Status
+        const tasks = JSON.parse(localStorage.getItem('ag_tasks') || '[]');
+        const taskIndex = tasks.findIndex(t => t.id === currentTask.id);
+        if (taskIndex !== -1) {
+            tasks[taskIndex].status = 'deploying';
+            localStorage.setItem('ag_tasks', JSON.stringify(tasks));
+            
+            // Redirect to Launchpad
+            window.location.href = '../launchpad/index.html?deploy=' + currentTask.id;
+        }
+    }
+
+    // ... Rest of JS ...
+
       <div class="modal-iframe-container">
         <iframe id="modal-iframe"></iframe>
         <div id="editor-container" spellcheck="false"></div> <!-- CodeJar Editor -->
