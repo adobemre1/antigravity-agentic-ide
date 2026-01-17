@@ -8,20 +8,21 @@ const Store = {
   },
 
   // Write
-  addTask: (propmt, model) => {
+  addTask: (propmt, model, code = null) => {
     const tasks = Store.getTasks();
     const newTask = {
       id: 'task_' + Date.now(),
-      prompt: propmt, // 'prompt' typo fixed in next line logic if needed, but keeping simple
+      prompt: propmt,
       model: model,
+      code: code, // Saved Artifact Code
       status: 'processing', // processing, completed
       timestamp: Date.now(),
       thought: `Analyzing "${propmt}" with ${model}...`
     };
     tasks.push(newTask);
     
-    // Keep only last 10 tasks to prevent overflow
-    if (tasks.length > 10) tasks.shift();
+    // Keep only last 20 tasks (Increased from 10)
+    if (tasks.length > 20) tasks.shift();
     
     localStorage.setItem('ag_tasks', JSON.stringify(tasks));
     return newTask;

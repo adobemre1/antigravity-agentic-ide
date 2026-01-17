@@ -3,105 +3,297 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Antigravity - Artifacts</title>
+  <title>Antigravity - Artifacts Gallery</title>
+  <link rel="stylesheet" href="../../../index.css">
+  <link rel="stylesheet" href="../editor/editor.css"> <!-- Reuse editor styles for base -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="../../features/nav/nav.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;700&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      background-color: #0a0a0a;
+      background-image: 
+        radial-gradient(circle at 50% 10%, rgba(124, 77, 255, 0.05) 0%, transparent 40%),
+        radial-gradient(circle at 90% 90%, rgba(0, 230, 118, 0.05) 0%, transparent 40%);
+      color: #e0e0e0;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .gallery-container {
+      padding: 40px;
+      overflow-y: auto;
+      height: 100%;
+      flex: 1;
+    }
+
+    .gallery-header {
+      margin-bottom: 40px;
+      text-align: center;
+    }
+
+    .gallery-header h1 {
+      font-family: 'Outfit', sans-serif;
+      font-size: 3rem;
+      letter-spacing: -0.05em;
+      margin-bottom: 10px;
+      background: linear-gradient(135deg, #fff 0%, #aaa 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .gallery-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 20px;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    .artifact-card {
+      background: rgba(20, 20, 20, 0.6);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 12px;
+      overflow: hidden;
+      transition: all 0.3s ease;
+      position: relative;
+      height: 300px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .artifact-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+      border-color: rgba(124, 77, 255, 0.5);
+    }
+
+    .artifact-preview {
+      flex: 1;
+      background: #fff;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .artifact-preview iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+      pointer-events: none; /* Disable interaction in preview */
+      transform: scale(0.75);
+      transform-origin: top left;
+      width: 133.33%; /* Compensate for scale */
+      height: 133.33%;
+    }
+
+    .artifact-info {
+      padding: 15px;
+      background: rgba(10, 10, 10, 0.95);
+      border-top: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .artifact-title {
+      font-family: 'Outfit', sans-serif;
+      font-weight: 500;
+      font-size: 1.1rem;
+      margin-bottom: 5px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .artifact-meta {
+      font-size: 0.8rem;
+      color: #666;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .model-badge {
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-size: 0.7rem;
+      border: 1px solid;
+    }
+
+    .model-gemini { color: #7c4dff; border-color: rgba(124, 77, 255, 0.3); }
+    .model-gpt { color: #00e676; border-color: rgba(0, 230, 118, 0.3); }
+
+    /* Modal */
+    .modal-overlay {
+      position: fixed;
+      top: 0; left: 0; width: 100%; height: 100%;
+      background: rgba(0, 0, 0, 0.8);
+      backdrop-filter: blur(5px);
+      z-index: 1000;
+      display: none; /* Hidden by default */
+      align-items: center;
+      justify-content: center;
+    }
+
+    .modal-content {
+      width: 90%;
+      height: 90%;
+      background: #111;
+      border: 1px solid #333;
+      border-radius: 12px;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 20px 50px rgba(0,0,0,0.5);
+    }
+
+    .modal-header {
+      padding: 15px 20px;
+      border-bottom: 1px solid #333;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .close-btn {
+      background: none;
+      border: none;
+      color: #fff;
+      font-size: 1.5rem;
+      cursor: pointer;
+    }
+
+    .modal-iframe-container {
+      flex: 1;
+      background: #fff; /* White background for the app */
+      position: relative;
+    }
+
+    .modal-iframe-container iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+    
+    .view-btn {
+        margin-top: 10px;
+        width: 100%;
+        padding: 8px;
+        background: #222;
+        color: #fff;
+        border: 1px solid #333;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background 0.2s;
+    }
+    .view-btn:hover { background: #333; }
+
+  </style>
 </head>
 <body>
 
-  <nav class="floating-nav" style="position: absolute; top: 0; width: 100%;">
-    <div class="nav-content">
-      <div class="nav-brand">
-        <div class="brand-logo">AG</div>
-        <span class="brand-name">Antigravity</span>
-      </div>
-      <ul class="nav-links">
-        <li><a href="../../features/editor/index.html" class="nav-link">Editor</a></li>
-        <li><a href="../../features/agents/index.html" class="nav-link">Agents</a></li>
-        <li><a href="#" class="nav-link active">Artifacts</a></li>
-        <li><a href="../docs/index.html" class="nav-link">Docs</a></li>
-      </ul>
-      <div class="nav-actions">
-         <a href="../../../index.html" class="btn-primary-sm" style="text-decoration: none;">Exit</a>
-      </div>
+  <!-- Navigation -->
+  <nav class="glass-nav">
+    <div class="logo">ANTIGRAVITY <span style="font-size: 0.8rem; opacity: 0.6; font-weight: normal;">/ ARTIFACTS</span></div>
+    <div class="nav-links">
+      <a href="../../../index.html">Home</a>
+      <a href="../editor/index.html">Editor</a>
+      <a href="../agents/index.html">Agents</a>
+      <a href="../neural/index.html">Neural</a>
+      <a href="index.html" class="active">Artifacts</a>
+    </div>
+    <div class="user-profile">
+      <div class="avatar">AG</div>
     </div>
   </nav>
 
   <div class="gallery-container">
-    <div class="header-section">
-      <h1>Generated Artifacts</h1>
-      <p>Explore the output generated by Gemini 3 Pro and GPT-OSS agents during autonomous development cycles.</p>
+    <div class="gallery-header">
+      <h1>Artifacts Gallery</h1>
+      <p style="color: #666; max-width: 600px; margin: 0 auto;">
+        A collection of UI components, full-page applications, and digital experiences generated by the Antigravity Swarm Intelligence.
+      </p>
     </div>
 
-    <div class="artifacts-grid">
-      <!-- Card 1 -->
-      <div class="artifact-card">
-        <div class="card-preview">
-          <span class="card-type-badge">PLANNING</span>
-          📄
-        </div>
-        <div class="card-content">
-          <div class="card-title">Implementation Plan v1.0</div>
-          <div class="card-desc">Detailed technical specification for the Agentic Editor architecture, generated by Architect Agent.</div>
-          <div class="card-meta">
-            <span>Gemini 3 Pro</span>
-            <span>2 mins ago</span>
-          </div>
-        </div>
-      </div>
-
-      <!-- Card 2 -->
-      <div class="artifact-card">
-        <div class="card-preview" style="color: #66fcf1;">
-          <span class="card-type-badge">CODE</span>
-          ⚛️
-        </div>
-        <div class="card-content">
-          <div class="card-title">React Component: Terminal</div>
-          <div class="card-desc">Production-ready XTerm.js wrapper component optimized for high-performance rendering.</div>
-          <div class="card-meta">
-            <span>GPT-OSS 120B</span>
-            <span>15 mins ago</span>
-          </div>
-        </div>
-      </div>
-
-      <!-- Card 3 -->
-      <div class="artifact-card">
-        <div class="card-preview" style="color: #45a29e;">
-          <span class="card-type-badge">TESTING</span>
-          🧪
-        </div>
-        <div class="card-content">
-          <div class="card-title">E2E Test Suite</div>
-          <div class="card-desc">Playwright test scenarios generated to verify the authentication flow.</div>
-          <div class="card-meta">
-            <span>Gemini 3 Flash</span>
-            <span>1 hour ago</span>
-          </div>
-        </div>
-      </div>
-
-      <!-- Card 4 -->
-      <div class="artifact-card">
-        <div class="card-preview" style="color: #de1b55;">
-          <span class="card-type-badge">AUDIT</span>
-          🛡️
-        </div>
-        <div class="card-content">
-          <div class="card-title">Security Vulnerability Scan</div>
-          <div class="card-desc">Automated analysis of npm dependencies and code patterns for security risks.</div>
-          <div class="card-meta">
-            <span>Llama 3 70B</span>
-            <span>3 hours ago</span>
-          </div>
-        </div>
-      </div>
-
+    <div class="gallery-grid" id="gallery-grid">
+      <!-- Artifact Cards Injected Here -->
     </div>
   </div>
 
+  <!-- Preview Modal -->
+  <div class="modal-overlay" id="preview-modal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <div id="modal-title" style="font-weight: 600;">Artifact Preview</div>
+        <button class="close-btn" onclick="closeModal()">×</button>
+      </div>
+      <div class="modal-iframe-container">
+        <iframe id="modal-iframe"></iframe>
+      </div>
+    </div>
+  </div>
+
+  <script src="../store/store.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js"></script>
+  <script src="../physics/gravity.js"></script>
+  <script src="../voice/voice.js"></script>
+  <script>
+    // Gallery Logic
+    function renderGallery() {
+        const grid = document.getElementById('gallery-grid');
+        const tasks = window.AGStore ? window.AGStore.getTasks() : [];
+        
+        // Filter tasks that have "Code" (Artifacts)
+        const artifacts = tasks.filter(t => t.code);
+        
+        if (artifacts.length === 0) {
+            grid.innerHTML = '<div style="grid-column: 1/-1; text-align: center; color: #666; padding: 50px;">No artifacts found. Go to the Editor and ask the AI to "Create a page".</div>';
+            return;
+        }
+
+        grid.innerHTML = artifacts.map(task => `
+            <div class="artifact-card">
+                <div class="artifact-preview">
+                    <!-- Sandbox iframe for safety -->
+                    <iframe srcdoc="${escapeHtml(task.code)}" sandbox="allow-scripts"></iframe>
+                </div>
+                <div class="artifact-info">
+                    <div class="artifact-title">${task.prompt}</div>
+                    <div class="artifact-meta">
+                        <span class="model-badge ${task.model.includes('Gemini') ? 'model-gemini' : 'model-gpt'}">
+                            ${task.model}
+                        </span>
+                        <span>${new Date(task.timestamp).toLocaleDateString()}</span>
+                    </div>
+                    <button class="view-btn" onclick='openModal(${JSON.stringify(task.code)}, "${task.prompt.replace(/"/g, '&quot;')}")'>
+                        View & Interact
+                    </button>
+                </div>
+            </div>
+        `).join('');
+    }
+
+    function openModal(code, title) {
+        document.getElementById('modal-title').innerText = title;
+        document.getElementById('modal-iframe').srcdoc = code;
+        document.getElementById('preview-modal').style.display = 'flex';
+    }
+
+    function closeModal() {
+        document.getElementById('preview-modal').style.display = 'none';
+        document.getElementById('modal-iframe').srcdoc = ''; // Clear
+    }
+    
+    function escapeHtml(text) {
+        if (!text) return '';
+        return text
+            .replace(/&/g, "&amp;")
+            .replace(/</g, "&lt;")
+            .replace(/>/g, "&gt;")
+            .replace(/"/g, "&quot;")
+            .replace(/'/g, "&#039;");
+    }
+
+    // Init
+    renderGallery();
+  </script>
 </body>
 </html>
