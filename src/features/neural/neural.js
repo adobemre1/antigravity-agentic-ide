@@ -25,6 +25,47 @@ const CONFIG = {
   }
 };
 
+// Initialize Nodes (Phase 13: Real Data)
+function initNodes() {
+  nodes = [];
+  
+  // 1. Get Tasks from Memory
+  const tasks = window.AGStore ? window.AGStore.getTasks() : [];
+
+  // 2. Create Nodes for each active task
+  tasks.forEach((task, index) => {
+      // Gemini = 800000 (Purple), GPT = 00e676 (Green)
+      const color = task.model.includes('Gemini') ? '#7c4dff' : '#00e676';
+      
+      nodes.push({
+          x: Math.random() * canvas.width,
+          y: Math.random() * canvas.height,
+          vx: (Math.random() - 0.5) * 1,
+          vy: (Math.random() - 0.5) * 1,
+          color: color,
+          size: 6,
+          role: task.status === 'processing' ? 'Processing' : 'Memory',
+          thought: task.prompt,
+          id: task.id
+      });
+  });
+
+  // 3. Fill the rest with "Idle" swarm nodes
+  for (let i = 0; i < 30; i++) {
+    nodes.push({
+      x: Math.random() * canvas.width,
+      y: Math.random() * canvas.height,
+      vx: (Math.random() - 0.5) * 0.5,
+      vy: (Math.random() - 0.5) * 0.5,
+      color: '#444', // Idle gray
+      size: 3,
+      role: 'Idle',
+      thought: 'Waiting for signal...',
+      id: 'idle_' + i
+    });
+  }
+}
+
 class Node {
   constructor(id, type) {
     this.id = id;

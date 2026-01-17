@@ -40,20 +40,59 @@ function initDashboard() {
   setInterval(simulateMetrics, 800);       // System stats
 }
 
+// Render Agents (Phase 13: Connected to Store)
 function renderAgents() {
-  grid.innerHTML = AGENTS.map(agent => `
-    <div class="agent-card" id="card-${agent.id}">
+  const container = document.getElementById('agents-grid');
+  container.innerHTML = '';
+  
+  // Get Real Tasks from Store
+  const tasks = window.AGStore ? window.AGStore.getTasks() : [];
+
+  // Generate Agents based on Tasks (or default if empty)
+  const activeCount = Math.max(tasks.length, 3); // Minimal 3 agents
+
+  for (let i = 0; i < activeCount; i++) {
+    const task = tasks[activeCount - 1 - i]; // Show latest first
+    const agentId = i + 1;
+    const isBusy = !!task && task.status === 'processing';
+    
+    const card = document.createElement('div');
+    card.className = 'agent-card';
+    card.innerHTML = `
       <div class="agent-header">
-        <span class="agent-role">${agent.role}</span>
-        <div class="agent-status-dot"></div>
+        <div style="font-weight: 600;">Agent-${agentId}</div>
+        <div class="status-indicator ${isBusy ? 'busy' : 'idle'}">
+          ${isBusy ? 'BUSY' : 'IDLE'}
+        </div>
       </div>
-      <div class="agent-task" id="task-${agent.id}">Waiting for directives...</div>
-      <div class="agent-meta">
-        <span>${agent.model}</span>
-        <span id="status-${agent.id}">IDLE</span>
+      <div class="agent-role">${getRole(i)}</div>
+      
+      <div class="terminal-window">
+        <div style="color: #666;">$ ag status</div>
+        <div>
+           ${isBusy ? `Exec: "${task.prompt}"` : 'Waiting for instructions...'}
+        </div>
+        ${isBusy ? `<div style="color: #00e676;">> Using ${task.model}...</div>` : ''}
       </div>
-    </div>
-  `).join('');
+
+      <div class="stats-row">
+        <div>
+          <div style="font-size: 0.7rem; color: #666;">RAM</div>
+          <div style="font-family: 'JetBrains Mono'; color: #b0b0bb;">${Math.floor(Math.random() * 500 + 100)}MB</div>
+        </div>
+        <div>
+          <div style="font-size: 0.7rem; color: #666;">CPU</div>
+          <div style="font-family: 'JetBrains Mono'; color: #b0b0bb;">${Math.floor(Math.random() * 80)}%</div>
+        </div>
+      </div>
+    `;
+    container.appendChild(card);
+  }
+}
+
+function getRole(index) {
+    const roles = ['Frontend Architect', 'Backend Engineer', 'QA Specialist', 'Security Auditor'];
+    return roles[index % roles.length];
 }
 
 function renderLogs() {

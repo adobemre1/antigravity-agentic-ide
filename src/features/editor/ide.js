@@ -90,7 +90,7 @@ function toggleSidebar(forceOpen = null) {
   }
 }
 
-// Smart Model Routing Algorithm (Phase 11)
+// Smart Model Routing Algorithm (Phase 11) & Artifacts (Phase 13)
 async function runAgent() {
   const input = document.querySelector('.ai-input');
   const chatArea = document.getElementById('chat-area');
@@ -105,12 +105,11 @@ async function runAgent() {
   const preferredModel = localStorage.getItem('ag_model') || 'gemini';
   const thinkingLevel = parseInt(localStorage.getItem('ag_thinking') || '8');
   
-  // Simulation: Routing Decision
+  // Routing Decision
   let activeModel = preferredModel;
   let reason = "User Preference";
 
   // "Smart Router" Simulation
-  // If task is short (< 15 chars) and thinking is low, force GPT (Speed)
   if (userText.length < 15 && thinkingLevel < 5 && preferredModel === 'gemini') {
       activeModel = 'gpt';
       reason = "Optimized for Speed (Low Latency)";
@@ -118,24 +117,36 @@ async function runAgent() {
 
   const modelName = activeModel === 'gemini' ? "Gemini 3 Pro" : "GPT-OSS 120B";
   
-  // 3. Routing Notification (Professional DX)
+  // 3. Routing Notification
   const routingMsg = document.createElement('div');
   routingMsg.style.cssText = "font-size: 0.75rem; color: #666; margin: 10px 0; font-family: 'JetBrains Mono'; text-align: center;";
   routingMsg.innerText = `⚡ Routing to ${modelName} via MCP... (${reason})`;
   chatArea.appendChild(routingMsg);
 
-  // 4. AI Response Simulation
+  // 4. Save to Swarm Store (Phase 13)
+  if (window.AGStore) {
+      window.AGStore.addTask(userText, modelName);
+      console.log("Task pushed to Swarm Memory:", userText);
+  }
+
+  // 5. AI Response Simulation
   const delay = activeModel === 'gemini' ? 2000 : 800; // Gemini "Thinks", GPT is fast
   
   await new Promise(r => setTimeout(r, delay));
 
-  // Content Generation based on Model
+  // Artifact Logic (Phase 13)
   let content = "";
-  if (activeModel === 'gemini') {
-      content = `<strong>Analyzed Request.</strong><br>Reasoning Depth: Level ${thinkingLevel}.<br>I will now implement the changes based on the ${activeModel} architecture.`;
+  let isArtifact = false;
+  if (userText.toLowerCase().includes('page') || userText.toLowerCase().includes('html') || userText.toLowerCase().includes('ui')) {
+      isArtifact = true;
+      content = `<strong>Generated Artifact.</strong><br>I have created a UI preview based on your request. Switching to Preview Mode...`;
   } else {
-      content = `<strong>Instant Generate.</strong><br>Executing code generation task for: "${userText}"`;
+      if (activeModel === 'gemini') {
+          content = `<strong>Analyzed Request.</strong><br>Reasoning Depth: Level ${thinkingLevel}.<br>I will now implement the changes based on the ${activeModel} architecture.`;
+      } else {
+          content = `<strong>Instant Generate.</strong><br>Executing code generation task for: "${userText}"`;
   }
+}
 
   const aiMsg = document.createElement('div');
   aiMsg.className = 'message ai';
@@ -150,6 +161,42 @@ async function runAgent() {
   chatArea.scrollTop = chatArea.scrollHeight;
   routingMsg.innerText = `✔ Executed by ${modelName} in ${delay}ms`;
   routingMsg.style.color = activeModel === 'gemini' ? '#7c4dff' : '#00e676';
+
+  // Trigger Artifact Preview
+  if (isArtifact) {
+      renderArtifact(userText);
+  }
+}
+
+// Artifact Preview Renderer
+function renderArtifact(prompt) {
+    const codeContent = document.getElementById('code-content');
+    
+    // Clear current content
+    codeContent.innerHTML = '';
+    
+    // Create Preview Container
+    const previewContainer = document.createElement('div');
+    previewContainer.style.cssText = "width:100%; height:100%; background:white; color:black; padding:20px; box-sizing:border-box; overflow:auto;";
+    
+    // Simulate UI based on prompt
+    let html = `<h1>Generated UI</h1><p>Previewing: ${prompt}</p>`;
+    if (prompt.includes('login')) {
+        html += `<div style="border:1px solid #ccc; padding:20px; border-radius:8px; max-width:300px;">
+                    <h3>Sign In</h3>
+                    <input type="text" placeholder="Email" style="width:100%; margin-bottom:10px; padding:8px;">
+                    <input type="password" placeholder="Password" style="width:100%; margin-bottom:10px; padding:8px;">
+                    <button style="width:100%; padding:10px; background:blue; color:white; border:none; border-radius:4px;">Login</button>
+                 </div>`;
+    } else if (prompt.includes('dashboard')) {
+        html += `<div style="display:grid; grid-template-columns:1fr 1fr; gap:10px;">
+                    <div style="background:#f0f0f0; padding:20px; border-radius:8px;">Statistic A: 85%</div>
+                    <div style="background:#f0f0f0; padding:20px; border-radius:8px;">Statistic B: 12GB</div>
+                 </div>`;
+    }
+    
+    previewContainer.innerHTML = html;
+    codeContent.appendChild(previewContainer);
 }
 
 // Event Listeners
