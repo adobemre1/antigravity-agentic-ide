@@ -1,0 +1,69 @@
+<div class="terminal-window">
+  <div class="terminal-header">
+    <div class="terminal-controls">
+      <span class="control close"></span>
+      <span class="control minimize"></span>
+      <span class="control maximize"></span>
+    </div>
+    <div class="terminal-title">agent_swarm.exe</div>
+  </div>
+  <div class="terminal-body" id="terminal-content">
+    <div class="line"><span class="prompt">➜</span> <span class="cmd">init antigravity_core</span></div>
+    <div class="line system">Loading modules... [OK]</div>
+    <div class="line system">Connecting to Gemini 3 Pro... [CONNECTED]</div>
+    <div class="line system">Swarm Status: <span class="success">ONLINE</span></div>
+    <!-- Dynamic lines will be added here -->
+    <div class="cursor-line"><span class="prompt">➜</span> <span class="typing"></span><span class="cursor">_</span></div>
+  </div>
+</div>
+
+<script>
+  // Simple fake terminal typing effect
+  (function() {
+    const typingElement = document.querySelector('.typing');
+    const terminalContent = document.getElementById('terminal-content');
+    const commands = [
+      "analyzing codebase...",
+      "refactoring legacy_module.js",
+      "generating implementation_plan.md",
+      "deploying to edge..."
+    ];
+    let cmdIndex = 0;
+    let charIndex = 0;
+    let isDeleting = false;
+
+    function type() {
+      const currentCmd = commands[cmdIndex];
+      
+      if (isDeleting) {
+        typingElement.textContent = currentCmd.substring(0, charIndex - 1);
+        charIndex--;
+      } else {
+        typingElement.textContent = currentCmd.substring(0, charIndex + 1);
+        charIndex++;
+      }
+
+      let typeSpeed = isDeleting ? 30 : 50;
+
+      if (!isDeleting && charIndex === currentCmd.length) {
+        typeSpeed = 1000; // Pause at end
+        isDeleting = true;
+        // Add a permanent line
+        const successLine = document.createElement('div');
+        successLine.className = 'line system';
+        successLine.innerHTML = `> Task completed: <span class="success">${currentCmd}</span>`;
+        terminalContent.insertBefore(successLine, terminalContent.lastElementChild);
+        // Autoscroll
+        terminalContent.scrollTop = terminalContent.scrollHeight;
+      } else if (isDeleting && charIndex === 0) {
+        isDeleting = false;
+        cmdIndex = (cmdIndex + 1) % commands.length;
+        typeSpeed = 500;
+      }
+
+      setTimeout(type, typeSpeed);
+    }
+
+    setTimeout(type, 1000); // Start after 1s
+  })();
+</script>

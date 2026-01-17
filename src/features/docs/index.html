@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Antigravity - Documentation</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../features/nav/nav.css">
+  <style>
+    /* Docs specific styles (inline for simplicity) */
+    :root {
+      --doc-bg: #0b0c10;
+      --sidebar-width: 280px;
+      --text-main: #c5c6c7;
+      --text-header: #fff;
+      --accent: #66fcf1;
+    }
+    body {
+      background: var(--doc-bg);
+      color: var(--text-main);
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+    .docs-layout {
+      display: flex;
+      flex: 1;
+      height: 100%;
+      overflow: hidden;
+      padding-top: 60px; /* nav height */
+    }
+    .doc-sidebar {
+      width: var(--sidebar-width);
+      background: rgba(31, 40, 51, 0.5);
+      border-right: 1px solid rgba(255,255,255,0.05);
+      padding: 20px;
+      overflow-y: auto;
+    }
+    .doc-link {
+      display: block;
+      padding: 8px 12px;
+      color: #888;
+      text-decoration: none;
+      font-size: 0.9rem;
+      border-radius: 4px;
+      margin-bottom: 2px;
+    }
+    .doc-link:hover, .doc-link.active {
+      color: var(--accent);
+      background: rgba(102, 252, 241, 0.05);
+    }
+    .doc-section-title {
+      font-weight: 700;
+      color: #fff;
+      margin-top: 20px;
+      margin-bottom: 10px;
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    .doc-content {
+      flex: 1;
+      padding: 40px 60px;
+      overflow-y: auto;
+      max-width: 900px;
+    }
+    h1 { color: var(--text-header); font-size: 2.5rem; margin-bottom: 10px; }
+    h2 { color: var(--text-header); margin-top: 40px; margin-bottom: 20px; border-bottom: 1px solid #333; padding-bottom: 10px; }
+    p { line-height: 1.7; font-size: 1.05rem; color: #bbb; }
+    code {
+      background: rgba(0,0,0,0.3);
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-family: 'JetBrains Mono', monospace;
+      color: var(--accent);
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+
+  <nav class="floating-nav" style="position: absolute; top: 0; width: 100%;">
+    <div class="nav-content">
+      <div class="nav-brand">
+        <div class="brand-logo">AG</div>
+        <span class="brand-name">Antigravity</span>
+      </div>
+      <ul class="nav-links">
+        <li><a href="../../features/editor/index.html" class="nav-link">Editor</a></li>
+        <li><a href="../../features/agents/index.html" class="nav-link">Agents</a></li>
+        <li><a href="../../features/artifacts/index.html" class="nav-link">Artifacts</a></li>
+        <li><a href="#" class="nav-link active">Docs</a></li>
+      </ul>
+      <div class="nav-actions">
+         <a href="../../../index.html" class="btn-primary-sm" style="text-decoration: none;">Exit</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="docs-layout">
+    <aside class="doc-sidebar">
+      <div class="doc-section-title">Getting Started</div>
+      <a href="#" class="doc-link active">Introduction</a>
+      <a href="#" class="doc-link">Installation</a>
+      <a href="#" class="doc-link">Quick Start</a>
+      
+      <div class="doc-section-title">Core Concepts</div>
+      <a href="#" class="doc-link">Agent Swarms</a>
+      <a href="#" class="doc-link">Context Windows</a>
+      <a href="#" class="doc-link">Artifact Generation</a>
+      
+      <div class="doc-section-title">API Reference</div>
+      <a href="#" class="doc-link">AgentConfig</a>
+      <a href="#" class="doc-link">SwarmProtocol</a>
+    </aside>
+
+    <main class="doc-content">
+      <h1>Introduction to Antigravity</h1>
+      <p>Antigravity is the world's first <strong>Agentic IDE</strong>, designed to fundamentally change how software is engineered. By simulating a team of expert AI agents—powered by <code>Gemini 3 Pro</code> and <code>GPT-OSS 120B</code>—Antigravity allows you to operate at the level of an Architect while the swarm handles the implementation.</p>
+      
+      <h2>Why Antigravity?</h2>
+      <p>Traditional IDEs are passive tools. Copilots are helpful assistants. <strong>Antigravity is a workforce.</strong> Instead of writing every line of code, you define the goals, and the Agent Swarm plans, executes, verifies, and deploys the solution.</p>
+
+      <h2>Key Features</h2>
+      <ul>
+        <li><strong>1M Token Context:</strong> Powered by Gemini 3 Pro to understand your entire repository at once.</li>
+        <li><strong>Autonomous Verification:</strong> Agents don't just write code; they run tests, audit accessibility, and fix bugs autonomously.</li>
+        <li><strong>Secure by Design:</strong> Sandboxed execution environments ensure agent actions are safe and reversible.</li>
+      </ul>
+      
+      <h2>Next Steps</h2>
+      <p>Ready to build? check out the <a href="#" style="color: var(--accent);">Quick Start</a> guide to deploy your first swarm.</p>
+    </main>
+  </div>
+
+</body>
+</html>

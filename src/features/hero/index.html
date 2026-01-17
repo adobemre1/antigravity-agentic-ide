@@ -1,0 +1,36 @@
+<section class="hero-parallax" id="hero">
+  <!-- Background Layers for Parallax -->
+  <div class="hero-bg-layer layer-deep"></div>
+  <div class="hero-bg-layer layer-mid"></div>
+  <div class="hero-bg-layer layer-glow"></div>
+  
+  <div class="hero-content-glass">
+    <h1 class="hero-title">Code at the<br>Speed of Thought</h1>
+    <p class="hero-subtitle">
+      Experience the first Agentic IDE designed for the AI-native era. 
+      Antigravity blends human creativity with autonomous intelligence.
+    </p>
+    
+    <div class="hero-actions">
+      <button class="btn-3d">Download for Mac</button>
+      <button class="btn-secondary-glass">Open in Browser</button>
+    </div>
+  </div>
+</section>
+
+<script>
+  // Simple Parallax Effect
+  document.addEventListener('mousemove', (e) => {
+    const layers = document.querySelectorAll('.hero-bg-layer');
+    const x = (window.innerWidth - e.pageX * 2) / 100;
+    const y = (window.innerHeight - e.pageY * 2) / 100;
+    
+    layers.forEach((layer, index) => {
+      const speed = (index + 1) * 2;
+      const xOffset = x * speed;
+      const yOffset = y * speed;
+      // Combine with existing transforms if needed, simplified here
+      layer.style.transform = `translate(${xOffset}px, ${yOffset}px) scale(${1 + index * 0.05})`;
+    });
+  });
+</script>

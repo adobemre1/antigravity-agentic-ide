@@ -1,0 +1,86 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic [ref=e4]:
+    - img [ref=e6]
+    - generic [ref=e9]:
+      - heading "Çevrimdışı Hazır" [level=4] [ref=e10]
+      - paragraph [ref=e11]: Uygulama artık çevrimdışı kullanılabilir.
+      - button "Kapat" [ref=e13]
+  - generic [ref=e14]:
+    - button:
+      - img
+  - generic [ref=e16]:
+    - banner [ref=e17]:
+      - generic [ref=e18]:
+        - link "Seyhan Proje Portalı" [ref=e19] [cursor=pointer]:
+          - /url: /
+          - heading "Seyhan Proje Portalı" [level=1] [ref=e20]
+        - generic [ref=e21]:
+          - textbox "Proje ara..." [ref=e23]
+          - generic [ref=e24]:
+            - button "TR" [ref=e25]
+            - button "EN" [ref=e26]
+          - button "Giriş Yap" [ref=e27]
+      - textbox "Proje ara..." [ref=e29]
+    - main [ref=e30]:
+      - generic [ref=e31]:
+        - complementary [ref=e32]:
+          - generic [ref=e33]:
+            - heading "Math & Physics Engine" [level=2] [ref=e34]
+            - paragraph [ref=e35]: Interactive simulations power the project analytics.
+          - generic [ref=e36]:
+            - button "Kentleşme" [ref=e37]
+            - button "Tarım" [ref=e38]
+            - button "Afet Yönetimi" [ref=e39]
+            - button "Genel" [ref=e40]
+            - button "Teknoloji" [ref=e41]
+            - button "Sosyal" [ref=e42]
+            - button "Sağlık" [ref=e43]
+            - button "Kültür" [ref=e44]
+        - generic [ref=e45]:
+          - generic [ref=e46]:
+            - heading "104 Proje Bulundu" [level=2] [ref=e47]
+            - generic [ref=e48]:
+              - button "Grid" [ref=e49]:
+                - img [ref=e50]
+                - text: Grid
+              - button "Map" [active] [ref=e55]:
+                - img [ref=e56]
+                - text: Map
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - button "Marker" [ref=e58] [cursor=pointer]
+                    - button "Marker" [ref=e59] [cursor=pointer]
+                    - button "Marker" [ref=e60] [cursor=pointer]
+                    - button "Marker" [ref=e61] [cursor=pointer]
+                    - button "Marker" [ref=e62] [cursor=pointer]
+                    - button "Marker" [ref=e63] [cursor=pointer]
+                    - button "Marker" [ref=e64] [cursor=pointer]
+                    - button "Marker" [ref=e65] [cursor=pointer]
+                    - button "Marker" [ref=e66] [cursor=pointer]
+                    - button "Marker" [ref=e67] [cursor=pointer]
+                - generic:
+                  - generic [ref=e68]:
+                    - button "Zoom in" [ref=e69] [cursor=pointer]: +
+                    - button "Zoom out" [ref=e70] [cursor=pointer]: −
+                  - generic [ref=e71]:
+                    - link "Leaflet" [ref=e72] [cursor=pointer]:
+                      - /url: https://leafletjs.com
+                      - img [ref=e73]
+                      - text: Leaflet
+                    - text: "| ©"
+                    - link "OpenStreetMap" [ref=e77] [cursor=pointer]:
+                      - /url: https://www.openstreetmap.org/copyright
+                    - text: contributors
+    - contentinfo [ref=e78]:
+      - generic [ref=e79]:
+        - paragraph [ref=e80]: © 2026 Seyhan Belediyesi. Tüm hakları saklıdır.
+        - paragraph [ref=e81]: Yapay Zeka Destekli Proje Portalı v1.0
+        - link "Privacy Policy" [ref=e83] [cursor=pointer]:
+          - /url: /privacy
+```

@@ -1,13 +1,129 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Seyhan Belediyesi Proje Portalı</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
-  </body>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Antigravity – The Agentic IDE for AI-Native Developers</title>
+  
+  <!-- SEO & Social -->
+  <meta name="description" content="Antigravity is the first Agentic IDE powered by Gemini 3 Pro. Orchestrate AI agents, generate artifacts, and code at the speed of thought.">
+  <meta name="keywords" content="Agentic IDE, AI Code Editor, Gemini 3 Pro, GPT-OSS, Automated Coding, Developer Tools 2026">
+  <meta name="author" content="Antigravity Project">
+  <meta property="og:title" content="Antigravity – The Agentic IDE">
+  <meta property="og:type" content="website">
+  <meta property="og:description" content="Experience the future of coding with Antigravity. Built for Gemini 3 Pro and GPT-OSS.">
+  <meta property="og:image" content="../hero_placeholder_1768570208023.png">
+  <link rel="canonical" href="https://antigravity.google/">
+  
+  <!-- Structured Data (SoftwareApplication) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "Antigravity",
+    "applicationCategory": "DeveloperApplication",
+    "operatingSystem": "macOS, Windows, Linux",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "description": "An Agentic IDE that integrates Gemini 3 Pro for autonomous coding and artifact generation."
+  }
+  </script>
+
+  <!-- Fonts (Preconnect for Performance) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+  
+  <!-- Critical Styles -->
+  <link rel="stylesheet" href="src/assets/styles/tokens.css">
+  <link rel="stylesheet" href="src/features/nav/nav.css">
+  <link rel="stylesheet" href="src/features/hero/hero.css">
+  <link rel="stylesheet" href="src/features/bento/bento.css">
+  <link rel="stylesheet" href="src/features/terminal/terminal.css">
+  
+  <style>
+    /* Global Landing Styles */
+    body {
+      background: var(--color-bg);
+      color: var(--color-text-main);
+      overflow-x: hidden;
+    }
+    footer {
+      border-top: 1px solid var(--color-border-glass);
+      padding: 40px;
+      text-align: center;
+      color: var(--color-text-muted);
+      margin-top: 80px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Features (Modular Injection) -->
+  <div id="nav-container"></div>
+  <div id="hero-container"></div>
+  <div id="features-container"></div>
+
+  <footer>
+    <p>&copy; 2026 Antigravity Project. Powered by Gemini 3 Pro & GPT-OSS.</p>
+  </footer>
+
+  <!-- Performance-Optimized Loader -->
+  <script>
+    async function loadComponent(id, path) {
+      try {
+        const res = await fetch(path);
+        if (!res.ok) throw new Error(`Failed to load ${path}`);
+        const html = await res.text();
+        document.getElementById(id).innerHTML = html;
+        
+        // Re-hydrate scripts
+        const scripts = document.getElementById(id).querySelectorAll("script");
+        scripts.forEach(oldScript => {
+          const newScript = document.createElement("script");
+          Array.from(oldScript.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value));
+          newScript.appendChild(document.createTextNode(oldScript.innerHTML));
+          oldScript.parentNode.replaceChild(newScript, oldScript);
+        });
+      } catch (err) {
+        console.error(err);
+      }
+    }
+
+    async function init() {
+      // Parallel loading for speed
+      await Promise.all([
+        loadComponent('nav-container', 'src/features/nav/index.html'),
+        loadComponent('hero-container', 'src/features/hero/index.html'),
+        loadComponent('features-container', 'src/features/bento/index.html')
+      ]);
+
+      // Inject Terminal into Bento (defer slightly to ensure DOM exists)
+      setTimeout(() => {
+        const terminalContainer = document.getElementById('terminal-embed');
+        if (terminalContainer) {
+          loadComponent('terminal-embed', 'src/features/terminal/index.html');
+        }
+      }, 100); 
+
+      // Nav Scroll Listener
+      window.addEventListener('scroll', () => {
+        const nav = document.querySelector('.floating-nav');
+        if (nav) {
+          nav.classList.toggle('scrolled', window.scrollY > 50);
+        }
+      }, { passive: true });
+    }
+
+    // Defer initialization until main thread is free
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', init);
+    } else {
+      init();
+    }
+  </script>
+</body>
 </html>

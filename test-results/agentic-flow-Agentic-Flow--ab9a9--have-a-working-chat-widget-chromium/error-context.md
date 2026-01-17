@@ -1,0 +1,891 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic [ref=e4]:
+    - img [ref=e6]
+    - generic [ref=e9]:
+      - heading "Çevrimdışı Hazır" [level=4] [ref=e10]
+      - paragraph [ref=e11]: Uygulama artık çevrimdışı kullanılabilir.
+      - button "Kapat" [ref=e13]
+  - generic [ref=e14]:
+    - button:
+      - img
+  - generic [ref=e16]:
+    - banner [ref=e17]:
+      - generic [ref=e18]:
+        - link "Seyhan Proje Portalı" [ref=e19] [cursor=pointer]:
+          - /url: /
+          - heading "Seyhan Proje Portalı" [level=1] [ref=e20]
+        - generic [ref=e21]:
+          - textbox "Proje ara..." [ref=e23]
+          - generic [ref=e24]:
+            - button "TR" [ref=e25]
+            - button "EN" [ref=e26]
+          - button "Giriş Yap" [ref=e27]
+      - textbox "Proje ara..." [ref=e29]
+    - main [ref=e30]:
+      - generic [ref=e31]:
+        - complementary [ref=e32]:
+          - generic [ref=e33]:
+            - heading "Math & Physics Engine" [level=2] [ref=e34]
+            - paragraph [ref=e35]: Interactive simulations power the project analytics.
+          - generic [ref=e36]:
+            - button "Kentleşme" [ref=e37]
+            - button "Tarım" [ref=e38]
+            - button "Afet Yönetimi" [ref=e39]
+            - button "Genel" [ref=e40]
+            - button "Teknoloji" [ref=e41]
+            - button "Sosyal" [ref=e42]
+            - button "Sağlık" [ref=e43]
+            - button "Kültür" [ref=e44]
+        - generic [ref=e45]:
+          - generic [ref=e46]:
+            - heading "104 Proje Bulundu" [level=2] [ref=e47]
+            - generic [ref=e48]:
+              - button "Grid" [ref=e49]:
+                - img [ref=e50]
+                - text: Grid
+              - button "Map" [ref=e55]:
+                - img [ref=e56]
+                - text: Map
+          - generic [ref=e59]:
+            - 'link "SEYHAN AI-TRAFFIC (Yapay Zeka Destekli Adaptif Trafik Yönetimi) SEYHAN AI-TRAFFIC (Yapay Zeka Destekli Adaptif Trafik Yönetimi) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan AI-Traffic: Görüntü İşleme Tabanlı Dinamik Sinyalizasyon Sistemi * **Uygulayıcı Birim:** Ulaşım Hizmetleri Müdürlüğü & Bilgi İşlem Müdürlüğü * **Proje Kategorisi:** Akıllı Şehir ve Dijital Dönüşüm * **Tahmini Başlangıç... TeknolojiKentleşme" [ref=e61] [cursor=pointer]':
+              - /url: /project/1
+              - generic [ref=e62]:
+                - img "SEYHAN AI-TRAFFIC (Yapay Zeka Destekli Adaptif Trafik Yönetimi)" [ref=e63]
+                - generic [ref=e64]:
+                  - heading "SEYHAN AI-TRAFFIC (Yapay Zeka Destekli Adaptif Trafik Yönetimi)" [level=3] [ref=e65]
+                  - paragraph [ref=e66]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan AI-Traffic: Görüntü İşleme Tabanlı Dinamik Sinyalizasyon Sistemi * **Uygulayıcı Birim:** Ulaşım Hizmetleri Müdürlüğü & Bilgi İşlem Müdürlüğü * **Proje Kategorisi:** Akıllı Şehir ve Dijital Dönüşüm * **Tahmini Başlangıç..."
+                  - generic [ref=e67]: TeknolojiKentleşme
+            - 'link "SEYHAN NÖRON (Yapay Zeka Destekli Kentsel Karar Destek Sistemi) SEYHAN NÖRON (Yapay Zeka Destekli Kentsel Karar Destek Sistemi) **Döküman Tipi:** Proje Uygulama Planı ve Teknik Şartname Taslağı **Durum:** Planlama Aşaması **Sorumlu Birim:** Strateji Geliştirme Müdürlüğü & Bilgi İşlem Müdürlüğü --- ## 1. ARAŞTIRMA VE ANALİZ (RESEARCH & ANALYSIS) ### 1.1. Problem Tanımı Geleneksel belediyecilikte kararlar, genellikle reaktif o... TeknolojiKentleşme" [ref=e69] [cursor=pointer]':
+              - /url: /project/2
+              - generic [ref=e70]:
+                - img "SEYHAN NÖRON (Yapay Zeka Destekli Kentsel Karar Destek Sistemi)" [ref=e71]
+                - generic [ref=e72]:
+                  - heading "SEYHAN NÖRON (Yapay Zeka Destekli Kentsel Karar Destek Sistemi)" [level=3] [ref=e73]
+                  - paragraph [ref=e74]: "**Döküman Tipi:** Proje Uygulama Planı ve Teknik Şartname Taslağı **Durum:** Planlama Aşaması **Sorumlu Birim:** Strateji Geliştirme Müdürlüğü & Bilgi İşlem Müdürlüğü --- ## 1. ARAŞTIRMA VE ANALİZ (RESEARCH & ANALYSIS) ### 1.1. Problem Tanımı Geleneksel belediyecilikte kararlar, genellikle reaktif o..."
+                  - generic [ref=e75]: TeknolojiKentleşme
+            - 'link "FIBER-SEYHAN (Belediye Özel Fiber Optik İletişim Ağı) FIBER-SEYHAN (Belediye Özel Fiber Optik İletişim Ağı) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Fiber-Seyhan: Akıllı Şehir Altyapı Omurgası (Backbone) * **Uygulayıcı Birim:** Bilgi İşlem Müdürlüğü ve Fen İşleri Müdürlüğü * **Proje Kategorisi:** Altyapı ve Teknolojik Bağımsızlık * **Tahmini Başlangıç/Bitiş:** 01.06.2025 ... Kentleşme" [ref=e77] [cursor=pointer]':
+              - /url: /project/3
+              - generic [ref=e78]:
+                - img "FIBER-SEYHAN (Belediye Özel Fiber Optik İletişim Ağı)" [ref=e79]
+                - generic [ref=e80]:
+                  - heading "FIBER-SEYHAN (Belediye Özel Fiber Optik İletişim Ağı)" [level=3] [ref=e81]
+                  - paragraph [ref=e82]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Fiber-Seyhan: Akıllı Şehir Altyapı Omurgası (Backbone) * **Uygulayıcı Birim:** Bilgi İşlem Müdürlüğü ve Fen İşleri Müdürlüğü * **Proje Kategorisi:** Altyapı ve Teknolojik Bağımsızlık * **Tahmini Başlangıç/Bitiş:** 01.06.2025 ..."
+                  - generic [ref=e83]: Kentleşme
+            - 'link "YETENEK MADENCİLİĞİ VE MUTLULUK ENDEKSİ (HR 2.0) YETENEK MADENCİLİĞİ VE MUTLULUK ENDEKSİ (HR 2.0) **Döküman Tipi:** İnsan Kaynakları Dönüşüm Stratejisi **Durum:** Konsept Tasarım **Sorumlu Birim:** İnsan Kaynakları ve Eğitim Müdürlüğü --- ## 1. ARAŞTIRMA VE ANALİZ (RESEARCH & ANALYSIS) ### 1.1. Problem Tanımı Kamu sektöründe çalışan bağlılığının düşük olması, \"Memur Zihniyeti\" (sadece mesai dold... Genel" [ref=e85] [cursor=pointer]':
+              - /url: /project/4
+              - generic [ref=e86]:
+                - img "YETENEK MADENCİLİĞİ VE MUTLULUK ENDEKSİ (HR 2.0)" [ref=e87]
+                - generic [ref=e88]:
+                  - heading "YETENEK MADENCİLİĞİ VE MUTLULUK ENDEKSİ (HR 2.0)" [level=3] [ref=e89]
+                  - paragraph [ref=e90]: "**Döküman Tipi:** İnsan Kaynakları Dönüşüm Stratejisi **Durum:** Konsept Tasarım **Sorumlu Birim:** İnsan Kaynakları ve Eğitim Müdürlüğü --- ## 1. ARAŞTIRMA VE ANALİZ (RESEARCH & ANALYSIS) ### 1.1. Problem Tanımı Kamu sektöründe çalışan bağlılığının düşük olması, \"Memur Zihniyeti\" (sadece mesai dold..."
+                  - generic [ref=e91]: Genel
+            - 'link "SEYHAN DİJİTAL İKİZ (DIGITAL TWIN) SEYHAN DİJİTAL İKİZ (DIGITAL TWIN) **Döküman Tipi:** Kentsel Planlama ve Teknoloji Projesi **Durum:** Ar-Ge Aşaması **Sorumlu Birim:** İmar ve Şehircilik Müdürlüğü & Bilgi İşlem Müdürlüğü --- ## 1. ARAŞTIRMA VE ANALİZ (RESEARCH & ANALYSIS) ### 1.1. Problem Tanımı Karmaşık kent yapısında, alınacak bir kararın (yeni bir yol, park veya ... Kentleşme" [ref=e93] [cursor=pointer]':
+              - /url: /project/5
+              - generic [ref=e94]:
+                - img "SEYHAN DİJİTAL İKİZ (DIGITAL TWIN)" [ref=e95]
+                - generic [ref=e96]:
+                  - heading "SEYHAN DİJİTAL İKİZ (DIGITAL TWIN)" [level=3] [ref=e97]
+                  - paragraph [ref=e98]: "**Döküman Tipi:** Kentsel Planlama ve Teknoloji Projesi **Durum:** Ar-Ge Aşaması **Sorumlu Birim:** İmar ve Şehircilik Müdürlüğü & Bilgi İşlem Müdürlüğü --- ## 1. ARAŞTIRMA VE ANALİZ (RESEARCH & ANALYSIS) ### 1.1. Problem Tanımı Karmaşık kent yapısında, alınacak bir kararın (yeni bir yol, park veya ..."
+                  - generic [ref=e99]: Kentleşme
+            - 'link "E-SEYHAN SUPERAPP (Bütünleşik Kent ve Sadakat Uygulaması) E-SEYHAN SUPERAPP (Bütünleşik Kent ve Sadakat Uygulaması) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** e-Seyhan: Dijital Vatandaşlık ve Ödül Platformu * **Uygulayıcı Birim:** Basın Yayın ve Halkla İlişkiler & Bilgi İşlem Müdürlüğü * **Proje Kategorisi:** Vatandaş Etkileşimi ve Mobilite * **Tahmini Başlangıç/Bitiş:** 01.04.2025... Kentleşme" [ref=e101] [cursor=pointer]':
+              - /url: /project/6
+              - generic [ref=e102]:
+                - img "E-SEYHAN SUPERAPP (Bütünleşik Kent ve Sadakat Uygulaması)" [ref=e103]
+                - generic [ref=e104]:
+                  - heading "E-SEYHAN SUPERAPP (Bütünleşik Kent ve Sadakat Uygulaması)" [level=3] [ref=e105]
+                  - paragraph [ref=e106]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** e-Seyhan: Dijital Vatandaşlık ve Ödül Platformu * **Uygulayıcı Birim:** Basın Yayın ve Halkla İlişkiler & Bilgi İşlem Müdürlüğü * **Proje Kategorisi:** Vatandaş Etkileşimi ve Mobilite * **Tahmini Başlangıç/Bitiş:** 01.04.2025..."
+                  - generic [ref=e107]: Kentleşme
+            - 'link "SEYHAN İYİLİK CÜZDANI (BLOCKCHAIN SOSYAL YARDIM) SEYHAN İYİLİK CÜZDANI (BLOCKCHAIN SOSYAL YARDIM) **Döküman Tipi:** Sosyal İnovasyon Projesi **Durum:** Fizibilite Aşaması **Sorumlu Birim:** Sosyal Yardım İşleri Müdürlüğü --- ## 1. ARAŞTIRMA VE ANALİZ (RESEARCH & ANALYSIS) ### 1.1. Problem Tanımı Klasik sosyal yardım kolisi dağıtımı insan onurunu zedeleyebilmekte, lojistik maliyet yaratmakta ve ş... Kentleşme" [ref=e109] [cursor=pointer]':
+              - /url: /project/7
+              - generic [ref=e110]:
+                - img "SEYHAN İYİLİK CÜZDANI (BLOCKCHAIN SOSYAL YARDIM)" [ref=e111]
+                - generic [ref=e112]:
+                  - heading "SEYHAN İYİLİK CÜZDANI (BLOCKCHAIN SOSYAL YARDIM)" [level=3] [ref=e113]
+                  - paragraph [ref=e114]: "**Döküman Tipi:** Sosyal İnovasyon Projesi **Durum:** Fizibilite Aşaması **Sorumlu Birim:** Sosyal Yardım İşleri Müdürlüğü --- ## 1. ARAŞTIRMA VE ANALİZ (RESEARCH & ANALYSIS) ### 1.1. Problem Tanımı Klasik sosyal yardım kolisi dağıtımı insan onurunu zedeleyebilmekte, lojistik maliyet yaratmakta ve ş..."
+                  - generic [ref=e115]: Kentleşme
+            - 'link "SİBER-ZABITA (Dijital Delil ve Akıllı Denetim Sistemi) SİBER-ZABITA (Dijital Delil ve Akıllı Denetim Sistemi) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Siber-Zabıta: Yaka Kamerası ve Yapay Zeka Destekli Denetim Ağı * **Uygulayıcı Birim:** Zabıta Müdürlüğü ve Bilgi İşlem Müdürlüğü * **Proje Kategorisi:** Kamu Düzeni ve Şeffaflık * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.... Teknoloji" [ref=e117] [cursor=pointer]':
+              - /url: /project/8
+              - generic [ref=e118]:
+                - img "SİBER-ZABITA (Dijital Delil ve Akıllı Denetim Sistemi)" [ref=e119]
+                - generic [ref=e120]:
+                  - heading "SİBER-ZABITA (Dijital Delil ve Akıllı Denetim Sistemi)" [level=3] [ref=e121]
+                  - paragraph [ref=e122]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Siber-Zabıta: Yaka Kamerası ve Yapay Zeka Destekli Denetim Ağı * **Uygulayıcı Birim:** Zabıta Müdürlüğü ve Bilgi İşlem Müdürlüğü * **Proje Kategorisi:** Kamu Düzeni ve Şeffaflık * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01...."
+                  - generic [ref=e123]: Teknoloji
+            - 'link "AKILLI SATINALMA VE ŞEFFAF İHALE PLATFORMU AKILLI SATINALMA VE ŞEFFAF İHALE PLATFORMU **Döküman Tipi:** Mali Yönetim ve Denetim Projesi **Durum:** Tasarım Aşaması **Sorumlu Birim:** Mali Hizmetler Müdürlüğü & Destek Hizmetleri --- ## 1. ARAŞTIRMA VE ANALİZ (RESEARCH & ANALYSIS) ### 1.1. Problem Tanımı Kamu ihalelerinde şeffaflık eksikliği algısı, rekabetin düşüklüğü ve \"en düşük fiya... Genel" [ref=e125] [cursor=pointer]':
+              - /url: /project/9
+              - generic [ref=e126]:
+                - img "AKILLI SATINALMA VE ŞEFFAF İHALE PLATFORMU" [ref=e127]
+                - generic [ref=e128]:
+                  - heading "AKILLI SATINALMA VE ŞEFFAF İHALE PLATFORMU" [level=3] [ref=e129]
+                  - paragraph [ref=e130]: "**Döküman Tipi:** Mali Yönetim ve Denetim Projesi **Durum:** Tasarım Aşaması **Sorumlu Birim:** Mali Hizmetler Müdürlüğü & Destek Hizmetleri --- ## 1. ARAŞTIRMA VE ANALİZ (RESEARCH & ANALYSIS) ### 1.1. Problem Tanımı Kamu ihalelerinde şeffaflık eksikliği algısı, rekabetin düşüklüğü ve \"en düşük fiya..."
+                  - generic [ref=e131]: Genel
+            - 'link "PARK-IOT (Akıllı Park Sulama ve Bitki İzleme Ağı) PARK-IOT (Akıllı Park Sulama ve Bitki İzleme Ağı) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Park-IoT: LoRaWAN Tabanlı Veriye Dayalı Peyzaj Yönetimi * **Uygulayıcı Birim:** Park ve Bahçeler Müdürlüğü * **Proje Kategorisi:** Çevre ve Su Yönetimi * **Tahmini Başlangıç/Bitiş:** 01.03.2025 - 01.09.2025 (Pilot: 6 Ay) * ... Genel" [ref=e133] [cursor=pointer]':
+              - /url: /project/10
+              - generic [ref=e134]:
+                - img "PARK-IOT (Akıllı Park Sulama ve Bitki İzleme Ağı)" [ref=e135]
+                - generic [ref=e136]:
+                  - heading "PARK-IOT (Akıllı Park Sulama ve Bitki İzleme Ağı)" [level=3] [ref=e137]
+                  - paragraph [ref=e138]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Park-IoT: LoRaWAN Tabanlı Veriye Dayalı Peyzaj Yönetimi * **Uygulayıcı Birim:** Park ve Bahçeler Müdürlüğü * **Proje Kategorisi:** Çevre ve Su Yönetimi * **Tahmini Başlangıç/Bitiş:** 01.03.2025 - 01.09.2025 (Pilot: 6 Ay) * ..."
+                  - generic [ref=e139]: Genel
+            - 'link "SEYHAN DRONE FİLOSU (Otonom Hava Denetim Timi) SEYHAN DRONE FİLOSU (Otonom Hava Denetim Timi) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Gözcü: Otonom İHA İstasyonu ve Yapı Denetim Sistemi * **Uygulayıcı Birim:** İmar ve Şehircilik Müdürlüğü & Yapı Kontrol Müdürlüğü * **Proje Kategorisi:** Akıllı Denetim ve Afet Hazırlığı * **Tahmini Başlangıç/Bitiş:** ... Kentleşme" [ref=e141] [cursor=pointer]':
+              - /url: /project/11
+              - generic [ref=e142]:
+                - img "SEYHAN DRONE FİLOSU (Otonom Hava Denetim Timi)" [ref=e143]
+                - generic [ref=e144]:
+                  - heading "SEYHAN DRONE FİLOSU (Otonom Hava Denetim Timi)" [level=3] [ref=e145]
+                  - paragraph [ref=e146]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Gözcü: Otonom İHA İstasyonu ve Yapı Denetim Sistemi * **Uygulayıcı Birim:** İmar ve Şehircilik Müdürlüğü & Yapı Kontrol Müdürlüğü * **Proje Kategorisi:** Akıllı Denetim ve Afet Hazırlığı * **Tahmini Başlangıç/Bitiş:** ..."
+                  - generic [ref=e147]: Kentleşme
+            - 'link "SANAL TURİZM MASASI (VR Seyhan Deneyimi) SANAL TURİZM MASASI (VR Seyhan Deneyimi) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan VR: Tarihi Mirasın Dijital İkizi ve Sanal Müze * **Uygulayıcı Birim:** Kültür ve Sosyal İşler Müdürlüğü * **Proje Kategorisi:** Kültür Sanat ve Dijital Turizm * **Tahmini Başlangıç/Bitiş:** 01.04.2025 - 01.08.2025 (4 A... Kentleşme" [ref=e149] [cursor=pointer]':
+              - /url: /project/12
+              - generic [ref=e150]:
+                - img "SANAL TURİZM MASASI (VR Seyhan Deneyimi)" [ref=e151]
+                - generic [ref=e152]:
+                  - heading "SANAL TURİZM MASASI (VR Seyhan Deneyimi)" [level=3] [ref=e153]
+                  - paragraph [ref=e154]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan VR: Tarihi Mirasın Dijital İkizi ve Sanal Müze * **Uygulayıcı Birim:** Kültür ve Sosyal İşler Müdürlüğü * **Proje Kategorisi:** Kültür Sanat ve Dijital Turizm * **Tahmini Başlangıç/Bitiş:** 01.04.2025 - 01.08.2025 (4 A..."
+                  - generic [ref=e155]: Kentleşme
+            - 'link "SEYHAN-CHAIN (Blokzincir Tabanlı Belge Güvenliği) SEYHAN-CHAIN (Blokzincir Tabanlı Belge Güvenliği) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan-Chain: Değiştirilemez Dijital Arşiv ve Ruhsat Doğrulama Sistemi * **Uygulayıcı Birim:** Bilgi İşlem Müdürlüğü / İmar ve Şehircilik Müdürlüğü * **Proje Kategorisi:** Siber Güvenlik ve İnovasyon * **Tahmini Başlangıç/Bit... Kentleşme" [ref=e157] [cursor=pointer]':
+              - /url: /project/13
+              - generic [ref=e158]:
+                - img "SEYHAN-CHAIN (Blokzincir Tabanlı Belge Güvenliği)" [ref=e159]
+                - generic [ref=e160]:
+                  - heading "SEYHAN-CHAIN (Blokzincir Tabanlı Belge Güvenliği)" [level=3] [ref=e161]
+                  - paragraph [ref=e162]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan-Chain: Değiştirilemez Dijital Arşiv ve Ruhsat Doğrulama Sistemi * **Uygulayıcı Birim:** Bilgi İşlem Müdürlüğü / İmar ve Şehircilik Müdürlüğü * **Proje Kategorisi:** Siber Güvenlik ve İnovasyon * **Tahmini Başlangıç/Bit..."
+                  - generic [ref=e163]: Kentleşme
+            - 'link "AÇIK VERİ PORTALI (Open-Seyhan) AÇIK VERİ PORTALI (Open-Seyhan) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Open-Seyhan: Veri Demokrasisi ve İnovasyon Portalı * **Uygulayıcı Birim:** Strateji Geliştirme Müdürlüğü & Bilgi İşlem * **Proje Kategorisi:** Şeffaflık ve Girişimcilik * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.09.2025 (... Kentleşme" [ref=e165] [cursor=pointer]':
+              - /url: /project/14
+              - generic [ref=e166]:
+                - img "AÇIK VERİ PORTALI (Open-Seyhan)" [ref=e167]
+                - generic [ref=e168]:
+                  - heading "AÇIK VERİ PORTALI (Open-Seyhan)" [level=3] [ref=e169]
+                  - paragraph [ref=e170]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Open-Seyhan: Veri Demokrasisi ve İnovasyon Portalı * **Uygulayıcı Birim:** Strateji Geliştirme Müdürlüğü & Bilgi İşlem * **Proje Kategorisi:** Şeffaflık ve Girişimcilik * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.09.2025 (..."
+                  - generic [ref=e171]: Kentleşme
+            - 'link "AKILLI DURAK AĞI (Seyhan Smart-Stop) AKILLI DURAK AĞI (Seyhan Smart-Stop) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Smart-Stop: Kendi Enerjisini Üreten Yeni Nesil Duraklar * **Uygulayıcı Birim:** Ulaşım Hizmetleri Müdürlüğü / Fen İşleri * **Proje Kategorisi:** Kentsel Estetik ve Ulaşım * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.... Kentleşme" [ref=e173] [cursor=pointer]':
+              - /url: /project/15
+              - generic [ref=e174]:
+                - img "AKILLI DURAK AĞI (Seyhan Smart-Stop)" [ref=e175]
+                - generic [ref=e176]:
+                  - heading "AKILLI DURAK AĞI (Seyhan Smart-Stop)" [level=3] [ref=e177]
+                  - paragraph [ref=e178]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Smart-Stop: Kendi Enerjisini Üreten Yeni Nesil Duraklar * **Uygulayıcı Birim:** Ulaşım Hizmetleri Müdürlüğü / Fen İşleri * **Proje Kategorisi:** Kentsel Estetik ve Ulaşım * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01...."
+                  - generic [ref=e179]: Kentleşme
+            - 'link "GIDA BANKACILIĞI 4.0 (Taze Gıda Kurtarma Zinciri) GIDA BANKACILIĞI 4.0 (Taze Gıda Kurtarma Zinciri) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Taze Paylaşım Ağı: Market Atıklarını Fırsata Dönüştürme * **Uygulayıcı Birim:** Sosyal Yardım İşleri & Temizlik İşleri Müdürlüğü * **Proje Kategorisi:** Sosyal İnovasyon ve Sıfır Atık * **Tahmini Başlangıç/Bitiş:** 01.... TarımAfet Yönetimi" [ref=e181] [cursor=pointer]':
+              - /url: /project/16
+              - generic [ref=e182]:
+                - img "GIDA BANKACILIĞI 4.0 (Taze Gıda Kurtarma Zinciri)" [ref=e183]
+                - generic [ref=e184]:
+                  - heading "GIDA BANKACILIĞI 4.0 (Taze Gıda Kurtarma Zinciri)" [level=3] [ref=e185]
+                  - paragraph [ref=e186]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Taze Paylaşım Ağı: Market Atıklarını Fırsata Dönüştürme * **Uygulayıcı Birim:** Sosyal Yardım İşleri & Temizlik İşleri Müdürlüğü * **Proje Kategorisi:** Sosyal İnovasyon ve Sıfır Atık * **Tahmini Başlangıç/Bitiş:** 01...."
+                  - generic [ref=e187]: TarımAfet Yönetimi
+            - 'link "ASKIDA FATURA - BLOKZİNCİR (Şeffaf İyilik Platformu) ASKIDA FATURA - BLOKZİNCİR (Şeffaf İyilik Platformu) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan İyilik Zinciri: Kripto Şeffaflığında Sosyal Dayanışma * **Uygulayıcı Birim:** Bilgi İşlem Müdürlüğü & Sosyal Yardım İşleri * **Proje Kategorisi:** Sosyal İnovasyon ve Fintech * **Tahmini Başlangıç/Bitiş:** 01.05.2025 -... Genel" [ref=e189] [cursor=pointer]':
+              - /url: /project/17
+              - generic [ref=e190]:
+                - img "ASKIDA FATURA - BLOKZİNCİR (Şeffaf İyilik Platformu)" [ref=e191]
+                - generic [ref=e192]:
+                  - heading "ASKIDA FATURA - BLOKZİNCİR (Şeffaf İyilik Platformu)" [level=3] [ref=e193]
+                  - paragraph [ref=e194]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan İyilik Zinciri: Kripto Şeffaflığında Sosyal Dayanışma * **Uygulayıcı Birim:** Bilgi İşlem Müdürlüğü & Sosyal Yardım İşleri * **Proje Kategorisi:** Sosyal İnovasyon ve Fintech * **Tahmini Başlangıç/Bitiş:** 01.05.2025 -..."
+                  - generic [ref=e195]: Genel
+            - 'link "KADIN EMEĞİ PAZAR YERİ VE MİKRO-İHRACAT (Dijital Hanımağa) KADIN EMEĞİ PAZAR YERİ VE MİKRO-İHRACAT (Dijital Hanımağa) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Kadın Kooperatifi 2.0: Yerelden Globale E-Ticaret * **Uygulayıcı Birim:** Kadın ve Aile Hizmetleri & Dış İlişkiler Müdürlüğü * **Proje Kategorisi:** Kadın İstihdamı ve Ekonomik Kalkınma * **Tahmini Başlangıç/Bitiş:** 0... Teknoloji" [ref=e197] [cursor=pointer]':
+              - /url: /project/18
+              - generic [ref=e198]:
+                - img "KADIN EMEĞİ PAZAR YERİ VE MİKRO-İHRACAT (Dijital Hanımağa)" [ref=e199]
+                - generic [ref=e200]:
+                  - heading "KADIN EMEĞİ PAZAR YERİ VE MİKRO-İHRACAT (Dijital Hanımağa)" [level=3] [ref=e201]
+                  - paragraph [ref=e202]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Kadın Kooperatifi 2.0: Yerelden Globale E-Ticaret * **Uygulayıcı Birim:** Kadın ve Aile Hizmetleri & Dış İlişkiler Müdürlüğü * **Proje Kategorisi:** Kadın İstihdamı ve Ekonomik Kalkınma * **Tahmini Başlangıç/Bitiş:** 0..."
+                  - generic [ref=e203]: Teknoloji
+            - 'link "ENGELSİZ ROTA VE ERİŞİLEBİLİRLİK HARİTASI ENGELSİZ ROTA VE ERİŞİLEBİLİRLİK HARİTASI ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan WheelMap: Erişilebilir Kent Navigasyonu * **Uygulayıcı Birim:** Fen İşleri Müdürlüğü & Sosyal Yardım İşleri * **Proje Kategorisi:** Akıllı Ulaşım ve Sosyal İçerme * **Tahmini Başlangıç/Bitiş:** 01.04.2025 - 01.09.2025 ... Genel" [ref=e205] [cursor=pointer]':
+              - /url: /project/19
+              - generic [ref=e206]:
+                - img "ENGELSİZ ROTA VE ERİŞİLEBİLİRLİK HARİTASI" [ref=e207]
+                - generic [ref=e208]:
+                  - heading "ENGELSİZ ROTA VE ERİŞİLEBİLİRLİK HARİTASI" [level=3] [ref=e209]
+                  - paragraph [ref=e210]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan WheelMap: Erişilebilir Kent Navigasyonu * **Uygulayıcı Birim:** Fen İşleri Müdürlüğü & Sosyal Yardım İşleri * **Proje Kategorisi:** Akıllı Ulaşım ve Sosyal İçerme * **Tahmini Başlangıç/Bitiş:** 01.04.2025 - 01.09.2025 ..."
+                  - generic [ref=e211]: Genel
+            - 'link "PSİKOLOJİK İLK YARDIM HATTI VE CHATBOT PSİKOLOJİK İLK YARDIM HATTI VE CHATBOT ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan-Can: 7/24 Dijital Psikososyal Destek Asistanı * **Uygulayıcı Birim:** Sağlık İşleri Müdürlüğü & Bilgi İşlem * **Proje Kategorisi:** Toplum Sağlığı ve Yapay Zeka * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.10.2025 (5... Genel" [ref=e213] [cursor=pointer]':
+              - /url: /project/20
+              - generic [ref=e214]:
+                - img "PSİKOLOJİK İLK YARDIM HATTI VE CHATBOT" [ref=e215]
+                - generic [ref=e216]:
+                  - heading "PSİKOLOJİK İLK YARDIM HATTI VE CHATBOT" [level=3] [ref=e217]
+                  - paragraph [ref=e218]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan-Can: 7/24 Dijital Psikososyal Destek Asistanı * **Uygulayıcı Birim:** Sağlık İşleri Müdürlüğü & Bilgi İşlem * **Proje Kategorisi:** Toplum Sağlığı ve Yapay Zeka * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.10.2025 (5..."
+                  - generic [ref=e219]: Genel
+            - 'link "MÜLTECİ ENTEGRASYON VE ÜRETİM ATÖLYELERİ (Kardeşlik Fabrikası) MÜLTECİ ENTEGRASYON VE ÜRETİM ATÖLYELERİ (Kardeşlik Fabrikası) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Ortak Gelecek Atölyesi: Meslek, Dil ve Uyum Merkezi * **Uygulayıcı Birim:** Dış İlişkiler Müdürlüğü & Sosyal Yardım İşleri * **Proje Kategorisi:** Sosyal Uyum ve İstihdam * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.... Genel" [ref=e221] [cursor=pointer]':
+              - /url: /project/21
+              - generic [ref=e222]:
+                - img "MÜLTECİ ENTEGRASYON VE ÜRETİM ATÖLYELERİ (Kardeşlik Fabrikası)" [ref=e223]
+                - generic [ref=e224]:
+                  - heading "MÜLTECİ ENTEGRASYON VE ÜRETİM ATÖLYELERİ (Kardeşlik Fabrikası)" [level=3] [ref=e225]
+                  - paragraph [ref=e226]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Ortak Gelecek Atölyesi: Meslek, Dil ve Uyum Merkezi * **Uygulayıcı Birim:** Dış İlişkiler Müdürlüğü & Sosyal Yardım İşleri * **Proje Kategorisi:** Sosyal Uyum ve İstihdam * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01...."
+                  - generic [ref=e227]: Genel
+            - 'link "SEYHAN ÇOCUK KART (Akıllı Beslenme ve Destek Sistemi) SEYHAN ÇOCUK KART (Akıllı Beslenme ve Destek Sistemi) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Beslenme Dostu Okul Kartı * **Uygulayıcı Birim:** Sosyal Yardım İşleri & Bilgi İşlem Müdürlüğü * **Proje Kategorisi:** Çocuk Sağlığı ve Sosyal Yardım * **Tahmini Başlangıç/Bitiş:** 01.09.2025 - 01.06.2026 (Öğretim Yılı... SosyalKentleşme" [ref=e229] [cursor=pointer]':
+              - /url: /project/22
+              - generic [ref=e230]:
+                - img "SEYHAN ÇOCUK KART (Akıllı Beslenme ve Destek Sistemi)" [ref=e231]
+                - generic [ref=e232]:
+                  - heading "SEYHAN ÇOCUK KART (Akıllı Beslenme ve Destek Sistemi)" [level=3] [ref=e233]
+                  - paragraph [ref=e234]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Beslenme Dostu Okul Kartı * **Uygulayıcı Birim:** Sosyal Yardım İşleri & Bilgi İşlem Müdürlüğü * **Proje Kategorisi:** Çocuk Sağlığı ve Sosyal Yardım * **Tahmini Başlangıç/Bitiş:** 01.09.2025 - 01.06.2026 (Öğretim Yılı..."
+                  - generic [ref=e235]: SosyalKentleşme
+            - 'link "EVSİZLER İÇİN MOBİL DUŞ VE BAKIM ÜNİTESİ EVSİZLER İÇİN MOBİL DUŞ VE BAKIM ÜNİTESİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Temiz Hayat Otobüsü (Mobil Hijyen İstasyonu) * **Uygulayıcı Birim:** Sosyal Yardım İşleri & Makine İkmal Müdürlüğü * **Proje Kategorisi:** İnsani Yardım ve Halk Sağlığı * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.08... Genel" [ref=e237] [cursor=pointer]':
+              - /url: /project/23
+              - generic [ref=e238]:
+                - img "EVSİZLER İÇİN MOBİL DUŞ VE BAKIM ÜNİTESİ" [ref=e239]
+                - generic [ref=e240]:
+                  - heading "EVSİZLER İÇİN MOBİL DUŞ VE BAKIM ÜNİTESİ" [level=3] [ref=e241]
+                  - paragraph [ref=e242]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Temiz Hayat Otobüsü (Mobil Hijyen İstasyonu) * **Uygulayıcı Birim:** Sosyal Yardım İşleri & Makine İkmal Müdürlüğü * **Proje Kategorisi:** İnsani Yardım ve Halk Sağlığı * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.08..."
+                  - generic [ref=e243]: Genel
+            - 'link "YAŞLILAR İÇİN ''TORUN'' PROJESİ (Kuşaklararası Köprü) YAŞLILAR İÇİN ''TORUN'' PROJESİ (Kuşaklararası Köprü) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Manevi Torun Programı: Nesiller Buluşuyor * **Uygulayıcı Birim:** Sosyal Yardım İşleri & Gençlik Hizmetleri * **Proje Kategorisi:** Yaşlı Bakımı ve Gençlik * **Tahmini Başlangıç/Bitiş:** 01.10.2025 - 01.06.2026 (Akadem... Genel" [ref=e245] [cursor=pointer]':
+              - /url: /project/24
+              - generic [ref=e246]:
+                - img "YAŞLILAR İÇİN 'TORUN' PROJESİ (Kuşaklararası Köprü)" [ref=e247]
+                - generic [ref=e248]:
+                  - heading "YAŞLILAR İÇİN 'TORUN' PROJESİ (Kuşaklararası Köprü)" [level=3] [ref=e249]
+                  - paragraph [ref=e250]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Manevi Torun Programı: Nesiller Buluşuyor * **Uygulayıcı Birim:** Sosyal Yardım İşleri & Gençlik Hizmetleri * **Proje Kategorisi:** Yaşlı Bakımı ve Gençlik * **Tahmini Başlangıç/Bitiş:** 01.10.2025 - 01.06.2026 (Akadem..."
+                  - generic [ref=e251]: Genel
+            - 'link "KENT BOSTANLARI VE MAHALLE BAHÇELERİ KENT BOSTANLARI VE MAHALLE BAHÇELERİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Toprak Ana: Kentsel Tarım ve Komşuluk Alanları * **Uygulayıcı Birim:** Park ve Bahçeler Müdürlüğü * **Proje Kategorisi:** Ekoloji ve Gıda Güvenliği * **Tahmini Başlangıç/Bitiş:** 01.03.2025 - 01.09.2025 (6 Ay) * **Ko... Kentleşme" [ref=e253] [cursor=pointer]':
+              - /url: /project/25
+              - generic [ref=e254]:
+                - img "KENT BOSTANLARI VE MAHALLE BAHÇELERİ" [ref=e255]
+                - generic [ref=e256]:
+                  - heading "KENT BOSTANLARI VE MAHALLE BAHÇELERİ" [level=3] [ref=e257]
+                  - paragraph [ref=e258]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Toprak Ana: Kentsel Tarım ve Komşuluk Alanları * **Uygulayıcı Birim:** Park ve Bahçeler Müdürlüğü * **Proje Kategorisi:** Ekoloji ve Gıda Güvenliği * **Tahmini Başlangıç/Bitiş:** 01.03.2025 - 01.09.2025 (6 Ay) * **Ko..."
+                  - generic [ref=e259]: Kentleşme
+            - 'link "SEYHAN HUB (Yaratıcı Endüstriler Üssü ve FabLab) SEYHAN HUB (Yaratıcı Endüstriler Üssü ve FabLab) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Yaratıcı Üs: İnovasyon ve Prototipleme Merkezi * **Uygulayıcı Birim:** İşletme ve İştirakler Müdürlüğü & AR-GE * **Proje Kategorisi:** Yerel Ekonomi ve İstihdam * **Tahmini Başlangıç/Bitiş:** 01.09.2025 - 01.05.2026 (8... Kentleşme" [ref=e261] [cursor=pointer]':
+              - /url: /project/26
+              - generic [ref=e262]:
+                - img "SEYHAN HUB (Yaratıcı Endüstriler Üssü ve FabLab)" [ref=e263]
+                - generic [ref=e264]:
+                  - heading "SEYHAN HUB (Yaratıcı Endüstriler Üssü ve FabLab)" [level=3] [ref=e265]
+                  - paragraph [ref=e266]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Yaratıcı Üs: İnovasyon ve Prototipleme Merkezi * **Uygulayıcı Birim:** İşletme ve İştirakler Müdürlüğü & AR-GE * **Proje Kategorisi:** Yerel Ekonomi ve İstihdam * **Tahmini Başlangıç/Bitiş:** 01.09.2025 - 01.05.2026 (8..."
+                  - generic [ref=e267]: Kentleşme
+            - 'link "MİKRO-FİNANS FONU (Girişimci Kadınlar İçin Can Suyu) MİKRO-FİNANS FONU (Girişimci Kadınlar İçin Can Suyu) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Altın Bilezik Fonu: Güven Temelli Mikro Kredi * **Uygulayıcı Birim:** Sosyal Yardım İşleri & Strateji Geliştirme (Partner Vakıf Üzerinden) * **Proje Kategorisi:** Sosyal Ekonomi * **Tahmini Başlangıç/Bitiş:** 01.06.202... Sosyal" [ref=e269] [cursor=pointer]':
+              - /url: /project/27
+              - generic [ref=e270]:
+                - img "MİKRO-FİNANS FONU (Girişimci Kadınlar İçin Can Suyu)" [ref=e271]
+                - generic [ref=e272]:
+                  - heading "MİKRO-FİNANS FONU (Girişimci Kadınlar İçin Can Suyu)" [level=3] [ref=e273]
+                  - paragraph [ref=e274]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Altın Bilezik Fonu: Güven Temelli Mikro Kredi * **Uygulayıcı Birim:** Sosyal Yardım İşleri & Strateji Geliştirme (Partner Vakıf Üzerinden) * **Proje Kategorisi:** Sosyal Ekonomi * **Tahmini Başlangıç/Bitiş:** 01.06.202..."
+                  - generic [ref=e275]: Sosyal
+            - 'link "SEYHAN KARİYER AKADEMİSİ (İş Garantili Teknoloji Eğitimleri) SEYHAN KARİYER AKADEMİSİ (İş Garantili Teknoloji Eğitimleri) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Tech: Yeni Nesil Yetenek Dönüşüm Programı * **Uygulayıcı Birim:** İnsan Kaynakları & Seyhan Tekmer * **Proje Kategorisi:** Eğitim ve İstihdam * **Tahmini Başlangıç/Bitiş:** 01.10.2025 - Sürekli (6 Aylık Dönemler) * *... TeknolojiKentleşme" [ref=e277] [cursor=pointer]':
+              - /url: /project/28
+              - generic [ref=e278]:
+                - img "SEYHAN KARİYER AKADEMİSİ (İş Garantili Teknoloji Eğitimleri)" [ref=e279]
+                - generic [ref=e280]:
+                  - heading "SEYHAN KARİYER AKADEMİSİ (İş Garantili Teknoloji Eğitimleri)" [level=3] [ref=e281]
+                  - paragraph [ref=e282]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Tech: Yeni Nesil Yetenek Dönüşüm Programı * **Uygulayıcı Birim:** İnsan Kaynakları & Seyhan Tekmer * **Proje Kategorisi:** Eğitim ve İstihdam * **Tahmini Başlangıç/Bitiş:** 01.10.2025 - Sürekli (6 Aylık Dönemler) * *..."
+                  - generic [ref=e283]: TeknolojiKentleşme
+            - 'link "GASTRONOMİ İNKÜBATÖRÜ VE ORTAK MUTFAK GASTRONOMİ İNKÜBATÖRÜ VE ORTAK MUTFAK ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Lezzet Laboratuvarı: Profesyonel Gıda Kuluçkası * **Uygulayıcı Birim:** Zabıta Müdürlüğü & İşletme İştirakler * **Proje Kategorisi:** Yerel Ekonomi / Gıda * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.11.2025 (6 Ay) *... Genel" [ref=e285] [cursor=pointer]':
+              - /url: /project/29
+              - generic [ref=e286]:
+                - img "GASTRONOMİ İNKÜBATÖRÜ VE ORTAK MUTFAK" [ref=e287]
+                - generic [ref=e288]:
+                  - heading "GASTRONOMİ İNKÜBATÖRÜ VE ORTAK MUTFAK" [level=3] [ref=e289]
+                  - paragraph [ref=e290]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Lezzet Laboratuvarı: Profesyonel Gıda Kuluçkası * **Uygulayıcı Birim:** Zabıta Müdürlüğü & İşletme İştirakler * **Proje Kategorisi:** Yerel Ekonomi / Gıda * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.11.2025 (6 Ay) *..."
+                  - generic [ref=e291]: Genel
+            - 'link "YEREL ESNAF DİJİTALLEŞME PAKETİ YEREL ESNAF DİJİTALLEŞME PAKETİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Esnafım Dijital: Yerelden Genele Ticaret Köprüsü * **Uygulayıcı Birim:** Bilgi İşlem Müdürlüğü & Basın Yayın * **Proje Kategorisi:** KOBİ Destek * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.12.2025 (Pilot Faz) * **Partner... Genel" [ref=e293] [cursor=pointer]':
+              - /url: /project/30
+              - generic [ref=e294]:
+                - img "YEREL ESNAF DİJİTALLEŞME PAKETİ" [ref=e295]
+                - generic [ref=e296]:
+                  - heading "YEREL ESNAF DİJİTALLEŞME PAKETİ" [level=3] [ref=e297]
+                  - paragraph [ref=e298]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Esnafım Dijital: Yerelden Genele Ticaret Köprüsü * **Uygulayıcı Birim:** Bilgi İşlem Müdürlüğü & Basın Yayın * **Proje Kategorisi:** KOBİ Destek * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.12.2025 (Pilot Faz) * **Partner..."
+                  - generic [ref=e299]: Genel
+            - 'link "KOOPERATİF 2.0 (Dijital Üretici Ağı) KOOPERATİF 2.0 (Dijital Üretici Ağı) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Doğal Ağ: Tarladan Sofraya Akıllı Kooperatif * **Uygulayıcı Birim:** Kırsal Hizmetler & Bilgi İşlem * **Proje Kategorisi:** Tarım ve Teknoloji * **Tahmini Başlangıç/Bitiş:** 01.07.2025 - 01.07.2026 (12 Ay) * **Teknol... Teknoloji" [ref=e301] [cursor=pointer]':
+              - /url: /project/31
+              - generic [ref=e302]:
+                - img "KOOPERATİF 2.0 (Dijital Üretici Ağı)" [ref=e303]
+                - generic [ref=e304]:
+                  - heading "KOOPERATİF 2.0 (Dijital Üretici Ağı)" [level=3] [ref=e305]
+                  - paragraph [ref=e306]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Doğal Ağ: Tarladan Sofraya Akıllı Kooperatif * **Uygulayıcı Birim:** Kırsal Hizmetler & Bilgi İşlem * **Proje Kategorisi:** Tarım ve Teknoloji * **Tahmini Başlangıç/Bitiş:** 01.07.2025 - 01.07.2026 (12 Ay) * **Teknol..."
+                  - generic [ref=e307]: Teknoloji
+            - 'link "SEYHAN SANAL İSTİHDAM FUARI (Metaverse İK) SEYHAN SANAL İSTİHDAM FUARI (Metaverse İK) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Kariyer Verse: 365 Gün Açık İstihdam Fuarı * **Uygulayıcı Birim:** İnsan Kaynakları & Bilgi İşlem * **Proje Kategorisi:** İstihdam Teknolojileri * **Tahmini Başlangıç/Bitiş:** 01.11.2025 (Sürekli Platform) * **Teknol... Kentleşme" [ref=e309] [cursor=pointer]':
+              - /url: /project/32
+              - generic [ref=e310]:
+                - img "SEYHAN SANAL İSTİHDAM FUARI (Metaverse İK)" [ref=e311]
+                - generic [ref=e312]:
+                  - heading "SEYHAN SANAL İSTİHDAM FUARI (Metaverse İK)" [level=3] [ref=e313]
+                  - paragraph [ref=e314]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Kariyer Verse: 365 Gün Açık İstihdam Fuarı * **Uygulayıcı Birim:** İnsan Kaynakları & Bilgi İşlem * **Proje Kategorisi:** İstihdam Teknolojileri * **Tahmini Başlangıç/Bitiş:** 01.11.2025 (Sürekli Platform) * **Teknol..."
+                  - generic [ref=e315]: Kentleşme
+            - 'link "FREELANCE DESTEK OFİSİ (Seyhan Gig Hub) FREELANCE DESTEK OFİSİ (Seyhan Gig Hub) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Freelancer Masası: Genç Girişimci Destek Birimi * **Uygulayıcı Birim:** Mali Hizmetler & Gençlik Hizmetleri * **Proje Kategorisi:** Yeni Ekonomi / Gig Economy * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - Sürekli * **M... Kentleşme" [ref=e317] [cursor=pointer]':
+              - /url: /project/33
+              - generic [ref=e318]:
+                - img "FREELANCE DESTEK OFİSİ (Seyhan Gig Hub)" [ref=e319]
+                - generic [ref=e320]:
+                  - heading "FREELANCE DESTEK OFİSİ (Seyhan Gig Hub)" [level=3] [ref=e321]
+                  - paragraph [ref=e322]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Freelancer Masası: Genç Girişimci Destek Birimi * **Uygulayıcı Birim:** Mali Hizmetler & Gençlik Hizmetleri * **Proje Kategorisi:** Yeni Ekonomi / Gig Economy * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - Sürekli * **M..."
+                  - generic [ref=e323]: Kentleşme
+            - 'link "UNESCO YARATICI ŞEHİR AĞI BAŞVURUSU (2027 Stratejisi) UNESCO YARATICI ŞEHİR AĞI BAŞVURUSU (2027 Stratejisi) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan UNESCO Vizyonu: Dünya Gastronomi/Tasarım Kenti * **Uygulayıcı Birim:** Dış İlişkiler & Kültür Müdürlüğü * **Proje Kategorisi:** Şehir Markalaşması (City Branding) * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.06.2027 ... Genel" [ref=e325] [cursor=pointer]':
+              - /url: /project/34
+              - generic [ref=e326]:
+                - img "UNESCO YARATICI ŞEHİR AĞI BAŞVURUSU (2027 Stratejisi)" [ref=e327]
+                - generic [ref=e328]:
+                  - heading "UNESCO YARATICI ŞEHİR AĞI BAŞVURUSU (2027 Stratejisi)" [level=3] [ref=e329]
+                  - paragraph [ref=e330]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan UNESCO Vizyonu: Dünya Gastronomi/Tasarım Kenti * **Uygulayıcı Birim:** Dış İlişkiler & Kültür Müdürlüğü * **Proje Kategorisi:** Şehir Markalaşması (City Branding) * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.06.2027 ..."
+                  - generic [ref=e331]: Genel
+            - 'link "YATIRIMCI İLİŞKİLERİ BİRİMİ (INVEST IN SEYHAN) YATIRIMCI İLİŞKİLERİ BİRİMİ (INVEST IN SEYHAN) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Yatırım Destek Ofisi: Invest in Seyhan * **Uygulayıcı Birim:** Strateji Geliştirme & Dış İlişkiler * **Proje Kategorisi:** Ekonomik Kalkınma * **Tahmini Başlangıç/Bitiş:** 01.08.2025 - Sürekli * **Mevzuat:** Kalkınma... Kentleşme" [ref=e333] [cursor=pointer]':
+              - /url: /project/35
+              - generic [ref=e334]:
+                - img "YATIRIMCI İLİŞKİLERİ BİRİMİ (INVEST IN SEYHAN)" [ref=e335]
+                - generic [ref=e336]:
+                  - heading "YATIRIMCI İLİŞKİLERİ BİRİMİ (INVEST IN SEYHAN)" [level=3] [ref=e337]
+                  - paragraph [ref=e338]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Yatırım Destek Ofisi: Invest in Seyhan * **Uygulayıcı Birim:** Strateji Geliştirme & Dış İlişkiler * **Proje Kategorisi:** Ekonomik Kalkınma * **Tahmini Başlangıç/Bitiş:** 01.08.2025 - Sürekli * **Mevzuat:** Kalkınma..."
+                  - generic [ref=e339]: Kentleşme
+            - 'link "AKILLI SULAMA SİSTEMLERİ (IoT & NEM SENSÖRÜ) AKILLI SULAMA SİSTEMLERİ (IoT & NEM SENSÖRÜ) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Yeşil-Net: Veriye Dayalı Peyzaj Yönetimi * **Uygulayıcı Birim:** Park ve Bahçeler Müdürlüğü & Bilgi İşlem * **Proje Kategorisi:** Çevre ve Su Yönetimi * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.09.2025 (Pilot Faz) ... Genel" [ref=e341] [cursor=pointer]':
+              - /url: /project/36
+              - generic [ref=e342]:
+                - img "AKILLI SULAMA SİSTEMLERİ (IoT & NEM SENSÖRÜ)"
+                - generic [ref=e343]:
+                  - heading "AKILLI SULAMA SİSTEMLERİ (IoT & NEM SENSÖRÜ)" [level=3] [ref=e344]
+                  - paragraph [ref=e345]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Yeşil-Net: Veriye Dayalı Peyzaj Yönetimi * **Uygulayıcı Birim:** Park ve Bahçeler Müdürlüğü & Bilgi İşlem * **Proje Kategorisi:** Çevre ve Su Yönetimi * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.09.2025 (Pilot Faz) ..."
+                  - generic [ref=e346]: Genel
+            - 'link "DİKEY TARIM İSTASYONLARI (Konteyner Çiftlik) DİKEY TARIM İSTASYONLARI (Konteyner Çiftlik) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Şehir Çiftliği (Urban Farm) * **Uygulayıcı Birim:** Kırsal Hizmetler & Park Bahçeler * **Proje Kategorisi:** Kentsel Tarım / Agrotech * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.12.2025 (6 Ay) * **Teknoloji:** Hid... Genel" [ref=e348] [cursor=pointer]':
+              - /url: /project/37
+              - generic [ref=e349]:
+                - img "DİKEY TARIM İSTASYONLARI (Konteyner Çiftlik)"
+                - generic [ref=e350]:
+                  - heading "DİKEY TARIM İSTASYONLARI (Konteyner Çiftlik)" [level=3] [ref=e351]
+                  - paragraph [ref=e352]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Şehir Çiftliği (Urban Farm) * **Uygulayıcı Birim:** Kırsal Hizmetler & Park Bahçeler * **Proje Kategorisi:** Kentsel Tarım / Agrotech * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.12.2025 (6 Ay) * **Teknoloji:** Hid..."
+                  - generic [ref=e353]: Genel
+            - 'link "BİYOKÜTLE ENERJİ TESİSİ VE ANIZ YÖNETİMİ BİYOKÜTLE ENERJİ TESİSİ VE ANIZ YÖNETİMİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Biyokütle: Atıktan Enerjiye, Külleri Gübreye * **Uygulayıcı Birim:** Temizlik İşleri & Çevre Koruma * **Proje Kategorisi:** Yenilenebilir Enerji * **Tahmini Başlangıç/Bitiş:** 01.09.2025 - 01.09.2027 (24 Ay - Fizibilit... Genel" [ref=e355] [cursor=pointer]':
+              - /url: /project/38
+              - generic [ref=e356]:
+                - img "BİYOKÜTLE ENERJİ TESİSİ VE ANIZ YÖNETİMİ"
+                - generic [ref=e357]:
+                  - heading "BİYOKÜTLE ENERJİ TESİSİ VE ANIZ YÖNETİMİ" [level=3] [ref=e358]
+                  - paragraph [ref=e359]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Biyokütle: Atıktan Enerjiye, Külleri Gübreye * **Uygulayıcı Birim:** Temizlik İşleri & Çevre Koruma * **Proje Kategorisi:** Yenilenebilir Enerji * **Tahmini Başlangıç/Bitiş:** 01.09.2025 - 01.09.2027 (24 Ay - Fizibilit..."
+                  - generic [ref=e360]: Genel
+            - 'link "YEŞİL ÇATI MEVZUATI VE TEŞVİKLERİ YEŞİL ÇATI MEVZUATI VE TEŞVİKLERİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Yeşil Teras: İklim Dostu Çatılar * **Uygulayıcı Birim:** İmar ve Şehircilik Müdürlüğü * **Proje Kategorisi:** Kentsel Dönüşüm / İklim * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - Sürekli * **Yasal Dayanak:** Planlı Al... Genel" [ref=e362] [cursor=pointer]':
+              - /url: /project/39
+              - generic [ref=e363]:
+                - img "YEŞİL ÇATI MEVZUATI VE TEŞVİKLERİ"
+                - generic [ref=e364]:
+                  - heading "YEŞİL ÇATI MEVZUATI VE TEŞVİKLERİ" [level=3] [ref=e365]
+                  - paragraph [ref=e366]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Yeşil Teras: İklim Dostu Çatılar * **Uygulayıcı Birim:** İmar ve Şehircilik Müdürlüğü * **Proje Kategorisi:** Kentsel Dönüşüm / İklim * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - Sürekli * **Yasal Dayanak:** Planlı Al..."
+                  - generic [ref=e367]: Genel
+            - 'link "ATIK TAKSİ (Mobil Ödül Sistemi) ATIK TAKSİ (Mobil Ödül Sistemi) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Atık Taksi: Ayrıştır, Çağır, Kazan * **Uygulayıcı Birim:** Temizlik İşleri & İklim Değişikliği * **Proje Kategorisi:** Sıfır Atık / Geri Dönüşüm * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - Sürekli * **Ödül Sistemi:**... Genel" [ref=e369] [cursor=pointer]':
+              - /url: /project/40
+              - generic [ref=e370]:
+                - img "ATIK TAKSİ (Mobil Ödül Sistemi)"
+                - generic [ref=e371]:
+                  - heading "ATIK TAKSİ (Mobil Ödül Sistemi)" [level=3] [ref=e372]
+                  - paragraph [ref=e373]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Atık Taksi: Ayrıştır, Çağır, Kazan * **Uygulayıcı Birim:** Temizlik İşleri & İklim Değişikliği * **Proje Kategorisi:** Sıfır Atık / Geri Dönüşüm * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - Sürekli * **Ödül Sistemi:**..."
+                  - generic [ref=e374]: Genel
+            - 'link "ZİRAİ DRONE FİLOSU (Akıllı Tarım Timi) ZİRAİ DRONE FİLOSU (Akıllı Tarım Timi) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Air-Farm: Havadan Zirai Mücadele * **Uygulayıcı Birim:** Kırsal Hizmetler Müdürlüğü * **Proje Kategorisi:** Akıllı Tarım (Agri-Tech) * **Tahmini Başlangıç/Bitiş:** 01.04.2025 - Sürekli (Sezonluk) * **Donanım:** DJI A... Tarım" [ref=e376] [cursor=pointer]':
+              - /url: /project/41
+              - generic [ref=e377]:
+                - img "ZİRAİ DRONE FİLOSU (Akıllı Tarım Timi)"
+                - generic [ref=e378]:
+                  - heading "ZİRAİ DRONE FİLOSU (Akıllı Tarım Timi)" [level=3] [ref=e379]
+                  - paragraph [ref=e380]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Air-Farm: Havadan Zirai Mücadele * **Uygulayıcı Birim:** Kırsal Hizmetler Müdürlüğü * **Proje Kategorisi:** Akıllı Tarım (Agri-Tech) * **Tahmini Başlangıç/Bitiş:** 01.04.2025 - Sürekli (Sezonluk) * **Donanım:** DJI A..."
+                  - generic [ref=e381]: Tarım
+            - 'link "TOPLULUK KOMPOST MERKEZLERİ TOPLULUK KOMPOST MERKEZLERİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Toprak Ana: Semt Kompost İstasyonları * **Uygulayıcı Birim:** Temizlik İşleri & Park Bahçeler * **Proje Kategorisi:** Sıfır Atık * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.11.2025 (Pilot Faz) * **Ekipman:** Kapal... Genel" [ref=e383] [cursor=pointer]':
+              - /url: /project/42
+              - generic [ref=e384]:
+                - img "TOPLULUK KOMPOST MERKEZLERİ"
+                - generic [ref=e385]:
+                  - heading "TOPLULUK KOMPOST MERKEZLERİ" [level=3] [ref=e386]
+                  - paragraph [ref=e387]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Toprak Ana: Semt Kompost İstasyonları * **Uygulayıcı Birim:** Temizlik İşleri & Park Bahçeler * **Proje Kategorisi:** Sıfır Atık * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.11.2025 (Pilot Faz) * **Ekipman:** Kapal..."
+                  - generic [ref=e388]: Genel
+            - 'link "GÜNEŞ ENERJİLİ PAZAR YERLERİ (GES) GÜNEŞ ENERJİLİ PAZAR YERLERİ (GES) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Enerji Çatıları: Kapalı Pazarlardan Elektrik Üretimi * **Uygulayıcı Birim:** Fen İşleri & Enerji Yönetim Birimi * **Proje Kategorisi:** Yenilenebilir Enerji * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.02.2026 (8 Ay)... Genel" [ref=e390] [cursor=pointer]':
+              - /url: /project/43
+              - generic [ref=e391]:
+                - img "GÜNEŞ ENERJİLİ PAZAR YERLERİ (GES)"
+                - generic [ref=e392]:
+                  - heading "GÜNEŞ ENERJİLİ PAZAR YERLERİ (GES)" [level=3] [ref=e393]
+                  - paragraph [ref=e394]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Enerji Çatıları: Kapalı Pazarlardan Elektrik Üretimi * **Uygulayıcı Birim:** Fen İşleri & Enerji Yönetim Birimi * **Proje Kategorisi:** Yenilenebilir Enerji * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.02.2026 (8 Ay)..."
+                  - generic [ref=e395]: Genel
+            - 'link "KARBON AYAK İZİ KARTI VE YEŞİL PUAN KARBON AYAK İZİ KARTI VE YEŞİL PUAN ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Yeşil Cüzdan: İklim Dostu Yaşam App * **Uygulayıcı Birim:** İklim Değişikliği Müdürlüğü & Bilgi İşlem * **Proje Kategorisi:** Dijital Dönüşüm / Çevre * **Tahmini Başlangıç/Bitiş:** 01.07.2025 - 01.01.2026 (6 Ay) * **... Genel" [ref=e397] [cursor=pointer]':
+              - /url: /project/44
+              - generic [ref=e398]:
+                - img "KARBON AYAK İZİ KARTI VE YEŞİL PUAN"
+                - generic [ref=e399]:
+                  - heading "KARBON AYAK İZİ KARTI VE YEŞİL PUAN" [level=3] [ref=e400]
+                  - paragraph [ref=e401]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Yeşil Cüzdan: İklim Dostu Yaşam App * **Uygulayıcı Birim:** İklim Değişikliği Müdürlüğü & Bilgi İşlem * **Proje Kategorisi:** Dijital Dönüşüm / Çevre * **Tahmini Başlangıç/Bitiş:** 01.07.2025 - 01.01.2026 (6 Ay) * **..."
+                  - generic [ref=e402]: Genel
+            - 'link "ATA TOHUMU BANKASI VE TAKAS ŞENLİĞİ ATA TOHUMU BANKASI VE TAKAS ŞENLİĞİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Nuh''un Ambarı: Yerel Tohum Koruma Merkezi * **Uygulayıcı Birim:** Kırsal Hizmetler & Park Bahçeler * **Proje Kategorisi:** Biyokültürel Miras / Tarım * **Tahmini Başlangıç/Bitiş:** 01.04.2025 - Sürekli * **Konum:** S... Tarım" [ref=e404] [cursor=pointer]':
+              - /url: /project/45
+              - generic [ref=e405]:
+                - img "ATA TOHUMU BANKASI VE TAKAS ŞENLİĞİ"
+                - generic [ref=e406]:
+                  - heading "ATA TOHUMU BANKASI VE TAKAS ŞENLİĞİ" [level=3] [ref=e407]
+                  - paragraph [ref=e408]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Nuh'un Ambarı: Yerel Tohum Koruma Merkezi * **Uygulayıcı Birim:** Kırsal Hizmetler & Park Bahçeler * **Proje Kategorisi:** Biyokültürel Miras / Tarım * **Tahmini Başlangıç/Bitiş:** 01.04.2025 - Sürekli * **Konum:** S..."
+                  - generic [ref=e409]: Tarım
+            - 'link "SEYHAN E-SPOR AKADEMİSİ VE OYUN MERKEZİ SEYHAN E-SPOR AKADEMİSİ VE OYUN MERKEZİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan E-Spor Arena: Dijital Gladyatörler * **Uygulayıcı Birim:** Spor İşleri & Gençlik Hizmetleri * **Proje Kategorisi:** Gençlik ve Teknoloji * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.12.2025 (6 Ay) * **Konum:** Genç... SağlıkKentleşme" [ref=e411] [cursor=pointer]':
+              - /url: /project/46
+              - generic [ref=e412]:
+                - img "SEYHAN E-SPOR AKADEMİSİ VE OYUN MERKEZİ"
+                - generic [ref=e413]:
+                  - heading "SEYHAN E-SPOR AKADEMİSİ VE OYUN MERKEZİ" [level=3] [ref=e414]
+                  - paragraph [ref=e415]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan E-Spor Arena: Dijital Gladyatörler * **Uygulayıcı Birim:** Spor İşleri & Gençlik Hizmetleri * **Proje Kategorisi:** Gençlik ve Teknoloji * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.12.2025 (6 Ay) * **Konum:** Genç..."
+                  - generic [ref=e416]: SağlıkKentleşme
+            - 'link "SEYHAN MAKER ATÖLYESİ VE ÇOCUK FAB-LAB SEYHAN MAKER ATÖLYESİ VE ÇOCUK FAB-LAB ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Mucitler Atölyesi: Kendin Yap (DIY) * **Uygulayıcı Birim:** Bilgi İşlem & Kültür Müdürlüğü * **Proje Kategorisi:** STEM Eğitimi * **Tahmini Başlangıç/Bitiş:** 01.09.2025 - Sürekli * **Konum:** Kütüphaneler veya Bilgi... SosyalKentleşme" [ref=e418] [cursor=pointer]':
+              - /url: /project/47
+              - generic [ref=e419]:
+                - img "SEYHAN MAKER ATÖLYESİ VE ÇOCUK FAB-LAB"
+                - generic [ref=e420]:
+                  - heading "SEYHAN MAKER ATÖLYESİ VE ÇOCUK FAB-LAB" [level=3] [ref=e421]
+                  - paragraph [ref=e422]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Mucitler Atölyesi: Kendin Yap (DIY) * **Uygulayıcı Birim:** Bilgi İşlem & Kültür Müdürlüğü * **Proje Kategorisi:** STEM Eğitimi * **Tahmini Başlangıç/Bitiş:** 01.09.2025 - Sürekli * **Konum:** Kütüphaneler veya Bilgi..."
+                  - generic [ref=e423]: SosyalKentleşme
+            - 'link "GEZİCİ KÜTÜPHANE VE MOBİL BİLİM TIRI GEZİCİ KÜTÜPHANE VE MOBİL BİLİM TIRI ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Bilimbüs: Keşfetmeye Geliyoruz * **Uygulayıcı Birim:** Kültür İşleri & Destek Hizmetleri * **Proje Kategorisi:** Mobil Eğitim * **Tahmini Başlangıç/Bitiş:** 01.04.2025 - 01.09.2025 (Hazırlık) * **Araç:** Dönüştürülmü... Genel" [ref=e425] [cursor=pointer]':
+              - /url: /project/48
+              - generic [ref=e426]:
+                - img "GEZİCİ KÜTÜPHANE VE MOBİL BİLİM TIRI"
+                - generic [ref=e427]:
+                  - heading "GEZİCİ KÜTÜPHANE VE MOBİL BİLİM TIRI" [level=3] [ref=e428]
+                  - paragraph [ref=e429]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Bilimbüs: Keşfetmeye Geliyoruz * **Uygulayıcı Birim:** Kültür İşleri & Destek Hizmetleri * **Proje Kategorisi:** Mobil Eğitim * **Tahmini Başlangıç/Bitiş:** 01.04.2025 - 01.09.2025 (Hazırlık) * **Araç:** Dönüştürülmü..."
+                  - generic [ref=e430]: Genel
+            - 'link "SEYHAN GENÇ KART (KÜLTÜR CÜZDANI) SEYHAN GENÇ KART (KÜLTÜR CÜZDANI) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Genç Kart: Şehrin Anahtarı * **Uygulayıcı Birim:** Kültür İşleri & Bilgi İşlem * **Proje Kategorisi:** Sosyal Yardım / Kültür * **Tahmini Başlangıç/Bitiş:** 01.09.2025 (Okul Dönemi Başlangıcı) * **Hedef Kitle:** Seyh... SosyalKültürKentleşme" [ref=e432] [cursor=pointer]':
+              - /url: /project/49
+              - generic [ref=e433]:
+                - img "SEYHAN GENÇ KART (KÜLTÜR CÜZDANI)"
+                - generic [ref=e434]:
+                  - heading "SEYHAN GENÇ KART (KÜLTÜR CÜZDANI)" [level=3] [ref=e435]
+                  - paragraph [ref=e436]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Genç Kart: Şehrin Anahtarı * **Uygulayıcı Birim:** Kültür İşleri & Bilgi İşlem * **Proje Kategorisi:** Sosyal Yardım / Kültür * **Tahmini Başlangıç/Bitiş:** 01.09.2025 (Okul Dönemi Başlangıcı) * **Hedef Kitle:** Seyh..."
+                  - generic [ref=e437]: SosyalKültürKentleşme
+            - 'link "AMATÖR SPORCU SAĞLIĞI VE PERFORMANS MERKEZİ AMATÖR SPORCU SAĞLIĞI VE PERFORMANS MERKEZİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Performans: Şampiyonların Sağlığı * **Uygulayıcı Birim:** Sağlık İşleri & Spor Müdürlüğü * **Proje Kategorisi:** Sporcu Sağlığı * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.10.2025 (5 Ay) * **Konum:** Mevcut Spor K... Sağlık" [ref=e439] [cursor=pointer]':
+              - /url: /project/50
+              - generic [ref=e440]:
+                - img "AMATÖR SPORCU SAĞLIĞI VE PERFORMANS MERKEZİ"
+                - generic [ref=e441]:
+                  - heading "AMATÖR SPORCU SAĞLIĞI VE PERFORMANS MERKEZİ" [level=3] [ref=e442]
+                  - paragraph [ref=e443]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Performans: Şampiyonların Sağlığı * **Uygulayıcı Birim:** Sağlık İşleri & Spor Müdürlüğü * **Proje Kategorisi:** Sporcu Sağlığı * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.10.2025 (5 Ay) * **Konum:** Mevcut Spor K..."
+                  - generic [ref=e444]: Sağlık
+            - 'link "YABANCI DİL KAFELERİ (GLOBE CAFE) YABANCI DİL KAFELERİ (GLOBE CAFE) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Global Cafe: Konuşarak Öğren * **Uygulayıcı Birim:** Kültür İşleri & Dış İlişkiler * **Proje Kategorisi:** Eğitim / Sosyal * **Tahmini Başlangıç/Bitiş:** 01.06.2025 (Hızlı Kurulum) * **Konum:** Mevcut Belediye Kafele... Genel" [ref=e446] [cursor=pointer]':
+              - /url: /project/51
+              - generic [ref=e447]:
+                - img "YABANCI DİL KAFELERİ (GLOBE CAFE)"
+                - generic [ref=e448]:
+                  - heading "YABANCI DİL KAFELERİ (GLOBE CAFE)" [level=3] [ref=e449]
+                  - paragraph [ref=e450]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Global Cafe: Konuşarak Öğren * **Uygulayıcı Birim:** Kültür İşleri & Dış İlişkiler * **Proje Kategorisi:** Eğitim / Sosyal * **Tahmini Başlangıç/Bitiş:** 01.06.2025 (Hızlı Kurulum) * **Konum:** Mevcut Belediye Kafele..."
+                  - generic [ref=e451]: Genel
+            - 'link "İNTERAKTİF MATEMATİK MÜZESİ İNTERAKTİF MATEMATİK MÜZESİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Matematik Evi: Rakamlara Dokun * **Uygulayıcı Birim:** Kültür İşleri & Fen İşleri * **Proje Kategorisi:** Eğitim / Müze * **Tahmini Başlangıç/Bitiş:** 01.09.2025 - 01.06.2026 (9 Ay) * **Konum:** Park İçinde Atıl Bir ... Kültür" [ref=e453] [cursor=pointer]':
+              - /url: /project/52
+              - generic [ref=e454]:
+                - img "İNTERAKTİF MATEMATİK MÜZESİ"
+                - generic [ref=e455]:
+                  - heading "İNTERAKTİF MATEMATİK MÜZESİ" [level=3] [ref=e456]
+                  - paragraph [ref=e457]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Matematik Evi: Rakamlara Dokun * **Uygulayıcı Birim:** Kültür İşleri & Fen İşleri * **Proje Kategorisi:** Eğitim / Müze * **Tahmini Başlangıç/Bitiş:** 01.09.2025 - 01.06.2026 (9 Ay) * **Konum:** Park İçinde Atıl Bir ..."
+                  - generic [ref=e458]: Kültür
+            - 'link "SEYHAN YETENEK TARAMA VE KEŞİF PROGRAMI SEYHAN YETENEK TARAMA VE KEŞİF PROGRAMI ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Yıldızlarını Arıyor: Erken Keşif * **Uygulayıcı Birim:** Spor İşleri & Kültür Müdürlüğü * **Proje Kategorisi:** Spor / Sanat / Eğitim * **Tahmini Başlangıç/Bitiş:** Eğitim Öğretim Yılı (Eylül-Haziran) * **Kapsam:** T... Kentleşme" [ref=e460] [cursor=pointer]':
+              - /url: /project/53
+              - generic [ref=e461]:
+                - img "SEYHAN YETENEK TARAMA VE KEŞİF PROGRAMI"
+                - generic [ref=e462]:
+                  - heading "SEYHAN YETENEK TARAMA VE KEŞİF PROGRAMI" [level=3] [ref=e463]
+                  - paragraph [ref=e464]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Yıldızlarını Arıyor: Erken Keşif * **Uygulayıcı Birim:** Spor İşleri & Kültür Müdürlüğü * **Proje Kategorisi:** Spor / Sanat / Eğitim * **Tahmini Başlangıç/Bitiş:** Eğitim Öğretim Yılı (Eylül-Haziran) * **Kapsam:** T..."
+                  - generic [ref=e465]: Kentleşme
+            - 'link "YAPAY ZEKA DESTEKLİ SINAV HAZIRLIK MERKEZİ YAPAY ZEKA DESTEKLİ SINAV HAZIRLIK MERKEZİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Dijital Dershane: Yapay Zeka Koçum * **Uygulayıcı Birim:** Kültür İşleri (Eğitim Birimi) * **Proje Kategorisi:** Eğitim Teknolojileri (EdTech) * **Tahmini Başlangıç/Bitiş:** 01.08.2025 - Sürekli * **Hedef Kitle:** LG... Teknoloji" [ref=e467] [cursor=pointer]':
+              - /url: /project/54
+              - generic [ref=e468]:
+                - img "YAPAY ZEKA DESTEKLİ SINAV HAZIRLIK MERKEZİ"
+                - generic [ref=e469]:
+                  - heading "YAPAY ZEKA DESTEKLİ SINAV HAZIRLIK MERKEZİ" [level=3] [ref=e470]
+                  - paragraph [ref=e471]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Dijital Dershane: Yapay Zeka Koçum * **Uygulayıcı Birim:** Kültür İşleri (Eğitim Birimi) * **Proje Kategorisi:** Eğitim Teknolojileri (EdTech) * **Tahmini Başlangıç/Bitiş:** 01.08.2025 - Sürekli * **Hedef Kitle:** LG..."
+                  - generic [ref=e472]: Teknoloji
+            - 'link "SEYHAN DOĞA OKULU VE İZCİLİK MERKEZİ SEYHAN DOĞA OKULU VE İZCİLİK MERKEZİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Kampüs Doğa: Yeşile Dönüş * **Uygulayıcı Birim:** Gençlik ve Spor Hizmetleri & Park Bahçeler * **Proje Kategorisi:** Doğa Eğitimi / Kampçılık * **Tahmini Başlangıç/Bitiş:** 01.04.2025 - 01.08.2025 * **Konum:** Seyhan... Kentleşme" [ref=e474] [cursor=pointer]':
+              - /url: /project/55
+              - generic [ref=e475]:
+                - img "SEYHAN DOĞA OKULU VE İZCİLİK MERKEZİ"
+                - generic [ref=e476]:
+                  - heading "SEYHAN DOĞA OKULU VE İZCİLİK MERKEZİ" [level=3] [ref=e477]
+                  - paragraph [ref=e478]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Kampüs Doğa: Yeşile Dönüş * **Uygulayıcı Birim:** Gençlik ve Spor Hizmetleri & Park Bahçeler * **Proje Kategorisi:** Doğa Eğitimi / Kampçılık * **Tahmini Başlangıç/Bitiş:** 01.04.2025 - 01.08.2025 * **Konum:** Seyhan..."
+                  - generic [ref=e479]: Kentleşme
+            - 'link "ADANA SİNEMA MÜZESİ DİJİTAL DÖNÜŞÜMÜ ADANA SİNEMA MÜZESİ DİJİTAL DÖNÜŞÜMÜ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Dijital Hafıza: Sinema Belleği * **Uygulayıcı Birim:** Kültür İşleri & Bilgi İşlem * **Proje Kategorisi:** Dijital Arşivcilik * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.12.2025 (6 Ay) * **Konum:** Adana Sinema Müzesi ##... Kültür" [ref=e481] [cursor=pointer]':
+              - /url: /project/56
+              - generic [ref=e482]:
+                - img "ADANA SİNEMA MÜZESİ DİJİTAL DÖNÜŞÜMÜ"
+                - generic [ref=e483]:
+                  - heading "ADANA SİNEMA MÜZESİ DİJİTAL DÖNÜŞÜMÜ" [level=3] [ref=e484]
+                  - paragraph [ref=e485]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Dijital Hafıza: Sinema Belleği * **Uygulayıcı Birim:** Kültür İşleri & Bilgi İşlem * **Proje Kategorisi:** Dijital Arşivcilik * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.12.2025 (6 Ay) * **Konum:** Adana Sinema Müzesi ##..."
+                  - generic [ref=e486]: Kültür
+            - 'link "SEYHAN ULUSLARARASI SOKAK SANATLARI FESTİVALİ SEYHAN ULUSLARARASI SOKAK SANATLARI FESTİVALİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Mural Fest: Şehrin Renkleri * **Uygulayıcı Birim:** Kültür İşleri & Park Bahçeler * **Proje Kategorisi:** Festival / Kent Estetiği * **Tahmini Başlangıç/Bitiş:** Nisan Ayı (Portakal Çiçeği Karnavalı ile entegre olabili... KültürKentleşme" [ref=e488] [cursor=pointer]':
+              - /url: /project/57
+              - generic [ref=e489]:
+                - img "SEYHAN ULUSLARARASI SOKAK SANATLARI FESTİVALİ"
+                - generic [ref=e490]:
+                  - heading "SEYHAN ULUSLARARASI SOKAK SANATLARI FESTİVALİ" [level=3] [ref=e491]
+                  - paragraph [ref=e492]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Mural Fest: Şehrin Renkleri * **Uygulayıcı Birim:** Kültür İşleri & Park Bahçeler * **Proje Kategorisi:** Festival / Kent Estetiği * **Tahmini Başlangıç/Bitiş:** Nisan Ayı (Portakal Çiçeği Karnavalı ile entegre olabili..."
+                  - generic [ref=e493]: KültürKentleşme
+            - 'link "SEYHAN HİKAYE HARİTASI (QR SESLİ REHBER) SEYHAN HİKAYE HARİTASI (QR SESLİ REHBER) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Konuşan Binalar: Seyhan''ın Hafızası * **Uygulayıcı Birim:** Kültür İşleri & Basın Yayın * **Proje Kategorisi:** Akıllı Turizm * **Tahmini Başlangıç/Bitiş:** 01.07.2025 - 01.10.2025 * **Konum:** Tepebağ, Büyüksaat, Taşköprü ... Kentleşme" [ref=e495] [cursor=pointer]':
+              - /url: /project/58
+              - generic [ref=e496]:
+                - img "SEYHAN HİKAYE HARİTASI (QR SESLİ REHBER)"
+                - generic [ref=e497]:
+                  - heading "SEYHAN HİKAYE HARİTASI (QR SESLİ REHBER)" [level=3] [ref=e498]
+                  - paragraph [ref=e499]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Konuşan Binalar: Seyhan'ın Hafızası * **Uygulayıcı Birim:** Kültür İşleri & Basın Yayın * **Proje Kategorisi:** Akıllı Turizm * **Tahmini Başlangıç/Bitiş:** 01.07.2025 - 01.10.2025 * **Konum:** Tepebağ, Büyüksaat, Taşköprü ..."
+                  - generic [ref=e500]: Kentleşme
+            - 'link "MAHALLELERDE YAZLIK SİNEMA NOSTALJİSİ MAHALLELERDE YAZLIK SİNEMA NOSTALJİSİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Yıldızların Altında: Seyhan Yazlık Sineması * **Uygulayıcı Birim:** Kültür İşleri Müdürlüğü * **Proje Kategorisi:** Sosyal Etkinlik / Nostalji * **Tahmini Başlangıç/Bitiş:** Haziran - Eylül (Her Yıl) * **Konum:** 30 Farklı ... Genel" [ref=e502] [cursor=pointer]':
+              - /url: /project/59
+              - generic [ref=e503]:
+                - img "MAHALLELERDE YAZLIK SİNEMA NOSTALJİSİ"
+                - generic [ref=e504]:
+                  - heading "MAHALLELERDE YAZLIK SİNEMA NOSTALJİSİ" [level=3] [ref=e505]
+                  - paragraph [ref=e506]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Yıldızların Altında: Seyhan Yazlık Sineması * **Uygulayıcı Birim:** Kültür İşleri Müdürlüğü * **Proje Kategorisi:** Sosyal Etkinlik / Nostalji * **Tahmini Başlangıç/Bitiş:** Haziran - Eylül (Her Yıl) * **Konum:** 30 Farklı ..."
+                  - generic [ref=e507]: Genel
+            - 'link "SEYHAN KÜLTÜR ELÇİLERİ VE GÖNÜLLÜ REHBERLER SEYHAN KÜLTÜR ELÇİLERİ VE GÖNÜLLÜ REHBERLER ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Greeters: Şehrin Ev Sahipleri * **Uygulayıcı Birim:** Kültür İşleri & Dış İlişkiler * **Proje Kategorisi:** Gönüllülük / Turizm * **Tahmini Başlangıç/Bitiş:** Sürekli (Hafta sonları ve festivallerde aktif) * **Hedef ... KültürKentleşme" [ref=e509] [cursor=pointer]':
+              - /url: /project/60
+              - generic [ref=e510]:
+                - img "SEYHAN KÜLTÜR ELÇİLERİ VE GÖNÜLLÜ REHBERLER"
+                - generic [ref=e511]:
+                  - heading "SEYHAN KÜLTÜR ELÇİLERİ VE GÖNÜLLÜ REHBERLER" [level=3] [ref=e512]
+                  - paragraph [ref=e513]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Greeters: Şehrin Ev Sahipleri * **Uygulayıcı Birim:** Kültür İşleri & Dış İlişkiler * **Proje Kategorisi:** Gönüllülük / Turizm * **Tahmini Başlangıç/Bitiş:** Sürekli (Hafta sonları ve festivallerde aktif) * **Hedef ..."
+                  - generic [ref=e514]: KültürKentleşme
+            - 'link "UNUTULAN ZANAATLAR ATÖLYESİ VE YAŞAYAN MÜZE UNUTULAN ZANAATLAR ATÖLYESİ VE YAŞAYAN MÜZE ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Usta Ellerin Mirası: Yaşayan Zanaatlar * **Uygulayıcı Birim:** Kültür İşleri & Kırsal Kalkınma * **Proje Kategorisi:** Kültürel Miras / İstihdam * **Tahmini Başlangıç/Bitiş:** 01.07.2025 - Sürekli * **Konum:** Tarihi Tepeba... Kültür" [ref=e516] [cursor=pointer]':
+              - /url: /project/61
+              - generic [ref=e517]:
+                - img "UNUTULAN ZANAATLAR ATÖLYESİ VE YAŞAYAN MÜZE"
+                - generic [ref=e518]:
+                  - heading "UNUTULAN ZANAATLAR ATÖLYESİ VE YAŞAYAN MÜZE" [level=3] [ref=e519]
+                  - paragraph [ref=e520]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Usta Ellerin Mirası: Yaşayan Zanaatlar * **Uygulayıcı Birim:** Kültür İşleri & Kırsal Kalkınma * **Proje Kategorisi:** Kültürel Miras / İstihdam * **Tahmini Başlangıç/Bitiş:** 01.07.2025 - Sürekli * **Konum:** Tarihi Tepeba..."
+                  - generic [ref=e521]: Kültür
+            - 'link "ADANA LEZZET ROTASI MOBİL UYGULAMASI ADANA LEZZET ROTASI MOBİL UYGULAMASI ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Gastro-Seyhan: Lezzetin Dijital Haritası * **Uygulayıcı Birim:** Bilgi İşlem & Basın Yayın * **Proje Kategorisi:** Gastronomi Turizmi / Yazılım * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.09.2025 * **Platform:** iOS ve A... Genel" [ref=e523] [cursor=pointer]':
+              - /url: /project/62
+              - generic [ref=e524]:
+                - img "ADANA LEZZET ROTASI MOBİL UYGULAMASI"
+                - generic [ref=e525]:
+                  - heading "ADANA LEZZET ROTASI MOBİL UYGULAMASI" [level=3] [ref=e526]
+                  - paragraph [ref=e527]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Gastro-Seyhan: Lezzetin Dijital Haritası * **Uygulayıcı Birim:** Bilgi İşlem & Basın Yayın * **Proje Kategorisi:** Gastronomi Turizmi / Yazılım * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.09.2025 * **Platform:** iOS ve A..."
+                  - generic [ref=e528]: Genel
+            - 'link "SEYHAN KISA FİLM FONU VE YAPIM DESTEĞİ SEYHAN KISA FİLM FONU VE YAPIM DESTEĞİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Kadraj: Genç Yönetmen Destek Fonu * **Uygulayıcı Birim:** Kültür İşleri Müdürlüğü * **Proje Kategorisi:** Sanat Fonlaması * **Tahmini Başlangıç/Bitiş:** Yıllık Döngü * **Bütçe:** 500.000 TL (Yıllık Hibe Havuzu) ## II... Kentleşme" [ref=e530] [cursor=pointer]':
+              - /url: /project/63
+              - generic [ref=e531]:
+                - img "SEYHAN KISA FİLM FONU VE YAPIM DESTEĞİ"
+                - generic [ref=e532]:
+                  - heading "SEYHAN KISA FİLM FONU VE YAPIM DESTEĞİ" [level=3] [ref=e533]
+                  - paragraph [ref=e534]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Kadraj: Genç Yönetmen Destek Fonu * **Uygulayıcı Birim:** Kültür İşleri Müdürlüğü * **Proje Kategorisi:** Sanat Fonlaması * **Tahmini Başlangıç/Bitiş:** Yıllık Döngü * **Bütçe:** 500.000 TL (Yıllık Hibe Havuzu) ## II..."
+                  - generic [ref=e535]: Kentleşme
+            - 'link "SEYHAN CAZ GÜNLERİ (TARİHİ DOKUDA MÜZİK) SEYHAN CAZ GÜNLERİ (TARİHİ DOKUDA MÜZİK) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Cazın Rengi Seyhan * **Uygulayıcı Birim:** Kültür İşleri Müdürlüğü * **Proje Kategorisi:** Butik Festival * **Tahmini Başlangıç/Bitiş:** Ekim Ayı (3-5 Gün) * **Konum:** Büyüksaat, Ramazanoğlu Konağı, Kız Lisesi ## II. YÖNET... Kentleşme" [ref=e537] [cursor=pointer]':
+              - /url: /project/64
+              - generic [ref=e538]:
+                - img "SEYHAN CAZ GÜNLERİ (TARİHİ DOKUDA MÜZİK)"
+                - generic [ref=e539]:
+                  - heading "SEYHAN CAZ GÜNLERİ (TARİHİ DOKUDA MÜZİK)" [level=3] [ref=e540]
+                  - paragraph [ref=e541]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Cazın Rengi Seyhan * **Uygulayıcı Birim:** Kültür İşleri Müdürlüğü * **Proje Kategorisi:** Butik Festival * **Tahmini Başlangıç/Bitiş:** Ekim Ayı (3-5 Gün) * **Konum:** Büyüksaat, Ramazanoğlu Konağı, Kız Lisesi ## II. YÖNET..."
+                  - generic [ref=e542]: Kentleşme
+            - 'link "SEYHAN SANAL MÜZE VE NFT GALERİ SEYHAN SANAL MÜZE VE NFT GALERİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Verse: Dijital Sanat Üssü * **Uygulayıcı Birim:** Bilgi İşlem & Kültür Müdürlüğü * **Proje Kategorisi:** Dijital Sanat / Web 3.0 * **Tahmini Başlangıç/Bitiş:** 01.09.2025 - Sürekli * **Konum:** Hibrit (Fiziksel Galer... KültürKentleşme" [ref=e544] [cursor=pointer]':
+              - /url: /project/65
+              - generic [ref=e545]:
+                - img "SEYHAN SANAL MÜZE VE NFT GALERİ"
+                - generic [ref=e546]:
+                  - heading "SEYHAN SANAL MÜZE VE NFT GALERİ" [level=3] [ref=e547]
+                  - paragraph [ref=e548]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Verse: Dijital Sanat Üssü * **Uygulayıcı Birim:** Bilgi İşlem & Kültür Müdürlüğü * **Proje Kategorisi:** Dijital Sanat / Web 3.0 * **Tahmini Başlangıç/Bitiş:** 01.09.2025 - Sürekli * **Konum:** Hibrit (Fiziksel Galer..."
+                  - generic [ref=e549]: KültürKentleşme
+            - 'link "EVDE BAKIM 2.0 (DİJİTAL SAĞLIK VE TELE-TIP) EVDE BAKIM 2.0 (DİJİTAL SAĞLIK VE TELE-TIP) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Dijital Şifa: Uzaktan Hasta Takip Sistemi * **Uygulayıcı Birim:** Sağlık İşleri & Bilgi İşlem * **Proje Kategorisi:** Sağlık Teknolojileri (HealthTech) * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.12.2025 * **Hedef... Genel" [ref=e551] [cursor=pointer]':
+              - /url: /project/66
+              - generic [ref=e552]:
+                - img "EVDE BAKIM 2.0 (DİJİTAL SAĞLIK VE TELE-TIP)"
+                - generic [ref=e553]:
+                  - heading "EVDE BAKIM 2.0 (DİJİTAL SAĞLIK VE TELE-TIP)" [level=3] [ref=e554]
+                  - paragraph [ref=e555]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Dijital Şifa: Uzaktan Hasta Takip Sistemi * **Uygulayıcı Birim:** Sağlık İşleri & Bilgi İşlem * **Proje Kategorisi:** Sağlık Teknolojileri (HealthTech) * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.12.2025 * **Hedef..."
+                  - generic [ref=e556]: Genel
+            - 'link "ALZHEIMER GÜNDÜZ BAKIM EVİ VE DUYU MERKEZİ ALZHEIMER GÜNDÜZ BAKIM EVİ VE DUYU MERKEZİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Anı Evi: Alzheimer Gündüz Yaşam Merkezi * **Uygulayıcı Birim:** Sağlık İşleri & Sosyal Yardım * **Proje Kategorisi:** Engelli/Yaşlı Hizmetleri * **Tahmini Başlangıç/Bitiş:** 01.09.2025 (Dünya Alzheimer Günü Açılış) * ... Genel" [ref=e558] [cursor=pointer]':
+              - /url: /project/67
+              - generic [ref=e559]:
+                - img "ALZHEIMER GÜNDÜZ BAKIM EVİ VE DUYU MERKEZİ"
+                - generic [ref=e560]:
+                  - heading "ALZHEIMER GÜNDÜZ BAKIM EVİ VE DUYU MERKEZİ" [level=3] [ref=e561]
+                  - paragraph [ref=e562]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Anı Evi: Alzheimer Gündüz Yaşam Merkezi * **Uygulayıcı Birim:** Sağlık İşleri & Sosyal Yardım * **Proje Kategorisi:** Engelli/Yaşlı Hizmetleri * **Tahmini Başlangıç/Bitiş:** 01.09.2025 (Dünya Alzheimer Günü Açılış) * ..."
+                  - generic [ref=e563]: Genel
+            - 'link "OBEZİTE İLE MÜCADELE VE SAĞLIKLI YAŞAM TİMİ OBEZİTE İLE MÜCADELE VE SAĞLIKLI YAŞAM TİMİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Fit: Harekete Geç, Sağlıklı Yaşa * **Uygulayıcı Birim:** Sağlık İşleri & Spor Müdürlüğü * **Proje Kategorisi:** Koruyucu Sağlık * **Tahmini Başlangıç/Bitiş:** Yıllık Program * **Konum:** Parklar, Semt Pazarları, Okul... Genel" [ref=e565] [cursor=pointer]':
+              - /url: /project/68
+              - generic [ref=e566]:
+                - img "OBEZİTE İLE MÜCADELE VE SAĞLIKLI YAŞAM TİMİ"
+                - generic [ref=e567]:
+                  - heading "OBEZİTE İLE MÜCADELE VE SAĞLIKLI YAŞAM TİMİ" [level=3] [ref=e568]
+                  - paragraph [ref=e569]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Fit: Harekete Geç, Sağlıklı Yaşa * **Uygulayıcı Birim:** Sağlık İşleri & Spor Müdürlüğü * **Proje Kategorisi:** Koruyucu Sağlık * **Tahmini Başlangıç/Bitiş:** Yıllık Program * **Konum:** Parklar, Semt Pazarları, Okul..."
+                  - generic [ref=e570]: Genel
+            - 'link "YENİ DOĞAN DESTEK PAKETİ VE ANNE EĞİTİMİ YENİ DOĞAN DESTEK PAKETİ VE ANNE EĞİTİMİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Hoş Geldin Bebek: İlk Adım Paketi * **Uygulayıcı Birim:** Kadın ve Aile Hizmetleri * **Proje Kategorisi:** Sosyal Yardım / Anne Çocuk Sağlığı * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - Sürekli * **Hedef Kitle:** Seyhan''da ... Genel" [ref=e572] [cursor=pointer]':
+              - /url: /project/69
+              - generic [ref=e573]:
+                - img "YENİ DOĞAN DESTEK PAKETİ VE ANNE EĞİTİMİ"
+                - generic [ref=e574]:
+                  - heading "YENİ DOĞAN DESTEK PAKETİ VE ANNE EĞİTİMİ" [level=3] [ref=e575]
+                  - paragraph [ref=e576]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Hoş Geldin Bebek: İlk Adım Paketi * **Uygulayıcı Birim:** Kadın ve Aile Hizmetleri * **Proje Kategorisi:** Sosyal Yardım / Anne Çocuk Sağlığı * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - Sürekli * **Hedef Kitle:** Seyhan'da ..."
+                  - generic [ref=e577]: Genel
+            - 'link "BAĞIMLILIKLA MÜCADELE VE SOSYAL UYUM MERKEZİ BAĞIMLILIKLA MÜCADELE VE SOSYAL UYUM MERKEZİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Yeni Hayat Akademisi: Özgürlüğe İlk Adım * **Uygulayıcı Birim:** Sağlık İşleri & Sosyal Yardım * **Proje Kategorisi:** Rehabilitasyon * **Tahmini Başlangıç/Bitiş:** 01.01.2026 (Uzun vadeli yatırım) * **Konum:** Şehir dışı, ... Genel" [ref=e579] [cursor=pointer]':
+              - /url: /project/70
+              - generic [ref=e580]:
+                - img "BAĞIMLILIKLA MÜCADELE VE SOSYAL UYUM MERKEZİ"
+                - generic [ref=e581]:
+                  - heading "BAĞIMLILIKLA MÜCADELE VE SOSYAL UYUM MERKEZİ" [level=3] [ref=e582]
+                  - paragraph [ref=e583]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Yeni Hayat Akademisi: Özgürlüğe İlk Adım * **Uygulayıcı Birim:** Sağlık İşleri & Sosyal Yardım * **Proje Kategorisi:** Rehabilitasyon * **Tahmini Başlangıç/Bitiş:** 01.01.2026 (Uzun vadeli yatırım) * **Konum:** Şehir dışı, ..."
+                  - generic [ref=e584]: Genel
+            - 'link "GLUTENSİZ FIRIN VE KAFE GLUTENSİZ FIRIN VE KAFE ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Glutensiz: Herkes İçin Ekmek * **Uygulayıcı Birim:** İşletme ve İştirakler Müdürlüğü * **Proje Kategorisi:** Halk Sağlığı / Gıda İşletmesi * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.11.2025 * **Konum:** Merkezi, ... Genel" [ref=e586] [cursor=pointer]':
+              - /url: /project/71
+              - generic [ref=e587]:
+                - img "GLUTENSİZ FIRIN VE KAFE"
+                - generic [ref=e588]:
+                  - heading "GLUTENSİZ FIRIN VE KAFE" [level=3] [ref=e589]
+                  - paragraph [ref=e590]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Glutensiz: Herkes İçin Ekmek * **Uygulayıcı Birim:** İşletme ve İştirakler Müdürlüğü * **Proje Kategorisi:** Halk Sağlığı / Gıda İşletmesi * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.11.2025 * **Konum:** Merkezi, ..."
+                  - generic [ref=e591]: Genel
+            - 'link "MOBİL DİŞ KLİNİĞİ OTOBÜSÜ MOBİL DİŞ KLİNİĞİ OTOBÜSÜ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Gülümseyen Seyhan: Mobil Ağız ve Diş Sağlığı * **Uygulayıcı Birim:** Sağlık İşleri Müdürlüğü * **Proje Kategorisi:** Gezici Sağlık * **Tahmini Başlangıç/Bitiş:** 01.09.2025 (Okulların açılmasıyla) * **Konum:** İlkokullar ve... Genel" [ref=e593] [cursor=pointer]':
+              - /url: /project/72
+              - generic [ref=e594]:
+                - img "MOBİL DİŞ KLİNİĞİ OTOBÜSÜ"
+                - generic [ref=e595]:
+                  - heading "MOBİL DİŞ KLİNİĞİ OTOBÜSÜ" [level=3] [ref=e596]
+                  - paragraph [ref=e597]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Gülümseyen Seyhan: Mobil Ağız ve Diş Sağlığı * **Uygulayıcı Birim:** Sağlık İşleri Müdürlüğü * **Proje Kategorisi:** Gezici Sağlık * **Tahmini Başlangıç/Bitiş:** 01.09.2025 (Okulların açılmasıyla) * **Konum:** İlkokullar ve..."
+                  - generic [ref=e598]: Genel
+            - 'link "PSİKOSOSYAL DESTEK VE AİLE DANIŞMA MERKEZİ PSİKOSOSYAL DESTEK VE AİLE DANIŞMA MERKEZİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Aile Akademisi: Ruh Sağlığı Destek Birimi * **Uygulayıcı Birim:** Kadın ve Aile Hizmetleri * **Proje Kategorisi:** Ruh Sağlığı / Toplum Hizmeti * **Tahmini Başlangıç/Bitiş:** Sürekli * **Konum:** İlçe Merkezi (Ulaşım... Genel" [ref=e600] [cursor=pointer]':
+              - /url: /project/73
+              - generic [ref=e601]:
+                - img "PSİKOSOSYAL DESTEK VE AİLE DANIŞMA MERKEZİ"
+                - generic [ref=e602]:
+                  - heading "PSİKOSOSYAL DESTEK VE AİLE DANIŞMA MERKEZİ" [level=3] [ref=e603]
+                  - paragraph [ref=e604]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Aile Akademisi: Ruh Sağlığı Destek Birimi * **Uygulayıcı Birim:** Kadın ve Aile Hizmetleri * **Proje Kategorisi:** Ruh Sağlığı / Toplum Hizmeti * **Tahmini Başlangıç/Bitiş:** Sürekli * **Konum:** İlçe Merkezi (Ulaşım..."
+                  - generic [ref=e605]: Genel
+            - 'link "AKTİF YAŞLANMA KULÜBÜ (65+ YAŞAM MERKEZİ) AKTİF YAŞLANMA KULÜBÜ (65+ YAŞAM MERKEZİ) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** İkinci Bahar Yaşam Merkezi * **Uygulayıcı Birim:** Sosyal Yardım & Kültür Müdürlüğü * **Proje Kategorisi:** Yaşlı Hizmetleri / Sosyal Tesis * **Tahmini Başlangıç/Bitiş:** Sürekli * **Konum:** Park içlerinde, erişilebilir te... Genel" [ref=e607] [cursor=pointer]':
+              - /url: /project/74
+              - generic [ref=e608]:
+                - img "AKTİF YAŞLANMA KULÜBÜ (65+ YAŞAM MERKEZİ)"
+                - generic [ref=e609]:
+                  - heading "AKTİF YAŞLANMA KULÜBÜ (65+ YAŞAM MERKEZİ)" [level=3] [ref=e610]
+                  - paragraph [ref=e611]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** İkinci Bahar Yaşam Merkezi * **Uygulayıcı Birim:** Sosyal Yardım & Kültür Müdürlüğü * **Proje Kategorisi:** Yaşlı Hizmetleri / Sosyal Tesis * **Tahmini Başlangıç/Bitiş:** Sürekli * **Konum:** Park içlerinde, erişilebilir te..."
+                  - generic [ref=e612]: Genel
+            - 'link "HASTA NAKİL VE TRANSFER HİZMETİ HASTA NAKİL VE TRANSFER HİZMETİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Şefkat Hattı: Ambulans Hizmeti * **Uygulayıcı Birim:** Sağlık İşleri Müdürlüğü * **Proje Kategorisi:** Sağlık Lojistiği * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - Sürekli * **Araç Filosu:** 3 Adet Mavi Şeritli Ambul... Genel" [ref=e614] [cursor=pointer]':
+              - /url: /project/75
+              - generic [ref=e615]:
+                - img "HASTA NAKİL VE TRANSFER HİZMETİ"
+                - generic [ref=e616]:
+                  - heading "HASTA NAKİL VE TRANSFER HİZMETİ" [level=3] [ref=e617]
+                  - paragraph [ref=e618]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Şefkat Hattı: Ambulans Hizmeti * **Uygulayıcı Birim:** Sağlık İşleri Müdürlüğü * **Proje Kategorisi:** Sağlık Lojistiği * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - Sürekli * **Araç Filosu:** 3 Adet Mavi Şeritli Ambul..."
+                  - generic [ref=e619]: Genel
+            - 'link "SEYHAN AFET KOORDİNASYON MERKEZİ (S-AKOM) SEYHAN AFET KOORDİNASYON MERKEZİ (S-AKOM) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Nöbette: Akıllı Afet Yönetim Merkezi * **Uygulayıcı Birim:** Afet İşleri Müdürlüğü & Bilgi İşlem * **Proje Kategorisi:** Afet Yönetimi / Akıllı Şehir * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.06.2026 * **Konum:*... Afet YönetimiKentleşme" [ref=e621] [cursor=pointer]':
+              - /url: /project/76
+              - generic [ref=e622]:
+                - img "SEYHAN AFET KOORDİNASYON MERKEZİ (S-AKOM)"
+                - generic [ref=e623]:
+                  - heading "SEYHAN AFET KOORDİNASYON MERKEZİ (S-AKOM)" [level=3] [ref=e624]
+                  - paragraph [ref=e625]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Nöbette: Akıllı Afet Yönetim Merkezi * **Uygulayıcı Birim:** Afet İşleri Müdürlüğü & Bilgi İşlem * **Proje Kategorisi:** Afet Yönetimi / Akıllı Şehir * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.06.2026 * **Konum:*..."
+                  - generic [ref=e626]: Afet YönetimiKentleşme
+            - 'link "MAHALLE AFET GÖNÜLLÜLERİ (SEYHAN MAG) MAHALLE AFET GÖNÜLLÜLERİ (SEYHAN MAG) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Komşum Kahramanım: Seyhan Arama Kurtarma * **Uygulayıcı Birim:** Afet İşleri Müdürlüğü * **Proje Kategorisi:** Toplum Tabanlı Afet Yönetimi * **Tahmini Başlangıç/Bitiş:** 01.07.2025 - Sürekli * **Hedef Kitle:** 96 Mahalleni... Afet YönetimiKentleşme" [ref=e628] [cursor=pointer]':
+              - /url: /project/77
+              - generic [ref=e629]:
+                - img "MAHALLE AFET GÖNÜLLÜLERİ (SEYHAN MAG)"
+                - generic [ref=e630]:
+                  - heading "MAHALLE AFET GÖNÜLLÜLERİ (SEYHAN MAG)" [level=3] [ref=e631]
+                  - paragraph [ref=e632]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Komşum Kahramanım: Seyhan Arama Kurtarma * **Uygulayıcı Birim:** Afet İşleri Müdürlüğü * **Proje Kategorisi:** Toplum Tabanlı Afet Yönetimi * **Tahmini Başlangıç/Bitiş:** 01.07.2025 - Sürekli * **Hedef Kitle:** 96 Mahalleni..."
+                  - generic [ref=e633]: Afet YönetimiKentleşme
+            - 'link "AKILLI TOPLANMA ALANLARI VE DİRENÇLİ PARKLAR AKILLI TOPLANMA ALANLARI VE DİRENÇLİ PARKLAR ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Güvenli Liman: Yeni Nesil Afet Parkları * **Uygulayıcı Birim:** Park ve Bahçeler & Fen İşleri * **Proje Kategorisi:** Kentsel Altyapı * **Tahmini Başlangıç/Bitiş:** 01.08.2025 - 01.02.2026 * **Konum:** Nüfus Yoğunluğu Yükse... Genel" [ref=e635] [cursor=pointer]':
+              - /url: /project/78
+              - generic [ref=e636]:
+                - img "AKILLI TOPLANMA ALANLARI VE DİRENÇLİ PARKLAR"
+                - generic [ref=e637]:
+                  - heading "AKILLI TOPLANMA ALANLARI VE DİRENÇLİ PARKLAR" [level=3] [ref=e638]
+                  - paragraph [ref=e639]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Güvenli Liman: Yeni Nesil Afet Parkları * **Uygulayıcı Birim:** Park ve Bahçeler & Fen İşleri * **Proje Kategorisi:** Kentsel Altyapı * **Tahmini Başlangıç/Bitiş:** 01.08.2025 - 01.02.2026 * **Konum:** Nüfus Yoğunluğu Yükse..."
+                  - generic [ref=e640]: Genel
+            - 'link "BİNA KİMLİK SİSTEMİ VE QR RİSK KARNESİ BİNA KİMLİK SİSTEMİ VE QR RİSK KARNESİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Şeffaf Yapı: Binanı Tanı * **Uygulayıcı Birim:** İmar ve Şehircilik Müdürlüğü * **Proje Kategorisi:** Yapı Güvenliği / Şeffaflık * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.12.2025 * **Konum:** Tüm Seyhan (Öncelik 1999 ö... Genel" [ref=e642] [cursor=pointer]':
+              - /url: /project/79
+              - generic [ref=e643]:
+                - img "BİNA KİMLİK SİSTEMİ VE QR RİSK KARNESİ"
+                - generic [ref=e644]:
+                  - heading "BİNA KİMLİK SİSTEMİ VE QR RİSK KARNESİ" [level=3] [ref=e645]
+                  - paragraph [ref=e646]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Şeffaf Yapı: Binanı Tanı * **Uygulayıcı Birim:** İmar ve Şehircilik Müdürlüğü * **Proje Kategorisi:** Yapı Güvenliği / Şeffaflık * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.12.2025 * **Konum:** Tüm Seyhan (Öncelik 1999 ö..."
+                  - generic [ref=e647]: Genel
+            - 'link "IOT YANGIN ERKEN UYARI SİSTEMİ IOT YANGIN ERKEN UYARI SİSTEMİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Ateş Gözü: Akıllı Yangın Algılama Ağı * **Uygulayıcı Birim:** Bilgi İşlem & Zabıta (İtfaiye Koordinasyon) * **Proje Kategorisi:** Nesnelerin İnterneti (IoT) / Akıllı Şehir * **Tahmini Başlangıç/Bitiş:** 01.09.2025 - 01.01.202... Genel" [ref=e649] [cursor=pointer]':
+              - /url: /project/80
+              - generic [ref=e650]:
+                - img "IOT YANGIN ERKEN UYARI SİSTEMİ"
+                - generic [ref=e651]:
+                  - heading "IOT YANGIN ERKEN UYARI SİSTEMİ" [level=3] [ref=e652]
+                  - paragraph [ref=e653]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Ateş Gözü: Akıllı Yangın Algılama Ağı * **Uygulayıcı Birim:** Bilgi İşlem & Zabıta (İtfaiye Koordinasyon) * **Proje Kategorisi:** Nesnelerin İnterneti (IoT) / Akıllı Şehir * **Tahmini Başlangıç/Bitiş:** 01.09.2025 - 01.01.202..."
+                  - generic [ref=e654]: Genel
+            - 'link "GÜVENLİ OKUL YOLU VE AYDINLATMA GÜVENLİ OKUL YOLU VE AYDINLATMA ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Işıl Işıl: Okul Yolu Güvenliği * **Uygulayıcı Birim:** Fen İşleri & Park Bahçeler * **Proje Kategorisi:** Kentsel Güvenlik / Ulaşım * **Tahmini Başlangıç/Bitiş:** 01.08.2025 - Sürekli * **Konum:** İlçe Sınırlarındaki... Genel" [ref=e656] [cursor=pointer]':
+              - /url: /project/81
+              - generic [ref=e657]:
+                - img "GÜVENLİ OKUL YOLU VE AYDINLATMA"
+                - generic [ref=e658]:
+                  - heading "GÜVENLİ OKUL YOLU VE AYDINLATMA" [level=3] [ref=e659]
+                  - paragraph [ref=e660]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Işıl Işıl: Okul Yolu Güvenliği * **Uygulayıcı Birim:** Fen İşleri & Park Bahçeler * **Proje Kategorisi:** Kentsel Güvenlik / Ulaşım * **Tahmini Başlangıç/Bitiş:** 01.08.2025 - Sürekli * **Konum:** İlçe Sınırlarındaki..."
+                  - generic [ref=e661]: Genel
+            - 'link "PARKLARDA KADIN GÜVENLİK VE PANİK BUTONU SİSTEMİ PARKLARDA KADIN GÜVENLİK VE PANİK BUTONU SİSTEMİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Güven Çemberi: Acil Destek Butonları * **Uygulayıcı Birim:** Park Bahçeler & Zabıta Müdürlüğü * **Proje Kategorisi:** Kadın Güvenliği / Akıllı Şehir * **Tahmini Başlangıç/Bitiş:** 01.10.2025 - 01.01.2026 * **Konum:**... Genel" [ref=e663] [cursor=pointer]':
+              - /url: /project/82
+              - generic [ref=e664]:
+                - img "PARKLARDA KADIN GÜVENLİK VE PANİK BUTONU SİSTEMİ"
+                - generic [ref=e665]:
+                  - heading "PARKLARDA KADIN GÜVENLİK VE PANİK BUTONU SİSTEMİ" [level=3] [ref=e666]
+                  - paragraph [ref=e667]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Güven Çemberi: Acil Destek Butonları * **Uygulayıcı Birim:** Park Bahçeler & Zabıta Müdürlüğü * **Proje Kategorisi:** Kadın Güvenliği / Akıllı Şehir * **Tahmini Başlangıç/Bitiş:** 01.10.2025 - 01.01.2026 * **Konum:**..."
+                  - generic [ref=e668]: Genel
+            - 'link "SOKAK HAYVANLARI REHABİLİTASYON VE EĞİTİM MERKEZİ SOKAK HAYVANLARI REHABİLİTASYON VE EĞİTİM MERKEZİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Patiler Güvende: Modern Rehabilitasyon Merkezi * **Uygulayıcı Birim:** Veteriner İşleri Müdürlüğü * **Proje Kategorisi:** Hayvan Hakları / Halk Sağlığı * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - Sürekli * **Konum:** Mevcut... Genel" [ref=e670] [cursor=pointer]':
+              - /url: /project/83
+              - generic [ref=e671]:
+                - img "SOKAK HAYVANLARI REHABİLİTASYON VE EĞİTİM MERKEZİ"
+                - generic [ref=e672]:
+                  - heading "SOKAK HAYVANLARI REHABİLİTASYON VE EĞİTİM MERKEZİ" [level=3] [ref=e673]
+                  - paragraph [ref=e674]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Patiler Güvende: Modern Rehabilitasyon Merkezi * **Uygulayıcı Birim:** Veteriner İşleri Müdürlüğü * **Proje Kategorisi:** Hayvan Hakları / Halk Sağlığı * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - Sürekli * **Konum:** Mevcut..."
+                  - generic [ref=e675]: Genel
+            - 'link "AFET LOJİSTİK DEPOLARI VE STOK YÖNETİMİ AFET LOJİSTİK DEPOLARI VE STOK YÖNETİMİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Hazır: İleri Lojistik Üsleri * **Uygulayıcı Birim:** Afet İşleri & Destek Hizmetleri * **Proje Kategorisi:** Afet Lojistiği * **Tahmini Başlangıç/Bitiş:** 01.07.2025 - 01.01.2026 * **Konum:** Şehrin 4 Ana Giriş Nokta... Afet Yönetimi" [ref=e677] [cursor=pointer]':
+              - /url: /project/84
+              - generic [ref=e678]:
+                - img "AFET LOJİSTİK DEPOLARI VE STOK YÖNETİMİ"
+                - generic [ref=e679]:
+                  - heading "AFET LOJİSTİK DEPOLARI VE STOK YÖNETİMİ" [level=3] [ref=e680]
+                  - paragraph [ref=e681]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Hazır: İleri Lojistik Üsleri * **Uygulayıcı Birim:** Afet İşleri & Destek Hizmetleri * **Proje Kategorisi:** Afet Lojistiği * **Tahmini Başlangıç/Bitiş:** 01.07.2025 - 01.01.2026 * **Konum:** Şehrin 4 Ana Giriş Nokta..."
+                  - generic [ref=e682]: Afet Yönetimi
+            - 'link "İLK YARDIM SEFERBERLİĞİ VE GÖNÜLLÜ EĞİTİMİ İLK YARDIM SEFERBERLİĞİ VE GÖNÜLLÜ EĞİTİMİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Kahraman Sensin: Seyhan İlk Yardım Hareketi * **Uygulayıcı Birim:** Sağlık İşleri Müdürlüğü * **Proje Kategorisi:** Halk Sağlığı / Eğitim * **Tahmini Başlangıç/Bitiş:** Sürekli (Yıllık Hedefli) * **Hedef Kitle:** Lise Öğren... Genel" [ref=e684] [cursor=pointer]':
+              - /url: /project/85
+              - generic [ref=e685]:
+                - img "İLK YARDIM SEFERBERLİĞİ VE GÖNÜLLÜ EĞİTİMİ"
+                - generic [ref=e686]:
+                  - heading "İLK YARDIM SEFERBERLİĞİ VE GÖNÜLLÜ EĞİTİMİ" [level=3] [ref=e687]
+                  - paragraph [ref=e688]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Kahraman Sensin: Seyhan İlk Yardım Hareketi * **Uygulayıcı Birim:** Sağlık İşleri Müdürlüğü * **Proje Kategorisi:** Halk Sağlığı / Eğitim * **Tahmini Başlangıç/Bitiş:** Sürekli (Yıllık Hedefli) * **Hedef Kitle:** Lise Öğren..."
+                  - generic [ref=e689]: Genel
+            - 'link "TEMATİK SOKAKLAR VE KENTSEL TASARIM TEMATİK SOKAKLAR VE KENTSEL TASARIM ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan''''ın Renkleri: Canlanan Sokaklar * **Uygulayıcı Birim:** Kentsel Tasarım Müdürlüğü & Park Bahçeler * **Proje Kategorisi:** Kentsel Estetik / Turizm * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.11.2025 * **Konum:** P... Kentleşme" [ref=e691] [cursor=pointer]':
+              - /url: /project/86
+              - generic [ref=e692]:
+                - img "TEMATİK SOKAKLAR VE KENTSEL TASARIM"
+                - generic [ref=e693]:
+                  - heading "TEMATİK SOKAKLAR VE KENTSEL TASARIM" [level=3] [ref=e694]
+                  - paragraph [ref=e695]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan''ın Renkleri: Canlanan Sokaklar * **Uygulayıcı Birim:** Kentsel Tasarım Müdürlüğü & Park Bahçeler * **Proje Kategorisi:** Kentsel Estetik / Turizm * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.11.2025 * **Konum:** P..."
+                  - generic [ref=e696]: Kentleşme
+            - 'link "AKILLI YERALTI ÇÖP KONTEYNER SİSTEMİ AKILLI YERALTI ÇÖP KONTEYNER SİSTEMİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Temiz Seyhan: Yeraltı Atık Devrimi * **Uygulayıcı Birim:** Temizlik İşleri Müdürlüğü * **Proje Kategorisi:** Atık Yönetimi / Akıllı Şehir * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.06.2026 * **Konum:** Ana Arterler (Ata... Genel" [ref=e698] [cursor=pointer]':
+              - /url: /project/87
+              - generic [ref=e699]:
+                - img "AKILLI YERALTI ÇÖP KONTEYNER SİSTEMİ"
+                - generic [ref=e700]:
+                  - heading "AKILLI YERALTI ÇÖP KONTEYNER SİSTEMİ" [level=3] [ref=e701]
+                  - paragraph [ref=e702]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Temiz Seyhan: Yeraltı Atık Devrimi * **Uygulayıcı Birim:** Temizlik İşleri Müdürlüğü * **Proje Kategorisi:** Atık Yönetimi / Akıllı Şehir * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.06.2026 * **Konum:** Ana Arterler (Ata..."
+                  - generic [ref=e703]: Genel
+            - 'link "MODÜLER VE ÇOK AMAÇLI PAZAR YERLERİ MODÜLER VE ÇOK AMAÇLI PAZAR YERLERİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Pazar Yeri Değil, Yaşam Kompleksi * **Uygulayıcı Birim:** Fen İşleri & İşletme Müdürlüğü * **Proje Kategorisi:** Kentsel Dönüşüm / Sosyal Alan * **Tahmini Başlangıç/Bitiş:** 01.07.2025 - 01.07.2026 * **Konum:** Pınar ve Yeş... Genel" [ref=e705] [cursor=pointer]':
+              - /url: /project/88
+              - generic [ref=e706]:
+                - img "MODÜLER VE ÇOK AMAÇLI PAZAR YERLERİ"
+                - generic [ref=e707]:
+                  - heading "MODÜLER VE ÇOK AMAÇLI PAZAR YERLERİ" [level=3] [ref=e708]
+                  - paragraph [ref=e709]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Pazar Yeri Değil, Yaşam Kompleksi * **Uygulayıcı Birim:** Fen İşleri & İşletme Müdürlüğü * **Proje Kategorisi:** Kentsel Dönüşüm / Sosyal Alan * **Tahmini Başlangıç/Bitiş:** 01.07.2025 - 01.07.2026 * **Konum:** Pınar ve Yeş..."
+                  - generic [ref=e710]: Genel
+            - 'link "KESİNTİSİZ BİSİKLET AĞI VE MAVİ YOLLAR KESİNTİSİZ BİSİKLET AĞI VE MAVİ YOLLAR ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Pedalla Seyhan: Mavi Şerit Hareketi * **Uygulayıcı Birim:** Ulaşım Hizmetleri & Fen İşleri * **Proje Kategorisi:** Sürdürülebilir Ulaşım * **Tahmini Başlangıç/Bitiş:** 01.08.2025 - 01.08.2027 (Etaplı) * **Konum:** Ana Bulva... Genel" [ref=e712] [cursor=pointer]':
+              - /url: /project/89
+              - generic [ref=e713]:
+                - img "KESİNTİSİZ BİSİKLET AĞI VE MAVİ YOLLAR"
+                - generic [ref=e714]:
+                  - heading "KESİNTİSİZ BİSİKLET AĞI VE MAVİ YOLLAR" [level=3] [ref=e715]
+                  - paragraph [ref=e716]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Pedalla Seyhan: Mavi Şerit Hareketi * **Uygulayıcı Birim:** Ulaşım Hizmetleri & Fen İşleri * **Proje Kategorisi:** Sürdürülebilir Ulaşım * **Tahmini Başlangıç/Bitiş:** 01.08.2025 - 01.08.2027 (Etaplı) * **Konum:** Ana Bulva..."
+                  - generic [ref=e717]: Genel
+            - 'link "ENGELSİZ VE YAYA DOSTU KALDIRIM STANDARDI ENGELSİZ VE YAYA DOSTU KALDIRIM STANDARDI ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Herkes İçin Kaldırım: Engelsiz Adımlar * **Uygulayıcı Birim:** Fen İşleri Müdürlüğü * **Proje Kategorisi:** Kentsel Altyapı / Erişilebilirlik * **Tahmini Başlangıç/Bitiş:** Sürekli (Yıllık 50 km Hedef) * **Konum:** İlçe Gen... Genel" [ref=e719] [cursor=pointer]':
+              - /url: /project/90
+              - generic [ref=e720]:
+                - img "ENGELSİZ VE YAYA DOSTU KALDIRIM STANDARDI"
+                - generic [ref=e721]:
+                  - heading "ENGELSİZ VE YAYA DOSTU KALDIRIM STANDARDI" [level=3] [ref=e722]
+                  - paragraph [ref=e723]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Herkes İçin Kaldırım: Engelsiz Adımlar * **Uygulayıcı Birim:** Fen İşleri Müdürlüğü * **Proje Kategorisi:** Kentsel Altyapı / Erişilebilirlik * **Tahmini Başlangıç/Bitiş:** Sürekli (Yıllık 50 km Hedef) * **Konum:** İlçe Gen..."
+                  - generic [ref=e724]: Genel
+            - 'link "ÖZGÜN TASARIM KENT MOBİLYALARI YARIŞMASI ÖZGÜN TASARIM KENT MOBİLYALARI YARIŞMASI ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan''''ın İmzası: Tasarım Yarışması * **Uygulayıcı Birim:** Kültür İşleri & Park Bahçeler * **Proje Kategorisi:** Kentsel Tasarım / Yarışma * **Tahmini Başlangıç/Bitiş:** 01.09.2025 - 01.02.2026 * **Konum:** Ulusal (Katılı... Kentleşme" [ref=e726] [cursor=pointer]':
+              - /url: /project/91
+              - generic [ref=e727]:
+                - img "ÖZGÜN TASARIM KENT MOBİLYALARI YARIŞMASI"
+                - generic [ref=e728]:
+                  - heading "ÖZGÜN TASARIM KENT MOBİLYALARI YARIŞMASI" [level=3] [ref=e729]
+                  - paragraph [ref=e730]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan''ın İmzası: Tasarım Yarışması * **Uygulayıcı Birim:** Kültür İşleri & Park Bahçeler * **Proje Kategorisi:** Kentsel Tasarım / Yarışma * **Tahmini Başlangıç/Bitiş:** 01.09.2025 - 01.02.2026 * **Konum:** Ulusal (Katılı..."
+                  - generic [ref=e731]: Kentleşme
+            - 'link "TARİHİ ÇEŞMELERİN İHYASI VE SU KÜLTÜRÜ TARİHİ ÇEŞMELERİN İHYASI VE SU KÜLTÜRÜ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan''''dan Su İçilir: Tarihi Çeşmeler * **Uygulayıcı Birim:** KUDEB & Fen İşleri * **Proje Kategorisi:** Kültürel Miras / Su Yönetimi * **Tahmini Başlangıç/Bitiş:** 01.10.2025 - 01.10.2026 * **Konum:** Tepebağ, Kayalıbağ, ... Kültür" [ref=e733] [cursor=pointer]':
+              - /url: /project/92
+              - generic [ref=e734]:
+                - img "TARİHİ ÇEŞMELERİN İHYASI VE SU KÜLTÜRÜ"
+                - generic [ref=e735]:
+                  - heading "TARİHİ ÇEŞMELERİN İHYASI VE SU KÜLTÜRÜ" [level=3] [ref=e736]
+                  - paragraph [ref=e737]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan''dan Su İçilir: Tarihi Çeşmeler * **Uygulayıcı Birim:** KUDEB & Fen İşleri * **Proje Kategorisi:** Kültürel Miras / Su Yönetimi * **Tahmini Başlangıç/Bitiş:** 01.10.2025 - 01.10.2026 * **Konum:** Tepebağ, Kayalıbağ, ..."
+                  - generic [ref=e738]: Kültür
+            - 'link "SEYHAN NEHRİ KIYI REKREASYON MASTER PLANI SEYHAN NEHRİ KIYI REKREASYON MASTER PLANI ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Mavi Kuşak: Nehirle Barışan Şehir * **Uygulayıcı Birim:** Kentsel Tasarım Müdürlüğü & Park Bahçeler * **Proje Kategorisi:** Kentsel Tasarım / Peyzaj * **Tahmini Başlangıç/Bitiş:** 01.07.2025 - 01.01.2026 (Planlama) * **Konu... Kentleşme" [ref=e740] [cursor=pointer]':
+              - /url: /project/93
+              - generic [ref=e741]:
+                - img "SEYHAN NEHRİ KIYI REKREASYON MASTER PLANI"
+                - generic [ref=e742]:
+                  - heading "SEYHAN NEHRİ KIYI REKREASYON MASTER PLANI" [level=3] [ref=e743]
+                  - paragraph [ref=e744]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Mavi Kuşak: Nehirle Barışan Şehir * **Uygulayıcı Birim:** Kentsel Tasarım Müdürlüğü & Park Bahçeler * **Proje Kategorisi:** Kentsel Tasarım / Peyzaj * **Tahmini Başlangıç/Bitiş:** 01.07.2025 - 01.01.2026 (Planlama) * **Konu..."
+                  - generic [ref=e745]: Kentleşme
+            - 'link "ASFALT AR-GE VE KALİTE KONTROL LABORATUVARI ASFALT AR-GE VE KALİTE KONTROL LABORATUVARI ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Kaliteli Yol: Bilimsel Asfalt * **Uygulayıcı Birim:** Fen İşleri Müdürlüğü * **Proje Kategorisi:** Altyapı / Ar-Ge * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.12.2025 * **Konum:** Fen İşleri Şantiyesi ## II. YÖNETİCİ ÖZE... Genel" [ref=e747] [cursor=pointer]':
+              - /url: /project/94
+              - generic [ref=e748]:
+                - img "ASFALT AR-GE VE KALİTE KONTROL LABORATUVARI"
+                - generic [ref=e749]:
+                  - heading "ASFALT AR-GE VE KALİTE KONTROL LABORATUVARI" [level=3] [ref=e750]
+                  - paragraph [ref=e751]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Kaliteli Yol: Bilimsel Asfalt * **Uygulayıcı Birim:** Fen İşleri Müdürlüğü * **Proje Kategorisi:** Altyapı / Ar-Ge * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.12.2025 * **Konum:** Fen İşleri Şantiyesi ## II. YÖNETİCİ ÖZE..."
+                  - generic [ref=e752]: Genel
+            - 'link "HİJYENİK VE KENDİ KENDİNİ TEMİZLEYEN AKILLI TUVALETLER HİJYENİK VE KENDİ KENDİNİ TEMİZLEYEN AKILLI TUVALETLER ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Modern WC: Parklarda Hijyen Standartı * **Uygulayıcı Birim:** İşletme İştirakler & Park Bahçeler * **Proje Kategorisi:** Kentsel Donatı / Halk Sağlığı * **Tahmini Başlangıç/Bitiş:** 01.08.2025 - 01.02.2026 * **Konum:** Merk... Genel" [ref=e754] [cursor=pointer]':
+              - /url: /project/95
+              - generic [ref=e755]:
+                - img "HİJYENİK VE KENDİ KENDİNİ TEMİZLEYEN AKILLI TUVALETLER"
+                - generic [ref=e756]:
+                  - heading "HİJYENİK VE KENDİ KENDİNİ TEMİZLEYEN AKILLI TUVALETLER" [level=3] [ref=e757]
+                  - paragraph [ref=e758]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Modern WC: Parklarda Hijyen Standartı * **Uygulayıcı Birim:** İşletme İştirakler & Park Bahçeler * **Proje Kategorisi:** Kentsel Donatı / Halk Sağlığı * **Tahmini Başlangıç/Bitiş:** 01.08.2025 - 01.02.2026 * **Konum:** Merk..."
+                  - generic [ref=e759]: Genel
+            - 'link "SEYHAN AKADEMİ (SÜREKLİ EĞİTİM VE GELİŞİM MERKEZİ) SEYHAN AKADEMİ (SÜREKLİ EĞİTİM VE GELİŞİM MERKEZİ) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Geleceği Yönetenler: Seyhan Akademi * **Uygulayıcı Birim:** İnsan Kaynakları ve Eğitim Müdürlüğü * **Proje Kategorisi:** Kurumsal Kapasite / İK * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.01.2026 (Kurulum ve İlk Mezuniyet)... Kentleşme" [ref=e761] [cursor=pointer]':
+              - /url: /project/96
+              - generic [ref=e762]:
+                - img "SEYHAN AKADEMİ (SÜREKLİ EĞİTİM VE GELİŞİM MERKEZİ)"
+                - generic [ref=e763]:
+                  - heading "SEYHAN AKADEMİ (SÜREKLİ EĞİTİM VE GELİŞİM MERKEZİ)" [level=3] [ref=e764]
+                  - paragraph [ref=e765]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Geleceği Yönetenler: Seyhan Akademi * **Uygulayıcı Birim:** İnsan Kaynakları ve Eğitim Müdürlüğü * **Proje Kategorisi:** Kurumsal Kapasite / İK * **Tahmini Başlangıç/Bitiş:** 01.05.2025 - 01.01.2026 (Kurulum ve İlk Mezuniyet)..."
+                  - generic [ref=e766]: Kentleşme
+            - 'link "KATILIMCI BÜTÇE (HALKIN PARASI, HALKIN KARARI) KATILIMCI BÜTÇE (HALKIN PARASI, HALKIN KARARI) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Bütçe Senin, Karar Senin * **Uygulayıcı Birim:** Strateji Geliştirme Müdürlüğü * **Proje Kategorisi:** Katılımcı Demokrasi * **Tahmini Başlangıç/Bitiş:** Her Yılın Eylül-Aralık Dönemi * **Konum:** Dijital Platform ve Seyhan... Genel" [ref=e768] [cursor=pointer]':
+              - /url: /project/97
+              - generic [ref=e769]:
+                - img "KATILIMCI BÜTÇE (HALKIN PARASI, HALKIN KARARI)"
+                - generic [ref=e770]:
+                  - heading "KATILIMCI BÜTÇE (HALKIN PARASI, HALKIN KARARI)" [level=3] [ref=e771]
+                  - paragraph [ref=e772]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Bütçe Senin, Karar Senin * **Uygulayıcı Birim:** Strateji Geliştirme Müdürlüğü * **Proje Kategorisi:** Katılımcı Demokrasi * **Tahmini Başlangıç/Bitiş:** Her Yılın Eylül-Aralık Dönemi * **Konum:** Dijital Platform ve Seyhan..."
+                  - generic [ref=e773]: Genel
+            - 'link "VATANDAŞ MECLİSLERİ (GENÇ, KADIN, ENGELLİ) VATANDAŞ MECLİSLERİ (GENÇ, KADIN, ENGELLİ) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Söz Meclisten İçeri: Çoğulcu Katılım * **Uygulayıcı Birim:** Kent Konseyi & Özel Kalem * **Proje Kategorisi:** Sosyal Diyalog / Yönetişim * **Tahmini Başlangıç/Bitiş:** Sürekli * **Konum:** Belediye Meclis Salonu ve Semt Me... Sosyal" [ref=e775] [cursor=pointer]':
+              - /url: /project/98
+              - generic [ref=e776]:
+                - img "VATANDAŞ MECLİSLERİ (GENÇ, KADIN, ENGELLİ)"
+                - generic [ref=e777]:
+                  - heading "VATANDAŞ MECLİSLERİ (GENÇ, KADIN, ENGELLİ)" [level=3] [ref=e778]
+                  - paragraph [ref=e779]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Söz Meclisten İçeri: Çoğulcu Katılım * **Uygulayıcı Birim:** Kent Konseyi & Özel Kalem * **Proje Kategorisi:** Sosyal Diyalog / Yönetişim * **Tahmini Başlangıç/Bitiş:** Sürekli * **Konum:** Belediye Meclis Salonu ve Semt Me..."
+                  - generic [ref=e780]: Sosyal
+            - 'link "DİJİTAL MUHTAR BİLGİ SİSTEMİ (MUBİS) DİJİTAL MUHTAR BİLGİ SİSTEMİ (MUBİS) ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Muhtarın Sesi, Başkanın Kulağı: MUBİS * **Uygulayıcı Birim:** Muhtarlık İşleri Md. & Bilgi İşlem * **Proje Kategorisi:** Dijitalleşme / Yerel Yönetim * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.10.2025 * **Konum:** Seyha... Genel" [ref=e782] [cursor=pointer]':
+              - /url: /project/99
+              - generic [ref=e783]:
+                - img "DİJİTAL MUHTAR BİLGİ SİSTEMİ (MUBİS)"
+                - generic [ref=e784]:
+                  - heading "DİJİTAL MUHTAR BİLGİ SİSTEMİ (MUBİS)" [level=3] [ref=e785]
+                  - paragraph [ref=e786]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Muhtarın Sesi, Başkanın Kulağı: MUBİS * **Uygulayıcı Birim:** Muhtarlık İşleri Md. & Bilgi İşlem * **Proje Kategorisi:** Dijitalleşme / Yerel Yönetim * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.10.2025 * **Konum:** Seyha..."
+                  - generic [ref=e787]: Genel
+            - 'link "SÜREÇ İYİLEŞTİRME VE YALIN BELEDİYE OFİSİ SÜREÇ İYİLEŞTİRME VE YALIN BELEDİYE OFİSİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Hızlı ve Çevik Seyhan: Yalın Dönüşüm * **Uygulayıcı Birim:** Strateji Geliştirme Md. * **Proje Kategorisi:** Kurumsal Verimlilik * **Tahmini Başlangıç/Bitiş:** Sürekli (5 Yıllık Plan) * **Konum:** Belediye Hizmet Binası ## ... Genel" [ref=e789] [cursor=pointer]':
+              - /url: /project/100
+              - generic [ref=e790]:
+                - img "SÜREÇ İYİLEŞTİRME VE YALIN BELEDİYE OFİSİ"
+                - generic [ref=e791]:
+                  - heading "SÜREÇ İYİLEŞTİRME VE YALIN BELEDİYE OFİSİ" [level=3] [ref=e792]
+                  - paragraph [ref=e793]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Hızlı ve Çevik Seyhan: Yalın Dönüşüm * **Uygulayıcı Birim:** Strateji Geliştirme Md. * **Proje Kategorisi:** Kurumsal Verimlilik * **Tahmini Başlangıç/Bitiş:** Sürekli (5 Yıllık Plan) * **Konum:** Belediye Hizmet Binası ## ..."
+                  - generic [ref=e794]: Genel
+            - 'link "ULUSLARARASI FON VE HİBE PROJE OFİSİ ULUSLARARASI FON VE HİBE PROJE OFİSİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Kaynak Seyhan''''a Akıyor: Proje Fabrikası * **Uygulayıcı Birim:** Dış İlişkiler Müdürlüğü * **Proje Kategorisi:** Finansman / Dış İlişkiler * **Tahmini Başlangıç/Bitiş:** Sürekli * **Konum:** Belediye Hizmet Binası ## II. YÖ... Genel" [ref=e796] [cursor=pointer]':
+              - /url: /project/101
+              - generic [ref=e797]:
+                - img "ULUSLARARASI FON VE HİBE PROJE OFİSİ"
+                - generic [ref=e798]:
+                  - heading "ULUSLARARASI FON VE HİBE PROJE OFİSİ" [level=3] [ref=e799]
+                  - paragraph [ref=e800]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Kaynak Seyhan''a Akıyor: Proje Fabrikası * **Uygulayıcı Birim:** Dış İlişkiler Müdürlüğü * **Proje Kategorisi:** Finansman / Dış İlişkiler * **Tahmini Başlangıç/Bitiş:** Sürekli * **Konum:** Belediye Hizmet Binası ## II. YÖ..."
+                  - generic [ref=e801]: Genel
+            - 'link "AKTİF KARDEŞ ŞEHİR VE DİPLOMASİ AĞI AKTİF KARDEŞ ŞEHİR VE DİPLOMASİ AĞI ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Global Seyhan: Dünyaya Açılan Kapı * **Uygulayıcı Birim:** Dış İlişkiler Müdürlüğü * **Proje Kategorisi:** Kent Diplomasisi / Turizm * **Tahmini Başlangıç/Bitiş:** Sürekli * **Konum:** Uluslararası ## II. YÖNETİCİ ÖZETİ (EX... Genel" [ref=e803] [cursor=pointer]':
+              - /url: /project/102
+              - generic [ref=e804]:
+                - img "AKTİF KARDEŞ ŞEHİR VE DİPLOMASİ AĞI"
+                - generic [ref=e805]:
+                  - heading "AKTİF KARDEŞ ŞEHİR VE DİPLOMASİ AĞI" [level=3] [ref=e806]
+                  - paragraph [ref=e807]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Global Seyhan: Dünyaya Açılan Kapı * **Uygulayıcı Birim:** Dış İlişkiler Müdürlüğü * **Proje Kategorisi:** Kent Diplomasisi / Turizm * **Tahmini Başlangıç/Bitiş:** Sürekli * **Konum:** Uluslararası ## II. YÖNETİCİ ÖZETİ (EX..."
+                  - generic [ref=e808]: Genel
+            - 'link "KURUMSAL HAFIZA VE DİJİTAL ARŞİV SİSTEMİ KURUMSAL HAFIZA VE DİJİTAL ARŞİV SİSTEMİ ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Belleği: Bilgi Kaybolmaz * **Uygulayıcı Birim:** Yazı İşleri & Bilgi İşlem * **Proje Kategorisi:** Dijital Dönüşüm / Arşiv * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.06.2026 * **Konum:** Belediye Arşivi ve Sunucu... Genel" [ref=e810] [cursor=pointer]':
+              - /url: /project/103
+              - generic [ref=e811]:
+                - img "KURUMSAL HAFIZA VE DİJİTAL ARŞİV SİSTEMİ"
+                - generic [ref=e812]:
+                  - heading "KURUMSAL HAFIZA VE DİJİTAL ARŞİV SİSTEMİ" [level=3] [ref=e813]
+                  - paragraph [ref=e814]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan Belleği: Bilgi Kaybolmaz * **Uygulayıcı Birim:** Yazı İşleri & Bilgi İşlem * **Proje Kategorisi:** Dijital Dönüşüm / Arşiv * **Tahmini Başlangıç/Bitiş:** 01.06.2025 - 01.06.2026 * **Konum:** Belediye Arşivi ve Sunucu..."
+                  - generic [ref=e815]: Genel
+            - 'link "SEYHAN BELEDİYE TV VE PODCAST AĞI SEYHAN BELEDİYE TV VE PODCAST AĞI ## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan''''ın Sesi: Yeni Nesil Medya * **Uygulayıcı Birim:** Basın Yayın ve Halkla İlişkiler * **Proje Kategorisi:** İletişim / Dijital Medya * **Tahmini Başlangıç/Bitiş:** 01.07.2025 - 01.10.2025 * **Konum:** Youtube, Spotify... Kentleşme" [ref=e817] [cursor=pointer]':
+              - /url: /project/104
+              - generic [ref=e818]:
+                - img "SEYHAN BELEDİYE TV VE PODCAST AĞI"
+                - generic [ref=e819]:
+                  - heading "SEYHAN BELEDİYE TV VE PODCAST AĞI" [level=3] [ref=e820]
+                  - paragraph [ref=e821]: "## I. PROJE KİMLİK KARTI (PROJECT PASSPORT) * **Resmi Proje Adı:** Seyhan''ın Sesi: Yeni Nesil Medya * **Uygulayıcı Birim:** Basın Yayın ve Halkla İlişkiler * **Proje Kategorisi:** İletişim / Dijital Medya * **Tahmini Başlangıç/Bitiş:** 01.07.2025 - 01.10.2025 * **Konum:** Youtube, Spotify..."
+                  - generic [ref=e822]: Kentleşme
+    - contentinfo [ref=e823]:
+      - generic [ref=e824]:
+        - paragraph [ref=e825]: © 2026 Seyhan Belediyesi. Tüm hakları saklıdır.
+        - paragraph [ref=e826]: Yapay Zeka Destekli Proje Portalı v1.0
+        - link "Privacy Policy" [ref=e828] [cursor=pointer]:
+          - /url: /privacy
+```

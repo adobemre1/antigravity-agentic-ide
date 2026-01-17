@@ -1,0 +1,65 @@
+<!-- Demo Page -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Antigravity Component Demo – Premium UI Library</title>
+  <meta name="description" content="Showcase of Antigravity UI components: Button, Card, Modal, Navigation, Hero, Footer. Premium design, glassmorphism, dark mode.">
+  <!-- Open Graph -->
+  <meta property="og:title" content="Antigravity Component Demo" />
+  <meta property="og:description" content="Explore the premium Antigravity UI component library with interactive demos." />
+  <meta property="og:image" content="file:///Users/emrecnyngmail.com/.gemini/antigravity/brain/a784aae1-5644-4604-a201-1462082b5b46/hero_placeholder_1768570208023.png" />
+  <meta property="og:url" content="http://localhost:8000/src/components/antigravity/demo.html" />
+  <meta property="og:type" content="website" />
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Antigravity Component Demo" />
+  <meta name="twitter:description" content="Premium UI components demo with glassmorphism and dark mode." />
+  <meta name="twitter:image" content="file:///Users/emrecnyngmail.com/.gemini/antigravity/brain/a784aae1-5644-4604-a201-1462082b5b46/hero_placeholder_1768570208023.png" />
+  <!-- Preload critical CSS -->
+  <link rel="preload" as="style" href="../design_tokens.css" onload="this.rel='stylesheet'" />
+  <link rel="preload" as="style" href="nav.css" onload="this.rel='stylesheet'" />
+  <link rel="preload" as="style" href="hero.css" onload="this.rel='stylesheet'" />
+  <link rel="preload" as="style" href="button.css" onload="this.rel='stylesheet'" />
+  <link rel="preload" as="style" href="card.css" onload="this.rel='stylesheet'" />
+  <link rel="preload" as="style" href="modal.css" onload="this.rel='stylesheet'" />
+  <link rel="preload" as="style" href="footer.css" onload="this.rel='stylesheet'" />
+  <!-- Prefetch hero background image -->
+  <link rel="prefetch" href="file:///Users/emrecnyngmail.com/.gemini/antigravity/brain/a784aae1-5644-4604-a201-1462082b5b46/hero_placeholder_1768570208023.png" />
+  <!-- Design tokens -->
+  <link rel="stylesheet" href="design_tokens.css" />
+  <!-- Component styles -->
+  <link rel="stylesheet" href="nav.css" />
+  <link rel="stylesheet" href="hero.css" />
+  <link rel="stylesheet" href="button.css" />
+  <link rel="stylesheet" href="card.css" />
+  <link rel="stylesheet" href="modal.css" />
+  <link rel="stylesheet" href="footer.css" />
+</head>
+<body>
+  <!-- Navigation -->
+  <div id="nav-container"></div>
+
+  <!-- Hero -->
+  <div id="hero-container"></div>
+
+  <!-- Main content grid -->
+  <section class="demo-grid" style="display:grid;gap:var(--spacing-unit);padding:var(--spacing-unit);grid-template-columns:repeat(auto-fit,minmax(250px,1fr));">
+    <!-- Button example -->
+    <div id="button-demo"></div>
+    <!-- Card example -->
+    <div id="card-demo"></div>
+    <!-- Modal trigger -->
+    <button class="btn primary" data-modal-target="#demo-modal">Open Modal</button>
+  </section>
+
+  <!-- Modal -->
+  <div id="modal-container"></div>
+
+  <!-- Footer -->
+  <div id="footer-container"></div>
+
+  <script src="script.js" defer></script>
+</body>
+</html>

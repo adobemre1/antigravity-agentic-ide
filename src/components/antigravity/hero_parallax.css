@@ -1,0 +1,141 @@
+@import "../design_tokens.css";
+
+/* Parallax Hero Container */
+.hero-parallax {
+  position: relative;
+  height: var(--hero-height);
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  perspective: 1000px;
+}
+
+/* Abstract 3D Background Layers */
+.hero-bg-layer {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-size: cover;
+  background-position: center;
+  transition: transform 0.1s linear;
+  will-change: transform;
+  z-index: 0;
+}
+
+.layer-deep {
+  background-image: radial-gradient(circle at 50% 50%, rgba(20, 10, 40, 0.4) 0%, transparent 70%);
+  transform: translateZ(-50px) scale(1.1);
+}
+
+.layer-mid {
+  /* Placeholder for abstract shape or grid */
+  background: 
+    linear-gradient(rgba(120, 90, 255, 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(120, 90, 255, 0.05) 1px, transparent 1px);
+  background-size: 50px 50px;
+  transform: translateZ(-20px) scale(1.05);
+  mask-image: radial-gradient(circle, black 40%, transparent 80%);
+}
+
+.layer-glow {
+  position: absolute;
+  width: 600px;
+  height: 600px;
+  background: radial-gradient(circle, var(--color-primary) 0%, transparent 70%);
+  opacity: 0.15;
+  filter: blur(80px);
+  border-radius: 50%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  animation: pulse-glow 8s infinite ease-in-out;
+}
+
+/* Hero Content */
+.hero-content-glass {
+  position: relative;
+  z-index: 10;
+  text-align: center;
+  padding: 40px;
+  background: rgba(5, 5, 5, 0.2);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 32px;
+  max-width: 900px;
+  box-shadow: 0 20px 50px rgba(0,0,0,0.5);
+  transform-style: preserve-3d;
+}
+
+.hero-title {
+  font-size: var(--hero-title-size);
+  font-weight: 800;
+  letter-spacing: -0.04em;
+  background: linear-gradient(180deg, #fff 20%, rgba(255,255,255,0.4) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: var(--spacing-unit);
+  line-height: 1.1;
+}
+
+.hero-subtitle {
+  font-size: clamp(1.1rem, 2vw, 1.4rem);
+  color: var(--color-text-muted);
+  margin-bottom: 32px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero-actions {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+}
+
+/* 3D Button Effect */
+.btn-3d {
+  position: relative;
+  padding: 16px 32px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #fff;
+  background: linear-gradient(135deg, var(--color-primary), var(--color-accent));
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: transform 0.1s;
+  box-shadow: 
+    0 4px 0 hsl(250, 80%, 40%),
+    0 10px 20px rgba(120, 90, 255, 0.4);
+}
+
+.btn-3d:active {
+  transform: translateY(4px);
+  box-shadow: 
+    0 0 0 hsl(250, 80%, 40%),
+    0 0 0 rgba(0,0,0,0);
+}
+
+.btn-secondary-glass {
+  padding: 16px 32px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #fff;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 12px;
+  backdrop-filter: blur(4px);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.btn-secondary-glass:hover {
+  background: rgba(255,255,255,0.1);
+  transform: translateY(-2px);
+}
+
+@keyframes pulse-glow {
+  0%, 100% { transform: translate(-50%, -50%) scale(1); opacity: 0.15; }
+  50% { transform: translate(-50%, -50%) scale(1.2); opacity: 0.25; }
+}

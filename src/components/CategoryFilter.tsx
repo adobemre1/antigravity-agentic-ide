@@ -16,6 +16,7 @@ export const CategoryFilter: React.FC = () => {
         <button
           key={cat}
           onClick={() => toggle(cat)}
+          data-test-id={`category-${cat}`}
           className={`px-3 py-1 rounded text-sm ${selected.includes(cat) ? 'bg-primary text-white' : 'bg-primary/10 text-primary'}`}
         >
           {t(`categories.${cat}`)}

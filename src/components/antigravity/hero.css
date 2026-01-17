@@ -1,0 +1,54 @@
+@import "../design_tokens.css"; /* token import */
+
+.hero {
+  position: relative;
+  height: var(--hero-height);
+  background: var(--hero-bg) center/cover no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #fff;
+  overflow: hidden;
+}
+
+.hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(12px);
+}
+
+.hero-content {
+  position: relative;
+  z-index: 1;
+  max-width: 800px;
+  padding: var(--spacing-unit) var(--spacing-unit);
+}
+
+.hero-title {
+  font-size: var(--hero-title-size);
+  margin-bottom: var(--spacing-unit);
+}
+
+.hero-subtitle {
+  font-size: var(--hero-subtitle-size);
+  margin-bottom: calc(var(--spacing-unit) * 2);
+}
+
+.hero .btn.primary {
+  background: var(--color-primary);
+  color: #fff;
+  padding: calc(var(--spacing-unit) * 0.75) calc(var(--spacing-unit) * 1.5);
+  border-radius: var(--radius);
+  text-decoration: none;
+  transition: transform 0.2s ease, background 0.3s ease;
+}
+
+.hero .btn.primary:hover,
+.hero .btn.primary:focus {
+  background: var(--color-primary-dark);
+  transform: scale(1.05);
+  outline: 2px solid #fff;
+}

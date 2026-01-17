@@ -1,0 +1,56 @@
+@import "../design_tokens.css"; /* token import */
+
+.site-footer {
+  background: var(--color-surface);
+  backdrop-filter: blur(12px);
+  padding: calc(var(--spacing-unit) * 2);
+  color: #e0e0e0;
+  text-align: center;
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--spacing-unit);
+}
+
+.footer-brand .logo {
+  font-size: var(--font-size-lg);
+  font-weight: 700;
+  color: var(--color-primary);
+  text-decoration: none;
+}
+
+.social-links {
+  list-style: none;
+  display: flex;
+  gap: var(--spacing-unit);
+  padding: 0;
+  margin: 0;
+}
+
+.social-icon {
+  font-size: 1.5rem;
+  color: #e0e0e0;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.social-icon:hover,
+.social-icon:focus {
+  color: var(--color-primary);
+  outline: 2px solid var(--color-primary);
+}
+
+.footer-copy {
+  font-size: 0.875rem;
+  margin-top: var(--spacing-unit);
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .footer-container { gap: calc(var(--spacing-unit) * 1.5); }
+}

@@ -1,0 +1,215 @@
+/* Agent Swarm Dashboard - HUD Style */
+:root {
+  --hud-bg: #0b0c10;
+  --hud-panel: rgba(20, 22, 28, 0.6);
+  --hud-border: 1px solid rgba(102, 252, 241, 0.2);
+  --neon-cyan: #45a29e;
+  --neon-green: #66fcf1;
+  --neon-purple: #9d00ff;
+  --text-primary: #c5c6c7;
+  --glass-effect: blur(10px);
+}
+
+body {
+  margin: 0;
+  background-color: var(--hud-bg);
+  color: var(--text-primary);
+  font-family: 'Inter', monospace;
+  overflow-x: hidden;
+  background-image: 
+    radial-gradient(circle at 50% 50%, rgba(69, 162, 158, 0.05) 0%, transparent 50%),
+    linear-gradient(rgba(0,0,0,0.1) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0,0,0,0.1) 1px, transparent 1px);
+  background-size: 100% 100%, 40px 40px, 40px 40px;
+}
+
+.dashboard-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 80px 20px 20px; /* Space for Nav */
+  display: grid;
+  grid-template-columns: 250px 1fr 300px;
+  grid-template-rows: auto 1fr;
+  gap: 20px;
+  height: 100vh;
+  box-sizing: border-box;
+}
+
+/* Common Panel Style */
+.hud-panel {
+  background: var(--hud-panel);
+  border: var(--hud-border);
+  backdrop-filter: var(--glass-effect);
+  border-radius: 8px;
+  padding: 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+.hud-panel::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--neon-cyan), transparent);
+  opacity: 0.5;
+}
+
+h2 {
+  margin: 0 0 15px 0;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--neon-green);
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+  padding-bottom: 10px;
+}
+
+/* 1. Sidebar Stats */
+.stats-sidebar {
+  grid-row: 1 / -1;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.metric-box {
+  text-align: center;
+}
+
+.gauge-container {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 3px solid rgba(255,255,255,0.1);
+  border-top: 3px solid var(--neon-cyan);
+  margin: 0 auto 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #fff;
+  box-shadow: 0 0 20px rgba(69, 162, 158, 0.2);
+  transition: all 0.5s ease;
+}
+
+.stat-label { font-size: 0.8rem; opacity: 0.7; }
+
+/* 2. Main Agent Grid */
+.agent-grid-area {
+  grid-column: 2;
+  grid-row: 1 / -1;
+  display: flex;
+  flex-direction: column;
+}
+
+.agents-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.agent-card {
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 6px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  transition: transform 0.2s, border-color 0.2s;
+  cursor: pointer;
+}
+
+.agent-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--neon-green);
+  background: rgba(69, 162, 158, 0.05);
+}
+
+.agent-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.agent-role {
+  font-weight: bold;
+  color: white;
+  font-size: 1.1rem;
+}
+
+.agent-status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: #333;
+  box-shadow: 0 0 5px #333;
+}
+
+.agent-card.active .agent-status-dot {
+  background-color: var(--neon-green);
+  box-shadow: 0 0 10px var(--neon-green);
+  animation: pulse 1.5s infinite;
+}
+
+.agent-task {
+  font-size: 0.9rem;
+  color: #aaa;
+  min-height: 40px;
+}
+
+.agent-meta {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.75rem;
+  opacity: 0.5;
+  border-top: 1px solid rgba(255,255,255,0.05);
+  padding-top: 10px;
+}
+
+/* 3. Live Log Stream */
+.log-panel {
+  grid-column: 3;
+  grid-row: 1 / -1;
+  display: flex;
+  flex-direction: column;
+}
+
+.terminal-window {
+  flex: 1;
+  background: #000;
+  border-radius: 4px;
+  padding: 10px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.8rem;
+  overflow-y: auto;
+  color: #33ff00;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  scroll-behavior: smooth;
+}
+
+.log-entry { opacity: 0.8; border-bottom: 1px solid rgba(255,255,255,0.05); padding: 4px 0; }
+.log-time { color: #666; margin-right: 8px; }
+.log-agent { color: var(--neon-cyan); font-weight: bold; }
+.log-message { color: #ddd; }
+
+/* Animations */
+@keyframes pulse {
+  0% { opacity: 0.5; transform: scale(0.9); }
+  50% { opacity: 1; transform: scale(1.1); }
+  100% { opacity: 0.5; transform: scale(0.9); }
+}
+
+@media (max-width: 1024px) {
+  .dashboard-container {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto auto;
+    height: auto;
+  }
+}

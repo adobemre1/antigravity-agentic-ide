@@ -1,81 +1,119 @@
-import { useEffect, useState, useMemo } from 'react';
+import { useEffect, Suspense, lazy } from 'react';
+import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom';
+import { HelmetProvider } from 'react-helmet-async';
+import { AnimatePresence, LazyMotion, domAnimation } from 'framer-motion';
+import { supabase } from './auth';
 import { useStore } from './store';
-import type { Project } from './types';
-import { SearchBar } from './components/SearchBar';
-import { CategoryFilter } from './components/CategoryFilter';
-import { ProjectCard } from './components/ProjectCard';
-import { MathWidget } from './components/MathWidget';
-import projectsData from './data/projects_en.json';
-import taxonomyData from './data/taxonomy.json';
+import { useProjects } from './hooks/useProjects';
+import ProtectedRoute from './components/ProtectedRoute';
+import Spinner from './components/Spinner';
+import { AuthProvider } from './context/AuthContext';
+import { ReloadPrompt } from './components/ReloadPrompt';
+import { ChatWidget } from './components/ChatWidget';
+import { CommandPalette } from './components/CommandPalette';
 
-function App() {
-  const { searchQuery, selectedCategories, setAllCategories } = useStore();
-  const [projects] = useState<Project[]>(projectsData as Project[]);
+// Lazy load pages
+const HomePage = lazy(() => import('./pages/HomePage'));
+const ProjectDetail = lazy(() => import('./pages/ProjectDetail'));
+const PrivacyPolicy = lazy(() => import('./pages/PrivacyPolicy'));
+const ProfilePage = lazy(() => import('./pages/ProfilePage'));
+const OfflinePage = lazy(() => import('./pages/OfflinePage'));
 
-  useEffect(() => {
-    // Initialize taxonomy in store
-    setAllCategories(Object.keys(taxonomyData));
-  }, [setAllCategories]);
+// Lazy load admin components
+const AdminLayout = lazy(() => import('./layouts/AdminLayout').then(module => ({ default: module.AdminLayout })));
+const DashboardHome = lazy(() => import('./pages/admin/DashboardHome'));
+const ProjectsTable = lazy(() => import('./pages/admin/ProjectsTable'));
 
-  const filteredProjects = useMemo(() => {
-    return projects.filter((p) => {
-      const matchesSearch = p.title.toLowerCase().includes(searchQuery.toLowerCase()) || 
-                            p.description.toLowerCase().includes(searchQuery.toLowerCase());
-      const matchesCategory = selectedCategories.length === 0 || 
-                              p.categories.some(c => selectedCategories.includes(c));
-      return matchesSearch && matchesCategory;
-    });
-  }, [projects, searchQuery, selectedCategories]);
-
+function AnimatedRoutes() {
+  const location = useLocation();
+  
   return (
-    <div className="min-h-screen bg-background text-text font-sans">
-      <header className="bg-surface shadow-sm sticky top-0 z-10">
-        <div className="container mx-auto px-4 py-4 flex flex-col md:flex-row items-center justify-between gap-4">
-          <div className="flex items-center gap-4">
-            <img src="/logo.svg" alt="Seyhan Belediyesi" className="h-10 w-10" onError={(e) => e.currentTarget.style.display='none'}/>
-            <h1 className="text-2xl font-bold text-primary">Seyhan Proje Portalı</h1>
-          </div>
-          <div className="w-full md:w-1/3">
-            <SearchBar />
-          </div>
-        </div>
-      </header>
-      
-      <main className="container mx-auto px-4 py-8">
-        <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
-          <aside className="lg:col-span-1 space-y-6">
-            <MathWidget />
-            <CategoryFilter />
-          </aside>
+    <AnimatePresence mode="wait">
+        <Routes location={location} key={location.pathname}>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/project/:id" element={<ProjectDetail />} />
+          <Route path="/profile" element={<ProfilePage />} />
           
-          <section className="lg:col-span-3">
-             <div className="mb-4 flex justify-between items-center">
-                <h2 className="text-xl font-semibold">{filteredProjects.length} Proje Bulundu</h2>
-             </div>
-             
-             {filteredProjects.length > 0 ? (
-               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                 {filteredProjects.map(project => (
-                   <ProjectCard key={project.id} project={project} />
-                 ))}
-               </div>
-             ) : (
-               <div className="text-center py-12 text-text/50">
-                 <p>Aradığınız kriterlere uygun proje bulunamadı.</p>
-               </div>
-             )}
-          </section>
-        </div>
-      </main>
+          {/* Admin Routes */}
+          <Route 
+            path="/admin" 
+            element={
+              <ProtectedRoute>
+                <AdminLayout />
+              </ProtectedRoute>
+            } 
+          >
+              <Route index element={<DashboardHome />} />
+              <Route path="projects" element={<ProjectsTable />} />
+          </Route>
 
-      <footer className="bg-surface mt-12 py-8 border-t border-primary/10">
-        <div className="container mx-auto px-4 text-center text-sm text-text/60">
-          <p>&copy; {new Date().getFullYear()} Seyhan Belediyesi. Tüm hakları saklıdır.</p>
-          <p>Yapay Zeka Destekli Proje Portalı v1.0</p>
-        </div>
-      </footer>
-    </div>
+          <Route path="/privacy" element={<PrivacyPolicy />} />
+          <Route path="/offline" element={<OfflinePage />} />
+        </Routes>
+    </AnimatePresence>
   );
 }
 
-export default App;
+function GlobalCommandPalette() {
+  const { isCommandPaletteOpen, setCommandPaletteOpen } = useStore();
+  const { projects } = useProjects(); // Fetch globally for the palette
+
+  // Global Keyboard Shortcut: toggle on Cmd+K
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+        e.preventDefault();
+        setCommandPaletteOpen(!isCommandPaletteOpen);
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [isCommandPaletteOpen, setCommandPaletteOpen]);
+
+  return (
+    <CommandPalette 
+      isOpen={isCommandPaletteOpen} 
+      onClose={() => setCommandPaletteOpen(false)} 
+      projects={projects} 
+    />
+  );
+}
+
+export default function App() {
+  const { setSession, setIsLoadingSession } = useStore();
+
+  useEffect(() => {
+    supabase.auth.getSession().then(({ data: { session } }) => {
+      setSession(session);
+      setIsLoadingSession(false);
+    });
+
+    const {
+      data: { subscription },
+    } = supabase.auth.onAuthStateChange((_event, session) => {
+      setSession(session);
+      setIsLoadingSession(false);
+    });
+
+    return () => subscription.unsubscribe();
+  }, [setSession, setIsLoadingSession]);
+
+  return (
+    <HelmetProvider>
+      <AuthProvider>
+        <BrowserRouter>
+          <LazyMotion features={domAnimation}>
+            <ReloadPrompt />
+            <ChatWidget />
+            <GlobalCommandPalette />
+            <Suspense fallback={<Spinner />}>
+              <main id="main-content" tabIndex={-1} className="outline-none">
+                <AnimatedRoutes />
+              </main>
+            </Suspense>
+          </LazyMotion>
+        </BrowserRouter>
+      </AuthProvider>
+    </HelmetProvider>
+  );
+}

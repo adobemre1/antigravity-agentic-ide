@@ -1,0 +1,17 @@
+:root {
+  --color-primary: hsl(210, 80%, 60%);
+  --color-primary-dark: hsl(210, 80%, 50%);
+  --color-bg: #0a0a0a;
+  --color-surface: rgba(255, 255, 255, 0.08);
+  --color-accent: hsl(340, 70%, 55%);
+  --font-primary: 'Inter', sans-serif;
+  --radius: 12px;
+  --shadow-glass: 0 8px 32px rgba(0,0,0,0.37);
+  --spacing-unit: 8px;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.25rem;
+  --font-size-xl: 1.5rem;
+}
+
+* { box-sizing: border-box; margin:0; padding:0; }
+body { font-family: var(--font-primary); background: var(--color-bg); color: #e0e0e0; line-height:1.6; }

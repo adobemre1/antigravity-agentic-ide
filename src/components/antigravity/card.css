@@ -1,0 +1,18 @@
+.card {
+  background: var(--color-surface);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-glass);
+  padding: var(--spacing-unit);
+  margin: var(--spacing-unit);
+  color: #e0e0e0;
+}
+
+.card-title {
+  font-size: var(--font-size-lg);
+  margin-bottom: calc(var(--spacing-unit) / 2);
+}
+
+.card-body {
+  font-size: var(--font-size-base);
+  margin-bottom: var(--spacing-unit);
+}

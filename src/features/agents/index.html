@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Antigravity - Swarm Intelligence</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="dashboard.css">
+  <link rel="stylesheet" href="../../features/nav/nav.css"> <!-- Re-use Nav Styles -->
+</head>
+<body>
+
+  <!-- Re-use Floating Nav (Simulated) -->
+  <nav class="floating-nav" style="position: absolute; top: 0; width: 100%;">
+    <div class="nav-content">
+      <div class="nav-brand">
+        <div class="brand-logo">AG</div>
+        <span class="brand-name">Antigravity</span>
+      </div>
+      <ul class="nav-links">
+        <li><a href="../../features/editor/index.html" class="nav-link">Editor</a></li>
+        <li><a href="#" class="nav-link active">Agents</a></li>
+        <li><a href="#artifacts" class="nav-link">Artifacts</a></li>
+        <li><a href="#docs" class="nav-link">Docs</a></li>
+      </ul>
+      <div class="nav-actions">
+           <a href="../../../index.html" style="color: white; text-decoration: none; font-size: 0.9rem;">Exit Dashboard</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="dashboard-container">
+    
+    <!-- 1. Stats Sidebar -->
+    <aside class="stats-sidebar">
+      <div class="hud-panel">
+        <h2>System Load</h2>
+        <div class="metric-box">
+           <div class="gauge-container" id="cpu-gauge">45%</div>
+           <div class="stat-label">NEURAL ENGINE</div>
+        </div>
+        <div class="metric-box" style="margin-top: 20px;">
+           <div class="gauge-container" id="memory-gauge" style="border-top-color: var(--neon-purple);">1.2TB</div>
+           <div class="stat-label">CONTEXT WINDOW</div>
+        </div>
+      </div>
+      
+      <div class="hud-panel" style="flex: 1;">
+         <h2>Network Status</h2>
+         <div style="font-size: 0.8rem; line-height: 1.6; color: #aaa;">
+            <div>> Uplink: Stable</div>
+            <div>> Handshake: Verified</div>
+            <div>> Latency: 12ms</div>
+            <div style="margin-top: 10px; color: var(--neon-green);">● SECURITY: ACTIVE</div>
+         </div>
+      </div>
+    </aside>
+
+    <!-- 2. Main Agent Grid -->
+    <main class="agent-grid-area">
+      <div class="hud-panel" style="height: 100%; display: flex; flex-direction: column;">
+        <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+            <h2>Active Agent Swarm</h2>
+            <div style="color: var(--neon-cyan);">4/4 ONLINE</div>
+        </div>
+        <div class="agents-grid" id="agents-grid">
+           <!-- Injected by JS -->
+        </div>
+      </div>
+    </main>
+
+    <!-- 3. Live Logs -->
+    <aside class="log-panel">
+      <div class="hud-panel" style="height: 100%; display: flex; flex-direction: column;">
+        <h2>Thought Stream</h2>
+        <div class="terminal-window" id="terminal-logs">
+           <!-- Injected by JS -->
+        </div>
+      </div>
+    </aside>
+
+  </div>
+
+  <script src="swarm.js"></script>
+</body>
+</html>

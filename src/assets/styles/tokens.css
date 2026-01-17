@@ -1,0 +1,36 @@
+:root {
+  /* Premium Dark Palette */
+  --color-bg: #050505;
+  --color-surface-glass: rgba(255, 255, 255, 0.03);
+  --color-surface-glass-hover: rgba(255, 255, 255, 0.06);
+  --color-border-glass: rgba(255, 255, 255, 0.08);
+  
+  /* Neon Accents */
+  --color-primary: hsl(250, 100%, 70%); /* Electric Purple */
+  --color-accent: hsl(180, 100%, 50%);  /* Cyan */
+  --color-success: hsl(150, 100%, 40%);
+  --color-text-main: #ffffff;
+  --color-text-muted: rgba(255, 255, 255, 0.6);
+
+  /* Typography */
+  --font-primary: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
+  
+  /* Sizing & Spacing */
+  --radius-sm: 8px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+  --spacing-unit: 8px;
+  
+  /* Glassmorphism 2.0 Shadows */
+  --shadow-sm: 0 4px 12px rgba(0, 0, 0, 0.5);
+  --shadow-glow: 0 0 20px rgba(120, 90, 255, 0.15);
+  
+  /* Hero specific */
+  --hero-bg: url('file:///Users/emrecnyngmail.com/.gemini/antigravity/brain/a784aae1-5644-4604-a201-1462082b5b46/hero_placeholder_1768570208023.png');
+  --hero-height: 90vh;
+  --hero-title-size: clamp(3rem, 8vw, 6rem);
+}
+
+* { box-sizing: border-box; margin:0; padding:0; }
+body { font-family: var(--font-primary); background: var(--color-bg); color: #e0e0e0; line-height:1.6; }

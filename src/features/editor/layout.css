@@ -1,0 +1,315 @@
+/* Layout: VS Code Style Grid */
+:root {
+  --ide-bg: #1e1e1e;
+  --sidebar-bg: #252526;
+  --activity-bar-bg: #333333;
+  --panel-bg: #1e1e1e;
+  --status-bar-bg: #007acc;
+  --border-color: #3e3e42;
+  --text-primary: #cccccc;
+  --accent-color: #007acc;
+  --glass-border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: var(--ide-bg);
+  color: var(--text-primary);
+}
+
+.ide-container {
+  display: grid;
+  height: 100vh;
+  grid-template-columns: 50px 250px 1fr; /* Activity Bar | Sidebar | Editor */
+  grid-template-rows: 1fr 25px; /* Main Content | Status Bar */
+  grid-template-areas:
+    "activity sidebar editor"
+    "status status status";
+}
+
+/* 1. Activity Bar */
+.activity-bar {
+  grid-area: activity;
+  background-color: var(--activity-bar-bg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10px;
+  border-right: 1px solid #000;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+  margin-bottom: 20px;
+  opacity: 0.6;
+  cursor: pointer;
+  transition: opacity 0.2s;
+  fill: var(--text-primary);
+}
+
+.icon:hover, .icon.active {
+  opacity: 1;
+}
+
+/* 2. Sidebar (Explorer) */
+.sidebar {
+  grid-area: sidebar;
+  background-color: var(--sidebar-bg);
+  border-right: 1px solid var(--border-color);
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar-header {
+  padding: 10px 20px;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #bbbbbb;
+}
+
+.file-tree {
+  padding: 10px;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.9rem;
+}
+
+.file-item {
+  padding: 4px 10px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border-radius: 4px;
+}
+
+.file-item:hover {
+  background-color: #2a2d2e;
+}
+
+.file-item.active {
+  background-color: #37373d;
+  color: #fff;
+}
+
+/* 3. Main Editor Area */
+.editor-area {
+  grid-area: editor;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ide-bg);
+  position: relative;
+}
+
+.tab-bar {
+  background-color: var(--sidebar-bg);
+  display: flex;
+  overflow-x: auto;
+}
+
+.tab {
+  padding: 8px 15px;
+  background-color: #2d2d2d;
+  border-right: 1px solid var(--border-color);
+  font-size: 0.9rem;
+  color: #969696;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.tab.active {
+  background-color: var(--ide-bg);
+  color: #fff;
+  border-top: 2px solid var(--accent-color);
+}
+
+.close-tab {
+  font-size: 0.8rem;
+  border-radius: 50%;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.close-tab:hover { background: #444; }
+
+/* Mock Editor Surface */
+.code-container {
+  flex: 1;
+  display: flex;
+  overflow: auto;
+  padding-top: 10px;
+}
+
+.line-numbers {
+  width: 50px;
+  text-align: right;
+  padding-right: 15px;
+  color: #858585;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 14px;
+  line-height: 1.5;
+  user-select: none;
+}
+
+.code-content {
+  flex: 1;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 14px;
+  line-height: 1.5;
+  white-space: pre;
+  color: #d4d4d4;
+  outline: none;
+}
+
+/* AI Sidebar (Overlay) */
+.ai-sidebar {
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 350px;
+  background: rgba(30, 30, 30, 0.95);
+  backdrop-filter: blur(10px);
+  border-left: var(--glass-border);
+  display: flex;
+  flex-direction: column;
+  transform: translateX(100%);
+  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  z-index: 10;
+}
+
+.ai-sidebar.open {
+  transform: translateX(0);
+}
+
+.ai-header {
+  padding: 15px;
+  border-bottom: var(--glass-border);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(90deg, rgba(56, 189, 248, 0.1) 0%, rgba(30, 30, 30, 0) 100%);
+}
+
+.ai-title {
+  font-weight: 600;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.gemini-badge {
+  background: linear-gradient(135deg, #4285f4, #9b72cb);
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.7rem;
+  font-weight: 800;
+}
+
+.chat-area {
+  flex: 1;
+  padding: 15px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.message {
+  padding: 10px 14px;
+  border-radius: 8px;
+  max-width: 85%;
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+.message.ai {
+  background: #2b2d31;
+  align-self: flex-start;
+  border: 1px solid #3e3e42;
+}
+
+.message.user {
+  background: #007acc;
+  color: white;
+  align-self: flex-end;
+}
+
+.input-area {
+  padding: 15px;
+  border-top: var(--glass-border);
+}
+
+.ai-input {
+  width: 100%;
+  background: #3c3c3c;
+  border: 1px solid #3e3e42;
+  border-radius: 4px;
+  padding: 10px;
+  color: #fff;
+  font-family: 'Inter', sans-serif;
+}
+
+/* 4. Status Bar */
+.status-bar {
+  grid-area: status;
+  background-color: var(--status-bar-bg);
+  display: flex;
+  align-items: center;
+  padding: 0 10px;
+  font-size: 0.75rem;
+  color: white;
+  justify-content: space-between;
+}
+
+.status-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-right: 15px;
+  cursor: pointer;
+}
+
+.status-item:hover { background: rgba(255,255,255,0.1); }
+
+/* Syntax Highlighting (Mock) */
+.kw { color: #569cd6; } /* keyword */
+.str { color: #ce9178; } /* string */
+.fn { color: #dcdcaa; } /* function */
+.var { color: #9cdcfe; } /* variable */
+.cmt { color: #6a9955; } /* comment */
+.num { color: #b5cea8; } /* number */
+
+/* Animations */
+@keyframes blink { 50% { opacity: 0; } }
+.cursor {
+  display: inline-block;
+  width: 2px;
+  height: 1.2em;
+  background: white;
+  vertical-align: text-bottom;
+  animation: blink 1s step-end infinite;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+  .ide-container {
+    grid-template-columns: 50px 1fr;
+    grid-template-areas:
+      "activity editor"
+      "status status";
+  }
+  .sidebar { display: none; } /* Hide Explorer on mobile */
+  .ai-sidebar { width: 100%; }
+}

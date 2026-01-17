@@ -15,11 +15,13 @@ export const SearchBar: React.FC = () => {
 
   return (
     <input
-      type="text"
-      placeholder={t('search.placeholder')}
-      value={query}
-      onChange={handleChange}
-      className="w-full p-2 border border-primary/20 rounded focus:outline-none focus:ring-2 focus:ring-primary"
-    />
+        type="text"
+        aria-label={t('search.placeholder')}
+        placeholder={t('search.placeholder')}
+        value={query}
+        onChange={handleChange}
+        data-test-id="search-input"
+        className="w-full p-2 border border-primary/20 rounded focus:outline-none focus:ring-2 focus:ring-primary"
+      />
   );
 };

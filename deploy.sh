@@ -18,9 +18,16 @@ if npx wrangler pages project list > /dev/null 2>&1; then
     npx wrangler pages deploy dist --project-name "$PROJECT_NAME" --commit-dirty=true
 else
     echo "Not authenticated or project not found. Attempting deployment which triggers login..."
-    # This might hang if it waits for input. We use --no-bundle to just upload dist? 
-    # Actually 'pages deploy' is the command.
-    # formatting output to be readable
     npx wrangler pages deploy dist --project-name "$PROJECT_NAME" --commit-dirty=true || true
     echo "If deployment failed, please run 'npx wrangler login' and retry."
 fi
+
+# Backend Deployment Reminder
+echo ""
+echo "---------------------------------------------------"
+echo "🚀 FRONTEND DEPLOYED. DON'T FORGET THE BACKEND!"
+echo "Run the following to update the AI Agent:"
+echo "  npx supabase functions deploy chat"
+echo "  npx tsx scripts/embed-projects.ts (If data changed)"
+echo "---------------------------------------------------"
+
