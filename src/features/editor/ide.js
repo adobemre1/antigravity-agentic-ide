@@ -90,38 +90,71 @@ function toggleSidebar(forceOpen = null) {
   }
 }
 
-// Simulate AI Coding
-async function runAgentDemo() {
-  if (isAIWriting) return;
-  isAIWriting = true;
-  
-  addChatMessage('user', "Add a deployment function to the agent config.");
-  await new Promise(r => setTimeout(r, 800));
-  addChatMessage('ai', "Planning implementation... Adding `deploy_to_cloud` method using Google Cloud SDK.");
-  
-  const newCode = `
+// Smart Model Routing Algorithm (Phase 11)
+async function runAgent() {
+  const input = document.querySelector('.ai-input');
+  const chatArea = document.getElementById('chat-area');
+  const userText = input.value;
+  if (!userText) return;
 
-    <span class="kw">async def</span> <span class="fn">deploy_to_cloud</span>(<span class="var">self</span>, <span class="var">target</span>):
-        <span class="var">console</span>.<span class="fn">log</span>(<span class="str">"Deploying..."</span>)
-        <span class="kw">await</span> <span class="var">ag.cloud</span>.<span class="fn">push</span>(<span class="var">target</span>)
-        <span class="kw">return</span> <span class="var">True</span>`;
-        
-  // Typewriter effect
-  const lines = newCode.split('\n');
-  for (let line of lines) {
-      codeContent.innerHTML += line;
-      updateLineNumbers();
-      codeContent.scrollTop = codeContent.scrollHeight;
-      await new Promise(r => setTimeout(r, 100)); // typing speed
-  }
+  // 1. User Message
+  addChatMessage('user', userText);
+  input.value = '';
+
+  // 2. Determine Model via "Architecture" (Settings)
+  const preferredModel = localStorage.getItem('ag_model') || 'gemini';
+  const thinkingLevel = parseInt(localStorage.getItem('ag_thinking') || '8');
   
-  addChatMessage('ai', "Done! Deployment logic added.");
-  isAIWriting = false;
+  // Simulation: Routing Decision
+  let activeModel = preferredModel;
+  let reason = "User Preference";
+
+  // "Smart Router" Simulation
+  // If task is short (< 15 chars) and thinking is low, force GPT (Speed)
+  if (userText.length < 15 && thinkingLevel < 5 && preferredModel === 'gemini') {
+      activeModel = 'gpt';
+      reason = "Optimized for Speed (Low Latency)";
+  }
+
+  const modelName = activeModel === 'gemini' ? "Gemini 3 Pro" : "GPT-OSS 120B";
+  
+  // 3. Routing Notification (Professional DX)
+  const routingMsg = document.createElement('div');
+  routingMsg.style.cssText = "font-size: 0.75rem; color: #666; margin: 10px 0; font-family: 'JetBrains Mono'; text-align: center;";
+  routingMsg.innerText = `⚡ Routing to ${modelName} via MCP... (${reason})`;
+  chatArea.appendChild(routingMsg);
+
+  // 4. AI Response Simulation
+  const delay = activeModel === 'gemini' ? 2000 : 800; // Gemini "Thinks", GPT is fast
+  
+  await new Promise(r => setTimeout(r, delay));
+
+  // Content Generation based on Model
+  let content = "";
+  if (activeModel === 'gemini') {
+      content = `<strong>Analyzed Request.</strong><br>Reasoning Depth: Level ${thinkingLevel}.<br>I will now implement the changes based on the ${activeModel} architecture.`;
+  } else {
+      content = `<strong>Instant Generate.</strong><br>Executing code generation task for: "${userText}"`;
+  }
+
+  const aiMsg = document.createElement('div');
+  aiMsg.className = 'message ai';
+  aiMsg.innerHTML = `
+    <div style="margin-bottom: 5px; font-size: 0.8rem; color: #aaa; display: flex; align-items: center; gap: 6px;">
+      ${modelName} 
+      <span style="font-size: 0.6rem; border: 1px solid #444; padding: 1px 4px; border-radius: 4px;">${activeModel.toUpperCase()}</span>
+    </div>
+    <div>${content}</div>
+  `;
+  chatArea.appendChild(aiMsg);
+  chatArea.scrollTop = chatArea.scrollHeight;
+  routingMsg.innerText = `✔ Executed by ${modelName} in ${delay}ms`;
+  routingMsg.style.color = activeModel === 'gemini' ? '#7c4dff' : '#00e676';
 }
 
 // Event Listeners
 document.getElementById('ai-trigger').addEventListener('click', () => toggleSidebar());
-document.getElementById('run-agent-btn').addEventListener('click', runAgentDemo);
+document.getElementById('run-agent-btn').addEventListener('click', runAgent);
 
 // File Switch Simulation
 document.querySelectorAll('.file-item').forEach(item => {

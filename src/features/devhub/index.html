@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Developer Hub - Antigravity API</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../features/palette/palette.css">
+  <link rel="stylesheet" href="devhub.css">
+</head>
+<body>
+
+  <!-- Sidebar -->
+  <aside class="docs-sidebar">
+    <div class="docs-brand">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#5e6ad2" stroke-width="2" style="margin-right:8px;"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
+      Antigravity
+    </div>
+    <nav class="docs-nav">
+      
+      <div class="nav-group">
+        <div class="nav-title">Start Here</div>
+        <a href="#" class="nav-item active">Overview</a>
+        <a href="#" class="nav-item">Authentication</a>
+        <a href="#" class="nav-item">Quickstart</a>
+      </div>
+
+      <div class="nav-group">
+        <div class="nav-title">Core Resources</div>
+        <a href="#" class="nav-item">Agents</a>
+        <a href="#" class="nav-item">Tasks</a>
+        <a href="#" class="nav-item">Memory Store</a>
+      </div>
+
+      <div class="nav-group">
+        <div class="nav-title">Client Libraries</div>
+        <a href="#" class="nav-item">Python SDK</a>
+        <a href="#" class="nav-item">Node.js SDK</a>
+      </div>
+
+      <div class="nav-group" style="margin-top: 40px;">
+        <a href="../../../index.html" class="nav-item">← Back to App</a>
+      </div>
+
+    </nav>
+  </aside>
+
+  <!-- Main Content -->
+  <main class="docs-main">
+    <div class="docs-header">
+      <div style="font-size: 0.9rem; color: #5e6ad2; font-weight: 600; margin-bottom: 10px;">DEVELOPER HUB</div>
+      <h1>Antigravity API</h1>
+      <p class="lead">
+        Programmatically orchestrate AI agents, manage swarms, and integrate Gemini 3 Pro reasoning into your own applications.
+      </p>
+    </div>
+
+    <!-- Section: Authentication -->
+    <section id="auth">
+      <h2>Authentication</h2>
+      <p>The Antigravity API uses API keys to authenticate requests. You can view and manage your API keys in the <a href="#" style="color: #5e6ad2;">Dashboard</a>.</p>
+      
+      <div class="code-block">
+        <span class="keyword">curl</span> https://api.antigravity.dev/v1/agents \
+  -H <span class="string">"Authorization: Bearer ag_sk_test_..."</span>
+      </div>
+    </section>
+
+    <!-- Section: Create Agent -->
+    <section id="agents">
+      <h2>Create an Agent</h2>
+      <p>Spins up a new autonomous agent container with specified capabilities.</p>
+      
+      <div style="margin: 20px 0;">
+        <span class="endpoint-badge">POST</span>
+        <span style="font-family: 'JetBrains Mono'; color: #e0e0e0;">/v1/agents</span>
+      </div>
+
+      <div class="code-block">
+<span class="keyword">import</span> antigravity
+
+client = antigravity.Client(api_key=<span class="string">"..."</span>)
+
+agent = client.agents.create(
+    model=<span class="string">"gemini-3-pro"</span>,
+    role=<span class="string">"frontend-engineer"</span>,
+    tools=[<span class="string">"browser"</span>, <span class="string">"terminal"</span>]
+)
+
+print(agent.id)
+<span class="token"># ag_8x92m...</span>
+      </div>
+
+      <button class="try-btn" onclick="simulateRequest()">Try Request</button>
+      <div id="api-response" style="display:none; margin-top: 10px; color: #00e676; font-family: 'JetBrains Mono'; font-size: 0.85rem;">
+        > 200 OK: Agent created successfully via Gemini 3 Pro.
+      </div>
+    </section>
+
+  </main>
+
+  <script src="../../features/palette/palette.js"></script>
+  <script>
+    function simulateRequest() {
+      const resp = document.getElementById('api-response');
+      resp.style.display = 'block';
+      resp.innerText = '> Sending request...';
+      
+      setTimeout(() => {
+        resp.innerText = '> 201 Created: Agent "ag_test_01" initialized (Latency: 45ms)';
+      }, 800);
+    }
+  </script>
+</body>
+</html>
