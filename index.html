@@ -3,127 +3,278 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Antigravity – The Agentic IDE for AI-Native Developers</title>
-  
-  <!-- SEO & Social -->
-  <meta name="description" content="Antigravity is the first Agentic IDE powered by Gemini 3 Pro. Orchestrate AI agents, generate artifacts, and code at the speed of thought.">
-  <meta name="keywords" content="Agentic IDE, AI Code Editor, Gemini 3 Pro, GPT-OSS, Automated Coding, Developer Tools 2026">
-  <meta name="author" content="Antigravity Project">
-  <meta property="og:title" content="Antigravity – The Agentic IDE">
-  <meta property="og:type" content="website">
-  <meta property="og:description" content="Experience the future of coding with Antigravity. Built for Gemini 3 Pro and GPT-OSS.">
-  <meta property="og:image" content="../hero_placeholder_1768570208023.png">
-  <link rel="canonical" href="https://antigravity.google/">
-  
-  <!-- Structured Data (SoftwareApplication) -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "SoftwareApplication",
-    "name": "Antigravity",
-    "applicationCategory": "DeveloperApplication",
-    "operatingSystem": "macOS, Windows, Linux",
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "USD"
-    },
-    "description": "An Agentic IDE that integrates Gemini 3 Pro for autonomous coding and artifact generation."
-  }
-  </script>
-
-  <!-- Fonts (Preconnect for Performance) -->
+  <title>Antigravity | The Agentic IDE</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
-  
-  <!-- Critical Styles -->
-  <link rel="stylesheet" href="src/assets/styles/tokens.css">
-  <link rel="stylesheet" href="src/features/nav/nav.css">
-  <link rel="stylesheet" href="src/features/hero/hero.css">
-  <link rel="stylesheet" href="src/features/bento/bento.css">
-  <link rel="stylesheet" href="src/features/terminal/terminal.css">
-  
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="src/features/palette/palette.css">
   <style>
-    /* Global Landing Styles */
+    :root {
+      --bg: #05050a;
+      --text: #ffffff;
+      --gemini: #7c4dff;
+      --gpt: #00e676;
+    }
+    
     body {
-      background: var(--color-bg);
-      color: var(--color-text-main);
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', sans-serif;
       overflow-x: hidden;
     }
-    footer {
-      border-top: 1px solid var(--color-border-glass);
-      padding: 40px;
+
+    /* Hero Section */
+    .hero {
+      position: relative;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
       text-align: center;
-      color: var(--color-text-muted);
-      margin-top: 80px;
+      z-index: 10;
+      background: radial-gradient(circle at center, rgba(124, 77, 255, 0.15) 0%, rgba(5,5,10,0) 70%);
+    }
+
+    .hero h1 {
+      font-size: 5rem;
+      font-weight: 800;
+      letter-spacing: -2px;
+      margin: 0;
+      background: linear-gradient(135deg, #fff 0%, #a0a0ff 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      line-height: 1.1;
+    }
+
+    .hero p {
+      font-size: 1.25rem;
+      color: #888;
+      max-width: 600px;
+      margin-top: 20px;
+      line-height: 1.6;
+    }
+
+    .cta-group {
+      margin-top: 40px;
+      display: flex;
+      gap: 20px;
+    }
+
+    .btn {
+      padding: 15px 30px;
+      border-radius: 30px;
+      font-weight: 600;
+      text-decoration: none;
+      transition: transform 0.2s;
+    }
+    .btn:hover { transform: translateY(-2px); }
+
+    .btn-primary {
+      background: var(--gemini);
+      color: white;
+      box-shadow: 0 10px 30px rgba(124, 77, 255, 0.4);
+    }
+    
+    .btn-secondary {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: white;
+    }
+
+    /* Bento Grid Features */
+    .bento-section {
+      padding: 80px 20px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .bento-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+      margin-top: 50px;
+    }
+
+    .card {
+      background: rgba(20, 20, 25, 0.6);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 20px;
+      padding: 30px;
+      transition: 0.3s;
+      text-decoration: none;
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      min-height: 200px;
+    }
+
+    .card:hover { border-color: var(--gemini); background: rgba(30, 30, 40, 0.8); }
+
+    .card h3 { margin: 0 0 10px 0; font-size: 1.5rem; }
+    .card p { color: #888; font-size: 0.9rem; line-height: 1.5; }
+
+    .card.span-2 { grid-column: span 2; }
+
+    /* Model comparison */
+    .model-badge {
+      display: inline-block;
+      padding: 4px 8px;
+      border-radius: 4px;
+      font-size: 0.7rem;
+      font-family: 'JetBrains Mono';
+      margin-bottom: 10px;
+      text-transform: uppercase;
+    }
+
+    .footer {
+      text-align: center;
+      padding: 50px;
+      color: #444;
+      font-size: 0.9rem;
+    }
+
+    /* Canvas BG */
+    #bg-canvas {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      z-index: 1;
+      opacity: 0.4;
+      pointer-events: none;
+    }
+
+    .shortcut-hint {
+      position: fixed;
+      bottom: 30px;
+      right: 30px;
+      background: rgba(255,255,255,0.1);
+      padding: 8px 12px;
+      border-radius: 8px;
+      font-family: 'JetBrains Mono';
+      font-size: 0.8rem;
+      color: #aaa;
+      border: 1px solid rgba(255,255,255,0.05);
     }
   </style>
 </head>
 <body>
 
-  <!-- Features (Modular Injection) -->
-  <div id="nav-container"></div>
-  <div id="hero-container"></div>
-  <div id="features-container"></div>
+  <!-- Background -->
+  <canvas id="bg-canvas"></canvas>
 
-  <footer>
-    <p>&copy; 2026 Antigravity Project. Powered by Gemini 3 Pro & GPT-OSS.</p>
+  <!-- Hero -->
+  <div class="hero">
+    <div style="margin-bottom: 20px;">
+      <span class="model-badge" style="background: rgba(124, 77, 255, 0.2); color: var(--gemini);">Gemini 3 Pro</span>
+      <span class="model-badge" style="background: rgba(0, 230, 118, 0.2); color: var(--gpt);">GPT-OSS 120B</span>
+    </div>
+    <h1>Build with<br>Superintelligence.</h1>
+    <p>The first Agentic IDE designed for the post-GPT era.<br>Orchestrate swarms, visualize thought, and deploy in seconds.</p>
+    
+    <div class="cta-group">
+      <a href="src/features/editor/index.html" class="btn btn-primary">Launch Editor</a>
+      <a href="src/features/docs/index.html" class="btn btn-secondary">Read Docs</a>
+    </div>
+  </div>
+
+  <!-- Bento Grid -->
+  <section class="bento-section">
+    <div class="bento-grid">
+      
+      <!-- Card 1: Editor -->
+      <a href="src/features/editor/index.html" class="card span-2">
+        <div>
+          <h3>Simulated IDE</h3>
+          <p>A VS Code-like environment powered by a simulated Gemini 3 Pro reasoning engine. Features smart model routing and typing simulation.</p>
+        </div>
+        <div style="text-align: right; margin-top: 20px; font-family: 'JetBrains Mono'; color: #666;">$ ag start</div>
+      </a>
+
+      <!-- Card 2: Neural -->
+      <a href="src/features/neural/index.html" class="card">
+        <div>
+          <h3>Neural Graph</h3>
+          <p>Visualize the thought process of your swarm in real-time. Watch nodes connect and fire.</p>
+        </div>
+        <div style="margin-top:20px;">🧠</div>
+      </a>
+
+      <!-- Card 3: Agents -->
+      <a href="src/features/agents/index.html" class="card">
+        <div>
+          <h3>Mission Control</h3>
+          <p>Manage autonomous agents. Monitor active threads, memory usage, and task execution status.</p>
+        </div>
+        <div style="margin-top:20px;">🤖</div>
+      </a>
+
+      <!-- Card 4: DevHub -->
+      <a href="src/features/devhub/index.html" class="card span-2">
+        <div>
+          <h3>Developer Hub</h3>
+          <p>Comprehensive API documentation for the Antigravity ecosystem. Learn how to script agents and integrate tools.</p>
+        </div>
+        <div style="text-align: right; margin-top: 20px; color: var(--gemini);">View API Ref &rarr;</div>
+      </a>
+
+    </div>
+  </section>
+
+  <footer class="footer">
+    Antigravity &copy; 2026. Built with AGI. <br>
+    <a href="#" style="color: #666; text-decoration: none;">Privacy</a> • <a href="#" style="color: #666; text-decoration: none;">Terms</a>
   </footer>
 
-  <!-- Performance-Optimized Loader -->
+  <div class="shortcut-hint">Press ⌘K</div>
+
+  <!-- Scripts -->
+  <script src="src/features/palette/palette.js"></script>
   <script>
-    async function loadComponent(id, path) {
-      try {
-        const res = await fetch(path);
-        if (!res.ok) throw new Error(`Failed to load ${path}`);
-        const html = await res.text();
-        document.getElementById(id).innerHTML = html;
+    // Simple Particle Animation for Hero
+    const canvas = document.getElementById('bg-canvas');
+    const ctx = canvas.getContext('2d');
+    let width, height;
+    
+    function resize() {
+      width = window.innerWidth;
+      height = window.innerHeight;
+      canvas.width = width;
+      canvas.height = height;
+    }
+    window.addEventListener('resize', resize);
+    resize();
+
+    const particles = Array.from({length: 50}, () => ({
+      x: Math.random() * width,
+      y: Math.random() * height,
+      vx: (Math.random() - 0.5) * 0.5,
+      vy: (Math.random() - 0.5) * 0.5,
+      size: Math.random() * 2
+    }));
+
+    function animate() {
+      ctx.clearRect(0, 0, width, height);
+      ctx.fillStyle = '#fff';
+      
+      particles.forEach(p => {
+        p.x += p.vx;
+        p.y += p.vy;
         
-        // Re-hydrate scripts
-        const scripts = document.getElementById(id).querySelectorAll("script");
-        scripts.forEach(oldScript => {
-          const newScript = document.createElement("script");
-          Array.from(oldScript.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value));
-          newScript.appendChild(document.createTextNode(oldScript.innerHTML));
-          oldScript.parentNode.replaceChild(newScript, oldScript);
-        });
-      } catch (err) {
-        console.error(err);
-      }
+        if(p.x < 0 || p.x > width) p.vx *= -1;
+        if(p.y < 0 || p.y > height) p.vy *= -1;
+
+        ctx.globalAlpha = 0.2;
+        ctx.beginPath();
+        ctx.arc(p.x, p.y, p.size, 0, Math.PI*2);
+        ctx.fill();
+      });
+
+      requestAnimationFrame(animate);
     }
-
-    async function init() {
-      // Parallel loading for speed
-      await Promise.all([
-        loadComponent('nav-container', 'src/features/nav/index.html'),
-        loadComponent('hero-container', 'src/features/hero/index.html'),
-        loadComponent('features-container', 'src/features/bento/index.html')
-      ]);
-
-      // Inject Terminal into Bento (defer slightly to ensure DOM exists)
-      setTimeout(() => {
-        const terminalContainer = document.getElementById('terminal-embed');
-        if (terminalContainer) {
-          loadComponent('terminal-embed', 'src/features/terminal/index.html');
-        }
-      }, 100); 
-
-      // Nav Scroll Listener
-      window.addEventListener('scroll', () => {
-        const nav = document.querySelector('.floating-nav');
-        if (nav) {
-          nav.classList.toggle('scrolled', window.scrollY > 50);
-        }
-      }, { passive: true });
-    }
-
-    // Defer initialization until main thread is free
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', init);
-    } else {
-      init();
-    }
+    animate();
   </script>
+
 </body>
 </html>
